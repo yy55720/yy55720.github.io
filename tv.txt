@@ -23,19 +23,18 @@ CETV-2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225756/index.m3u8
 CETV-4,http://39.134.39.37/PLTV/88888888/224/3221226279/index.m3u8
 CCTV风云足球,rtmp://58.200.131.2:1935/livetv/fyzqtv#rtmp://ivi.bupt.edu.cn:1935/livetv/fyzqtv
 CCTV新科动漫,http://cctvtxyh5ca.liveplay.myqcloud.com/live/xinkedongman_2_hd.m3u8
-CCTV风云音乐,rtmp://58.200.131.2:1935/livetv/fyyytv
-CCTV风云剧场,rtmp://58.200.131.2:1935/livetv/fyjctv
-CCTV第一剧场,rtmp://58.200.131.2:1935/livetv/dyjctv
-CCTV怀旧剧场,rtmp://58.200.131.2:1935/livetv/hjjctv
-CCTV兵器科技,rtmp://58.200.131.2:1935/livetv/gfjstv
-CCTV世界地理,rtmp://58.200.131.2:1935/livetv/sjdltv
 CCTV老故事,http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227043/index.m3u8
-CCTV女性时尚,http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227026/index.m3u8
-CCTV高尔夫•网球,http://39.135.253.27/PLTV/88888888/224/3221230085/index.m3u8#http://39.134.176.253/PLTV/88888888/224/3221226402/index.m3u8
-CCTV央视台球,http://39.135.253.37/PLTV/88888888/224/3221230173/index.m3u8
-CCTV电视指南,http://39.135.253.21/PLTV/88888888/224/3221230078/index.m3u8
-CCTV发现之旅,http://211.137.115.110:8080/gitv_live/G_FAXIANZL/G_FAXIANZL.m3u8
-CCTV戏曲,http://221.229.162.68:91/kds/cctvxq/index.m3u8?st=0apWEUiV4xl5QK29nyoPlA&e=1612799741
+CCTV女性时尚,http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227026/index.m3u8#https://itv.ahcme.edu.cn/hls/hls184a522.m3u8
+CCTV风云剧场,https://itv.ahcme.edu.cn/hls/hls184a516.m3u8
+CCTV世界地理,https://itv.ahcme.edu.cn/hls/hls184a515.m3u8
+CCTV第一剧场,https://itv.ahcme.edu.cn/hls/hls184a512.m3u8
+CCTV风云足球,https://itv.ahcme.edu.cn/hls/hls184a510.m3u8
+CCTV风云音乐,https://itv.ahcme.edu.cn/hls/hls184a519.m3u8
+CCTV怀旧剧场,https://itv.ahcme.edu.cn/hls/hls184a518.m3u8
+CCTV兵器科技,https://itv.ahcme.edu.cn/hls/hls184a573.m3u8
+CCTV电视指南,https://itv.ahcme.edu.cn/hls/hls186a88.m3u8
+CCTV央视台球,https://itv.ahcme.edu.cn/hls/hls184a574.m3u8
+CCTV央视文化精品,https://itv.ahcme.edu.cn/hls/hls184a520.m3u8
 CGTN,https://live.cgtn.com/1000/prog_index.m3u8
 CGTN记录,https://livedoc.cgtn.com/1000d/prog_index.m3u8#http://111.12.102.68:6610/PLTV/77777777/224/3221225707/index.m3u8?
 CGTN法语,https://livefr.cgtn.com/1000f/prog_index.m3u8
@@ -203,7 +202,7 @@ NHK华语视界,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.
 上海教育电视台,http://live.setv.sh.cn/slive/shedu02_1200k.m3u8
 上海新闻综合,http://183.207.255.188/live/program/live/xwzhhd/4000000/mnf.m3u8
 上海东方影视,http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3u8
-上海都市频道,http://183.207.255.188/live/program/live/ylpdhd/4000000/mnf.m3u8
+上海都市频道,http://183.207.255.188/live/program/live/ylpdhd/4000000/mnf.m3u8#http://58.211.84.24/keonline.shanghai.liveplay.qq.com/live/program/live/ylpdhd/4000000/mnf.m3u8
 上海外语频道,http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8
 上海第一财经,http://183.207.255.188/live/program/live/dycjhd/4000000/mnf.m3u8#http://183.207.255.188/live/program/live/dycjhd/4000000/mnf.m3u8#http://39.134.168.91/PLTV/1/224/3221225494/index.m3u8
 上海纪实频道,http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8#http://211.137.115.110:8080/gitv_live/G_SHANGHAIJS-HD/G_SHANGHAIJS-HD.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225654/index.m3u8
@@ -688,9 +687,6 @@ NEW江西,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225789/index.m3
 NEW山东,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225788/index.m3u8
 NEW四川,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225793/index.m3u8
 NEW云南,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225795/index.m3u8
-
-
-
 
 
 少儿频道,#genre#
