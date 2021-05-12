@@ -285,7 +285,7 @@ Y+频道,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 黑龙江少儿,http://stream3.hljtv.com/hljse2/sd/live.m3u8
 黑龙江影视,http://stream3.hljtv.com/hljys2/sd/live.m3u8
 黑龙江文体,http://stream3.hljtv.com/hljwy2/sd/live.m3u8
-哈尔滨新闻,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225745/index.m3u818#http://39.135.135.65/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225745/index.m3u8
+哈尔滨新闻,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225745/index.m3u8#http://39.135.135.65/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225745/index.m3u8
 哈尔滨娱乐,http://39.135.135.65/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225759/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225759/index.m3u8
 哈尔滨影视,http://39.135.135.34/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225760/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225760/index.m3u8
 哈尔滨资讯,http://39.135.135.73/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225761/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225761/index.m3u8
