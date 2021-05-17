@@ -18,23 +18,23 @@ CCTV-15音乐,http://39.134.115.163:8080/PLTV/88888910/224/3221225641/index.m3u8
 CCTV-16奥运,http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
 CCTV-17农业农村,http://39.134.66.66/PLTV/88888888/224/3221225708/index.m3u8#http://39.135.230.72/ott.fj.chinamobile.com/PLTV/88888888/224/3221226986/index.m3u8#http://39.134.198.32:6410/yst.live.scmobile.com/otvzte.scmcc.com.cNF/ysten-businessmbble/live/cctv-17/1.m3u8?IASHttpSessionId=0=$FHD#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8#http://111.12.102.68:6610/PLTV/77777777/224/3221225513/index.m3u8?#http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229765/index.m3u8
 CCTV-4K,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229683/index.m3u8#http://39.134.176.144/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/01.m3u8?fmt=ts2hls
-CETV-1,http://39.134.39.37/PLTV/88888888/224/3221226282/index.m3u8
+CETV-1,http://39.134.39.37/PLTV/88888888/224/3221226282/index.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226494/index.m3u8#http://ivi.bupt.edu.cn/hls/cetv1hd.m3u8#http://39.135.138.6:6610/PLTV/88888888/224/3221225917/2/index.m3u8?fmt=ts2hls
 CETV-2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225756/index.m3u8
 CETV-4,http://39.134.39.37/PLTV/88888888/224/3221226279/index.m3u8
 CCTV风云足球,rtmp://58.200.131.2:1935/livetv/fyzqtv#rtmp://ivi.bupt.edu.cn:1935/livetv/fyzqtv
 CCTV新科动漫,http://cctvtxyh5ca.liveplay.myqcloud.com/live/xinkedongman_2_hd.m3u8
 CCTV老故事,http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227043/index.m3u8
 CCTV女性时尚,http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227026/index.m3u8#https://itv.ahcme.edu.cn/hls/hls184a522.m3u8
-CCTV风云剧场,https://itv.ahcme.edu.cn/hls/hls184a516.m3u8
-CCTV世界地理,https://itv.ahcme.edu.cn/hls/hls184a515.m3u8
-CCTV第一剧场,https://itv.ahcme.edu.cn/hls/hls184a512.m3u8
-CCTV风云足球,https://itv.ahcme.edu.cn/hls/hls184a510.m3u8
-CCTV风云音乐,https://itv.ahcme.edu.cn/hls/hls184a519.m3u8
-CCTV怀旧剧场,https://itv.ahcme.edu.cn/hls/hls184a518.m3u8
-CCTV兵器科技,https://itv.ahcme.edu.cn/hls/hls184a573.m3u8
+CCTV怀旧剧场,rtmp://ivi.bupt.edu.cn/livetv/hjjctv#https://itv.ahcme.edu.cn/hls/hls184a518.m3u8
+CCTV第一剧场,rtmp://ivi.bupt.edu.cn/livetv/dyjctv#https://itv.ahcme.edu.cn/hls/hls184a512.m3u8
+CCTV风云剧场,rtmp://ivi.bupt.edu.cn/livetv/fyjctv#https://itv.ahcme.edu.cn/hls/hls184a516.m3u8
+CCTV风云音乐,rtmp://ivi.bupt.edu.cn/livetv/fyyytv#https://itv.ahcme.edu.cn/hls/hls184a519.m3u8
+CCTV风云足球,rtmp://ivi.bupt.edu.cn/livetv/fyzqtv#https://itv.ahcme.edu.cn/hls/hls184a510.m3u8
+CCTV兵器科技,rtmp://ivi.bupt.edu.cn/livetv/gfjstv#https://itv.ahcme.edu.cn/hls/hls184a573.m3u8
+CCTV世界地理,rtmp://ivi.bupt.edu.cn/livetv/sjdltv#https://itv.ahcme.edu.cn/hls/hls184a515.m3u8
+CCTV央视文化精品,rtmp://ivi.bupt.edu.cn/livetv/whjptv#https://itv.ahcme.edu.cn/hls/hls184a520.m3u8
 CCTV电视指南,https://itv.ahcme.edu.cn/hls/hls186a88.m3u8
 CCTV央视台球,https://itv.ahcme.edu.cn/hls/hls184a574.m3u8
-CCTV央视文化精品,https://itv.ahcme.edu.cn/hls/hls184a520.m3u8
 CGTN,https://live.cgtn.com/1000/prog_index.m3u8
 CGTN记录,https://livedoc.cgtn.com/1000d/prog_index.m3u8#http://111.12.102.68:6610/PLTV/77777777/224/3221225707/index.m3u8?
 CGTN法语,https://livefr.cgtn.com/1000f/prog_index.m3u8
@@ -103,6 +103,7 @@ J2,http://flv3948069e.live.126.net/live/e1d2986dcdc7b91883387d5f754e88d1.flv
 阳光卫视,https://stream.chinasuntv.com/680k/mid_video_index.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 星空卫视,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=233&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8#rtmp://58.200.131.2/livetv/startv#http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+星空体育,rtmp://ivi.bupt.edu.cn:1935/livetv/starsports#rtmp://58.200.131.2:1935/livetv/starsports
 Channel[V],rtmp://58.200.131.2:1935/livetv/channelv#rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
 RHK32,http://flv3948069e.live.126.net/live/464976f86038fa2cbaf5bc3b045e504b.flv
 无线新闻台,http://flv3948069e.live.126.net/live/267dcc60806e7def07828fc4e00f4843.flv
@@ -584,6 +585,7 @@ Newtv超级体育,http://39.134.66.66/PLTV/88888888/224/3221225635/index.m3u8
 广东体育,http://116.199.5.52:8114/index.m3u8?Fsv_chan_hls_se_idx=8&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8#http://106.53.212.251/daili/gztv.php?id=typd
 兰州综艺体育,http://39.134.39.39/PLTV/88888888/224/3221226246/index.m3u8
 福建体育,rtsp://183.252.166.199/PLTV/88888888/224/3221226127/10000100000000060000000002434540_0.smil
+星空体育,rtmp://ivi.bupt.edu.cn:1935/livetv/starsports#rtmp://58.200.131.2:1935/livetv/starsports
 
 
 UTV,#genre#
