@@ -477,7 +477,6 @@ Y+频道,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 寒亭新闻,http://jsylivealone302.iqilu.com/live/hanting_tv01/index.m3u8
 单县综合,http://jsylivealone302.iqilu.com/live/shanxian_tv01/index.m3u8
 石景山电视台,http://live.sjsrm.com/bjsjs/sd/live.m3u8
-黄河电视台,http://149.129.100.78/tv.php?id=sxhh
 解密,http://39.134.39.37/PLTV/88888888/224/3221226316/index.m3u8
 国学,http://39.134.39.37/PLTV/88888888/224/3221226341/index.m3u8
 军事,http://39.134.39.37/PLTV/88888888/224/3221226345/index.m3u8
