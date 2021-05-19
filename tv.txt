@@ -787,10 +787,7 @@ CBN风尚生活,http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hl
 
 
 轮播,#genre#
-优酷香港电影,http://stream.guihet.com/t/youkulive.php?id=8110960
-优酷TVB经典老港剧,http://stream.guihet.com/t/youkulive.php?id=8110961
-优酷老港片,http://stream.guihet.com/t/youkulive.php?id=8110962
-优酷宋小宝合辑,http://stream.guihet.com/t/youkulive.php?id=8104067
+我和僵尸有个约会,http://kuqq.tk/00/huya.php?id=10871113
 乡村爱情,http://kuqq.tk/00/huya.php?id=11602068
 乡村爱情D,https://tx2play1.douyucdn.cn/live/9356342r8UfJkG3a.flv
 爱情公寓3,http://149.129.100.78/egame.php?id=322842111
@@ -811,6 +808,10 @@ CBN风尚生活,http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hl
 警匪,http://kuqq.tk/00/huya.php?id=11352886
 黑帮,http://kuqq.tk/00/huya.php?id=11336719
 金庸电影,http://121.12.115.15/tx.hls.huya.com/src/1449584124-1449584124-6225916405380808704-2847687586-10057-A-0-1.m3u8
+优酷香港电影,http://stream.guihet.com/t/youkulive.php?id=8110960
+优酷TVB经典老港剧,http://stream.guihet.com/t/youkulive.php?id=8110961
+优酷老港片,http://stream.guihet.com/t/youkulive.php?id=8110962
+优酷宋小宝合辑,http://stream.guihet.com/t/youkulive.php?id=8104067
 百视通轮播(谍战),http://39.135.230.66/ott.fj.chinamobile.com/PLTV/88888888/224/3221227045/index.m3u8
 百视通轮播(科幻),http://39.135.230.79/ott.fj.chinamobile.com/PLTV/88888888/224/3221227037/index.m3u8
 百视通轮播1,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227134/index.m3u8
