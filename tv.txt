@@ -841,8 +841,9 @@ CHC家庭影院,http://111.20.105.60:6060/yinhe/2/ch00000090990000002085/index.m
 iHOT爱谍战,http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230092/1.m3u8
 iHOT爱喜剧,http://101.71.255.229:6610/zjhs/2/10105/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 iHOT爱院线,http://101.71.255.229:6610/zjhs/2/10116/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-KiD电影一台,http://101.71.255.229:6610/zjhs/2/10052/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-KiD电影二台,http://101.71.255.229:6610/zjhs/2/10037/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+Hot亚洲影院,http://101.71.255.229:6610/zjhs/2/10052/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228365/01.m3u8?fmt=ts2hls
+Hot欧美影院,http://101.71.255.229:6610/zjhs/2/10037/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://39.134.176.151/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228384/01.m3u8?fmt=ts2hls
+Hot精品剧场,http://39.134.176.160/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228360/01.m3u8?fmt=ts2hls
 KiD影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 哈尔滨影视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225760/index.m3u8#http://39.135.135.34/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225760/index.m3u8
 四川影视文艺,http://scgctvshow.sctv.com/hdlive/sctv5/1.m3u8
@@ -885,9 +886,6 @@ IPTV谍战剧场,http://39.134.39.37/PLTV/88888888/224/3221226256/index.m3u8
 檬檬经典,http://hls.haokan.bdstatic.com/haokan/stream_bduid_1868968677_0.m3u8
 星光经典台,http://hls.haokan.bdstatic.com/haokan/stream_bduid_956537075_0.m3u8
 祁阳影视,http://hls.haokan.bdstatic.com/haokan/stream_bduid_2477966232_0.m3u8
-Hot亚洲影院,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228365/01.m3u8?fmt=ts2hls
-Hot欧美影院,http://39.134.176.151/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228384/01.m3u8?fmt=ts2hls
-Hot精品剧场,http://39.134.176.160/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228360/01.m3u8?fmt=ts2hls
 开心影院,http://hpull.kktv8.com/livekktv/111536805/playlist.m3u8
 精品剧场,http://125.210.152.18:9090/live/JPJC.m3u8
 影视1,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226325/1.m3u8
