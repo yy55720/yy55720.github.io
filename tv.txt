@@ -286,9 +286,9 @@ Y+频道,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 惠州新闻,http://livehuiz.chinamcache.com/live/zb01.m3u8
 惠州公共,http://livehuiz.chinamcache.com/live/zb02.m3u8
 黑龙江新闻,http://stream3.hljtv.com/hljxw2/sd/live.m3u8
-黑龙江少儿,http://stream3.hljtv.com/hljse2/sd/live.m3u8
-黑龙江影视,http://stream3.hljtv.com/hljys2/sd/live.m3u8
-黑龙江文体,http://stream3.hljtv.com/hljwy2/sd/live.m3u8
+黑龙江少儿,http://idclive.hljtv.com:8080/live/shaoer_sd.m3u8
+黑龙江影视,http://idclive.hljtv.com:8080/live/yingshi_sd.m3u8
+黑龙江文体,http://idclive.hljtv.com:8080/live/wenyi_sd.m3u8
 哈尔滨新闻,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225745/index.m3u8#http://39.135.135.65/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225745/index.m3u8
 哈尔滨娱乐,http://39.135.135.65/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225759/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225759/index.m3u8
 哈尔滨影视,http://39.135.135.34/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225760/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225760/index.m3u8
@@ -912,7 +912,7 @@ Hot精品剧场,http://39.134.176.160/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888
 甘肃少儿,http://39.134.39.39/PLTV/88888888/224/3221226289/index.m3u8#https://hls.gstv.com.cn/49048r/922k96.m3u8
 浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787#http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8
 山东少儿,http://livealone302.iqilu.com/iqilu/sepd.m3u8
-黑龙江少儿,http://stream3.hljtv.com/hljse2/sd/live.m3u8
+黑龙江少儿,http://idclive.hljtv.com:8080/live/shaoer_sd.m3u8
 内蒙古少儿频道,http://live5.m2oplus.nmtv.cn/4/sd/live.m3u8
 南京少儿,http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
 CCTV-14少儿,http://39.134.176.253/PLTV/88888888/224/3221226126/index.m3u8
