@@ -899,9 +899,10 @@ Hot精品剧场,http://39.134.176.160/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888
 
 
 少儿频道,#genre#
-猫和老鼠,http://42.56.91.136/live-bvc/190338/live_39734764_8369517.m3u8
-猫和老鼠1,https://cn-jxnc-cmcc-live-02.bilivideo.com/live-bvc/377372/live_2370062_9705826.m3u8
-猫和老鼠2,https://cn-jxnc-cmcc-live-02.bilivideo.com/live-bvc/688999/live_8244646_5219019.m3u8
+猫和老鼠,http://kuqq.tk/00/huya.php?id=11352879
+猫和老鼠1,http://42.56.91.136/live-bvc/190338/live_39734764_8369517.m3u8
+猫和老鼠2,https://cn-jxnc-cmcc-live-02.bilivideo.com/live-bvc/377372/live_2370062_9705826.m3u8
+猫和老鼠3,https://cn-jxnc-cmcc-live-02.bilivideo.com/live-bvc/688999/live_8244646_5219019.m3u8
 哈哈炫动,http://183.207.255.190/live/program/live/hhxdhd/4000000/mnf.m3u8#http://223.110.245.163/ott.js.chinamobile.com/PLTV/3/224/3221226388/index.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226421/1.m3u8
 卡酷少儿,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226558/1.m3u8#rtmp://58.200.131.2:1935/livetv/btv10hd
 嘉佳卡通,http://183.207.255.188/live/program/live/jjkt/1300000/mnf.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226539/1.m3u8
