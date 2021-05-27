@@ -88,7 +88,7 @@ CGTN西班牙语,https://livees.cgtn.com/1000e/prog_index.m3u8
 凤凰中文台,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8$JS1080P#http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8#http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228608/index.m3u8#http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8#http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/index.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225942/1.m3u8
 凤凰资讯台,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8$JS1080P#http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8#http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228597/index.m3u8#http://223.110.245.136/PLTV/3/224/3221226923/index.m3u8#http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/index.m3u8
 凤凰香港台,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8#http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8#http://183.207.249.34/PLTV/3/224/3221226975/index.m3u8
-凤凰电影,rtmp://58.200.131.2/livetv/fhdy
+凤凰电影,rtmp://58.200.131.2/livetv/fhdy#rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
 香港C+,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
 ViuTV,http://185.207.176.189:8080/channels/tv-99/mpeg.2ts
 ViuTV 6,http://185.207.176.189:8080/channels/tv-96/mpeg.2ts
@@ -327,6 +327,15 @@ Y+频道,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 三明公共频道,http://stream.smntv.cn/smtv2/sd/live.m3u8
 潮安综合,http://chaoan.chaoantv.com:8278/zongyi_1028/playlist.m3u8#http://chaoan.chaoantv.com:8278/live/chaoanzongyi.m3u8
 潮安影视,http://chaoan.chaoantv.com:8278/h_yingshi_1028/playlist.m3u8#http://chaoan.chaoantv.com:8278/live/chaoanyingshi.m3u8
+潮州综合,http://pili-publish.czbtv.sobeylive.com/czbtv2019/czzhpd.m3u8
+潮州公共,http://pili-publish.czbtv.sobeylive.com/czbtv2019/czggpd.m3u8
+恩施新闻综合,http://enshi-live21.cjyun.org/10070/s10070-eszh.m3u8?auth_key=1640966399-0-0-adfb1e20a743c4cfa070c33ac2d2be68
+恩施文旅,http://xcyplay.xinhuaxmt.com/zbcb/1621483336118604.m3u8?auth_key=1622882921-0-0-9e50e7ade7bd4b2aa86e29bd3a2da0ec
+石河子新闻综合,http://124.88.144.73:1935/live/xwzh/playlist.m3u8
+石河子影视文体,http://124.88.144.73:1935/live/jjsh/playlist.m3u8
+石河子经济生活,http://124.88.144.73:1935/live/dywt/playlist.m3u8
+石河子教育,http://124.88.144.73:1935/live/jiaoyu/playlist.m3u8
+十堰教育,http://34808.hlsplay.aodianyun.com/tv_radio_34808/tv_channel_2073.m3u8
 襄阳综合,http://xiangyang.live.cjyun.org/video/s10125-news_hd/index.m3u8
 襄阳经济生活,http://xiangyang.live.cjyun.org/video/s10125-society_hd/index.m3u8
 襄阳公共,http://xiangyang.live.cjyun.org/video/s10125-education_hd/index.m3u8
@@ -582,7 +591,7 @@ iHOT爱体育,http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/8888888
 Newtv精品体育,http://112.17.40.140/PLTV/88888888/224/3221226819/index.m3u8
 Newtv超级体育,http://39.134.66.66/PLTV/88888888/224/3221225635/index.m3u8
 杭州体育,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229316/index.m3u8
-广东体育,http://116.199.5.52:8114/index.m3u8?Fsv_chan_hls_se_idx=8&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8#http://106.53.212.251/daili/gztv.php?id=typd
+广东体育,http://116.199.5.52:8114/index.m3u8?Fsv_chan_hls_se_idx=8&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8#https://r2.weizan.cn/v/949709461_668201056442186562.flv
 兰州综艺体育,http://39.134.39.39/PLTV/88888888/224/3221226246/index.m3u8
 福建体育,rtsp://183.252.166.199/PLTV/88888888/224/3221226127/10000100000000060000000002434540_0.smil
 星空体育,rtmp://ivi.bupt.edu.cn:1935/livetv/starsports#rtmp://58.200.131.2:1935/livetv/starsports
@@ -899,6 +908,7 @@ IPTV谍战剧场,http://39.134.39.37/PLTV/88888888/224/3221226256/index.m3u8
 猫和老鼠1,http://42.56.91.136/live-bvc/190338/live_39734764_8369517.m3u8
 猫和老鼠2,https://cn-jxnc-cmcc-live-02.bilivideo.com/live-bvc/377372/live_2370062_9705826.m3u8
 猫和老鼠3,https://cn-jxnc-cmcc-live-02.bilivideo.com/live-bvc/688999/live_8244646_5219019.m3u8
+新动漫,http://httpdvb.slave.nx96200.cn:13164/playurl?playtype=live&protocol=hls&programid=4200900104&accesstoken=R5E527FBEU319AC163K7768D0EEI59A8C401PBM321BC1AV0Z9C465W15F60B7EBB17EFE8&playtoken=31648YBGNZQKEGQ10.m3u8
 哈哈炫动,http://183.207.255.190/live/program/live/hhxdhd/4000000/mnf.m3u8#http://223.110.245.163/ott.js.chinamobile.com/PLTV/3/224/3221226388/index.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226421/1.m3u8
 卡酷少儿,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226558/1.m3u8#rtmp://58.200.131.2:1935/livetv/btv10hd
 嘉佳卡通,http://183.207.255.188/live/program/live/jjkt/1300000/mnf.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226539/1.m3u8
@@ -1071,6 +1081,7 @@ BY2 - 爱丫爱丫,http://qukufile2.qianqian.com/data2/video/724f2115dd10d419203
 蜜雪薇琪 - 独立,http://vodcdn.video.taobao.com/oss/taobao-ugc/05c427c97a0c4e8e853dd0b85e6beb39/1519722334/video.m3u8.m3u8
 My Heart Will Go On (泰坦尼克号主题曲),https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg_uCa4gUo7Irtnwc.mp4
 迈克尔杰克逊30周年演唱会片段-比利·金-BILLIE.JEAN,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgw9ma4gUo3YLDvgU.mp4
+Eminem、Rihanna - Love The Way You Lie,http://em.21dtv.com/songs/60100718.mkv
 泫雅 - CHANGE,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgp92c4gUovM-V_QU.mp4
 T-ara - Lovey Dovey,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgw5Cv4gUoiZqZ4wE.mp4
 T-ara - First Love,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg3Lqw4gUoo6LL7QU.mp4
