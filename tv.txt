@@ -805,6 +805,9 @@ CNC·英文台,http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
 警匪,http://txtest-xp2p.p2p.huya.com/src/1423782050-1423782050-6115097341381836800-2847687556-10057-A-0-1.m3u8#http://121.12.115.15/tx.hls.huya.com/src/1423782050-1423782050-6115097341381836800-2847687556-10057-A-0-1-imgplus.m3u8#http://kuqq.tk/00/huya.php?id=11352886
 黑帮,http://txtest-xp2p.p2p.huya.com/src/1388472589-1388472589-5963444361147449344-2777068634-10057-A-0-1.m3u8#http://121.12.115.15/tx.hls.huya.com/src/1388472589-1388472589-5963444361147449344-2777068634-10057-A-0-1-imgplus.m3u8#http://kuqq.tk/00/huya.php?id=11336719
 金庸电影,http://121.12.115.15/tx.hls.huya.com/src/1449584124-1449584124-6225916405380808704-2847687586-10057-A-0-1.m3u8
+搞笑,http://txtest-xp2p.p2p.huya.com/src/1394575546-1394575546-5989656361871343616-2789274548-10057-A-0-1.m3u8#http://121.12.115.15/tx.hls.huya.com/src/1394575546-1394575546-5989656361871343616-2789274548-10057-A-0-1.m3u8
+爆笑,http://txtest-xp2p.p2p.huya.com/src/1449581164-1449581164-6225903692277612544-2847699154-10057-A-0-1.m3u8#http://121.12.115.15/tx.hls.huya.com/src/1449581164-1449581164-6225903692277612544-2847699154-10057-A-0-1.m3u8
+李小哇絮叨叨,http://txtest-xp2p.p2p.huya.com/src/1199515315044-1199515315044-5237452600151900160-2399030753544-10057-A-0-1.m3u8#http://121.12.115.15/tx.hls.huya.com/src/1199515315044-1199515315044-5237452600151900160-2399030753544-10057-A-0-1.m3u8
 优酷香港电影,http://stream.guihet.com/t/youkulive.php?id=8110960
 优酷TVB经典老港剧,http://stream.guihet.com/t/youkulive.php?id=8110961
 优酷老港片,http://stream.guihet.com/t/youkulive.php?id=8110962
@@ -898,6 +901,7 @@ IPTV谍战剧场,http://39.134.39.37/PLTV/88888888/224/3221226256/index.m3u8
 猫和老鼠1,http://42.56.91.136/live-bvc/190338/live_39734764_8369517.m3u8
 猫和老鼠2,https://cn-jxnc-cmcc-live-02.bilivideo.com/live-bvc/377372/live_2370062_9705826.m3u8
 猫和老鼠3,https://cn-jxnc-cmcc-live-02.bilivideo.com/live-bvc/688999/live_8244646_5219019.m3u8
+四驱兄弟,http://txtest-xp2p.p2p.huya.com/src/1423782104-1423782104-6115097573310070784-2847687664-10057-A-0-1.m3u8#http://121.12.115.15/tx.hls.huya.com/src/1423782104-1423782104-6115097573310070784-2847687664-10057-A-0-1.m3u8
 新动漫,http://httpdvb.slave.nx96200.cn:13164/playurl?playtype=live&protocol=hls&programid=4200900104&accesstoken=R5E527FBEU319AC163K7768D0EEI59A8C401PBM321BC1AV0Z9C465W15F60B7EBB17EFE8&playtoken=31648YBGNZQKEGQ10.m3u8
 哈哈炫动,http://183.207.255.190/live/program/live/hhxdhd/4000000/mnf.m3u8#http://223.110.245.163/ott.js.chinamobile.com/PLTV/3/224/3221226388/index.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226421/1.m3u8
 卡酷少儿,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226558/1.m3u8#rtmp://58.200.131.2:1935/livetv/btv10hd
