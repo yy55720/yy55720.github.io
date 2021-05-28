@@ -706,14 +706,14 @@ NewTV超级体育,http://39.134.66.66/PLTV/88888888/224/3221225635/index.m3u8#ht
 NewTV超级电影,http://39.134.66.66/PLTV/88888888/224/3221225644/index.m3u8#http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000004000002120&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
 NewTV超级电视剧,http://39.134.66.66/PLTV/88888888/224/3221225637/index.m3u8
 NewTV超级综艺,http://39.134.66.66/PLTV/88888888/224/3221225642/index.m3u8#http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000004000023658&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
-NEW安徽,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225790/index.m3u8#http://39.134.65.208/PLTV/88888888/224/3221225790/index.m3u8
-NEW广东,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225791/index.m3u8#http://39.134.65.208/PLTV/88888888/224/3221225767/index.m3u8
-NEW广西,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225792/index.m3u8#http://39.134.65.208/PLTV/88888888/224/3221225769/index.m3u8
-NEW吉林,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225794/index.m3u8#http://39.134.65.208/PLTV/88888888/224/3221225771/index.m3u8
-NEW江西,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225789/index.m3u8#http://39.134.65.208/PLTV/88888888/224/3221225765/index.m3u8#,http://39.134.115.163:8080/PLTV/88888910/224/3221225979/index.m3u8
-NEW山东,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225788/index.m3u8
-NEW四川,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225793/index.m3u8
-NEW云南,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225795/index.m3u8
+NewTV安徽,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225790/index.m3u8#http://39.134.65.208/PLTV/88888888/224/3221225790/index.m3u8
+NewTV广东,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225791/index.m3u8#http://39.134.65.208/PLTV/88888888/224/3221225767/index.m3u8
+NewTV广西,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225792/index.m3u8#http://39.134.65.208/PLTV/88888888/224/3221225769/index.m3u8
+NewTV吉林,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225794/index.m3u8#http://39.134.65.208/PLTV/88888888/224/3221225771/index.m3u8
+NewTV江西,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225789/index.m3u8#http://39.134.65.208/PLTV/88888888/224/3221225765/index.m3u8#,http://39.134.115.163:8080/PLTV/88888910/224/3221225979/index.m3u8
+NewTV山东,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225788/index.m3u8
+NewTV四川,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225793/index.m3u8
+NewTV云南,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225795/index.m3u8
 
 
 网络,#genre#
