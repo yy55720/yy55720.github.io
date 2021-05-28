@@ -621,28 +621,28 @@ UTV钓鱼生活,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com
 
 
 CIBN,#genre#
+CIBN映画,http://iptv.inewya.com/qq494937337/others/cibn.php?id=7#http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=TiYu#http://v.iam7.cn/iptv/cibn/?id=1108&code=TiYu#http://v.iam7.cn/iptv/cibn.php?code=TiYu
+CIBN骄阳剧场,http://iptv.inewya.com/qq494937337/others/cibn.php?id=3#http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=MeiZhuang#http://v.iam7.cn/iptv/cibn/?id=1108&code=MeiZhuang#http://v.iam7.cn/iptv/cibn.php?code=MeiZhuang
+CIBN经典剧场,http://iptv.inewya.com/qq494937337/others/cibn.php?id=5#http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=DOTA2#http://v.iam7.cn/iptv/cibn/?id=1108&code=DOTA2#http://v.iam7.cn/iptv/cibn.php?code=DOTA2
+CIBN古装剧场,http://iptv.inewya.com/qq494937337/others/cibn.php?id=8#http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=QingGan#http://v.iam7.cn/iptv/cibn/?id=1108&code=QingGan#http://v.iam7.cn/iptv/cibn.php?code=QingGan
+CIBN流金岁月,http://iptv.inewya.com/qq494937337/others/cibn.php?id=17#http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=Shoucang#http://v.iam7.cn/iptv/cibn/?id=1108&code=Shoucang#http://v.iam7.cn/iptv/cibn.php?code=Shoucang
+CIBN综合,http://iptv.inewya.com/qq494937337/others/cibn.php?id=22#http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=DianJing#http://v.iam7.cn/iptv/cibn/?id=1108&code=DianJing#http://v.iam7.cn/iptv/cibn.php?code=DianJing
+CIBN动漫剧场,http://iptv.inewya.com/qq494937337/others/cibn.php?id=14#http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=QinZi#http://v.iam7.cn/iptv/cibn/?id=1108&code=QinZi#http://v.iam7.cn/iptv/cibn.php?code=QinZi
 CIBN炫佳动漫,http://iptv.inewya.com/qq494937337/others/cibn.php?id=0#http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=JingPin#http://v.iam7.cn/iptv/cibn/?id=1108&code=JingPin#http://v.iam7.cn/iptv/cibn.php?code=JingPin
+CIBN朵丫乐园,http://iptv.inewya.com/qq494937337/others/cibn.php?id=6#http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=QiChe#http://v.iam7.cn/iptv/cibn/?id=1108&code=QiChe#http://v.iam7.cn/iptv/cibn.php?code=QiChe
+CIBN纪录片,http://iptv.inewya.com/qq494937337/others/cibn.php?id=9#http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=JianKang#http://v.iam7.cn/iptv/cibn/?id=1108&code=JianKang#http://v.iam7.cn/iptv/cibn.php?code=JianKang
 CIBN真人秀,http://iptv.inewya.com/qq494937337/others/cibn.php?id=1#http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=LuShi#http://v.iam7.cn/iptv/cibn/?id=1108&code=LuShi#http://v.iam7.cn/iptv/cibn.php?code=LuShi
 CIBN怡家,http://iptv.inewya.com/qq494937337/others/cibn.php?id=2#http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=JiaoYu#http://v.iam7.cn/iptv/cibn/?id=1108&code=JiaoYu#http://v.iam7.cn/iptv/cibn.php?code=JiaoYu
-CIBN骄阳剧场,http://iptv.inewya.com/qq494937337/others/cibn.php?id=3#http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=MeiZhuang#http://v.iam7.cn/iptv/cibn/?id=1108&code=MeiZhuang#http://v.iam7.cn/iptv/cibn.php?code=MeiZhuang
-CIBN时尚生活,http://iptv.inewya.com/qq494937337/others/cibn.php?id=4#http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=DongLinFaYin#http://v.iam7.cn/iptv/cibn/?id=1108&code=DongLinFaYin#http://v.iam7.cn/iptv/cibn.php?code=DongLinFaYin
-CIBN经典剧场,http://iptv.inewya.com/qq494937337/others/cibn.php?id=5#http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=DOTA2#http://v.iam7.cn/iptv/cibn/?id=1108&code=DOTA2#http://v.iam7.cn/iptv/cibn.php?code=DOTA2
-CIBN朵丫乐园,http://iptv.inewya.com/qq494937337/others/cibn.php?id=6#http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=QiChe#http://v.iam7.cn/iptv/cibn/?id=1108&code=QiChe#http://v.iam7.cn/iptv/cibn.php?code=QiChe
-CIBN映画,http://iptv.inewya.com/qq494937337/others/cibn.php?id=7#http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=TiYu#http://v.iam7.cn/iptv/cibn/?id=1108&code=TiYu#http://v.iam7.cn/iptv/cibn.php?code=TiYu
-CIBN古装剧场,http://iptv.inewya.com/qq494937337/others/cibn.php?id=8#http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=QingGan#http://v.iam7.cn/iptv/cibn/?id=1108&code=QingGan#http://v.iam7.cn/iptv/cibn.php?code=QingGan
-CIBN纪录片,http://iptv.inewya.com/qq494937337/others/cibn.php?id=9#http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=JianKang#http://v.iam7.cn/iptv/cibn/?id=1108&code=JianKang#http://v.iam7.cn/iptv/cibn.php?code=JianKang
-CIBN东方教育,http://iptv.inewya.com/qq494937337/others/cibn.php?id=10#http://66.zipeszn.xyz/qq1792493091/cibn.php?id=HanWenHua
-CIBN全电竞,http://iptv.inewya.com/qq494937337/others/cibn.php?id=11#http://nas.330421.cn:8000/iptv/cibn/?id=1104&code=115#http://v.iam7.cn/iptv/cibn/?id=1104&code=115#http://v.iam7.cn/iptv/cibn.php?code=115
-CIBN风尚运动,http://iptv.inewya.com/qq494937337/others/cibn.php?id=12#http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=DanJi#http://v.iam7.cn/iptv/cibn/?id=1108&code=DanJi#http://v.iam7.cn/iptv/cibn.php?code=DanJi
-CIBN品质生活,http://iptv.inewya.com/qq494937337/others/cibn.php?id=13#http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=1#http://v.iam7.cn/iptv/cibn/?id=1108&code=1
-CIBN动漫剧场,http://iptv.inewya.com/qq494937337/others/cibn.php?id=14#http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=QinZi#http://v.iam7.cn/iptv/cibn/?id=1108&code=QinZi#http://v.iam7.cn/iptv/cibn.php?code=QinZi
 CIBN新知,http://iptv.inewya.com/qq494937337/others/cibn.php?id=15#http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=ZongHe#http://v.iam7.cn/iptv/cibn/?id=1108&code=ZongHe#http://v.iam7.cn/iptv/cibn.php?code=ZongHe
-CIBN家居用品,http://iptv.inewya.com/qq494937337/others/cibn.php?id=16#http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=jiayougouwu#http://v.iam7.cn/iptv/cibn/?id=1108&code=jiayougouwu
-CIBN流金岁月,http://iptv.inewya.com/qq494937337/others/cibn.php?id=17#http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=Shoucang#http://v.iam7.cn/iptv/cibn/?id=1108&code=Shoucang#http://v.iam7.cn/iptv/cibn.php?code=Shoucang
-CIBN好物,http://iptv.inewya.com/qq494937337/others/cibn.php?id=18#http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=178#http://v.iam7.cn/iptv/cibn/?id=1108&code=178
 CIBN微电影,http://iptv.inewya.com/qq494937337/others/cibn.php?id=19#http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=YingXiong#http://v.iam7.cn/iptv/cibn/?id=1108&code=YingXiong#http://v.iam7.cn/iptv/cibn.php?code=YingXiong
-CIBN综合,http://iptv.inewya.com/qq494937337/others/cibn.php?id=22#http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=DianJing#http://v.iam7.cn/iptv/cibn/?id=1108&code=DianJing#http://v.iam7.cn/iptv/cibn.php?code=DianJing
+CIBN风尚运动,http://iptv.inewya.com/qq494937337/others/cibn.php?id=12#http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=DanJi#http://v.iam7.cn/iptv/cibn/?id=1108&code=DanJi#http://v.iam7.cn/iptv/cibn.php?code=DanJi
+CIBN全电竞,http://iptv.inewya.com/qq494937337/others/cibn.php?id=11#http://nas.330421.cn:8000/iptv/cibn/?id=1104&code=115#http://v.iam7.cn/iptv/cibn/?id=1104&code=115#http://v.iam7.cn/iptv/cibn.php?code=115
+CIBN东方教育,http://iptv.inewya.com/qq494937337/others/cibn.php?id=10#http://66.zipeszn.xyz/qq1792493091/cibn.php?id=HanWenHua
 CIBN生活,http://iptv.inewya.com/qq494937337/others/cibn.php?id=23#http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=ShengHuo#http://v.iam7.cn/iptv/cibn/?id=1108&code=ShengHuo#http://v.iam7.cn/iptv/cibn.php?code=ShengHuo
+CIBN时尚生活,http://iptv.inewya.com/qq494937337/others/cibn.php?id=4#http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=DongLinFaYin#http://v.iam7.cn/iptv/cibn/?id=1108&code=DongLinFaYin#http://v.iam7.cn/iptv/cibn.php?code=DongLinFaYin
+CIBN品质生活,http://iptv.inewya.com/qq494937337/others/cibn.php?id=13#http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=1#http://v.iam7.cn/iptv/cibn/?id=1108&code=1
+CIBN好物,http://iptv.inewya.com/qq494937337/others/cibn.php?id=18#http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=178#http://v.iam7.cn/iptv/cibn/?id=1108&code=178
+CIBN家居用品,http://iptv.inewya.com/qq494937337/others/cibn.php?id=16#http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=jiayougouwu#http://v.iam7.cn/iptv/cibn/?id=1108&code=jiayougouwu
 中国交通,http://iptv.inewya.com/qq494937337/others/cibn.php?id=20
 环球奇观,http://iptv.inewya.com/qq494937337/others/cibn.php?id=21#http://v.iam7.cn/iptv/cibn.php?code=8
 
@@ -904,7 +904,7 @@ IPTV谍战剧场,http://39.134.39.37/PLTV/88888888/224/3221226256/index.m3u8
 嘉佳卡通,http://183.207.255.188/live/program/live/jjkt/1300000/mnf.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226539/1.m3u8
 金鹰卡通,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227018/index.m3u8#http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221226303/index.m3u8#http://183.207.255.188/live/program/live/jykt/1300000/mnf.m3u8
 优漫卡通,http://223.110.243.171/PLTV/3/224/3221226982/index.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226420/1.m3u8
-优优宝贝,http://112.17.40.140/PLTV/88888888/224/3221226829/index.m3u8
+优优宝贝,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229380/01.m3u8?fmt=ts2hls
 好消息卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 福建少儿,rtsp://183.252.166.199/PLTV/88888888/224/3221226120/10000100000000060000000002358082_0.smil
 福州少儿,http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
@@ -924,21 +924,15 @@ KiD动画,http://101.71.255.229:6610/zjhs/2/10043/index.m3u8?virtualDomain=zjhs.
 黑莓动画,http://183.207.249.15/PLTV/3/224/3221225555/index.m3u8#http://111.12.102.68:6610/PLTV/77777777/224/3221225710/index.m3u8?#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225914/1.m3u8#http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225710/index.m3u8#http://39.134.66.2/PLTV/88888888/224/3221225683/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225672/index.m3u8
 UTV卡通动画,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/SD-1500k-576P-katondonghua/index.m3u8?IAS
 UTV炫酷动漫,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/SD-1500k-576P-xuankudm/index.m3u8?IAS
-动漫电影,http://112.17.40.140/PLTV/88888888/224/3221226178/index.m3u8
-新科动漫,http://cctvtxyh5ca.liveplay.myqcloud.com/live/xinkedongman_2_hd.m3u8
 iHOT爱动漫,http://101.71.255.229:6610/zjhs/2/10107/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 动画2HD,http://39.134.182.236/PLTV/88888888/224/3221226178/index.m3u8
-日本动漫,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/492270/live_189986442_7728008.m3u8
-假面骑士,http://117.148.187.37/PLTV/88888888/224/3221226178/index.m3u8
 狮子王国,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c2e7e767f3144bed959ef20b8b961fe5/850.m3u8
-喜洋洋,http://hlslive.video.iqiyi.com/tslive/c20_lb_xiyangyang_720p_t5/c20_lb_xiyangyang_720p_t5.m3u8?pv=0.2&qd_src=ih5&qd_tm=1612349818404&qd_ip=171.216.192.184&qd_sc=ca526acd7351eda42d5d1fb3c28ad279#http://112.29.224.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c20_lb_xiyangyang_720p_t5/c20_lb_xiyangyang_720p_t5.m3u8?key=06839f7bcd87afaf070597079c06bb27f&dis_k=d2b104ee85f1c4b7a4d5bc81910501ba&dis_t=1612351186&dis_dz=CMNET-AnHui&dis_st=26&qd_ip=171.216.192.184&qd_src=ih5&pv=0.2&qd_tm=1612349818404&qd_sc=ca526acd7351eda42d5d1fb3c28ad279
-倒霉特熊,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87f87ba569c147e3805f80e4844d2de9/1200.m3u8#http://hlslive.video.iqiyi.com/tslive/c17_lb_daomeixiong_720p_t5/c17_lb_daomeixiong_720p_t5.m3u8?pv=0.2&qd_src=ih5&qd_tm=1612349898401&qd_ip=171.216.192.184&qd_sc=d7256131dc066bee495c7799a9810bbf#http://baiducdncmn2.inter.iqiyi.com/tslive/c17_lb_daomeixiong_720p_t5/c17_lb_daomeixiong_720p_t5.m3u8?key=06839f7bcd87afaf01739d7d3641b8c19&dis_k=e0015db949d5e86e32e70927603f8cd0&dis_t=1612351210&dis_dz=CMNET-AnHui&dis_st=26&qd_ip=171.216.192.184&qd_src=ih5&pv=0.2&qd_tm=1612349898401&qd_sc=d7256131dc066bee495c7799a9810bbf#http://112.30.197.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c17_lb_daomeixiong_720p_t5/c17_lb_daomeixiong_720p_t5.m3u8?key=06839f7bcd87afaf01739d7d3641b8c19&dis_k=e0015db949d5e86e32e70927603f8cd0&dis_t=1612351210&dis_dz=CMNET-AnHui&dis_st=26&qd_ip=171.216.192.184&qd_src=ih5&pv=0.2&qd_tm=1612349898401&qd_sc=d7256131dc066bee495c7799a9810bbf
+倒霉特熊,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87f87ba569c147e3805f80e4844d2de9/1200.m3u8
 反转星球,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3ccdecc7d6e341c1920ad4eac5d82f38/1200.m3u8
 云朵妈妈,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d8ad434c6b08421a927557a4d98da65c/1200.m3u8
 熊大熊二,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1733da751de64e6e910abda889d87a26/1200.m3u8
 熊大过年,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7ae265653fe149069c3b53e31caaf060/1200.m3u8
 猪侠英雄,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0f03b08bc7b042358144617000fd2931/1200.m3u8
-蜡笔小新,http://baiducdncmn2.inter.ptqy.gitv.tv/tslive/c17_lb_labixiaoxin_720p_t5/c17_lb_labixiaoxin_720p_t5.m3u8#http://hlslive.video.ptqy.gitv.tv/tslive/c17_lb_labixiaoxin_720p_t5/c17_lb_labixiaoxin_720p_t5.m3u8?pv=0.2&qd_src=ih5&qd_tm=1612781408461&qd_ip=103.68.60.218&qd_sc=43ebc835e4f0b247906b09ca17115048#http://112.30.197.41/r/baiducdncmn2.inter.ptqy.gitv.tv/tslive/c17_lb_labixiaoxin_720p_t5/c17_lb_labixiaoxin_720p_t5.m3u8#http://al.hls.huya.com/src/1423787878-1423787878-6115122372451237888-2847699212-10057-A-0-1-imgplus.m3u8?wsSecret=52a1842f48531ff3d6562272c70de20d&wsTime=602268d8&u=0&seqid=16127814013452858&ctype=tars_mobile&txyp=o%3An6%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103
 
 
 音乐MV,#genre#
