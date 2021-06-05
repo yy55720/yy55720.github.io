@@ -94,10 +94,10 @@ ViuTV,http://185.207.176.189:8080/channels/tv-99/mpeg.2ts
 ViuTV 6,http://185.207.176.189:8080/channels/tv-96/mpeg.2ts
 RHK31,http://185.207.176.189:8080/channels/tv-31/mpeg.2ts
 RHK32,http://185.207.176.189:8080/channels/tv-32/mpeg.2ts
-RHK33,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tv-33&token=asd423gasg665
+RHK33,http://185.207.176.189:8080/channels/tv-33/mpeg.2ts
 TVB翡翠台,http://185.207.176.189:8080/channels/tv-81/mpeg.2ts#http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1#http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8?Fsv_cid=1034&Fsv_chan_hls_se_idx=188&Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&Provider_id=00000000&Fsv_filetype=1&Fsv_ShiftEnable=0&Fsv_SV_PARAM1=0&Fsv_ShiftTsp=240&Fsv_CMSID=00000000&AuthInfo=P2ZSH2gNMZ8aiVfV%2BjCYczoGsAYoDo4KY5I3eHfJhGTKdSzgLwCHoSet9it9fXrMLwehJxh9gmO%2F%0AOFrWyxI%2BtteLTJnZKT7Lg8BRYQNXMQU%3D%0A
-TVB明珠,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tv-84&token=asd423gasg665#http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=2&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=.m3u8&Fsv_CMSID=&Fsv_otype=1
-J2,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tv-82&token=asd423gasg665
+TVB明珠,http://185.207.176.189:8080/channels/tv-84/mpeg.2ts#http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=2&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=.m3u8&Fsv_CMSID=&Fsv_otype=1
+J2,http://185.207.176.189:8080/channels/tv-82/mpeg.2ts
 天映经典,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 天映频道,http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
 阳光卫视,https://stream.chinasuntv.com/680k/mid_video_index.m3u8
@@ -106,7 +106,11 @@ J2,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tv-82&token=asd423gasg665
 星空体育,rtmp://ivi.bupt.edu.cn:1935/livetv/starsports#rtmp://58.200.131.2:1935/livetv/starsports
 Channel[V],rtmp://58.200.131.2:1935/livetv/channelv#rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
 有线18台,rtmp://59.124.75.130/sat/hk041
-无线新闻台,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tv-83&token=asd423gasg665
+有线603,http://47.242.54.220/daili/yang.php?token=sasafa742&tid=zdy4&id=yx603
+有线新闻,http://47.242.54.220/daili/yang.php?token=sasafa742&tid=zdy4&id=yxxw
+NOW新闻,http://47.242.54.220/daili/yang.php?token=sasafa742&tid=zdy4&id=nowxw
+香港开电视,http://47.242.54.220/daili/yang.php?token=sasafa742&tid=zdy2&id=kds
+无线新闻台,http://185.207.176.189:8080/channels/tv-83/mpeg.2ts
 亚美卫视,http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
 亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
@@ -131,28 +135,30 @@ Channel[V],rtmp://58.200.131.2:1935/livetv/channelv#rtmp://ivi.bupt.edu.cn:1935/
 原住民电视,http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 NHK华语视界,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 Fox Family,https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
-中视,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tw-100&token=asd423gasg665#rtmp://59.124.75.130/sat/tv091
+中视,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tw-100&token=fafa22#rtmp://59.124.75.130/sat/tv091
 台视,rtmp://59.124.75.130/sat/tv071
-华视,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tw-501&token=asd423gasg665#rtmp://59.124.75.130/sat/tv111
-民视,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tw-300&token=asd423gasg665#rtmp://59.124.75.130/sat/tv051
+华视,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tw-501&token=fafa22#rtmp://59.124.75.130/sat/tv111
+民视,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tw-300&token=fafa22#rtmp://59.124.75.130/sat/tv051
 TVBS·欢乐台,rtmp://59.124.75.130/sat/tv421
 TVBS·新闻台,rtmp://59.124.75.130/sat/tv551
 纬来体育,rtmp://59.124.75.130/sat/tv721
 纬来育乐,rtmp://59.124.75.130/sat/tv701
 纬来日本,rtmp://59.124.75.130/sat/tv521
 博斯网球,rtmp://59.124.75.130/sat/md011
+博斯运动1,rtmp://59.124.75.130/sat/md022
+博斯运动2,rtmp://59.124.75.130/sat/md032
 东森超视,rtmp://59.124.75.130/sat/tv771
 爱尔达体育一,rtmp://59.124.75.130/sat/md042
 东森财经新闻,rtmp://59.124.75.130:1935/sat/tv571
 MoMo综合台,rtmp://59.124.75.130/sat/tv761
-中视新闻,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tw-101&token=asd423gasg665
-中视经典,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tw-102&token=asd423gasg665
-中视菁采,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tw-103&token=asd423gasg665
-民视第一台,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tw-301&token=asd423gasg665
-民视新聞台,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tw-302&token=asd423gasg665
-民视台湾台,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tw-304&token=asd423gasg665
-华视新闻资讯,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tw-503&token=asd423gasg665
-华视教育体育文化,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tw-502&token=asd423gasg665
+中视新闻,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tw-101&token=fafa22
+中视经典,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tw-102&token=fafa22
+中视菁采,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tw-103&token=fafa22
+民视第一台,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tw-301&token=fafa22
+民视新聞台,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tw-302&token=fafa22
+民视台湾台,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tw-304&token=fafa22
+华视新闻资讯,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tw-503&token=fafa22
+华视教育体育文化,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tw-502&token=fafa22
 
 
 地方,#genre#
@@ -267,6 +273,10 @@ Y+频道,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 无锡生活,http://149.129.100.78/wuxi.php?type=tv&id=wxtv4
 无锡经济,http://149.129.100.78/wuxi.php?type=tv&id=wxtv5
 无锡都市资讯,http://149.129.100.78/wuxi.php?type=tv&id=wxtv3
+常州新闻综合,http://223.110.246.80/ott.js.chinamobile.com/PLTV/4/224/3221227899/index.m3u8
+常州都市,http://223.110.246.82/ott.js.chinamobile.com/PLTV/4/224/3221227955/index.m3u8
+常州生活,http://223.110.246.80/ott.js.chinamobile.com/PLTV/4/224/3221227902/index.m3u8
+常州公共,http://223.110.246.82/ott.js.chinamobile.com/PLTV/4/224/3221227905/index.m3u8
 句容新闻综合,http://218.3.92.100:1937/live/jrxwzh/playlist.m3u8
 句容党建频道,http://218.3.92.100:1937/live/dangjian/playlist.m3u8
 句容影视,http://218.3.92.100:1937/live/yingshi/playlist.m3u8#http://218.3.92.100:1937/live/yingshi/chunklist_w365370764.m3u8
