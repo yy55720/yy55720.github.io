@@ -208,11 +208,14 @@ Y+频道,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 福建经济,rtsp://183.252.166.199/PLTV/88888888/224/3221226117/10000100000000060000000002358072_0.smil
 福建体育,rtsp://183.252.166.199/PLTV/88888888/224/3221226127/10000100000000060000000002434540_0.smil
 福建新闻,rtsp://183.252.166.199/PLTV/88888888/224/3221226116/10000100000000060000000002358068_0.smil#rtsp://183.252.176.54:554/PLTV/88888888/224/3221226116/10000100000000060000000002358068_0.smil
-福建福清综合,http://60.191.47.55/tv_radio_37652/tv_channel_699__redirect__37652.m3u8
+厦门1综合,http://39.135.230.83/ott.fj.chinamobile.com/PLTV/88888888/224/3221226814/index.m3u8
+厦门2海峡,http://39.135.230.76/ott.fj.chinamobile.com/PLTV/88888888/224/3221226777/index.m3u8
+厦门3生活,http://39.135.230.80/ott.fj.chinamobile.com/PLTV/88888888/224/3221226760/index.m3u8
 福州综合,http://live.zohi.tv/video/s10001-FZTV-1/index.m3u8
 福州影视,http://live.zohi.tv/video/s10001-yspd-2/index.m3u8
 福州生活,http://live.zohi.tv/video/s10001-shpd-3/index.m3u8
 福州少儿,http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
+福建福清综合,http://60.191.47.55/tv_radio_37652/tv_channel_699__redirect__37652.m3u8
 浙江钱江频道,http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
 浙江经济生活,http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8
 浙江教科影视,http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
@@ -808,7 +811,7 @@ CNC·英文台,http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
 乡村爱情D,http://tx2play1.douyucdn.cn/live/9356342rcA2Kstqd.xs
 爱情公寓3,http://149.129.100.78/egame.php?id=322842111
 鬼吹灯精绝古城,http://121.12.115.15/tx.hls.huya.com/src/1423782025-1423782025-6115097234007654400-2847687506-10057-A-0-1.m3u8#http://txtest-xp2p.p2p.huya.com/src/1423782025-1423782025-6115097234007654400-2847687506-10057-A-0-1.m3u8#http://kuqq.tk/00/huya.php?id=11352871
-西游记,https://tx2play1.douyucdn.cn/live/5472438rR8bc66Hj.flv
+西游记,https://tx2play1.douyucdn.cn/live/5472438rR8bc66Hj.xs
 周星驰,http://txtest-xp2p.p2p.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.m3u8#http://kuqq.tk/00/huya.php?id=11342412
 周星驰1,http://121.12.115.15/tx.hls.huya.com/src/1099531728510-1099531728510-86331995155595264-2199063580476-10057-A-0-1.m3u8
 林正英,http://121.12.115.15/tx.hls.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.m3u8#http://txtest-xp2p.p2p.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.m3u8#http://kuqq.tk/00/huya.php?id=11342421
@@ -827,10 +830,7 @@ CNC·英文台,http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
 搞笑,http://121.12.115.15/tx.hls.huya.com/src/1394575546-1394575546-5989656361871343616-2789274548-10057-A-0-1.m3u8#http://txtest-xp2p.p2p.huya.com/src/1394575546-1394575546-5989656361871343616-2789274548-10057-A-0-1.m3u8
 爆笑,http://121.12.115.15/tx.hls.huya.com/src/1449581164-1449581164-6225903692277612544-2847699154-10057-A-0-1.m3u8#http://txtest-xp2p.p2p.huya.com/src/1449581164-1449581164-6225903692277612544-2847699154-10057-A-0-1.m3u8
 李小哇絮叨叨,http://121.12.115.15/tx.hls.huya.com/src/1199515315044-1199515315044-5237452600151900160-2399030753544-10057-A-0-1.m3u8#http://txtest-xp2p.p2p.huya.com/src/1199515315044-1199515315044-5237452600151900160-2399030753544-10057-A-0-1.m3u8
-优酷香港电影,http://stream.guihet.com/t/youkulive.php?id=8110960
-优酷TVB经典老港剧,http://stream.guihet.com/t/youkulive.php?id=8110961
-优酷老港片,http://stream.guihet.com/t/youkulive.php?id=8110962
-优酷宋小宝合辑,http://stream.guihet.com/t/youkulive.php?id=8104067
+斗鱼电影,http://tx2play1.douyucdn.cn/live/52787rlKxxm8FSi5.xs
 百视通轮播(谍战),http://39.135.230.66/ott.fj.chinamobile.com/PLTV/88888888/224/3221227045/index.m3u8
 百视通轮播(科幻),http://39.135.230.79/ott.fj.chinamobile.com/PLTV/88888888/224/3221227037/index.m3u8
 百视通轮播1,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227134/index.m3u8
