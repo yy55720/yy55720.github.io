@@ -153,8 +153,6 @@ MoMo综合台,rtmp://59.124.75.130/sat/tv761
 
 
 地方,#genre#
-五河综合,http://60.170.109.149:1935/live/wuhe2/chunklist_w485362373.m3u8
-全纪实,http://183.207.255.188/live/program/live/qjshd/4000000/mnf.m3u8
 金鹰纪实,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226975/index.m3u8#http://ivi.bupt.edu.cn/hls/gedocu.m3u8#rtmp://ivi.bupt.edu.cn:1935/livetv/gedocu
 Y+频道,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 北京纪实,http://117.169.119.199:8080/live/HD-8000k-1080P-beijingjishi/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225676/index.m3u8#http://ivi.bupt.edu.cn/hls/btv11hd.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225675/index.m3u8
@@ -179,7 +177,7 @@ Y+频道,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 上海都市频道,http://183.207.255.188/live/program/live/ylpdhd/4000000/mnf.m3u8#http://58.211.84.24/keonline.shanghai.liveplay.qq.com/live/program/live/ylpdhd/4000000/mnf.m3u8
 上海外语频道,http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8
 上海第一财经,http://183.207.255.188/live/program/live/dycjhd/4000000/mnf.m3u8#http://39.134.168.91/PLTV/1/224/3221225494/index.m3u8
-上海纪实频道,http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225654/index.m3u8
+上海全纪实,http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225654/index.m3u8
 上海五星体育,http://183.207.255.188/live/program/live/ssty/4000000/mnf.m3u8
 上海劲爆体育,http://183.207.255.188/live/program/live/jbtyhd/4000000/mnf.m3u8
 上海新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8#http://125.210.152.18:9090/live/XSJHD_H265.m3u8
