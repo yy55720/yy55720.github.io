@@ -134,10 +134,10 @@ NOW新闻,http://47.242.54.220/daili/yang.php?token=sasafa742&tid=zdy4&id=nowxw
 原住民电视,http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 NHK华语视界,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 Fox Family,https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
-中视,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tw-100&token=fafa22#rtmp://59.124.75.130/sat/tv091
+中视,rtmp://59.124.75.130/sat/tv091
 台视,rtmp://59.124.75.130/sat/tv071
-华视,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tw-501&token=fafa22#rtmp://59.124.75.130/sat/tv111
-民视,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tw-300&token=fafa22#rtmp://59.124.75.130/sat/tv051
+华视,rtmp://59.124.75.130/sat/tv111
+民视,rtmp://59.124.75.130/sat/tv051
 TVBS·欢乐台,rtmp://59.124.75.130/sat/tv421
 TVBS·新闻台,rtmp://59.124.75.130/sat/tv551
 纬来体育,rtmp://59.124.75.130/sat/tv721
@@ -150,14 +150,6 @@ TVBS·新闻台,rtmp://59.124.75.130/sat/tv551
 爱尔达体育一,rtmp://59.124.75.130/sat/md042
 东森财经新闻,rtmp://59.124.75.130:1935/sat/tv571
 MoMo综合台,rtmp://59.124.75.130/sat/tv761
-中视新闻,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tw-101&token=fafa22
-中视经典,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tw-102&token=fafa22
-中视菁采,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tw-103&token=fafa22
-民视第一台,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tw-301&token=fafa22
-民视新聞台,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tw-302&token=fafa22
-民视台湾台,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tw-304&token=fafa22
-华视新闻资讯,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tw-503&token=fafa22
-华视教育体育文化,http://qj.yyrjdp.cn/jiuban/iptv5/qita222.php?id=tw-502&token=fafa22
 
 
 地方,#genre#
