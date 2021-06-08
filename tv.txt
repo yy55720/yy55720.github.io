@@ -114,13 +114,21 @@ NOW新闻,http://47.242.54.220/daili/yang.php?token=sasafa742&tid=zdy4&id=nowxw
 亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 唯心電視,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
-澳门莲花,http://149.129.100.78/lotus.php?id=1
+澳门莲花,http://mfbusjhe2as.2us.free.duil.cn/lotustv.php
 澳亚卫视,https://live.mastvnet.com/4rlff1m/1024/live.m3u8#http://live.mastvnet.com/4rlff1m/live.m3u8
 澳视澳门,http://61.244.22.4/ch1/ch1.live/playelist.m3u8
 澳视葡文,http://61.244.22.4/ch2/ch2.live/playelist.m3u8
 澳门MACAU,http://61.244.22.4/ch3/ch3.live/playelist.m3u8#http://61.244.22.4/ch3/ch3.live/index.m3u8
 澳视资讯,http://61.244.22.4/ch5/info_ch5.live/playlist.m3u8
 澳视综艺,http://61.244.22.5/ch6/_definst_/hd_ch6.live/playlist.m3u8
+AFC-美食,https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
+FOX-生活,https://livecdn.fptplay.net/foxlive/foxlifehd_2000.stream/chunklist.m3u8
+FOX-FS1,http://stream.fs1.tv:8080/hls/webstream.m3u8
+FOX-体育一台,http://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+FOX-体育二台,http://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+FOX-体育三台,http://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
+TLC-旅游生活,https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
+索尼动画,https://livecdn.fptplay.net/hda3/animaxport_2000.stream/.m3u8
 
 
 台湾,#genre#
@@ -153,9 +161,10 @@ MoMo综合台,rtmp://59.124.75.130/sat/tv761
 
 
 地方,#genre#
+全纪实,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226580/index.m3u8#http://140.207.241.2:8080/live/program/live/qjshd/4000000/mnf.m3u8
 金鹰纪实,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226975/index.m3u8#http://ivi.bupt.edu.cn/hls/gedocu.m3u8#rtmp://ivi.bupt.edu.cn:1935/livetv/gedocu
 Y+频道,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
-北京纪实,http://117.169.119.199:8080/live/HD-8000k-1080P-beijingjishi/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225676/index.m3u8#http://ivi.bupt.edu.cn/hls/btv11hd.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225675/index.m3u8
+北京纪实,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8#http://ivi.bupt.edu.cn/hls/btv11hd.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225675/index.m3u8#http://117.169.119.199:8080/live/HD-8000k-1080P-beijingjishi/index.m3u8
 北京文艺,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226440/1.m3u8#http://ivi.bupt.edu.cn/hls/btv2hd.m3u8
 北京科教,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226559/1.m3u8
 北京影视,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226486/1.m3u8#http://ivi.bupt.edu.cn/hls/btv4hd.m3u8
@@ -177,7 +186,7 @@ Y+频道,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 上海都市频道,http://183.207.255.188/live/program/live/ylpdhd/4000000/mnf.m3u8#http://58.211.84.24/keonline.shanghai.liveplay.qq.com/live/program/live/ylpdhd/4000000/mnf.m3u8
 上海外语频道,http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8
 上海第一财经,http://183.207.255.188/live/program/live/dycjhd/4000000/mnf.m3u8#http://39.134.168.91/PLTV/1/224/3221225494/index.m3u8
-上海全纪实,http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225654/index.m3u8
+上海纪实人文,http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225654/index.m3u8
 上海五星体育,http://183.207.255.188/live/program/live/ssty/4000000/mnf.m3u8
 上海劲爆体育,http://183.207.255.188/live/program/live/jbtyhd/4000000/mnf.m3u8
 上海新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8#http://125.210.152.18:9090/live/XSJHD_H265.m3u8
@@ -603,6 +612,7 @@ CCTV-5+体育赛事,http://223.110.245.139:80/PLTV/4/224/3221227480/index.m3u8#h
 体育赛事,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226803/index.m3u8
 精彩体育,http://39.134.19.57/PLTV/88888888/224/3221225809/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226010/index.m3u8
 魅力足球,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
+RMC,http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/26277
 山东体育,http://livealone302.iqilu.com/iqilu/typd.m3u8
 上海五星体育,http://183.207.255.188/live/program/live/ssty/4000000/mnf.m3u8#http://183.207.255.188/live/program/live/ssty/4000000/mnf.m3u8
 上海劲爆体育,http://183.207.255.188/live/program/live/jbtyhd/4000000/mnf.m3u8
