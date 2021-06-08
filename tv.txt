@@ -161,7 +161,7 @@ MoMo综合台,rtmp://59.124.75.130/sat/tv761
 
 
 地方,#genre#
-全纪实,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226580/index.m3u8#http://140.207.241.2:8080/live/program/live/qjshd/4000000/mnf.m3u8
+全纪实,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226580/index.m3u8#http://112.25.48.68/live/program/live/qjshd/4000000/mnf.m3u8#http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/qjshd/4000000/mnf.m3u8#http://183.207.255.190/live/program/live/qjshd/4000000/mnf.m3u8#http://shbu.live.bestvcdn.com.cn:8080/live/program/live/qjshd/4000000/mnf.m3u8#http://140.207.241.2:8080/live/program/live/qjshd/4000000/mnf.m3u8
 金鹰纪实,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226975/index.m3u8#http://ivi.bupt.edu.cn/hls/gedocu.m3u8#rtmp://ivi.bupt.edu.cn:1935/livetv/gedocu
 Y+频道,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 北京纪实,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8#http://ivi.bupt.edu.cn/hls/btv11hd.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225675/index.m3u8#http://117.169.119.199:8080/live/HD-8000k-1080P-beijingjishi/index.m3u8
