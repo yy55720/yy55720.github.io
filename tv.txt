@@ -106,9 +106,6 @@ J2,http://185.207.176.189:8080/channels/tv-82/mpeg.2ts
 星空体育,rtmp://ivi.bupt.edu.cn:1935/livetv/starsports#rtmp://58.200.131.2:1935/livetv/starsports
 Channel[V],rtmp://58.200.131.2:1935/livetv/channelv#rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
 有线18台,rtmp://59.124.75.130/sat/hk041
-有线新闻,http://47.242.54.220/daili/yang.php?token=sasafa742&tid=zdy4&id=yxxw
-NOW新闻,http://47.242.54.220/daili/yang.php?token=sasafa742&tid=zdy4&id=nowxw
-香港开电视,http://47.242.54.220/daili/yang.php?token=sasafa742&tid=zdy4&id=kds
 无线新闻台,http://185.207.176.189:8080/channels/tv-83/mpeg.2ts
 亚美卫视,http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
 亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
@@ -811,6 +808,7 @@ CNC·英文台,http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
 乡村爱情D,http://tx2play1.douyucdn.cn/live/9356342rcA2Kstqd.xs
 爱情公寓3,http://149.129.100.78/egame.php?id=322842111
 鬼吹灯精绝古城,http://121.12.115.15/tx.hls.huya.com/src/1423782025-1423782025-6115097234007654400-2847687506-10057-A-0-1.m3u8#http://txtest-xp2p.p2p.huya.com/src/1423782025-1423782025-6115097234007654400-2847687506-10057-A-0-1.m3u8#http://kuqq.tk/00/huya.php?id=11352871
+神探狄仁杰,http://tx2play1.douyucdn.cn/live/6166636rlzDSu5Nr.xs#http://tx2play1.douyucdn.cn/live/6027991rD7gZZeor.xs#http://tx2play1.douyucdn.cn/live/674441rcLqscn0Q6.xs
 西游记,https://tx2play1.douyucdn.cn/live/5472438rR8bc66Hj.xs
 周星驰,http://txtest-xp2p.p2p.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.m3u8#http://kuqq.tk/00/huya.php?id=11342412
 周星驰1,http://121.12.115.15/tx.hls.huya.com/src/1099531728510-1099531728510-86331995155595264-2199063580476-10057-A-0-1.m3u8
