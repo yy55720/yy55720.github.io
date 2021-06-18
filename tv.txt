@@ -805,6 +805,7 @@ SiTV都市剧场,http://39.134.39.39/PLTV/88888888/224/3221226176/index.m3u8
 SiTV东方影视,http://39.134.39.39/PLTV/88888888/224/3221226189/index.m3u8
 SiTV五星体育,http://39.134.39.39/PLTV/88888888/224/3221226178/index.m3u8
 KiD影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+4K花园,http://223.110.243.163/ott.js.chinamobile.com/PLTV/3/224/3221227749/index.m3u8
 BesTV 4K电影,http://39.134.176.144/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229311/01.m3u8?fmt=ts2hls
 BesTV 4K,http://39.135.230.79/ott.fj.chinamobile.com/PLTV/88888888/224/3221226952/index.m3u8#http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226952/index.m3u8
 纯享4K,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8#http://111.12.102.68:6610/PLTV/77777777/224/3221225726/index.m3u8?#http://39.135.138.59:18890/PLTV/88888910/224/3221225786/index.m3u8
