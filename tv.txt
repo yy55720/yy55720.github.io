@@ -36,8 +36,8 @@ CCTV央视文化精品,http://58.200.190.80/hls/hls61.m3u8#rtmp://ivi.bupt.edu.c
 CCTV电视指南,https://itv.ahcme.edu.cn/hls/hls186a88.m3u8
 CCTV央视台球,https://itv.ahcme.edu.cn/hls/hls184a574.m3u8
 CCTV高尔夫网球,http://223.110.243.154/ott.js.chinamobile.com/PLTV/3/224/3221227601/index.m3u8
-CGTN,https://live.cgtn.com/1000/prog_index.m3u8
-CGTN记录,https://livedoc.cgtn.com/1000d/prog_index.m3u8#http://111.12.102.68:6610/PLTV/77777777/224/3221225707/index.m3u8?
+CGTN,http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/chunklist_w1018196661_b1000000.m3u8#https://live.cgtn.com/1000/prog_index.m3u8
+CGTN记录,http://58.200.190.80/hls/hls67a43.m3u8#https://livedoc.cgtn.com/1000d/prog_index.m3u8#http://111.12.102.68:6610/PLTV/77777777/224/3221225707/index.m3u8?
 CGTN法语,https://livefr.cgtn.com/1000f/prog_index.m3u8
 CGTN俄语,https://liveru.cgtn.com/1000r/prog_index.m3u8
 CGTN阿拉伯语,https://livear.cgtn.com/1000a/prog_index.m3u8
