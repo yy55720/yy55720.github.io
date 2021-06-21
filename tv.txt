@@ -754,7 +754,7 @@ NewTV云南,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225795/index.
 
 
 网络,#genre#
-英雄联盟赛事,http://tx2play1.douyucdn.cn/live/288016rlols5.xs#http://121.12.115.15/tx.hls.huya.com/src/78941969-2559461593-10992803837303062528-2693342886-10057-A-0-1.m3u8#http://txtest-xp2p.p2p.huya.com/src/78941969-2559461593-10992803837303062528-2693342886-10057-A-0-1.m3u8
+英雄联盟赛事,http://tx2play1.douyucdn.cn/live/288016rlols5.xs#http://auney.gearhostpreview.com/huya.php?id=lpl#http://txtest-xp2p.p2p.huya.com/src/78941969-2559461593-10992803837303062528-2693342886-10057-A-0-1.m3u8
 IPTV淘电影,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8#http://39.134.135.80:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8#http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
 IPTV淘剧场,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226553/1.m3u8#http://39.134.135.80:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226553/1.m3u8#http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226553/1.m3u8
 IPTV淘娱乐,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226551/1.m3u8#http://39.135.238.101:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226551/1.m3u8#http://39.135.238.69/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226551/1.m3u8
