@@ -839,6 +839,8 @@ IPTV相声小品,http://39.134.39.37/PLTV/88888888/224/3221226260/index.m3u8
 神探狄仁杰,http://tx2play1.douyucdn.cn/live/6027991rD7gZZeor.xs
 西游记,https://tx2play1.douyucdn.cn/live/5472438rR8bc66Hj.xs
 第八号当铺,https://cn-jxnc-cmcc-live-02.bilivideo.com/live-bvc/973328/live_265161233_8876795.m3u8#http://42.56.91.136/live-bvc/973328/live_265161233_8876795.m3u8
+第八号当铺1,http://auney.gearhostpreview.com/huya.php?id=21059568
+大头绿衣斗僵尸,http://auney.gearhostpreview.com/huya.php?id=23865152
 周星驰,http://auney.gearhostpreview.com/huya.php?id=11342412#http://kuqq.tk/00/huya.php?id=11342412
 林正英,http://auney.gearhostpreview.com/huya.php?id=11342421#http://txtest-xp2p.p2p.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.m3u8#http://kuqq.tk/00/huya.php?id=11342421
 成龙,http://auney.gearhostpreview.com/huya.php?id=11342386#http://txtest-xp2p.p2p.huya.com/src/1394565191-1394565191-5989611887484993536-2789253838-10057-A-0-1.m3u8#http://kuqq.tk/00/huya.php?id=11342386
@@ -925,12 +927,13 @@ IPTV谍战剧场,http://39.134.39.37/PLTV/88888888/224/3221226256/index.m3u8
 
 
 少儿频道,#genre#
-中华小当家,http://121.12.115.15/tx.hls.huya.com/src/1449588921-1449588921-6225937008338927616-2789274526-10057-A-0-1.m3u8#http://txtest-xp2p.p2p.huya.com/src/1449588921-1449588921-6225937008338927616-2789274526-10057-A-0-1.m3u8
-猫和老鼠,http://121.12.115.15/tx.hls.huya.com/src/1423782038-1423782038-6115097289842229248-2847687532-10057-A-0-1.m3u8#http://txtest-xp2p.p2p.huya.com/src/1423782038-1423782038-6115097289842229248-2847687532-10057-A-0-1.m3u8#http://kuqq.tk/00/huya.php?id=11352879
+中华小当家,http://auney.gearhostpreview.com/huya.php?id=11342413#http://txtest-xp2p.p2p.huya.com/src/1449588921-1449588921-6225937008338927616-2789274526-10057-A-0-1.m3u8
+猫和老鼠,http://auney.gearhostpreview.com/huya.php?id=11352879#http://txtest-xp2p.p2p.huya.com/src/1423782038-1423782038-6115097289842229248-2847687532-10057-A-0-1.m3u8#http://kuqq.tk/00/huya.php?id=11352879
 猫和老鼠1,http://42.56.91.136/live-bvc/190338/live_39734764_8369517.m3u8
 猫和老鼠2,https://cn-jxnc-cmcc-live-02.bilivideo.com/live-bvc/377372/live_2370062_9705826.m3u8
 猫和老鼠3,https://cn-jxnc-cmcc-live-02.bilivideo.com/live-bvc/688999/live_8244646_5219019.m3u8
-四驱兄弟,http://121.12.115.15/tx.hls.huya.com/src/1423782104-1423782104-6115097573310070784-2847687664-10057-A-0-1.m3u8#http://txtest-xp2p.p2p.huya.com/src/1423782104-1423782104-6115097573310070784-2847687664-10057-A-0-1.m3u8
+四驱兄弟,http://auney.gearhostpreview.com/huya.php?id=11352922#http://txtest-xp2p.p2p.huya.com/src/1423782104-1423782104-6115097573310070784-2847687664-10057-A-0-1.m3u8
+蜡笔小新,http://auney.gearhostpreview.com/huya.php?id=11352970
 哈哈炫动,http://183.207.255.190/live/program/live/hhxdhd/4000000/mnf.m3u8#http://223.110.245.163/ott.js.chinamobile.com/PLTV/3/224/3221226388/index.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226421/1.m3u8
 卡酷少儿,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226558/1.m3u8#rtmp://58.200.131.2:1935/livetv/btv10hd
 嘉佳卡通,http://183.207.255.188/live/program/live/jjkt/1300000/mnf.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226539/1.m3u8
