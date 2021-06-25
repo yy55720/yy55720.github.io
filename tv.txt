@@ -842,6 +842,7 @@ IPTV相声小品,http://39.134.39.37/PLTV/88888888/224/3221226260/index.m3u8
 使徒行者,http://epg.112114.xyz/douyu/7810803
 第八号当铺,https://cn-jxnc-cmcc-live-02.bilivideo.com/live-bvc/973328/live_265161233_8876795.m3u8#http://42.56.91.136/live-bvc/973328/live_265161233_8876795.m3u8
 第八号当铺1,http://auney.gearhostpreview.com/huya.php?id=21059568
+康熙王朝,http://auney.gearhostpreview.com/huya.php?id=11352940
 周星驰,http://auney.gearhostpreview.com/huya.php?id=11342412#http://kuqq.tk/00/huya.php?id=11342412
 林正英,http://auney.gearhostpreview.com/huya.php?id=11342421#http://kuqq.tk/00/huya.php?id=11342421
 成龙,http://auney.gearhostpreview.com/huya.php?id=11342386#http://kuqq.tk/00/huya.php?id=11342386
