@@ -839,6 +839,7 @@ IPTV相声小品,http://39.134.39.37/PLTV/88888888/224/3221226260/index.m3u8
 神探狄仁杰,http://tx2play1.douyucdn.cn/live/6027991rD7gZZeor.xs
 西游记,https://tx2play1.douyucdn.cn/live/5472438rR8bc66Hj.xs
 刑事侦缉档案1-4,http://epg.112114.xyz/douyu/105265
+使徒行者,http://epg.112114.xyz/douyu/7810803
 第八号当铺,https://cn-jxnc-cmcc-live-02.bilivideo.com/live-bvc/973328/live_265161233_8876795.m3u8#http://42.56.91.136/live-bvc/973328/live_265161233_8876795.m3u8
 第八号当铺1,http://auney.gearhostpreview.com/huya.php?id=21059568
 周星驰,http://auney.gearhostpreview.com/huya.php?id=11342412#http://kuqq.tk/00/huya.php?id=11342412
