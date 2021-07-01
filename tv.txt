@@ -176,11 +176,12 @@ Y+频道,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 上海五星体育,http://183.207.255.188/live/program/live/ssty/4000000/mnf.m3u8
 上海劲爆体育,http://183.207.255.188/live/program/live/jbtyhd/4000000/mnf.m3u8
 上海新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8#http://125.210.152.18:9090/live/XSJHD_H265.m3u8
-上海极速汽车,http://183.207.255.188/live/program/live/jsqchd/4000000/mnf.m3u8#http://39.134.39.39/PLTV/88888888/224/3221226195/index.m3u8
-上海动漫秀场,http://183.207.255.188/live/program/live/dmxchd/4000000/mnf.m3u8#http://39.134.39.39/PLTV/88888888/224/3221226197/index.m3u8
-上海欢笑剧场,http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8#http://39.134.39.39/PLTV/88888888/224/3221226203/index.m3u8#http://39.134.39.38/PLTV/88888888/224/3221226203/index.m3u8
-上海生活时尚,http://183.207.255.188/live/program/live/shsshd/4000000/mnf.m3u8#http://39.134.168.91/PLTV/1/224/3221225498/index.m3u8
-上海游戏风云,http://183.207.255.188/live/program/live/yxfyhd/4000000/mnf.m3u8#http://39.134.39.39/PLTV/88888888/224/3221226187/index.m3u8
+上海极速汽车,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226583/index.m3u8#http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227017/index.m3u8#http://39.134.39.37/PLTV/88888888/224/3221226195/index.m3u8#http://183.207.255.188/live/program/live/jsqchd/4000000/mnf.m3u8#http://39.134.39.39/PLTV/88888888/224/3221226195/index.m3u8
+上海动漫秀场,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227021/index.m3u8#http://183.207.255.188/live/program/live/dmxchd/4000000/mnf.m3u8#http://39.134.39.39/PLTV/88888888/224/3221226197/index.m3u8#http://39.134.39.37/PLTV/88888888/224/3221226197/index.m3u8
+上海欢笑剧场,http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8#http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227114/index.m3u8#http://223.110.243.153/ott.js.chinamobile.com/PLTV/3/224/3221227715/index.m3u8#http://39.134.39.37/PLTV/88888888/224/3221226203/index.m3u8#http://39.134.39.39/PLTV/88888888/224/3221226203/index.m3u8#http://39.134.39.38/PLTV/88888888/224/3221226203/index.m3u8
+上海都市剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226581/index.m3u8#http://39.134.39.39/PLTV/88888888/224/3221226176/index.m3u8#http://39.134.39.37/PLTV/88888888/224/3221226176/index.m3u8
+上海生活时尚,http://183.207.255.188/live/program/live/shsshd/4000000/mnf.m3u8#http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227029/index.m3u8#http://39.134.168.91/PLTV/1/224/3221225498/index.m3u8
+上海游戏风云,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226579/index.m3u8#http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227033/index.m3u8#http://183.207.255.188/live/program/live/yxfyhd/4000000/mnf.m3u8#http://39.134.39.39/PLTV/88888888/224/3221226187/index.m3u8#http://39.134.39.37/PLTV/88888888/224/3221226187/index.m3u8
 上海法制天地,http://183.207.255.188/live/program/live/fztd/1300000/mnf.m3u8#http://39.134.39.37/PLTV/88888888/224/3221226331/index.m3u8
 上海浦东财经,http://183.207.255.188/live/program/live/dfcj/1300000/mnf.m3u8
 上海七彩戏曲,http://183.207.255.188/live/program/live/qcxj/1300000/mnf.m3u8#http://39.134.39.37/PLTV/88888888/224/3221225691/index.m3u8
@@ -758,6 +759,14 @@ CBN风尚生活,http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hl
 CHC高清电影,http://58.200.190.80/hls/chchd.m3u8#http://ivi.bupt.edu.cn/hls/chchd.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8#http://111.20.105.60:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8   
 CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8#http://111.20.105.60:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
 CHC家庭影院,http://111.20.105.60:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
+SiTV欢笑剧场,http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8#http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227114/index.m3u8#http://223.110.243.153/ott.js.chinamobile.com/PLTV/3/224/3221227715/index.m3u8#http://39.134.39.37/PLTV/88888888/224/3221226203/index.m3u8#http://39.134.39.39/PLTV/88888888/224/3221226203/index.m3u8#http://39.134.39.38/PLTV/88888888/224/3221226203/index.m3u8
+SiTV都市剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226581/index.m3u8#http://39.134.39.39/PLTV/88888888/224/3221226176/index.m3u8#http://39.134.39.37/PLTV/88888888/224/3221226176/index.m3u8
+SiTV动漫秀场,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227021/index.m3u8#http://183.207.255.188/live/program/live/dmxchd/4000000/mnf.m3u8#http://39.134.39.39/PLTV/88888888/224/3221226197/index.m3u8#http://39.134.39.37/PLTV/88888888/224/3221226197/index.m3u8
+SiTV劲爆体育,http://183.207.255.188/live/program/live/jbtyhd/4000000/mnf.m3u8
+SiTV极速汽车,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226583/index.m3u8#http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227017/index.m3u8#http://39.134.39.37/PLTV/88888888/224/3221226195/index.m3u8#http://183.207.255.188/live/program/live/jsqchd/4000000/mnf.m3u8#http://39.134.39.39/PLTV/88888888/224/3221226195/index.m3u8
+SiTV游戏风云,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226579/index.m3u8#http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227033/index.m3u8#http://183.207.255.188/live/program/live/yxfyhd/4000000/mnf.m3u8#http://39.134.39.39/PLTV/88888888/224/3221226187/index.m3u8#http://39.134.39.37/PLTV/88888888/224/3221226187/index.m3u8
+SiTV东方影视,http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3u8
+SiTV五星体育,http://183.207.255.188/live/program/live/ssty/4000000/mnf.m3u8
 Hot亚洲影院,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228365/01.m3u8?fmt=ts2hls
 Hot欧美影院,http://39.134.176.151/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228384/01.m3u8?fmt=ts2hls
 Hot精品剧场,http://39.134.176.160/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228360/01.m3u8?fmt=ts2hls
@@ -768,14 +777,6 @@ Hot高清娱乐,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888
 Hot少儿动漫,http://39.134.176.151/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228387/01.m3u8?fmt=ts2hls
 Hot电子竞技,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228572/01.m3u8?fmt=ts2hls
 Hot炫动3D,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228578/01.m3u8?fmt=ts2hls
-SiTV动漫秀场,http://183.207.255.188/live/program/live/dmxchd/4000000/mnf.m3u8#http://39.134.39.39/PLTV/88888888/224/3221226197/index.m3u8
-SiTV劲爆体育,http://183.207.255.188/live/program/live/jbtyhd/4000000/mnf.m3u8
-SiTV极速汽车,http://183.207.255.188/live/program/live/jsqchd/4000000/mnf.m3u8#http://39.134.39.39/PLTV/88888888/224/3221226195/index.m3u8
-SiTV欢笑剧场,http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8#http://39.134.39.39/PLTV/88888888/224/3221226203/index.m3u8#http://39.134.39.38/PLTV/88888888/224/3221226203/index.m3u8
-SiTV游戏风云,http://183.207.255.188/live/program/live/yxfyhd/4000000/mnf.m3u8#http://39.134.39.39/PLTV/88888888/224/3221226187/index.m3u8
-SiTV都市剧场,http://39.134.39.39/PLTV/88888888/224/3221226176/index.m3u8
-SiTV东方影视,http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3u8
-SiTV五星体育,http://183.207.255.188/live/program/live/ssty/4000000/mnf.m3u8
 KiD影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 4K花园,http://223.110.243.163/ott.js.chinamobile.com/PLTV/3/224/3221227749/index.m3u8
 BesTV 4K电影,http://39.134.176.144/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229311/01.m3u8?fmt=ts2hls
@@ -864,7 +865,8 @@ Hot欧美影院,http://39.134.176.151/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888
 Hot精品剧场,http://39.134.176.160/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228360/01.m3u8?fmt=ts2hls
 KiD影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 北京影视,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226486/1.m3u8#http://ivi.bupt.edu.cn/hls/btv4hd.m3u8#http://ivi.bupt.edu.cn/hls/btv4.m3u8
-上海欢笑剧场,http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8
+上海欢笑剧场,http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8#http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227114/index.m3u8#http://223.110.243.153/ott.js.chinamobile.com/PLTV/3/224/3221227715/index.m3u8#http://39.134.39.37/PLTV/88888888/224/3221226203/index.m3u8#http://39.134.39.39/PLTV/88888888/224/3221226203/index.m3u8#http://39.134.39.38/PLTV/88888888/224/3221226203/index.m3u8
+上海都市剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226581/index.m3u8#http://39.134.39.39/PLTV/88888888/224/3221226176/index.m3u8#http://39.134.39.37/PLTV/88888888/224/3221226176/index.m3u8
 上海东方影视,http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3u8
 浙江教科影视,http://hw-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
 杭州影视,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229377/index.m3u8
