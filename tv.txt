@@ -176,11 +176,11 @@ Y+频道,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 上海五星体育,http://183.207.255.188/live/program/live/ssty/4000000/mnf.m3u8
 上海劲爆体育,http://183.207.255.188/live/program/live/jbtyhd/4000000/mnf.m3u8
 上海新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8#http://125.210.152.18:9090/live/XSJHD_H265.m3u8
-上海极速汽车,http://183.207.255.188/live/program/live/jsqchd/4000000/mnf.m3u8
+上海极速汽车,http://183.207.255.188/live/program/live/jsqchd/4000000/mnf.m3u8#http://39.134.39.39/PLTV/88888888/224/3221226195/index.m3u8
 上海动漫秀场,http://183.207.255.188/live/program/live/dmxchd/4000000/mnf.m3u8#http://39.134.39.39/PLTV/88888888/224/3221226197/index.m3u8
-上海欢笑剧场,http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8
-上海生活时尚,http://183.207.255.188/live/program/live/shsshd/4000000/mnf.m3u8
-上海游戏风云,http://183.207.255.188/live/program/live/yxfyhd/4000000/mnf.m3u8
+上海欢笑剧场,http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8#http://39.134.39.39/PLTV/88888888/224/3221226203/index.m3u8#http://39.134.39.38/PLTV/88888888/224/3221226203/index.m3u8
+上海生活时尚,http://183.207.255.188/live/program/live/shsshd/4000000/mnf.m3u8#http://39.134.168.91/PLTV/1/224/3221225498/index.m3u8
+上海游戏风云,http://183.207.255.188/live/program/live/yxfyhd/4000000/mnf.m3u8#http://39.134.39.39/PLTV/88888888/224/3221226187/index.m3u8
 上海法制天地,http://183.207.255.188/live/program/live/fztd/1300000/mnf.m3u8#http://39.134.39.37/PLTV/88888888/224/3221226331/index.m3u8
 上海浦东财经,http://183.207.255.188/live/program/live/dfcj/1300000/mnf.m3u8
 上海七彩戏曲,http://183.207.255.188/live/program/live/qcxj/1300000/mnf.m3u8#http://39.134.39.37/PLTV/88888888/224/3221225691/index.m3u8
@@ -765,17 +765,17 @@ Hot探索纪录,http://39.134.176.151/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888
 Hot漫游世界,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228581/01.m3u8?fmt=ts2hls
 Hot风尚音乐,http://39.134.176.154/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228344/01.m3u8?fmt=ts2hls
 Hot高清娱乐,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228575/01.m3u8?fmt=ts2hls
-Hot少儿动漫,http://101.71.255.229:6610/zjhs/2/10043/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://39.134.176.151/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228387/01.m3u8?fmt=ts2hls
+Hot少儿动漫,http://39.134.176.151/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228387/01.m3u8?fmt=ts2hls
 Hot电子竞技,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228572/01.m3u8?fmt=ts2hls
 Hot炫动3D,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228578/01.m3u8?fmt=ts2hls
-SiTV动漫秀场,http://39.134.39.39/PLTV/88888888/224/3221226197/index.m3u8
-SiTV劲爆体育,http://39.134.39.39/PLTV/88888888/224/3221226170/index.m3u8
-SiTV极速汽车,http://39.134.39.39/PLTV/88888888/224/3221226195/index.m3u8#http://39.134.39.39/PLTV/88888888/224/3221226310/index.m3u8
-SiTV欢笑剧场,http://39.134.39.39/PLTV/88888888/224/3221226203/index.m3u8#http://39.134.39.38/PLTV/88888888/224/3221226203/index.m3u8
-SiTV游戏风云,http://39.134.39.39/PLTV/88888888/224/3221226187/index.m3u8#http://39.134.39.39/PLTV/88888888/224/3221226337/index.m3u8
+SiTV动漫秀场,http://183.207.255.188/live/program/live/dmxchd/4000000/mnf.m3u8#http://39.134.39.39/PLTV/88888888/224/3221226197/index.m3u8
+SiTV劲爆体育,http://183.207.255.188/live/program/live/jbtyhd/4000000/mnf.m3u8
+SiTV极速汽车,http://183.207.255.188/live/program/live/jsqchd/4000000/mnf.m3u8#http://39.134.39.39/PLTV/88888888/224/3221226195/index.m3u8
+SiTV欢笑剧场,http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8#http://39.134.39.39/PLTV/88888888/224/3221226203/index.m3u8#http://39.134.39.38/PLTV/88888888/224/3221226203/index.m3u8
+SiTV游戏风云,http://183.207.255.188/live/program/live/yxfyhd/4000000/mnf.m3u8#http://39.134.39.39/PLTV/88888888/224/3221226187/index.m3u8
 SiTV都市剧场,http://39.134.39.39/PLTV/88888888/224/3221226176/index.m3u8
-SiTV东方影视,http://39.134.39.39/PLTV/88888888/224/3221226189/index.m3u8
-SiTV五星体育,http://39.134.39.39/PLTV/88888888/224/3221226178/index.m3u8
+SiTV东方影视,http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3u8
+SiTV五星体育,http://183.207.255.188/live/program/live/ssty/4000000/mnf.m3u8
 KiD影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 4K花园,http://223.110.243.163/ott.js.chinamobile.com/PLTV/3/224/3221227749/index.m3u8
 BesTV 4K电影,http://39.134.176.144/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229311/01.m3u8?fmt=ts2hls
@@ -784,8 +784,6 @@ BesTV 4K,http://39.135.230.79/ott.fj.chinamobile.com/PLTV/88888888/224/322122695
 爱上4k,http://39.134.24.220/PLTV/88888888/224/3221226005/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226352/1.m3u8#http://111.20.105.60:6060/yinhe/2/ch00000090990000001709/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV 4K,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229683/index.m3u8#http://39.134.176.144/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/01.m3u8?fmt=ts2hls
 咪咕4K,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226399/1.m3u8
-生活时尚,http://39.134.168.91/PLTV/1/224/3221225498/index.m3u8
-圆点生活,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226552/index.m3u8
 求索纪录,http://39.134.65.162/PLTV/88888888/224/3221225713/index.m3u8
 求索动物,http://39.134.66.66/PLTV/88888888/224/3221225730/index.m3u8#http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228980/01.m3u8?fmt=ts2hls#http://39.134.65.162/PLTV/88888888/224/3221225730/index.m3u8#http://125.210.152.18:9090/live/QSDW_1200.m3u8
 求索科学,http://39.134.65.162/PLTV/88888888/224/3221225728/index.m3u8#http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228975/01.m3u8?fmt=ts2hls#http://125.210.152.18:9090/live/QSKX_1200.m3u8
@@ -813,7 +811,8 @@ IPTV相声小品,http://39.134.39.37/PLTV/88888888/224/3221226260/index.m3u8
 神探狄仁杰0,http://epg.112114.xyz/douyu/674441#http://blanki.cf/api/douyu.php?id=674441
 西游记,https://tx2play1.douyucdn.cn/live/5472438rR8bc66Hj.xs#http://epg.112114.xyz/douyu/5472438#http://blanki.cf/api/douyu.php?id=5472438
 刑事侦缉档案1-4,http://epg.112114.xyz/douyu/105265#http://blanki.cf/api/douyu.php?id=105265
-使徒行者,http://epg.112114.xyz/douyu/7810803
+法证先锋,http://tx2play1.douyucdn.cn/live/9019945rt8mHpdMu.xs#http://epg.112114.xyz/douyu/9019945#http://blanki.cf/api/douyu.php?id=9019945
+使徒行者,http://epg.112114.xyz/douyu/7810803#http://blanki.cf/api/douyu.php?id=7810803
 第八号当铺,https://cn-jxnc-cmcc-live-02.bilivideo.com/live-bvc/973328/live_265161233_8876795.m3u8#http://42.56.91.136/live-bvc/973328/live_265161233_8876795.m3u8
 第八号当铺1,http://121.12.115.156/tx.hls.huya.com/src/1099531752762-1099531752762-86436156702457856-2199063628980-10057-A-0-1.m3u8
 康熙王朝,http://121.12.115.156/tx.hls.huya.com/src/1448737923-1448737923-6222281999759966208-2847699110-10057-A-0-1.m3u8
