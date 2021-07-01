@@ -144,22 +144,6 @@ TLC-旅游生活,https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chun
 原住民电视,http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 NHK华语视界,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 Fox Family,https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
-中视,rtmp://59.124.75.130/sat/tv091
-台视,rtmp://59.124.75.130/sat/tv071
-华视,rtmp://59.124.75.130/sat/tv111
-民视,rtmp://59.124.75.130/sat/tv051
-TVBS·欢乐台,rtmp://59.124.75.130/sat/tv421
-TVBS·新闻台,rtmp://59.124.75.130/sat/tv551
-纬来体育,rtmp://59.124.75.130/sat/tv721
-纬来育乐,rtmp://59.124.75.130/sat/tv701
-纬来日本,rtmp://59.124.75.130/sat/tv521
-博斯网球,rtmp://59.124.75.130/sat/md011
-博斯运动1,rtmp://59.124.75.130/sat/md022
-博斯运动2,rtmp://59.124.75.130/sat/md032
-东森超视,rtmp://59.124.75.130/sat/tv771
-爱尔达体育一,rtmp://59.124.75.130/sat/md042
-东森财经新闻,rtmp://59.124.75.130:1935/sat/tv571
-MoMo综合台,rtmp://59.124.75.130/sat/tv761
 
 
 地方,#genre#
@@ -754,30 +738,18 @@ NewTV云南,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225795/index.
 
 
 网络,#genre#
-英雄联盟赛事,http://tx2play1.douyucdn.cn/live/288016rlols5.xs#http://auney.gearhostpreview.com/huya.php?id=lpl#http://txtest-xp2p.p2p.huya.com/src/78941969-2559461593-10992803837303062528-2693342886-10057-A-0-1.m3u8
+英雄联盟赛事,http://tx2play1.douyucdn.cn/live/288016rlols5.xs#http://121.12.115.156/tx.hls.huya.com/src/78941969-2559461593-10992803837303062528-2693342886-10057-A-0-1.m3u8#http://auney.gearhostpreview.com/huya.php?id=lpl
+魔法电影,rtmp://6721.liveplay.now.qq.com:1935/live/6721_add818f0f0d19b173950051ef9b56a2f?txSecret+cd91c19fd31d30545b60645cbfbaf707&txTime=60D60BDD
 IPTV淘电影,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8#http://39.134.135.80:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8#http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
 IPTV淘剧场,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226553/1.m3u8#http://39.134.135.80:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226553/1.m3u8#http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226553/1.m3u8
 IPTV淘娱乐,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226551/1.m3u8#http://39.135.238.101:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226551/1.m3u8#http://39.135.238.69/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226551/1.m3u8
 IPTV淘BABY,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226554/1.m3u8
 IPTV萌宠TV,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226555/1.m3u8#http://39.135.238.68:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226555/1.m3u8#http://39.135.238.68/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226555/1.m3u8
 IPTV4K超清,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226550/1.m3u8
-N亚洲电影,http://58.200.190.80/hls/hls30.m3u8
-N热播电影,http://58.200.190.80/hls/hls32.m3u8
-N原声电影,http://58.200.190.80/hls/hls33.m3u8
-N怀旧电影,http://58.200.190.80/hls/hls48.m3u8
-N生活剧场,http://58.200.190.80/hls/hls37.m3u8
-N家庭影院,http://58.200.190.80/hls/hls39.m3u8
-N古装剧场,http://58.200.190.80/hls/hls54.m3u8
-N经典剧场,http://58.200.190.80/hls/hls89.m3u8
-N纪录片,http://58.200.190.80/hls/hls66.m3u8
-N译制片,http://58.200.190.80/hls/hls31.m3u8
-N高清HD家庭影院,http://58.200.190.80/hls/hls166.m3u8#rtmp://58.200.131.2:1935/livetv/jtyyhd#http://58.200.190.80/hls/hls75a29.m3u8
-N高清HD家庭剧场,http://58.200.190.80/hls/hls165.m3u8#rtmp://58.200.131.2:1935/livetv/jtjchd#http://58.200.190.80/hls/hls75a28.m3u8
-N高清HD大众影视,http://58.200.190.80/hls/hls164.m3u8#http://58.200.190.80/hls/hls75a27.m3u8
-N高清HD卡通剧场,http://58.200.190.80/hls/hls167.m3u8
-晴天动画馆,http://58.200.190.80/hls/hls78a47.m3u8
-时光剧场,http://58.200.190.80/hls/hls78a48.m3u8
-精选,http://58.200.190.80/hls/hls102.m3u8
+N高清HD家庭影院,rtmp://58.200.131.2:1935/livetv/jtyyhd
+N高清HD家庭剧场,rtmp://58.200.131.2:1935/livetv/jtjchd
+N高清HD大众影视,rtmp://58.200.131.2:1935/livetv/dzyshd
+N高清HD卡通剧场,rtmp://58.200.131.2:1935/livetv/ktjchd
 CBN每日影院,http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&playtoken=31667LZMVCGFXDL10&verifycode=2000000576&rate=org&programid=4200000214.m3u8&ts=50&auth=no#http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=71&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 CBN风尚生活,http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&playtoken=31667LZMVCGFXDL10&verifycode=2000000576&rate=org&programid=4200000215.m3u8&ts=50&auth=no
 黑莓动画,http://183.207.249.15/PLTV/3/224/3221225555/index.m3u8#http://111.12.102.68:6610/PLTV/77777777/224/3221225710/index.m3u8?#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225914/1.m3u8#http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225710/index.m3u8#http://39.134.66.2/PLTV/88888888/224/3221225683/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225672/index.m3u8
@@ -812,6 +784,7 @@ BesTV 4K,http://39.135.230.79/ott.fj.chinamobile.com/PLTV/88888888/224/322122695
 爱上4k,http://39.134.24.220/PLTV/88888888/224/3221226005/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226352/1.m3u8#http://111.20.105.60:6060/yinhe/2/ch00000090990000001709/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV 4K,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229683/index.m3u8#http://39.134.176.144/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/01.m3u8?fmt=ts2hls
 咪咕4K,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226399/1.m3u8
+生活时尚,http://39.134.168.91/PLTV/1/224/3221225498/index.m3u8
 圆点生活,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226552/index.m3u8
 求索纪录,http://39.134.65.162/PLTV/88888888/224/3221225713/index.m3u8
 求索动物,http://39.134.66.66/PLTV/88888888/224/3221225730/index.m3u8#http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228980/01.m3u8?fmt=ts2hls#http://39.134.65.162/PLTV/88888888/224/3221225730/index.m3u8#http://125.210.152.18:9090/live/QSDW_1200.m3u8
@@ -830,37 +803,38 @@ IPTV相声小品,http://39.134.39.37/PLTV/88888888/224/3221226260/index.m3u8
 
 
 轮播,#genre#
-爱情公寓,http://auney.gearhostpreview.com/huya.php?id=11336726#http://kuqq.tk/00/huya.php?id=11336726
+爱情公寓,http://121.12.115.156/tx.hls.huya.com/src/1388474069-1388474069-5963450717699047424-2777071594-10057-A-0-1.m3u8#http://auney.gearhostpreview.com/huya.php?id=11336726
 爱情公寓3,rtmp://6721.liveplay.now.qq.com:1935/live/6721_c33388579b8775e48c65af7b1d584d6b?txSecret=a245cc53d77696744cd6ad9a9726a63a&txTime=60C1E89C
-爱情公寓0,http://3954-out.liveplay.myqcloud.com/live/3954_322842111.flv
-乡村爱情,http://auney.gearhostpreview.com/huya.php?id=11602068#http://kuqq.tk/00/huya.php?id=11602068
-乡村爱情D,http://tx2play1.douyucdn.cn/live/9356342rcA2Kstqd.xs
-鬼吹灯精绝古城,http://auney.gearhostpreview.com/huya.php?id=11352871#http://kuqq.tk/00/huya.php?id=11352871
-神探狄仁杰,http://tx2play1.douyucdn.cn/live/6027991rD7gZZeor.xs
-西游记,https://tx2play1.douyucdn.cn/live/5472438rR8bc66Hj.xs
-刑事侦缉档案1-4,http://epg.112114.xyz/douyu/105265
+爱情公寓0,http://blanki.cf/api/qie.php?id=322842111#http://3954-out.liveplay.myqcloud.com/live/3954_322842111.flv
+乡村爱情,http://121.12.115.156/tx.hls.huya.com/src/1524439828-1524439828-6547419205979865088-3049003112-10057-A-0-1.m3u8#http://auney.gearhostpreview.com/huya.php?id=11602068
+乡村爱情D,http://tx2play1.douyucdn.cn/live/9356342rcA2Kstqd.xs#http://epg.112114.xyz/douyu/9356342#http://blanki.cf/api/douyu.php?id=9356342
+鬼吹灯精绝古城,http://121.12.115.156/tx.hls.huya.com/src/1423782025-1423782025-6115097234007654400-2847687506-10057-A-0-1.m3u8#http://auney.gearhostpreview.com/huya.php?id=11352871
+神探狄仁杰,http://tx2play1.douyucdn.cn/live/6027991rD7gZZeor.xs#http://epg.112114.xyz/douyu/6027991#http://blanki.cf/api/douyu.php?id=6027991
+神探狄仁杰0,http://epg.112114.xyz/douyu/674441#http://blanki.cf/api/douyu.php?id=674441
+西游记,https://tx2play1.douyucdn.cn/live/5472438rR8bc66Hj.xs#http://epg.112114.xyz/douyu/5472438#http://blanki.cf/api/douyu.php?id=5472438
+刑事侦缉档案1-4,http://epg.112114.xyz/douyu/105265#http://blanki.cf/api/douyu.php?id=105265
 使徒行者,http://epg.112114.xyz/douyu/7810803
 第八号当铺,https://cn-jxnc-cmcc-live-02.bilivideo.com/live-bvc/973328/live_265161233_8876795.m3u8#http://42.56.91.136/live-bvc/973328/live_265161233_8876795.m3u8
-第八号当铺1,http://auney.gearhostpreview.com/huya.php?id=21059568
-康熙王朝,http://auney.gearhostpreview.com/huya.php?id=11352940
-周星驰,http://auney.gearhostpreview.com/huya.php?id=11342412#http://kuqq.tk/00/huya.php?id=11342412
-林正英,http://auney.gearhostpreview.com/huya.php?id=11342421#http://kuqq.tk/00/huya.php?id=11342421
-成龙,http://auney.gearhostpreview.com/huya.php?id=11342386#http://kuqq.tk/00/huya.php?id=11342386
-李连杰,http://auney.gearhostpreview.com/huya.php?id=11342390#http://kuqq.tk/00/huya.php?id=11342390
-刘德华,http://auney.gearhostpreview.com/huya.php?id=11342424#http://kuqq.tk/00/huya.php?id=11342424
-五福星,http://auney.gearhostpreview.com/huya.php?id=11282233#http://kuqq.tk/00/huya.php?id=11282233
-甄子丹,http://auney.gearhostpreview.com/huya.php?id=11352935#http://kuqq.tk/00/huya.php?id=11352935
-周润发,http://auney.gearhostpreview.com/huya.php?id=11342387#http://kuqq.tk/00/huya.php?id=11342387
-沈腾,http://auney.gearhostpreview.com/huya.php?id=11601968#http://kuqq.tk/00/huya.php?id=11601968
-徐峥,http://auney.gearhostpreview.com/huya.php?id=11602043#http://kuqq.tk/00/huya.php?id=11602043
-警匪,http://auney.gearhostpreview.com/huya.php?id=11352886#http://kuqq.tk/00/huya.php?id=11352886
-古墓系列,http://auney.gearhostpreview.com/huya.php?id=11352913
-金庸电影,http://auney.gearhostpreview.com/huya.php?id=11342427
-喜剧,http://auney.gearhostpreview.com/huya.php?id=11602044
-搞笑,http://auney.gearhostpreview.com/huya.php?id=11342423
-爆笑,http://auney.gearhostpreview.com/huya.php?id=11352954
-李小哇絮叨叨,http://auney.gearhostpreview.com/huya.php?id=18441722
-斗鱼电影,http://tx2play1.douyucdn.cn/live/52787rlKxxm8FSi5.xs
+第八号当铺1,http://121.12.115.156/tx.hls.huya.com/src/1099531752762-1099531752762-86436156702457856-2199063628980-10057-A-0-1.m3u8
+康熙王朝,http://121.12.115.156/tx.hls.huya.com/src/1448737923-1448737923-6222281999759966208-2847699110-10057-A-0-1.m3u8
+李小哇絮叨叨,http://121.12.115.156/tx.hls.huya.com/src/1199515315044-1199515315044-5237452600151900160-2399030753544-10057-A-0-1.m3u8#http://auney.gearhostpreview.com/huya.php?id=18441722
+斗鱼电影,http://tx2play1.douyucdn.cn/live/52787rlKxxm8FSi5.xs#http://epg.112114.xyz/douyu/52787#http://blanki.cf/api/douyu.php?id=52787
+周星驰,http://121.12.115.156/tx.hls.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.m3u8#http://auney.gearhostpreview.com/huya.php?id=11342412
+林正英,http://121.12.115.156/tx.hls.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.m3u8#http://auney.gearhostpreview.com/huya.php?id=11342421
+成龙,http://121.12.115.156/tx.hls.huya.com/src/1394565191-1394565191-5989611887484993536-2789253838-10057-A-0-1.m3u8#http://auney.gearhostpreview.com/huya.php?id=11342386
+李连杰,http://121.12.115.156/tx.hls.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1.m3u8#http://auney.gearhostpreview.com/huya.php?id=11342390
+刘德华,http://121.12.115.156/tx.hls.huya.com/src/1394575547-1394575547-5989656366166310912-2789274550-10057-A-0-1.m3u8#http://auney.gearhostpreview.com/huya.php?id=11342424
+五福星,http://121.12.115.156/tx.hls.huya.com/src/1356780980-1356780980-5827329936934830080-2713685416-10057-A-0-1.m3u8#http://auney.gearhostpreview.com/huya.php?id=11282233
+甄子丹,http://121.12.115.156/tx.hls.huya.com/src/1423787820-1423787820-6115122123343134720-2847699096-10057-A-0-1.m3u8#http://auney.gearhostpreview.com/huya.php?id=11352935
+周润发,http://121.12.115.156/tx.hls.huya.com/src/1394565192-1394565192-5989611891779960832-2789253840-10057-A-0-1.m3u8#http://auney.gearhostpreview.com/huya.php?id=11342387
+沈腾,http://121.12.115.156/tx.hls.huya.com/src/1524418085-1524418085-6547325820505948160-3048959626-10057-A-0-1.m3u8#http://auney.gearhostpreview.com/huya.php?id=11601968
+徐峥,http://121.12.115.156/tx.hls.huya.com/src/1524434085-1524434085-6547394539982684160-3048991626-10057-A-0-1.m3u8#http://auney.gearhostpreview.com/huya.php?id=11602043
+警匪,http://121.12.115.156/tx.hls.huya.com/src/1423782050-1423782050-6115097341381836800-2847687556-10057-A-0-1.m3u8#http://auney.gearhostpreview.com/huya.php?id=11352886
+古墓系列,http://121.12.115.156/tx.hls.huya.com/src/1423782085-1423782085-6115097491705692160-2847687626-10057-A-0-1.m3u8#http://auney.gearhostpreview.com/huya.php?id=11352913
+金庸电影,http://121.12.115.156/tx.hls.huya.com/src/1394575551-1394575551-5989656383346180096-2789274558-10057-A-0-1.m3u8#http://auney.gearhostpreview.com/huya.php?id=11342427
+喜剧,http://121.12.115.156/tx.hls.huya.com/src/1524434089-1524434089-6547394557162553344-3048991634-10057-A-0-1.m3u8#http://auney.gearhostpreview.com/huya.php?id=11602044
+搞笑,http://121.12.115.156/tx.hls.huya.com/src/1394575546-1394575546-5989656361871343616-2789274548-10057-A-0-1.m3u8#http://auney.gearhostpreview.com/huya.php?id=11342423
+爆笑,http://121.12.115.156/tx.hls.huya.com/src/1449581164-1449581164-6225903692277612544-2847699154-10057-A-0-1.m3u8#http://auney.gearhostpreview.com/huya.php?id=11352954
 百视通轮播(谍战),http://39.135.230.66/ott.fj.chinamobile.com/PLTV/88888888/224/3221227045/index.m3u8
 百视通轮播(科幻),http://39.135.230.79/ott.fj.chinamobile.com/PLTV/88888888/224/3221227037/index.m3u8
 百视通轮播1,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227134/index.m3u8
@@ -906,6 +880,7 @@ KiD影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 江苏影视,http://223.110.241.150:6610/gitv/live1/G_JSYS/G_JSYS/#http://223.110.243.134/PLTV/4/224/3221225937/index.m3u8
 佛山影视,http://pili-live-rtmp.wdit.com.cn/wditlive/fs_yspd.m3u8
 句容影视,http://218.3.92.100:1937/live/yingshi/playlist.m3u8#http://218.3.92.100:1937/live/yingshi/chunklist_w365370764.m3u8
+海西影视,http://stream.haixitv.cn/1/sd/live.m3u8
 嘉兴文化影视,http://stream1.jiaxingren.com/whys/playlist.m3u8
 商河影视,http://jsylivealone302.iqilu.com/live/shanghe_tv02.m3u8
 潮安影视,http://chaoan.chaoantv.com:8278/h_yingshi_1028/playlist.m3u8
@@ -929,13 +904,13 @@ IPTV谍战剧场,http://39.134.39.37/PLTV/88888888/224/3221226256/index.m3u8
 
 
 少儿频道,#genre#
-中华小当家,http://auney.gearhostpreview.com/huya.php?id=11342413
-猫和老鼠,http://auney.gearhostpreview.com/huya.php?id=11352879
+中华小当家,http://121.12.115.156/tx.hls.huya.com/src/1449588921-1449588921-6225937008338927616-2789274526-10057-A-0-1.m3u8#http://auney.gearhostpreview.com/huya.php?id=11342413
+猫和老鼠,http://121.12.115.156/tx.hls.huya.com/src/1423782038-1423782038-6115097289842229248-2847687532-10057-A-0-1.m3u8#http://auney.gearhostpreview.com/huya.php?id=11352879
 猫和老鼠1,http://42.56.91.136/live-bvc/190338/live_39734764_8369517.m3u8
 猫和老鼠2,https://cn-jxnc-cmcc-live-02.bilivideo.com/live-bvc/377372/live_2370062_9705826.m3u8
 猫和老鼠3,https://cn-jxnc-cmcc-live-02.bilivideo.com/live-bvc/688999/live_8244646_5219019.m3u8
-四驱兄弟,http://auney.gearhostpreview.com/huya.php?id=11352922
-蜡笔小新,http://auney.gearhostpreview.com/huya.php?id=11352970
+四驱兄弟,http://121.12.115.156/tx.hls.huya.com/src/1423782104-1423782104-6115097573310070784-2847687664-10057-A-0-1.m3u8#http://auney.gearhostpreview.com/huya.php?id=11352922
+蜡笔小新,http://121.12.115.156/tx.hls.huya.com/src/1423787878-1423787878-6115122372451237888-2847699212-10057-A-0-1-imgplus.m3u8#http://auney.gearhostpreview.com/huya.php?id=11352970
 哈哈炫动,http://183.207.255.190/live/program/live/hhxdhd/4000000/mnf.m3u8#http://223.110.245.163/ott.js.chinamobile.com/PLTV/3/224/3221226388/index.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226421/1.m3u8
 卡酷少儿,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226558/1.m3u8#rtmp://58.200.131.2:1935/livetv/btv10hd
 嘉佳卡通,http://183.207.255.188/live/program/live/jjkt/1300000/mnf.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226539/1.m3u8
