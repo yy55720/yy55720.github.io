@@ -314,6 +314,15 @@ Y+频道,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 安徽科教,http://zbbf2.ahtv.cn/live/754.m3u8
 安徽公共,http://zbbf2.ahtv.cn/live/752.m3u8
 安徽人物,http://zbbf2.ahtv.cn/live/da9.m3u8
+马鞍山新闻综合,http://live2.jianmaanshan.cn/c01/sd/live.m3u8
+马鞍山公共,http://live2.jianmaanshan.cn/c02/sd/live.m3u8
+六安新闻综合,http://live.china-latv.com/channel1/sd/live.m3u8
+六安公共频道,http://live.china-latv.com/channel2/sd/live.m3u8
+宿州新闻综合,http://live.ahsz.tv/video/s10001-szzh/index.m3u8
+宿州公共频道,http://live.ahsz.tv/video/s10001-ggpd/index.m3u8
+宿州科教频道,http://live.ahsz.tv/video/s10001-kxjy/index.m3u8
+亳州新闻频道,http://220.180.110.101:8083/videos/live/33/59/NC7XQdEveyncq/NC7XQdEveyncq.M3U8
+亳州农村频道,http://220.180.110.101:8083/videos/live/39/13/o4ncrHkSp7q09/o4ncrHkSp7q09.M3U8
 新疆汉语综艺,http://livehyw5.chinamcache.com/hyw/zb04.m3u8
 新疆汉语生活,http://livehyw5.chinamcache.com/hyw/zb07.m3u8
 新疆汉语法治,http://livehyw5.chinamcache.com/hyw/zb11.m3u8
@@ -376,8 +385,6 @@ Y+频道,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 微山2台,http://jsylivealone302.iqilu.com/live/weishan_tv01.m3u8
 商河综合,http://jsylivealone302.iqilu.com/live/shanghe_tv01.m3u8
 商河影视,http://jsylivealone302.iqilu.com/live/shanghe_tv02.m3u8
-六安新闻综合,http://live.china-latv.com/channel1/sd/live.m3u8
-六安公共频道,http://live.china-latv.com/channel2/sd/live.m3u8
 巴中综合,http://30814.hlsplay.aodianyun.com/lms_30814/tv_channel_246.m3u8
 巴中公共,http://30814.hlsplay.aodianyun.com/lms_30814/tv_channel_247.m3u8
 邹城新闻,https://jsylivealone302.iqilu.com/live/zoucheng_tv01/index.m3u8#https://livealone302.iqilu.com/live/zoucheng_tv01/index.m3u8
@@ -440,11 +447,6 @@ Y+频道,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 萧山生活频道,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
 辛集新闻频道,http://zsxj.chinashadt.com:1935/live/xjxw.stream_360p/playlist.m3u8
 辛集生活频道,http://zsxj.chinashadt.com:1935/live/xjsh.stream_360p/playlist.m3u8
-宿州新闻综合,http://live.ahsz.tv/video/s10001-szzh/index.m3u8
-宿州公共频道,http://live.ahsz.tv/video/s10001-ggpd/index.m3u8
-宿州科教频道,http://live.ahsz.tv/video/s10001-kxjy/index.m3u8
-亳州新闻频道,http://220.180.110.101:8083/videos/live/33/59/NC7XQdEveyncq/NC7XQdEveyncq.M3U8
-亳州农村频道,http://220.180.110.101:8083/videos/live/39/13/o4ncrHkSp7q09/o4ncrHkSp7q09.M3U8
 张家界新闻综合,http://stream.zjjrtv.com/zjjtv1/hd/live.m3u8
 张家口一套,http://nlive.zjkgdcs.com:8091/live/xwzhpd.m3u8
 新晃时政,http://play-dgv-xhncloud.voc.com.cn/live/5243_rCfrpv.m3u8
