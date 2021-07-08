@@ -750,7 +750,7 @@ IPTV相声小品,http://39.134.39.37/PLTV/88888888/224/3221226260/index.m3u8
 爱情公寓3,rtmp://6721.liveplay.now.qq.com:1935/live/6721_c33388579b8775e48c65af7b1d584d6b?txSecret=a245cc53d77696744cd6ad9a9726a63a&txTime=60C1E89C
 爱情公寓0,http://blanki.cf/api/qie.php?id=322842111#http://3954-out.liveplay.myqcloud.com/live/3954_322842111.flv
 乡村爱情,http://121.12.115.156/tx.hls.huya.com/src/1524439828-1524439828-6547419205979865088-3049003112-10057-A-0-1.m3u8#http://auney.gearhostpreview.com/huya.php?id=11602068
-乡村爱情D,http://tx2play1.douyucdn.cn/live/9356342rcA2Kstqd.xs#http://epg.112114.xyz/douyu/9356342#http://blanki.cf/api/douyu.php?id=9356342
+乡村爱情D,http://epg.112114.xyz/douyu/9356342#http://blanki.cf/api/douyu.php?id=9356342
 鬼吹灯精绝古城,http://121.12.115.156/tx.hls.huya.com/src/1423782025-1423782025-6115097234007654400-2847687506-10057-A-0-1.m3u8#http://auney.gearhostpreview.com/huya.php?id=11352871
 神探狄仁杰,http://tx2play1.douyucdn.cn/live/6027991rD7gZZeor.xs#http://epg.112114.xyz/douyu/6027991#http://blanki.cf/api/douyu.php?id=6027991
 神探狄仁杰0,http://epg.112114.xyz/douyu/674441#http://blanki.cf/api/douyu.php?id=674441
