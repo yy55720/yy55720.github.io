@@ -304,8 +304,13 @@ Y+频道,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 四川·攀枝花新闻综合,http://zb.pzhgd.com:9095/live/xwzh.m3u8
 四川·洪雅新闻综合,http://117.172.215.250:8083/videos/live/35/39/GQVbrgob5CGJM/GQVbrgob5CGJM.M3U8
 四川·蓬安新闻综合,http://palive.patv123.com:8091/live/xwpd_800K.m3u8
+四川·雅安新闻,http://flv.drs.tv.yatv.tv:8080/channellive/xinwen.flv
+四川·雅安公共,http://flv.drs.tv.yatv.tv:8080/channellive/gonggong.flv
+四川·名山电视,http://flv.drs.tv.yatv.tv:8080/channellive/mingshan.flv
+四川·犍为新闻综合,http://tv.scwlqw.cn:3100/hls/kqcyufpi/index.m3u8
 重庆·开州综合频道,http://kaixianlive.cbg.cn:10345/1.m3u8
 重庆·开州生活频道,http://kaixianlive.cbg.cn:10345/5.m3u8
+重庆·南岸综合,http://natv.cnjrna.com:3000/channel/sovp/1000000000000018/video_1564_none.m3u8
 云南·公共,https://hwapi.yunshicloud.com/62hdvf/227q43.m3u8
 云南·影视,https://hwapi.yunshicloud.com/62hdvf/utrat7.m3u8
 云南·生活资讯,https://hwapi.yunshicloud.com/62hdvf/180p57.m3u8
@@ -316,6 +321,8 @@ Y+频道,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 云南·文山新闻综合,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8#http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
 云南·文山公共频道,http://tvdrs.wsrtv.com.cn:8100/channellive/ch2.flv
 云南·瑞丽,http://live.ynurl.com/video/s10021-rltv/index.m3u8
+云南·麻栗坡新闻,http://tvdrs.wsrtv.com.cn:8100/channellive/mlptv.flv
+云南·绿春电视,http://tv.drs.hhtv.cc:8100/channellive/lcdst.flv
 甘肃·公共应急,http://39.134.39.39/PLTV/88888888/224/3221226250/index.m3u8#https://hls.gstv.com.cn/49048r/3t5xyc.m3u8
 甘肃·少儿,http://39.134.39.39/PLTV/88888888/224/3221226289/index.m3u8#https://hls.gstv.com.cn/49048r/922k96.m3u8
 甘肃·文化影视,http://39.134.39.39/PLTV/88888888/224/3221226287/index.m3u8#https://hls.gstv.com.cn/49048r/w1l6d5.m3u8
@@ -337,6 +344,7 @@ Y+频道,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 甘肃·舟曲电视台,http://117.156.28.88/270000001111/1110000169/index.m3u8?i
 甘肃·高台电视台,http://117.156.28.119/270000001111/1110000146/index.m3u8#http://117.156.28.88/270000001111/1110000146/index.m3u8?i
 甘肃·华亭电视台,http://117.156.28.119/270000001111/1110000148/index.m3u8#http://117.156.28.88/270000001111/1110000148/index.m3u8?i
+甘肃·酒泉综合,http://stream.gsjqtv.com/pd1/sd/live.m3u8
 江苏·体育休闲,http://149.129.100.78/jiangsu.php?id=jsty
 江苏·公共新闻,http://149.129.100.78/jiangsu.php?id=jsgg
 江苏·国际,http://149.129.100.78/jiangsu.php?id=jsgj
@@ -425,6 +433,7 @@ Y+频道,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 内蒙古·文体娱乐,http://live4.m2oplus.nmtv.cn/8/sd/live.m3u8
 内蒙古·蒙古语卫视,http://live5.m2oplus.nmtv.cn/3/sd/live.m3u8
 内蒙古·蒙古语文化,http://live5.m2oplus.nmtv.cn/5/sd/live.m3u8
+内蒙古·乌兰察布新闻,http://stream1.wrbtv.cn/wrbtv2/sd/live.m3u8
 江西·九江新闻综合,http://39.134.115.163:8080/PLTV/88888910/224/3221225774/index.m3u8 
 江西·九江公共频道,http://39.134.115.163:8080/PLTV/88888910/224/3221225775/index.m3u8
 江西·萍乡新闻综合,http://www.pxitv.com:8099/hls-live/livepkgr/_definst_/pxitvevent/pxtv1stream.m3u8
@@ -438,9 +447,7 @@ Y+频道,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 陕西·宝鸡1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226383/index.m3u8
 陕西·宝鸡2,http://39.134.24.24/PLTV/88888888/224/3221225973/index.m3u8
 陕西·佛坪电视,http://111.20.105.60:6060/yinhe/2/ch00000090990000001929/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-陕西·汉中电视1,http://111.20.105.60:6060/yinhe/2/ch00000090990000001438/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-陕西·汉中电视2,http://111.20.105.60:6060/yinhe/2/ch00000090990000001262/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-陕西·汉中电视3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225991/index.m3u8
+陕西·汉中电视1,http://live.hzrtvs.com/channel1/sd/live.m3u8
 陕西·留坝电视,http://111.20.105.60:6060/yinhe/2/ch00000090990000001447/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 山西·晋中综合,http://jzlive.jztvnews.com:90/live/jzzh.m3u8
 山西·晋中公共,http://jzlive.jztvnews.com:90/live/jzgg.m3u8
@@ -541,6 +548,14 @@ Y+频道,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 山东·武城综合,http://jsylivealone302.iqilu.com/live/wucheng_tv01/index.m3u8
 山东·武城影视,http://jsylivealone302.iqilu.com/live/wucheng_tv02/index.m3u8
 山东·曹县新闻综合,http://jsylivealone302.iqilu.com/live/caoxian_tv01.m3u8
+山东·东明综合,http://jsylivealone302.iqilu.com/live/dongming_tv01.m3u8
+山东·莱州综合,http://jsylivealone302.iqilu.com/live/laizhou_tv01.m3u8
+山东·蒙阴一套,http://jsylivealone302.iqilu.com/live/mengyin_tv01/index.m3u8
+山东·蒙阴二套,http://jsylivealone302.iqilu.com/live/mengyin_tv02/index.m3u8
+山东·费县综合,http://jsylivealone302.iqilu.com/live/feixian_tv01/index.m3u8
+山东·费县生活,http://jsylivealone302.iqilu.com/live/feixian_tv02/index.m3u8
+山东·台儿庄一,http://jsylivealone302.iqilu.com/live/taierzhuang_tv01/index.m3u8
+山东·峄城一套,http://jsylivealone302.iqilu.com/live/yicheng_tv01/index.m3u8
 河南·叶县电视,http://live.dxhmt.cn:9081/tv/10422-1.m3u8
 河南·汤阴电视,http://live.dxhmt.cn:9081/tv/10523-1.m3u8
 河南·林州电视,http://live.dxhmt.cn:9081/tv/10581-1.m3u8
@@ -565,6 +580,7 @@ Y+频道,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 河南·罗山电视,http://live.dxhmt.cn:9081/tv/11521-1.m3u8
 河南·项城电视,http://live.dxhmt.cn:9081/tv/11681-1.m3u8
 河南·灵宝电视,http://live.dxhmt.cn:9081/tv/11282-1.m3u8
+青海·西宁新闻,http://wshls.butel.com/live/139a3.m3u8
 吉林·延边汉语综合,http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
 滨海新闻综合,https://livealone302.iqilu.com/binhai/binhai_tv.m3u8
 
