@@ -584,8 +584,8 @@ RMC,http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/26277
 上海劲爆体育,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/4000000/mnf.m3u8#http://111.26.225.22/PLTV/2/224/3221225658/index.m3u8
 上海极速汽车,http://183.207.255.188/live/program/live/jsqchd/4000000/mnf.m3u8
 iHOT爱体育,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230034/index.m3u8
-Newtv精品体育,http://39.134.66.66/PLTV/88888888/224/3221225526/index.m3u8#http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229719/index.m3u8
-Newtv超级体育,http://39.134.66.66/PLTV/88888888/224/3221225635/index.m3u8#http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009601&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
+NewTV精品体育,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226328/1.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225526/index.m3u8#http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229719/index.m3u8
+NewTV超级体育,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226348/1.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225635/index.m3u8#http://39.134.155.137/PLTV/88888888/224/3221225653/index.m3u8#http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225925/index.m3u8#http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009601&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
 杭州体育,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229316/index.m3u8
 广东体育,http://116.199.5.52:8114/index.m3u8?Fsv_chan_hls_se_idx=8&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8#https://r2.weizan.cn/v/949709461_668201056442186562.flv
 兰州综艺体育,http://39.134.39.39/PLTV/88888888/224/3221226246/index.m3u8
@@ -676,31 +676,31 @@ iHOT爱美食,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/2
 
 
 NewTV,#genre#
-NewTV精品大剧,http://39.134.66.66/PLTV/88888888/224/3221225536/index.m3u8#http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229017/index.m3u8
-NewTV爱情喜剧,http://39.134.66.66/PLTV/88888888/224/3221225533/index.m3u8#http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229731/index.m3u8
-NewTV动作电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225555/index.m3u8#http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229672/index.m3u8
-NewTV古装剧场,http://39.134.66.66/PLTV/88888888/224/3221225524/index.m3u8#http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229011/index.m3u8
-NewTV潮妈辣婆,http://39.134.66.66/PLTV/88888888/224/3221225542/index.m3u8#http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229725/index.m3u8
-NewTV家庭剧场,http://39.134.66.66/PLTV/88888888/224/3221225538/index.m3u8#http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229695/index.m3u8
-NewTV惊悚悬疑,http://39.134.66.66/PLTV/88888888/224/3221225553/index.m3u8#http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229701/index.m3u8
-NewTV军旅剧场,http://39.134.66.66/PLTV/88888888/224/3221225560/index.m3u8#http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229004/index.m3u8
+NewTV精品大剧,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226331/1.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225536/index.m3u8#http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229017/index.m3u8
+NewTV爱情喜剧,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226322/1.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225533/index.m3u8#http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229731/index.m3u8
+NewTV动作电影,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226329/1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225555/index.m3u8#http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229672/index.m3u8
+NewTV明星大片,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226425/1.m3u8#http://223.110.243.152/ott.js.chinamobile.com/PLTV/3/224/3221227594/index.m3u8#http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229660/index.m3u8
+NewTV古装剧场,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226323/1.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225524/index.m3u8#http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229011/index.m3u8
+NewTV潮妈辣婆,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226286/1.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225542/index.m3u8#http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229725/index.m3u8
+NewTV家庭剧场,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226330/1.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225538/index.m3u8#http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229695/index.m3u8
+NewTV惊悚悬疑,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226423/1.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225553/index.m3u8#http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229701/index.m3u8
+NewTV军旅剧场,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226324/1.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225560/index.m3u8#http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229004/index.m3u8
 NewTV欢乐剧场,http://39.134.66.66/PLTV/88888888/224/3221225682/index.m3u8#http://39.135.135.81:80/wh7f454c46tw1744894462_1818032107/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8?icpid=88888888&RTS=1554599517&from=1&hms_devid=690
 NewTV东北热剧,http://39.134.66.66/PLTV/88888888/224/3221225679/index.m3u8
-NewTV军事评论,http://39.134.66.66/PLTV/88888888/224/3221225535/index.m3u8#http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229716/index.m3u8
-NewTV金牌综艺,http://39.134.66.66/PLTV/88888888/224/3221225525/index.m3u8#http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229704/index.m3u8
-NewTV精品记录,http://39.134.66.66/PLTV/88888888/224/3221225545/index.m3u8#http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229707/index.m3u8
-NewTV精品体育,http://39.134.66.66/PLTV/88888888/224/3221225526/index.m3u8#http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229719/index.m3u8
-NewTV中国功夫,http://39.134.66.66/PLTV/88888888/224/3221225604/index.m3u8#http://39.134.65.84:80/wh7f454c46tw1933122944_256139629/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8?icpid=88888888&RTS=1579029479&from=1&hms_devid=130#http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229663/index.m3u8
-NewTV武博世界,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225547/index.m3u8#http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229722/index.m3u8
-NewTV炫舞未来,http://39.134.66.66/PLTV/88888888/224/3221225646/index.m3u8#http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229669/index.m3u8
-NewTV农业致富,http://39.134.66.66/PLTV/88888888/224/3221225552/index.m3u8#http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229666/index.m3u8
-NewTV怡伴健康,http://39.134.66.66/PLTV/88888888/224/3221225571/index.m3u8
-NewTV海外剧场,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225881/index.m3u8#http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229654/index.m3u8
-NewTV明星大片,http://223.110.243.152/ott.js.chinamobile.com/PLTV/3/224/3221227594/index.m3u8#http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229660/index.m3u8
-NewTV超级体育,http://39.134.66.66/PLTV/88888888/224/3221225635/index.m3u8#http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009601&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
-NewTV超级电影,http://39.134.66.66/PLTV/88888888/224/3221225644/index.m3u8#http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000004000002120&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
-NewTV超级电视剧,http://39.134.66.66/PLTV/88888888/224/3221225637/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225765/index.m3u8
-NewTV超级综艺,http://39.134.66.66/PLTV/88888888/224/3221225642/index.m3u8#http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000004000023658&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
+NewTV海外剧场,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226325/1.m3u8#http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225881/index.m3u8#http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229654/index.m3u8
+NewTV军事评论,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226326/1.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225535/index.m3u8#http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229716/index.m3u8
+NewTV金牌综艺,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226347/1.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225525/index.m3u8#http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229704/index.m3u8
+NewTV精品记录,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226332/1.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225545/index.m3u8#http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229707/index.m3u8
+NewTV精品体育,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226328/1.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225526/index.m3u8#http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229719/index.m3u8
+NewTV中国功夫,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226321/1.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225604/index.m3u8#http://39.134.65.84:80/wh7f454c46tw1933122944_256139629/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8?icpid=88888888&RTS=1579029479&from=1&hms_devid=130#http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229663/index.m3u8
+NewTV武博世界,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226320/1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225547/index.m3u8#http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229722/index.m3u8
+NewTV炫舞未来,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226248/1.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225646/index.m3u8#http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229669/index.m3u8
+NewTV农业致富,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226304/1.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225552/index.m3u8#http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229666/index.m3u8
+NewTV怡伴健康,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226327/1.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225571/index.m3u8
+NewTV超级体育,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226348/1.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225635/index.m3u8#http://39.134.155.137/PLTV/88888888/224/3221225653/index.m3u8#http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225925/index.m3u8#http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009601&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
+NewTV超级电影,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226369/1.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225644/index.m3u8#http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000004000002120&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
+NewTV超级电视剧,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226368/1.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225637/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225765/index.m3u8
+NewTV超级综艺,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226370/1.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225642/index.m3u8#http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000004000023658&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
 NewTV江西,http://39.134.115.163:8080/PLTV/88888910/224/3221225979/index.m3u8
 
 
