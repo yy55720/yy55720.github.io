@@ -488,8 +488,8 @@ Y+频道,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 山东·潍坊经济生活,http://stream.wfcmw.cn/2/sd/live.m3u8
 山东·潍坊公共频道,http://stream.wfcmw.cn/3/sd/live.m3u8
 山东·潍坊科教频道,http://stream.wfcmw.cn/4/sd/live.m3u8
-山东·德州新闻综合,https://jsylivealone302.iqilu.com/dezhou/dezhou_tv01/index.m3u8
-山东·德州公共频道,https://jsylivealone302.iqilu.com/dezhou/dezhou_tv02/index.m3u8
+山东·德州新闻综合,https://jsylivealone302.iqilu.com/dezhou/dezhou_tv01/index.m3u8#http://video.dztv.tv:1935/live/xwzh_gq/playlist.m3u8
+山东·德州公共频道,https://jsylivealone302.iqilu.com/dezhou/dezhou_tv02/index.m3u8#http://video.dztv.tv:1935/live/dzgg_gq/playlist.m3u8
 山东·成武综合,http://jsylivealone302.iqilu.com/live/chengwu_tv01.m3u8
 山东·成武综艺,http://jsylivealone302.iqilu.com/live/chengwu_tv02.m3u8
 山东·文登1台,http://jsylivealone302.iqilu.com/live/wendeng_tv01.m3u8
@@ -524,6 +524,7 @@ Y+频道,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 山东·即墨生活,http://jsylivealone302.iqilu.com/live/jimo_tv02.m3u8
 山东·李沧综合,http://live.lcqtv.com:88/live/lcqtv.m3u8
 山东·定陶一套,http://jsylivealone302.iqilu.com/live/dingtao_tv01/index.m3u8
+山东·定陶二套,http://jsylivealone302.iqilu.com/live/dingtao_tv02/index.m3u8
 山东·茌平综合,http://jsylivealone302.iqilu.com/live/chiping_tv01.m3u8
 山东·茌平生活,http://jsylivealone302.iqilu.com/live/chiping_tv02.m3u8
 山东·临沭一套,http://jsylivealone302.iqilu.com/live/linshu_tv01/index.m3u8
