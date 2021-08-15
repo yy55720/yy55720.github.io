@@ -192,7 +192,7 @@ Y+频道,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 上海·外语频道,http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8
 上海·第一财经,http://183.207.255.188/live/program/live/dycjhd/4000000/mnf.m3u8#http://39.134.168.91/PLTV/1/224/3221225494/index.m3u8
 上海·纪实人文,http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8#http://39.134.155.143/PLTV/88888888/224/3221225657/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225654/index.m3u8
-上海·五星体育,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226603/index.m3u8#http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8#http://111.26.225.22/PLTV/2/224/3221225857/index.m3u8
+上海·五星体育,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226603/index.m3u8#http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8#http://111.26.225.22/PLTV/2/224/3221225857/index.m3u8#http://112.25.48.11/live/program/live/ssty/4000000/mnf.m3u8
 上海·劲爆体育,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/4000000/mnf.m3u8#http://111.26.225.22/PLTV/2/224/3221225658/index.m3u8
 上海·新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8#http://125.210.152.18:9090/live/XSJHD_H265.m3u8
 上海·极速汽车,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227017/index.m3u8#http://39.134.39.37/PLTV/88888888/224/3221226195/index.m3u8#http://183.207.255.188/live/program/live/jsqchd/4000000/mnf.m3u8#http://39.134.39.39/PLTV/88888888/224/3221226195/index.m3u8
@@ -580,7 +580,7 @@ http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225734/1/ind
 魅力足球,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
 RMC,http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/26277
 山东体育,http://livealone302.iqilu.com/iqilu/typd.m3u8
-上海五星体育,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226603/index.m3u8#http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8#http://111.26.225.22/PLTV/2/224/3221225857/index.m3u8
+上海五星体育,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226603/index.m3u8#http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8#http://111.26.225.22/PLTV/2/224/3221225857/index.m3u8#http://112.25.48.11/live/program/live/ssty/4000000/mnf.m3u8
 上海劲爆体育,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/4000000/mnf.m3u8#http://111.26.225.22/PLTV/2/224/3221225658/index.m3u8
 上海极速汽车,http://183.207.255.188/live/program/live/jsqchd/4000000/mnf.m3u8
 iHOT爱体育,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230034/index.m3u8
