@@ -440,6 +440,10 @@ Y+频道,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 天津·滨海新闻,http://60.30.52.41/live/bhtv1/playlist.m3u8
 天津·滨海都市,http://60.30.52.41/live/bhtv2/playlist.m3u8
 天津·西青新闻综合,http://221.238.209.44:81/hls/live1.m3u8
+广西·南宁新闻,http://hls.nntv.cn/nnlive/NNTV_NEWS_A.m3u8
+广西·南宁都市,http://hls.nntv.cn/nnlive/NNTV_METRO_A.m3u8
+广西·南宁公共,http://hls.nntv.cn/nnlive/NNTV_PUB_A.m3u8
+广西·南宁影视,http://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8
 山东·新闻,http://livealone302.iqilu.com/iqilu/ggpd.m3u8
 山东·体育,http://livealone302.iqilu.com/iqilu/typd.m3u8
 山东·齐鲁,http://livealone302.iqilu.com/iqilu/qlpd.m3u8
