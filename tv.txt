@@ -427,6 +427,12 @@ Y+频道,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 湖南·靖州综合,http://play-dgv-xhncloud.voc.com.cn/live/5243_07Gq3l.m3u8
 湖南·东安综合,http://play-dgv-xhncloud.voc.com.cn/live/5243_kbExtx.m3u8
 湖南·华容新闻综合,http://liveplay.rednet.cn/live/huarong_60187.m3u8
+河北·影视,http://live6.plus.hebtv.com/hbysx/hd/live.m3u8
+河北·都市,http://live3.plus.hebtv.com/hbdsx/hd/live.m3u8
+河北·少儿,http://live6.plus.hebtv.com/sekjx/hd/live.m3u8
+河北·公共,http://live7.plus.hebtv.com/hbggx/hd/live.m3u8
+河北·经济,http://live2.plus.hebtv.com/jjshx/hd/live.m3u8
+河北·农民,http://live3.plus.hebtv.com/nmpdx/hd/live.m3u8
 河北·衡水新闻综合,http://hls.hsrtv.cn/hls/hstv1.m3u8
 河北·霸州新闻,http://hbbz.chinashadt.com:2036/live/stream:bzxw.stream/playlist.m3u8
 河北·霸州公共,http://hbbz.chinashadt.com:2036/live/stream:bzgg.stream/playlist.m3u8
