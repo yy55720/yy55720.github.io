@@ -189,6 +189,8 @@ Y+频道,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 福建·福州少儿,http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
 福建·三明新闻综合,http://stream.smntv.cn/smtv1/sd/live.m3u8
 福建·三明公共频道,http://stream.smntv.cn/smtv2/sd/live.m3u8
+福建·龙岩综合,http://live.lytv.net.cn/zhpwd/hd/live.m3u8
+福建·龙岩公共,http://live.lytv.net.cn/ggpd/sd/live.m3u8
 福建·晋江电视合,http://stream.jinjiang.tv/1/sd/live.m3u8
 福建·新罗电视一套,http://stream.lyxltv.com/xltv/sd/live.m3u8
 浙江·钱江频道,http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
