@@ -407,6 +407,13 @@ Y+频道,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 湖南·国际,http://124.232.231.246:6610/000000001001/201500000242/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 湖南·公共,http://124.232.231.246:6610/000000001001/201500000241/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 湖南·经视,http://124.232.231.246:6610/000000001001/201500000234/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+湖南·教育,http://58.20.64.92:9999/tsfile/live/1023_1.m3u8
+湖南·长沙新闻,http://58.20.64.92:9999/tsfile/live/1026_1.m3u8
+湖南·长沙女性,http://58.20.64.92:9999/tsfile/live/1045_1.m3u8
+湖南·怀化新闻,http://58.20.64.92:9999/tsfile/live/1034_1.m3u8
+湖南·常德公共,http://58.20.64.92:9999/tsfile/live/1035_1.m3u8
+湖南·湘西新闻,http://58.20.64.92:9999/tsfile/live/1038_1.m3u8
+湖南·湘西公共,http://58.20.64.92:9999/tsfile/live/1039_1.m3u8
 湖南·湘潭新闻综合,http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8
 湖南·湘潭公共频道,http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8
 湖南·娄底综合频道,http://218.77.102.118:1935/live/zonghe/playlist.m3u8#http://119.39.242.52:1935/live/zonghe/playlist.m3u8#http://mms.ldntv.cn:1935/live/zonghe/playlist.m3u8
