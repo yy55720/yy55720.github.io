@@ -135,7 +135,7 @@ NHK华语视界,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.
 
 地方,#genre#
 全纪实,http://112.25.48.68/live/program/live/qjshd/4000000/mnf.m3u8#http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/qjshd/4000000/mnf.m3u8#http://183.207.255.190/live/program/live/qjshd/4000000/mnf.m3u8#http://shbu.live.bestvcdn.com.cn:8080/live/program/live/qjshd/4000000/mnf.m3u8#http://140.207.241.2:8080/live/program/live/qjshd/4000000/mnf.m3u8
-金鹰纪实,http://58.20.64.92:9999/tsfile/live/1006_1.m3u8
+金鹰纪实,http://58.20.64.92:9999/tsfile/live/1006_1.m3u8#http://124.232.231.246:6610/000000001001/201500000240/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 Y+频道,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 北京·纪实,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8#http://39.134.155.149/PLTV/88888888/224/3221225645/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225675/index.m3u8
 北京·文艺,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226440/1.m3u8
@@ -419,6 +419,7 @@ Y+频道,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 湖南·公共,http://124.232.231.246:6610/000000001001/201500000241/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 湖南·经视,http://124.232.231.246:6610/000000001001/201500000234/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 湖南·教育,http://58.20.64.92:9999/tsfile/live/1023_1.m3u8
+湖南·浏阳电视,http://124.232.231.246:6610/000000001001/201500000334/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 湖南·长沙新闻,http://58.20.64.92:9999/tsfile/live/1026_1.m3u8
 湖南·长沙女性,http://58.20.64.92:9999/tsfile/live/1045_1.m3u8
 湖南·怀化新闻,http://58.20.64.92:9999/tsfile/live/1034_1.m3u8
@@ -705,6 +706,8 @@ IPTV4K,http://124.232.231.246:6610/000000001001/201500000218/index.m3u8?IASHttpS
 IPTV抗战剧场,http://58.20.64.92:9999/tsfile/live/1032_1.m3u8
 IPTV高清院线,http://58.20.64.92:9999/tsfile/live/1033_1.m3u8
 IPTV古装剧场,http://58.20.64.92:9999/tsfile/live/1044_1.m3u8
+IPTV好吃厨房,http://124.232.231.246:6610/000000001001/201500000085/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+IPTV电竞,http://124.232.231.246:6610/000000001001/201500000306/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 N高清HD家庭影院,rtmp://58.200.131.2:1935/livetv/jtyyhd#http://58.200.190.80/hls/hls166.m3u8#http://58.200.190.80/hls/hls75a29.m3u8
 N高清HD家庭剧场,rtmp://58.200.131.2:1935/livetv/jtjchd#http://58.200.190.80/hls/hls165.m3u8#http://58.200.190.80/hls/hls75a28.m3u8
 N高清HD大众影视,rtmp://58.200.131.2:1935/livetv/dzyshd#http://58.200.190.80/hls/hls164.m3u8#http://58.200.190.80/hls/hls75a27.m3u8
