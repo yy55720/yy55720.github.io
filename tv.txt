@@ -221,11 +221,11 @@ Y+频道,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 浙江·龙游新闻综合,http://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8
 浙江·龙游生活娱乐,http://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
 浙江·衢江新闻综合,http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8
-安徽·经视,http://zbbf2.ahtv.cn/live/750.m3u8
-安徽·综艺,http://zbbf2.ahtv.cn/live/758.m3u8
-安徽·影视,http://zbbf2.ahtv.cn/live/756.m3u8
-安徽·科教,http://zbbf2.ahtv.cn/live/754.m3u8
-安徽·公共,http://zbbf2.ahtv.cn/live/752.m3u8
+安徽·经济生活,http://0x60n703.dongtaiyuming.net/live/2/index.m3u8#http://zbbf2.ahtv.cn/live/750.m3u8
+安徽·综艺体育,http://0x60n703.dongtaiyuming.net/live/6/index.m3u8#http://zbbf2.ahtv.cn/live/758.m3u8
+安徽·影视,http://0x60n703.dongtaiyuming.net/live/3/index.m3u8#http://zbbf2.ahtv.cn/live/756.m3u8
+安徽·农业科教,http://0x60n703.dongtaiyuming.net/live/4/index.m3u8#http://zbbf2.ahtv.cn/live/754.m3u8
+安徽·公共,http://0x60n703.dongtaiyuming.net/live/5/index.m3u8#http://zbbf2.ahtv.cn/live/752.m3u8
 安徽·人物,http://zbbf2.ahtv.cn/live/da9.m3u8
 安徽·睛彩安徽,http://zbbf2.ahtv.cn/live/db9.m3u8
 安徽·合肥新闻,http://223.244.92.30:808/2774goN/1000/live.m3u8
@@ -358,6 +358,7 @@ Y+频道,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 江苏·宜兴新闻频道,http://live-dft-hls-yf.jstv.com/live/yixing_xw/online.m3u8
 江苏·宜兴紫砂频道,http://live-dft-hls-yf.jstv.com/live/yixing_zs/online.m3u8
 江苏·吴江新闻综合,http://30515.hlsplay.aodianyun.com/lms_30515/tv_channel_239.m3u8
+广东·广州南国都市,http://0x60n703.dongtaiyuming.net/live/7/index.m3u8
 广东·佛山综合,http://pili-live-rtmp.wdit.com.cn/wditlive/fs_zhpd.m3u8
 广东·佛山影视,http://pili-live-rtmp.wdit.com.cn/wditlive/fs_yspd.m3u8
 广东·佛山公共,http://pili-live-rtmp.wdit.com.cn/wditlive/fs_ggpd.m3u8
