@@ -109,6 +109,7 @@ J2,https://cdn.hkdtmb.com/hls/82/index.m3u8
 亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 唯心電視,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+莲花卫视,http://0x60n703.dongtaiyuming.net/live/8/index.m3u8
 澳视澳门,http://61.244.22.4/ch1/ch1.live/playelist.m3u8
 澳视葡文,http://61.244.22.4/ch2/ch2.live/playelist.m3u8
 澳门MACAU,http://61.244.22.4/ch3/ch3.live/playelist.m3u8#http://61.244.22.4/ch3/ch3.live/index.m3u8
