@@ -69,7 +69,7 @@ CGTN西班牙语,https://livees.cgtn.com/1000e/prog_index.m3u8#https://news.cgtn
 青海卫视,http://live.geermurmt.com/qhws/sd/live.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225727/index.m3u8
 四川卫视,http://yuniptvunql.chinayungu.cn:65530/live/sicws/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225733/index.m3u8
 海峡卫视,rtsp://183.252.176.54:554/PLTV/88888888/224/3221226128/10000100000000060000000002434539_0.smil?icpid=88888888#rtsp://183.252.166.199/PLTV/88888888/224/3221226128/10000100000000060000000002434539_0.smil
-海南卫视,rtsp://183.252.166.199/PLTV/88888888/224/3221226048/10000100000000060000000002296889_0.smil#http://39.134.115.163:8080/PLTV/88888910/224/3221225722/index.m3u8
+海南卫视,rtsp://183.252.166.199/PLTV/88888888/224/3221226048/10000100000000060000000002296889_0.smil#http://39.134.66.66/PLTV/88888888/224/3221225869/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225722/index.m3u8
 厦门卫视,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226542/1.m3u8
 河北卫视,http://live2.plus.hebtv.com/hbwsx/hd/live.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226507/1.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225732/index.m3u8
 河南卫视,rtsp://183.252.166.199/PLTV/88888888/224/3221226076/10000100000000060000000002296917_0.smil#http://yuniptvunql.chinayungu.cn:65530/live/henws/index.m3u8
@@ -301,6 +301,12 @@ Y+频道,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 四川·内江科教,https://www.scnj.tv/hls_njtv/live/kjpd_kjpd800.m3u8#http://njzb.scnj.tv:90/live/kjpd_kjpd800.m3u8
 四川·巴中综合,http://30814.hlsplay.aodianyun.com/lms_30814/tv_channel_246.m3u8
 四川·巴中公共,http://30814.hlsplay.aodianyun.com/lms_30814/tv_channel_247.m3u8
+四川·达州综合,http://m3u8.channellive.dzxw.net/cms/videos/nmip-media/channellive/channel35/playlist.m3u8
+四川·达州公共,http://m3u8.channellive.dzxw.net/cms/videos/nmip-media/channellive/channel36/playlist.m3u8
+四川·犍为综合,http://tv.scwlqw.cn:3100/hls/kqcyufpi/index.m3u8
+四川·隆昌综合,http://live.sctvcloud.com/live/longchang/playlist.m3u8
+四川·绵阳公共,http://live.826pc.com/mytv/live.php?id=3
+四川·绵阳科技,http://live.826pc.com/mytv/live.php?id=2
 四川·攀枝花新闻综合,http://zb.pzhgd.com:9095/live/xwzh.m3u8
 四川·洪雅新闻综合,http://117.172.215.250:8083/videos/live/35/39/GQVbrgob5CGJM/GQVbrgob5CGJM.M3U8
 四川·蓬安新闻综合,http://palive.patv123.com:8091/live/xwpd_800K.m3u8
@@ -308,12 +314,6 @@ Y+频道,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 四川·雅安公共,http://flv.drs.tv.yatv.tv:8080/channellive/gonggong.flv
 四川·名山电视,http://flv.drs.tv.yatv.tv:8080/channellive/mingshan.flv
 四川·犍为新闻综合,http://tv.scwlqw.cn:3100/hls/kqcyufpi/index.m3u8
-四川·达州综合,http://m3u8.channellive.dzxw.net/cms/videos/nmip-media/channellive/channel35/playlist.m3u8
-四川·达州公共,http://m3u8.channellive.dzxw.net/cms/videos/nmip-media/channellive/channel36/playlist.m3u8
-四川·犍为综合,http://tv.scwlqw.cn:3100/hls/kqcyufpi/index.m3u8
-四川·隆昌综合,http://live.sctvcloud.com/live/longchang/playlist.m3u8
-四川·绵阳公共,http://live.826pc.com/mytv/live.php?id=3
-四川·绵阳科技,http://live.826pc.com/mytv/live.php?id=2
 重庆·开州综合频道,http://kaixianlive.cbg.cn:10345/1.m3u8
 重庆·开州生活频道,http://kaixianlive.cbg.cn:10345/5.m3u8
 重庆·南岸综合,http://natv.cnjrna.com:3000/channel/sovp/1000000000000018/video_1564_none.m3u8
@@ -612,6 +612,7 @@ http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225734/1/ind
 足球频道,http://nmglive.imfc.cn/5n1r1c/182396.m3u8
 足球,http://39.134.39.37/PLTV/88888888/224/3221226291/index.m3u8
 新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8#http://125.210.152.18:9090/live/XSJHD_H265.m3u8
+体育赛事,http://39.136.18.70/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226081/1/index.m3u8?fmt=ts2hls
 精彩体育,http://39.134.19.57/PLTV/88888888/224/3221225809/index.m3u8
 魅力足球,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
 RMC,http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/26277
@@ -774,9 +775,9 @@ CBN风尚生活,http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hl
 黑莓电影,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225927/1.m3u8#http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225718/index.m3u8
 黑莓动画,http://183.207.249.15/PLTV/3/224/3221225555/index.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225914/1.m3u8#http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225710/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225672/index.m3u8
 黑莓电竞,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225931/1.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225653/index.m3u8#http://39.134.155.159/PLTV/88888888/224/3221225643/index.m3u8
-CHC高清电影,http://58.200.190.80/hls/chchd.m3u8#http://111.20.105.60:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
-CHC动作电影,http://111.20.105.60:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
-CHC家庭影院,http://111.20.105.60:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CHC动作电影,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
+CHC家庭影院,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
+CHC高清电影,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 SiTV欢笑剧场,http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8#http://223.110.243.153/ott.js.chinamobile.com/PLTV/3/224/3221227715/index.m3u8#http://39.134.39.37/PLTV/88888888/224/3221226203/index.m3u8#http://39.134.39.39/PLTV/88888888/224/3221226203/index.m3u8#http://39.134.39.38/PLTV/88888888/224/3221226203/index.m3u8
 SiTV都市剧场,http://39.134.39.39/PLTV/88888888/224/3221226176/index.m3u8#http://39.134.39.37/PLTV/88888888/224/3221226176/index.m3u8
 SiTV动漫秀场,http://183.207.255.188/live/program/live/dmxchd/4000000/mnf.m3u8#http://39.134.39.39/PLTV/88888888/224/3221226197/index.m3u8#http://39.134.39.37/PLTV/88888888/224/3221226197/index.m3u8
@@ -1245,3 +1246,4 @@ ArirangTV,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1c
 MEDIACORP,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 newsmax,https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8
 半岛新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+
