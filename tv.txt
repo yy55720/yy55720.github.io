@@ -19,7 +19,7 @@ CCTV-17农业农村,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226459
 CCTV-4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 CCTV-4中文国际欧洲,http://39.134.216.20/mgsp.live.miguvideo.com:8088/migu/kailu/20200324/cctv4ouhd/57/index.m3u8?&encrypt=1
 CCTV-4中文国际美洲,http://39.134.216.20/mgsp.live.miguvideo.com:8088/migu/kailu/20200324/cctv4meihd/57/index.m3u8?&encrypt=1
-CETV-1,http://39.134.39.37/PLTV/88888888/224/3221226282/index.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226494/index.m3u8#http://39.135.138.6:6610/PLTV/88888888/224/3221225917/2/index.m3u8?fmt=ts2hls
+CETV-1,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226494/index.m3u8#http://39.136.18.70/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225723/1/index.m3u8?fmt=ts2hls
 CETV-2,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226537/1.m3u8
 CETV-4,http://39.134.39.37/PLTV/88888888/224/3221226279/index.m3u8
 CCTV风云足球,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225734/1/index.m3u8?fmt=ts2hls
