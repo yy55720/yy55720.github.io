@@ -865,7 +865,7 @@ IPTV相声小品,http://39.134.39.37/PLTV/88888888/224/3221226260/index.m3u8
 
 
 影视频道,#genre#
-峨眉电影,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/scem/index.m3u8?IAS
+峨眉电影,http://60.255.49.202/live/emdygqH265_4000.m3u8
 黑莓电影,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225927/1.m3u8#http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225718/index.m3u8
 CHC高清电影,http://58.200.190.80/hls/chchd.m3u8#http://111.20.105.60:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC动作电影,http://111.20.105.60:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
