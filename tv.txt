@@ -842,8 +842,8 @@ IPTV相声小品,http://39.134.39.37/PLTV/88888888/224/3221226260/index.m3u8
 刑事侦缉档案,http://epg.112114.xyz/douyu/138959
 法证先锋,http://epg.112114.xyz/douyu/9019945
 使徒行者,http://epg.112114.xyz/douyu/7810803
-第八号当铺,https://cn-jxnc-cmcc-live-02.bilivideo.com/live-bvc/973328/live_265161233_8876795.m3u8#http://42.56.91.136/live-bvc/973328/live_265161233_8876795.m3u8
-第八号当铺1,http://121.51.142.162/tx.hls.huya.com/src/1099531752762-1099531752762-86436156702457856-2199063628980-10057-A-0-1.m3u8#http://112.74.200.9:88/tv000000/m3u8.php?/huya/21059568
+第八号当铺,http://121.51.142.162/tx.hls.huya.com/src/1099531752762-1099531752762-86436156702457856-2199063628980-10057-A-0-1.m3u8#http://112.74.200.9:88/tv000000/m3u8.php?/huya/21059568
+僵尸,http://ye23.win/iptv/bilibili.php?id=21420537
 康熙王朝,http://121.51.142.162/tx.hls.huya.com/src/1448737923-1448737923-6222281999759966208-2847699110-10057-A-0-1.m3u8#http://112.74.200.9:88/tv000000/m3u8.php?/huya/11352940
 士兵突击,http://epg.112114.xyz/douyu/6949033#http://dyscdnali1.douyucdn.cn/live/6949033rKdwnkNlA.flv?uuid=
 李小哇絮叨叨,http://121.51.142.162/tx.hls.huya.com/src/1199515315044-1199515315044-5237452600151900160-2399030753544-10057-A-0-1.m3u8#http://112.74.200.9:88/tv000000/m3u8.php?/huya/18441722
@@ -919,9 +919,11 @@ IPTV谍战剧场,http://39.134.39.37/PLTV/88888888/224/3221226256/index.m3u8
 少儿频道,#genre#
 中华小当家,http://121.51.142.162/tx.hls.huya.com/src/1449588921-1449588921-6225937008338927616-2789274526-10057-A-0-1.m3u8#http://112.74.200.9:88/tv000000/m3u8.php?/huya/11342413
 猫和老鼠,http://121.51.142.162/tx.hls.huya.com/src/1423782038-1423782038-6115097289842229248-2847687532-10057-A-0-1.m3u8#http://112.74.200.9:88/tv000000/m3u8.php?/huya/11352879
-猫和老鼠1,http://42.56.91.136/live-bvc/190338/live_39734764_8369517.m3u8
-猫和老鼠2,https://cn-jxnc-cmcc-live-02.bilivideo.com/live-bvc/377372/live_2370062_9705826.m3u8
-猫和老鼠3,https://cn-jxnc-cmcc-live-02.bilivideo.com/live-bvc/688999/live_8244646_5219019.m3u8
+猫和老鼠1,http://ye23.win/iptv/bilibili.php?id=1308156
+猫和老鼠2,http://ye23.win/iptv/bilibili.php?id=22756056
+猫和老鼠3,http://ye23.win/iptv/bilibili.php?id=23138038
+猫和老鼠4,http://ye23.win/iptv/bilibili.php?id=23150676
+四驱兄弟1,http://ye23.win/iptv/bilibili.php?id=4224692
 四驱兄弟,http://121.51.142.162/tx.hls.huya.com/src/1423782104-1423782104-6115097573310070784-2847687664-10057-A-0-1.m3u8#http://112.74.200.9:88/tv000000/m3u8.php?/huya/11352922
 蜡笔小新,http://121.51.142.162/tx.hls.huya.com/src/1423787878-1423787878-6115122372451237888-2847699212-10057-A-0-1-imgplus.m3u8#http://112.74.200.9:88/tv000000/m3u8.php?/huya/11352970
 哈哈炫动,http://183.207.255.190/live/program/live/hhxdhd/4000000/mnf.m3u8#http://223.110.245.163/ott.js.chinamobile.com/PLTV/3/224/3221226388/index.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226421/1.m3u8
