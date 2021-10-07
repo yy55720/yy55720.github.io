@@ -58,7 +58,7 @@ CGTN西班牙语,https://livees.cgtn.com/1000e/prog_index.m3u8#https://news.cgtn
 重庆卫视,http://223.110.246.78/ott.js.chinamobile.com/PLTV/4/224/3221227632/index.m3u8#http://39.134.116.30:8080/PLTV/88888910/224/3221225734/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225734/index.m3u8#http://qxlmlive.cbg.cn:1935/app_2/ls_67.stream/chunklist.m3u8#http://117.169.120.140:8080/live/chongqingstv/.m3u8
 东南卫视,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226496/1.m3u8#http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221227670/index.m3u8#http://39.134.39.39/PLTV/88888888/224/3221226182/index.m3u8#http://39.134.39.28:80/PLTV/88888888/224/3221226182/index.m3u8#http://117.169.120.140:8080/live/dongnanstv/.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225657/index.m3u8
 江西卫视,http://223.110.245.170/PLTV/3/224/3221225536/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225746/index.m3u8#http://223.110.245.151/ott.js.chinamobile.com/PLTV/4/224/3221227738/index.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226243/1.m3u8#http://39.134.39.39/PLTV/88888888/224/3221226207/index.m3u8
-云南卫视,https://hwapi.yunshicloud.com/8xughf/e0bx15.m3u8#http://tvlive.ynradio.com/live/yunnanweishi/playlist.m3u8#https://hwapi.yunshicloud.com/62hdvf/41hse3.m3u8#rtmp://hwzbout.yunshicloud.com/8xughf/e0bx15#http://39.134.115.163:8080/PLTV/88888910/224/3221225664/index.m3u8
+云南卫视,https://hwapi.yunshicloud.com/8xughf/e0bx15.m3u8#http://129.226.107.225/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226063/1.m3u8#http://tvlive.ynradio.com/live/yunnanweishi/playlist.m3u8#https://hwapi.yunshicloud.com/62hdvf/41hse3.m3u8#rtmp://hwzbout.yunshicloud.com/8xughf/e0bx15#http://39.134.115.163:8080/PLTV/88888910/224/3221225664/index.m3u8
 吉林卫视,rtsp://183.252.166.199/PLTV/88888888/224/3221226792/48616745.smil#http://yuniptvunql.chinayungu.cn:65530/live/jlws/index.m3u8#http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=25&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_#http://39.134.115.163:8080/PLTV/88888910/224/3221225680/index.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226426/1.m3u8
 甘肃卫视,http://39.134.39.37/PLTV/88888888/224/3221226240/index.m3u8#http://39.134.39.39/PLTV/88888888/224/3221226240/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225724/index.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226414/1.m3u8
 湖北卫视,http://223.110.243.171/PLTV/3/224/3221227211/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225740/index.m3u8#http://39.134.39.39/PLTV/88888888/224/3221226159/index.m3u8#http://223.110.246.70/ott.js.chinamobile.com/PLTV/4/224/3221227703/index.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226503/1.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225569/index.m3u8
@@ -71,7 +71,7 @@ CGTN西班牙语,https://livees.cgtn.com/1000e/prog_index.m3u8#https://news.cgtn
 厦门卫视,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226542/1.m3u8
 河北卫视,http://live2.plus.hebtv.com/hbwsx/hd/live.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226507/1.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225732/index.m3u8
 河南卫视,rtsp://183.252.166.199/PLTV/88888888/224/3221226076/10000100000000060000000002296917_0.smil#http://yuniptvunql.chinayungu.cn:65530/live/henws/index.m3u8
-陕西卫视,http://129.226.107.225/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/index.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226411/1.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225729/index.m3u8
+陕西卫视,http://129.226.107.225/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/index.m3u8#http://livepull.sxiptv.cn/live/shanxiweishihd.flv#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226411/1.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225729/index.m3u8
 贵州卫视,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226497/1.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225728/index.m3u8
 内蒙古卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225667/index.m3u8#http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221225836/index.m3u8
 新疆卫视,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226422/1.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225725/index.m3u8
@@ -121,6 +121,7 @@ FOX-FS1,http://stream.fs1.tv:8080/hls/webstream.m3u8
 
 
 台湾,#genre#
+东森电影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twdsdy&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200#https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twdsdy
 民视,rtmp://161.202.204.248/sat/tv051#rtmp://59.124.75.153/sat/tv051
 台视,rtmp://161.202.204.248/sat/tv071#rtmp://59.124.75.153/sat/tv071
 中视,rtmp://161.202.204.248/sat/tv091#rtmp://59.124.75.153/sat/tv091
@@ -300,6 +301,7 @@ Y+频道,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 四川·巴中公共,http://30814.hlsplay.aodianyun.com/lms_30814/tv_channel_247.m3u8
 四川·达州综合,http://m3u8.channellive.dzxw.net/cms/videos/nmip-media/channellive/channel35/playlist.m3u8
 四川·达州公共,http://m3u8.channellive.dzxw.net/cms/videos/nmip-media/channellive/channel36/playlist.m3u8
+四川·罗江电视,http://qcloud-play.lezhibo.com/live/10349_1cb5a83cdf1c4b74804e8c8b8ed99cc8.m3u8
 四川·犍为综合,http://tv.scwlqw.cn:3100/hls/kqcyufpi/index.m3u8
 四川·隆昌综合,http://live.sctvcloud.com/live/longchang/playlist.m3u8
 四川·绵阳公共,http://live.826pc.com/mytv/live.php?id=3
@@ -595,6 +597,9 @@ Y+频道,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 河南·项城电视,http://live.dxhmt.cn:9081/tv/11681-1.m3u8
 河南·灵宝电视,http://live.dxhmt.cn:9081/tv/11282-1.m3u8
 青海·西宁新闻,http://wshls.butel.com/live/139a3.m3u8
+陕西·新闻资讯,http://livepull.sxiptv.cn/live/shanxi1taohd.flv
+陕西·都市青春,http://livepull.sxiptv.cn/live/shanxi2taohd.flv
+陕西·体育休闲,http://livepull.sxiptv.cn/live/shanxi7taohd.flv
 陕西·汉中电视1,http://live.hzrtvs.com/channel1/sd/live.m3u8
 吉林·延边汉语综合,http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
 滨海新闻综合,https://livealone302.iqilu.com/binhai/binhai_tv.m3u8
@@ -826,6 +831,7 @@ IPTV相声小品,http://39.134.39.37/PLTV/88888888/224/3221226260/index.m3u8
 
 
 轮播,#genre#
+神话,http://ye23.win/iptv/bilibili.php?id=7251976#http://ye23.win/iptv/bilibili.php?id=22747403
 爱情公寓,http://121.51.142.162/tx.hls.huya.com/src/1388474069-1388474069-5963450717699047424-2777071594-10057-A-0-1.m3u8#http://112.74.200.9:88/tv000000/m3u8.php?/huya/11336726
 爱情公寓0,http://3954-out.liveplay.myqcloud.com/live/3954_322842111.flv
 乡村爱情,http://121.51.142.162/tx.hls.huya.com/src/1524439828-1524439828-6547419205979865088-3049003112-10057-A-0-1.m3u8#http://112.74.200.9:88/tv000000/m3u8.php?/huya/11602068
