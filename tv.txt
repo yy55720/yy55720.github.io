@@ -85,9 +85,10 @@ CGTN西班牙语,https://livees.cgtn.com/1000e/prog_index.m3u8#https://news.cgtn
 
 
 港澳,#genre#
-凤凰中文台,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8#http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8#http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
-凤凰资讯台,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8#http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8#http://223.110.245.136/PLTV/3/224/3221226923/index.m3u8
+凤凰中文台,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8#http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8#https://zb.ios.ifeng.com/live/05QGDA0CIRK/index.m3u8#http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8#http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8#http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8#http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228608/index.m3u8
+凤凰资讯台,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8#http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8#https://zb.ios.ifeng.com/live/05QGCOB3T34/index.m3u8#http://223.110.245.136/PLTV/3/224/3221226923/index.m3u8#http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228597/index.m3u8#http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
 凤凰香港台,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8#http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
+凤凰电影台,http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA
 香港C+,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
 ViuTV,https://cdn.hkdtmb.com/hls/99/index.m3u8
 ViuTV 6,https://cdn.hkdtmb.com/hls/96/index.m3u8
@@ -109,7 +110,7 @@ J2,https://cdn.hkdtmb.com/hls/82/index.m3u8
 亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 唯心電視,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
-莲花卫视,http://0x60n703.dongtaiyuming.net/live/8/index.m3u8
+澳门莲花,http://nettvpro.live/hls/lotustv.php#http://anren.live/HK/BiIOU11uLA.m3u8
 澳视澳门,http://61.244.22.4/ch1/ch1.live/playelist.m3u8
 澳视葡文,http://61.244.22.4/ch2/ch2.live/playelist.m3u8
 澳门MACAU,http://61.244.22.4/ch3/ch3.live/playelist.m3u8#http://61.244.22.4/ch3/ch3.live/index.m3u8
@@ -122,27 +123,31 @@ FOX-FS1,http://stream.fs1.tv:8080/hls/webstream.m3u8
 
 
 台湾,#genre#
-东森电影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twdsdy&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200#https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twdsdy
-民视,rtmp://161.202.204.248/sat/tv051#rtmp://59.124.75.153/sat/tv051
-台视,rtmp://161.202.204.248/sat/tv071#rtmp://59.124.75.153/sat/tv071
-中视,rtmp://161.202.204.248/sat/tv091#rtmp://59.124.75.153/sat/tv091
-华视,rtmp://161.202.204.248/sat/tv111#rtmp://59.124.75.153/sat/tv111
-TVBS·欢乐台,rtmp://161.202.204.248/sat/tv421#rtmp://59.124.75.153/sat/tv421
-TVBS·新闻台,rtmp://161.202.204.248/sat/tv551#rtmp://59.124.75.153/sat/tv551
-东森财经新闻,rtmp://161.202.204.248/sat/tv571#rtmp://59.124.75.153:1935/sat/tv571
-东森超视,rtmp://161.202.204.248/sat/tv771#rtmp://59.124.75.153/sat/tv771
-纬来育乐,rtmp://161.202.204.248/sat/tv701#rtmp://59.124.75.153/sat/tv701
-纬来体育,rtmp://161.202.204.248/sat/tv721#rtmp://59.124.75.153/sat/tv721
-纬来日本,rtmp://161.202.204.248/sat/tv521#rtmp://59.124.75.153/sat/tv521
-ELEVEN1体育,rtmp://161.202.204.248/sat/tv731#rtmp://59.124.75.153:1935/sat/tv731
-ELEVEN2体育,rtmp://161.202.204.248/sat/tv741#rtmp://59.124.75.153:1935/sat/tv741
-ELEVEN+体育,rtmp://161.202.204.248/sat/md021#rtmp://59.124.75.153/sat/md021
-爱尔达体育1,rtmp://161.202.204.248/sat/md041#rtmp://59.124.75.153:1935/sat/md041
-爱尔达体育2,rtmp://161.202.204.248/sat/md011#rtmp://59.124.75.153/sat/md011
-爱尔达体育3,rtmp://161.202.204.248/sat/md051#rtmp://59.124.75.153/sat/md051
-MoMo综合台,rtmp://161.202.204.248/sat/tv761#rtmp://59.124.75.153/sat/tv761
-博斯魅力,rtmp://161.202.204.248/sat/md031#rtmp://59.124.75.153:1935/sat/md031
-有线18台,rtmp://59.124.75.153/sat/hk042
+台视,rtmp://59.124.75.138/sat/tv071#http://50.7.61.148:30080/Entry/ttv
+中视,rtmp://59.124.75.138/sat/tv091
+华视,rtmp://59.124.75.157/sat/tv111#rtmp://59.124.75.138/sat/tv111
+JET综合,http://50.7.61.147:30080/Entry/jet
+三立台灣台,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8
+三立都會台,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8
+TVBS·欢乐台,rtmp://59.124.75.138/sat/tv421
+TVBS·新闻台,http://50.7.61.148:30080/Entry/tvbsnews#rtmp://59.124.75.138/sat/tv551
+MoMo综合台,rtmp://59.124.75.138/sat/tv761#http://58.99.33.16:1935/liveedge17/live_075_3.stream/chunklist.m3u8
+寰宇新闻台,http://58.99.33.16:1935/liveedge17/live_163_3.stream/chunklist.m3u8
+ELEVEN体育1,rtmp://59.124.75.138/sat/tv731
+ELEVEN体育2,rtmp://59.124.75.138/sat/md041#rtmp://59.124.75.138/sat/tv741
+ELEVEN体育+,rtmp://59.124.75.138/sat/md051
+ELTA体育2,rtmp://59.124.75.138/sat/md011
+博斯网球,rtmp://59.124.75.138/sat/md031
+纬来体育,rtmp://59.124.75.138/sat/tv721
+智林体育台,http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
+东森财经新闻,rtmp://59.124.75.138/sat/tv571
+中台湾生活网,http://58.99.33.16:1935/liveedge17/live_852_3.stream/chunklist.m3u8
+南投新闻,http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m3u8
+云林新闻,http://58.99.33.16:1935/liveedge17/live_854_3.stream/chunklist.m3u8
+海豚综合台,http://58.99.33.16:1935/liveedge17/live_077_3.stream/chunklist.m3u8
+美丽人生,http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunklist.m3u8
+纬来育乐,rtmp://59.124.75.138/sat/tv701
+纬来日本,rtmp://59.124.75.138/sat/tv771
 大爱一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱二台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 大爱海外,https://pulltv3.wanfudaluye.com/live/tv3.m3u8
@@ -152,7 +157,6 @@ MoMo综合台,rtmp://161.202.204.248/sat/tv761#rtmp://59.124.75.153/sat/tv761
 大立電視,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 原住民电视,http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 NHK华语视界,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-龙祥时代,rtmp://202.39.64.233/channel/60c2474a961593122ebaf7b5?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
 
 
 地方,#genre#
