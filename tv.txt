@@ -199,7 +199,7 @@ NHK华语视界,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.
 全纪实,http://112.25.48.68/live/program/live/qjshd/4000000/mnf.m3u8#http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/qjshd/4000000/mnf.m3u8#http://183.207.255.190/live/program/live/qjshd/4000000/mnf.m3u8#http://shbu.live.bestvcdn.com.cn:8080/live/program/live/qjshd/4000000/mnf.m3u8#http://140.207.241.2:8080/live/program/live/qjshd/4000000/mnf.m3u8
 金鹰纪实,http://58.20.64.92:9999/tsfile/live/1006_1.m3u8#http://124.232.231.246:6610/000000001001/201500000240/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 Y+频道,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
-北京·纪实,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8#http://39.134.155.149/PLTV/88888888/224/3221225645/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225675/index.m3u8
+北京·纪实,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8#http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s6/index.m3u8?time=#http://39.135.138.58:18890/PLTV/88888888/224/3221225676/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226232/index.m3u8#http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-beijingjishi/HD-8000k-1080P-beijingjishi#http://39.134.115.163:8080/PLTV/88888910/224/3221225675/index.m3u8
 北京·文艺,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226440/1.m3u8
 北京·科教,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226559/1.m3u8
 北京·影视,http://111.13.42.10/PLTV/88888888/224/3221226486/1.m3u8
