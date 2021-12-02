@@ -749,7 +749,7 @@ NewTV江西,http://39.134.115.163:8080/PLTV/88888910/224/3221225979/index.m3u8
 
 
 网络,#genre#
-英雄联盟赛事,http://tx2play1.douyucdn.cn/live/288016rlols5.xs#http://121.51.142.162/tx.hls.huya.com/src/78941969-2559461593-10992803837303062528-2693342886-10057-A-0-1.m3u8#http://112.74.200.9:88/tv000000/m3u8.php?/huya/lpl
+英雄联盟赛事,http://121.51.142.162/tx.hls.huya.com/src/78941969-2559461593-10992803837303062528-2693342886-10057-A-0-1-imgplus.flv#http://tx2play1.douyucdn.cn/live/288016rlols5.xs#http://112.74.200.9:88/tv000000/m3u8.php?/huya/lpl
 超清影视,http://223.110.243.162/ott.js.chinamobile.com/PLTV/3/224/3221227512/index.m3u8
 亚洲影院,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228365/42613673.smil/index.m3u8?fmt=ts2hls
 欧美影院,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228384/42613784.smil/index.m3u8?fmt=ts2hls
