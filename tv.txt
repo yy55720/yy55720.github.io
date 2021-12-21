@@ -80,7 +80,8 @@ CGTN西班牙语,https://livees.cgtn.com/1000e/prog_index.m3u8#https://news.cgtn
 山西卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225730/index.m3u8
 新疆卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225725/index.m3u8
 西藏卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225723/index.m3u8#http://223.110.246.72/ott.js.chinamobile.com/PLTV/4/224/3221226376/index.m3u8#http://117.169.120.140:8080/live/xizangstv/.m3u8#http://117.169.124.36:6610/ysten-businessmobile/live/xizangstv/index.m3u8
-兵团卫视,http://test5.btzx.com.cn/live/btxjbtws.stream/playlist.m3u8#http://223.110.246.66/ott.js.chinamobile.com/PLTV/4/224/3221227025/index.m3u8#http://183.207.248.71:80/cntv/live1/SD-4000k-576P-bingtuanstv/SD-4000k-576P-bingtuanstv
+兵团卫视,http://test5.btzx.com.cn/live/btxjbtws.stream/playlist.m3u8#http://test5.btzx.com.cn/live/btxjbtws.stream/playlist.m3u8#http://223.110.246.66/ott.js.chinamobile.com/PLTV/4/224/3221227025/index.m3u8#http://183.207.248.71:80/cntv/live1/SD-4000k-576P-bingtuanstv/SD-4000k-576P-bingtuanstv
+三沙卫视,http://153.0.115.66:9901/tsfile/live/1110_1.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8
 农林卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226229/index.m3u8
 康巴卫视,http://scgctvshow.sctv.com/hdlive/kangba/1.m3u8
