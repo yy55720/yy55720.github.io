@@ -794,7 +794,7 @@ NewTV超级综艺,http://39.134.66.66/PLTV/88888888/224/3221225642/index.m3u8#ht
 
 网络,#genre#
 英雄联盟赛事,http://121.51.14.14/tx.hls.huya.com/src/78941969-2559461593-10992803837303062528-2693342886-10057-A-0-1.m3u8#http://tx2play1.douyucdn.cn/live/288016rlols5.xs#http://dllb.jxin122.top/huya.php?id=lpl
-姿态,http://121.51.14.14/tx.hls.huya.com/src/2367547387-2367547387-10168538598895255552-4735218230-10057-A-0-1-imgplus.flv#http://121.51.142.162/tx.hls.huya.com/src/2367547387-2367547387-10168538598895255552-4735218230-10057-A-0-1-imgplus.m3u8#http://121.51.14.14/tx.hls.huya.com/src/2367547387-2367547387-10168538598895255552-4735218230-10057-A-0-1-imgplus.m3u8
+姿态,http://121.51.14.14/tx.hls.huya.com/src/2367547387-2367547387-10168538598895255552-4735218230-10057-A-0-1-imgplus.flv#http://121.51.14.14/tx.hls.huya.com/src/2367547387-2367547387-10168538598895255552-4735218230-10057-A-0-1-imgplus.m3u8#http://dllb.jxin122.top/huya.php?id=333003
 KiD影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8#https://pull.kktv8.com/livekktv/128600025.flv
 电影,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
