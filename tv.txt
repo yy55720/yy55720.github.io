@@ -591,7 +591,7 @@ Y+频道,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 山东·新泰综合,https://jsylivealone302.iqilu.com/xintai/xintai_tv01/index.m3u8#https://livealone302.iqilu.com/xintai/xintai_tv01/index.m3u8
 山东·新泰乡村,https://jsylivealone302.iqilu.com/xintai/xintai_tv02/index.m3u8#https://livealone302.iqilu.com/xintai/xintai_tv02/index.m3u8
 山东·商河综合,http://jsylivealone302.iqilu.com/live/shanghe_tv01.m3u8
-山东·商河影视,http://jsylivealone302.iqilu.com/live/shanghe_tv02.m3u8
+山东·商河影视,https://jsylivealone302.iqilu.com/live/shanghe_tv02.m3u8
 山东·邹城新闻,https://jsylivealone302.iqilu.com/live/zoucheng_tv01/index.m3u8#https://livealone302.iqilu.com/live/zoucheng_tv01/index.m3u8
 山东·邹城文化生活,http://jsylivealone302.iqilu.com/live/zoucheng_tv02.m3u8
 山东·奎文电视,http://jsylivealone302.iqilu.com/live/kuiwen_tv01/index.m3u8
@@ -959,7 +959,7 @@ Hot精品剧场,http://39.134.176.160/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888
 句容影视,http://218.3.92.100:1937/live/yingshi/playlist.m3u8#http://218.3.92.100:1937/live/yingshi/chunklist_w365370764.m3u8
 海西影视,http://stream.haixitv.cn/1/sd/live.m3u8
 嘉兴文化影视,http://stream1.jiaxingren.com/whys/playlist.m3u8
-商河影视,http://jsylivealone302.iqilu.com/live/shanghe_tv02.m3u8
+商河影视,https://jsylivealone302.iqilu.com/live/shanghe_tv02.m3u8
 潮安影视,http://chaoan.chaoantv.com:8278/h_yingshi_1028/playlist.m3u8
 安徽影视,http://zbbf2.ahtv.cn/live/756.m3u8
 哈尔滨影视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225760/index.m3u8#http://39.135.135.34/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225760/index.m3u8
