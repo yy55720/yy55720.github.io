@@ -345,6 +345,9 @@ Y+频道,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 浙江·宁波新闻综合,http://live1.cloud.nbtv.cn/live/44dcc3310dcf4278827317c77e87bac5?fmt=h264_500k_flv&trs=hls_ts
 浙江·宁波影视频道,http://live1.cloud.nbtv.cn/live/e8370b0010ca4d15af9d81c7ce10f6da?fmt=h264_500k_flv&trs=hls_ts
 浙江·宁波文化娱乐,http://live1.cloud.nbtv.cn/live/5864a1066e4d4754a0572768c9080e47?fmt=h264_500k_flv&trs=hls_ts
+浙江·舟山新闻综合,https://live1.plus.wifizs.cn/xwzh/sd/live.m3u8
+浙江·舟山公共生活,http://live.wifizs.cn/ggsh/sd/live.m3u8#https://live1.plus.wifizs.cn/ggsh/sd/live.m3u8
+浙江·舟山群岛旅游,http://live.wifizs.cn/qdly/sd/live.m3u8#https://live1.plus.wifizs.cn/qdly/sd/live.m3u8
 浙江·绍兴新闻综合,http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8
 浙江·绍兴公共频道,http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
 浙江·绍兴文化影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
