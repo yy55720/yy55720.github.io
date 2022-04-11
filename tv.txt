@@ -307,6 +307,7 @@ Y+频道,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 上海·浦东财经,http://183.207.255.188/live/program/live/dfcj/1300000/mnf.m3u8
 上海·七彩戏曲,http://183.207.255.188/live/program/live/qcxj/1300000/mnf.m3u8
 上海·魅力足球,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
+上海·金山,http://live.mudu.tv/watch/4zbn2f.m3u8
 福建·新闻,rtsp://183.252.176.54:554/PLTV/88888888/224/3221226116/10000100000000060000000002358068_0.smil
 福建·综合,rtsp://183.252.176.54:554/PLTV/88888888/224/3221226826/47882539.smil
 福建·公共,rtsp://183.252.176.54:554/PLTV/88888888/224/3221226113/10000100000000060000000002358064_0.smil
@@ -351,6 +352,13 @@ Y+频道,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 浙江·绍兴新闻综合,http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8
 浙江·绍兴公共频道,http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
 浙江·绍兴文化影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
+浙江·萧山综合,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
+浙江·萧山生活,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
+浙江·上虞新闻综合,http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
+浙江·上虞文化影视,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
+浙江·上虞新商都,http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
+浙江·新昌新闻,http://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
+浙江·新昌生活,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
 浙江·柯桥综合,http://live.scbtv.cn/hls/news/index.m3u8
 浙江·柯桥时尚,http://live.scbtv.cn/hls/qfc/index.m3u8
 浙江·青田电视台,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
@@ -364,6 +372,7 @@ Y+频道,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 浙江·苍南综合,http://l.cztvcloud.com/channels/lantian/SXcangnan1/720p.m3u8
 浙江·兰溪综合,http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8
 浙江·嵊州综合,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
+浙江·缙云新闻综合,http://l.cztvcloud.com:80/channels/lantian/SXjinyun1/720p.m3u8
 四川·新闻,http://scgctvshow.sctv.com/hdlive/sctv4803a8281ce88f1082ef1/1.m3u8#http://ikuai9.com:4000/udp/239.93.0.47:5140
 四川·经济,http://scgctvshow.sctv.com/hdlive/sctv2803a8281ce88f1082ef1/1.m3u8#http://ikuai9.com:4000/udp/239.93.1.101:5140
 四川·影视文艺,http://scgctvshow.sctv.com/hdlive/sctv5803a8281ce88f1082ef1/1.m3u8#http://ikuai9.com:4000/udp/239.93.0.166:5140
@@ -446,7 +455,6 @@ Y+频道,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 重庆·永川综合,http://qxlmlive.cbg.cn:1935/applive/yctv01/chunklist.m3u8
 重庆·垫江综合,http://125.62.24.185:80/1.m3u8
 重庆·大足综合,http://218.201.85.71:3170/m3u8
-
 云南·昆明综合,http://wshls.live.migucloud.com/live/01YCQY7M_C0/playlist.m3u8
 云南·昆明公共,http://wshls.live.migucloud.com/live/UD0YLY2G_C0_3/playlist.m3u8
 云南·昆明教育台,https://pili-live-hls-kmjy.tianma3600.com/kmjy/kmjy.m3u8
@@ -511,6 +519,7 @@ Y+频道,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 甘肃·金昌综合,http://39.134.32.102:6610/270000001111/1110000194/index.m3u8?IASHttpSessionId=OTT#http://stream4.liveyun.hoge.cn/ch02/sd/live.m3u8
 甘肃·金昌公共,http://39.134.32.102:6610/270000001111/1110000193/index.m3u8?IASHttpSessionId=OTT#http://stream4.liveyun.hoge.cn/ch01/sd/live.m3u8
 甘肃·岷县电视,http://39.134.32.102:6610/270000001111/1110000130/index.m3u8?IASHttpSessionId=OTT
+甘肃·酒泉综合,http://stream.gsjqtv.com/pd1/sd/live.m3u8
 江苏·南京综合,http://live.nbs.cn/channels/njtv/xwzh/m3u8:500k/live.m3u8
 江苏·南京教科,http://live.nbs.cn/channels/njtv/jkpd/m3u8:500k/live.m3u8
 江苏·南京生活,http://live.nbs.cn/channels/njtv/shpd/m3u8:500k/live.m3u8
@@ -520,6 +529,9 @@ Y+频道,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 江苏·南京信息,http://live.nbs.cn/channels/njtv/xxpd/m3u8:500k/live.m3u8
 江苏·张家港新闻综合,http://3gvod.zjgonline.com.cn:1935/live/xinwenzonghe2/playlist.m3u8
 江苏·张家港社会生活,http://3gvod.zjgonline.com.cn:1935/live/shehuishenghuo2/playlist.m3u8
+江苏·淮安综合,http://stream.habctv.com/xwzh/sd/live.m3u8
+江苏·淮安公共,http://stream.habctv.com/hagg/sd/live.m3u8
+江苏·淮安影视,http://stream.habctv.com/ysyl/sd/live.m3u8
 江苏·靖江新闻综合,http://58.222.151.43:1935/live/xwzhpc/playlist.m3u8#http://visit.jjbctv.com:1935/live/xwzhpc/playlist.m3u8
 江苏·苏州电影娱乐,https://liveshowbak2.kan0512.com/norecord/ncsztv4_sd/playlist.m3u8
 广东·南国都市,https://aplay.gztv.com/sec/shenghuos.m3u8
@@ -758,7 +770,7 @@ https://live.yjtvw.com:8081/live/smil:yjtv2.smil/playlist.m3u8#https://live.yjtv
 河南·安阳新闻综合,http://zhpull.dxhmt.cn:80/anyang/7e3b40563af54e2f9f48e2c67c5d9fab/playlist.m3u8
 河南·安阳公共,http://zhpull.dxhmt.cn:80/anyang/d21bf91860c443caa34c4797d6b0026e/playlist.m3u8
 河南·安阳科教,http://zhpull.dxhmt.cn:80/anyang/24edb37167474b17948c6fbaf09890b8/playlist.m3u8
-河南·洛阳新闻综合,http://wshls.live.migucloud.com/live/JARXUQWI_C0/playlist.m3u8
+河南·洛阳新闻综合,http://wshls.live.migucloud.com/live/JARXUQWI_C0/playlist.m3u8#http://live1.lytv.com.cn:1935/live/LYTV1-1/playlist.m3u8
 河南·洛阳科教频道,http://wshls.live.migucloud.com/live/3WH8OBTJ_C0/playlist.m3u8
 河南·洛阳文旅频道,http://wshls.live.migucloud.com/live/G8B61RHW_C0/playlist.m3u8
 河南·焦作综合,http://zhpull.dxhmt.cn/jiaozuo/b75a92c9503e47cf9e89f7ff247b65f2/playlist.m3u8
@@ -1092,28 +1104,44 @@ TVB剧场,http://117.148.179.157/PLTV/88888888/224/3221231733/index.m3u8
 
 影视频道,#genre#
 峨眉电影,http://ikuai9.com:4000/udp/239.93.1.54:5140
-黑莓电影,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/jdianying/1.m3u8#http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225718/index.m3u8#http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225718/index.m3u8
+黑莓电影,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/jdianying/1.m3u8#http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225718/index.m3u8#http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225718/index.m3u8#http://111.40.196.9/PLTV/88888888/224/3221225610/index.m3u8
 CHC动作电影,http://111.20.33.93/PLTV/88888893/224/3221226465/index.m3u8#http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 CHC家庭影院,http://111.20.33.93/PLTV/88888893/224/3221226462/index.m3u8#http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8#http://39.134.19.153:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/index.m3u8
 CHC高清电影,http://111.20.33.93/PLTV/88888893/224/3221226463/index.m3u8#http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8#http://39.134.18.68/PLTV/88888888/224/3221232382/index.m3u8#http://39.134.19.76:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/index.m3u8
 SiTV欢笑剧场,http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8#http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8#http://111.20.33.93/PLTV/88888893/224/3221226582/index.m3u8
 SiTV都市剧场,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226581/index.m3u8#http://111.20.33.93/PLTV/88888893/224/3221226581/index.m3u8
-SiTV东方影视,http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3u8#http://111.40.196.9/PLTV/88888888/224/3221225615/index.m3u8#http://140.207.241.3:8080/live/program/live/dsjpdhd/4000000/mnf.m3u8
-浙江教科影视,http://hw-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
+SiTV东方影视,http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3u8#http://111.40.196.9/PLTV/88888888/224/3221225615/index.m3u8#http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/dsjpdhd/4000000/mnf.m3u8
 杭州影视,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229377/index.m3u8
 福建电视剧,rtsp://183.252.176.54:554/PLTV/88888888/224/3221226115/10000100000000060000000002358067_0.smil
 福州影视,http://live.zohi.tv/video/s10001-yspd-2/index.m3u8
-四川影视文艺,http://scgctvshow.sctv.com/hdlive/sctv55f8bc11487c048e34dfc/1.m3u8#http://ikuai9.com:4000/udp/239.93.0.166:5140
+四川影视文艺,http://ikuai9.com:4000/udp/239.93.0.166:5140#http://scgctvshow.sctv.com/hdlive/sctv5803a8281ce88f1082ef1/1.m3u8
 安徽影视,http://120.210.193.151:8006/120000001002/XMTah_yshd/index.m3u8
+海豚影视,http://120.210.193.151:8006/120000001002/XMThtys/1.m3u8
+东至影视,http://223.247.33.124:1935/live/yingshi/playlist.m3u8
 黑龙江影视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
+哈尔滨影视,http://39.135.135.34/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225760/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225760/index.m3u8
 绍兴文化影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
+宁波影视,http://live1.cloud.nbtv.cn/live/e8370b0010ca4d15af9d81c7ce10f6da?fmt=h264_500k_flv&trs=hls_ts
+上虞文化影视,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
 湖南电视剧,http://111.40.196.33/PLTV/88888888/224/3221225662/index.m3u8?
 甘肃文化影视,https://hls.gstv.com.cn/49048r/w1l6d5.m3u8
 海西影视,http://stream.haixitv.cn/1/sd/live.m3u8
 嘉兴文化影视,http://stream1.jiaxingren.com/whys/playlist.m3u8
-商河影视,https://jsylivealone302.iqilu.com/live/shanghe_tv02.m3u8
-哈尔滨影视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225760/index.m3u8#http://39.135.135.34/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225760/index.m3u8
 隆化影视,http://hblh.chinashadt.com:2036/live/stream:lh2.stream/playlist.m3u8
+淮安影视,http://stream.habctv.com/ysyl/sd/live.m3u8
+石河子影视文体,http://124.88.144.73:1935/live/jjsh/playlist.m3u8
+山西影视,http://liveflash.sxrtv.com/live/sxfilm.m3u8
+柳林影视,http://pili-live-hls.212.i2863.com/i2863-212/live_212_316579.m3u8
+河北影视,http://live6.plus.hebtv.com/hbysx/hd/live.m3u8
+永清影视,http://60.10.203.69:8000/4.m3u8
+平泉影视,https://jwliveqxzb.hebyun.com.cn/pqys/pqys.m3u8#https://jwcdnqx.hebyun.com.cn/live/pqys/1500k/tzwj_video.m3u8
+广西影视,http://111.59.63.32:9901/tsfile/live/1006_1.m3u8
+南宁影视,http://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8
+烟台影视,http://live.yantaitv.cn/live/e9f1d9045d474c31884d13fa4ffbbd16/a4a9b3704d854756907845107cc56129-1.m3u8
+商河影视,https://jsylivealone302.iqilu.com/live/shanghe_tv02.m3u8
+武城影视,https://jsylivealone302.iqilu.com/live/wucheng_tv02/index.m3u8
+济阳影视,https://jsylivealone302.iqilu.com/live/jiyang_tv02/index.m3u8
+河东影视,https://jsylivealone302.iqilu.com/live/hedong_tv01/index.m3u8
 
 
 少儿频道,#genre#
