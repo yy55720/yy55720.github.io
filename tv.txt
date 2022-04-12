@@ -1026,7 +1026,7 @@ IPTV5+,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/322122634
 爱情公寓,http://121.51.14.14/tx.hls.huya.com/src/1388474069-1388474069-5963450717699047424-2777071594-10057-A-0-1-imgplus.m3u8#http://epg.112114.xyz/huya/11336726
 乡村爱情,http://121.51.14.14/tx.hls.huya.com/src/1524439828-1524439828-6547419205979865088-3049003112-10057-A-0-1.m3u8#http://epg.112114.xyz/huya/11602068
 鬼吹灯精绝古城,http://122.136.191.180/tx.hls.huya.com/src/1423782025-1423782025-6115097234007654400-2847687506-10057-A-0-1.m3u8#http://epg.112114.xyz/huya/11352871
-神探狄仁杰,http://tx2play1.douyucdn.cn/live/6027991rD7gZZeor.xs#http://epg.112114.xyz/douyu/6027991
+神探狄仁杰,http://tx2play1.douyucdn.cn/live/6027991rCMbJvPpG.xs#http://epg.112114.xyz/douyu/6027991
 西游记,http://epg.112114.xyz/douyu/5472438
 刑事侦缉档案,http://epg.112114.xyz/douyu/138959
 法证先锋,http://epg.112114.xyz/douyu/9019945
