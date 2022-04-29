@@ -25,21 +25,22 @@ CETV-1,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225917/index.m3
 CETV-2,https://hlscdn.liangtv.cn/live/fe27f2056c0c41439a598b4fc6f1c580/705c05d0f8df4a42b6be8f0ae8a85d6a.m3u8#http://120.210.193.151:8006/120000001002/XMTcetv-2/index.m3u8#http://39.134.19.135/PLTV/88888888/224/3221225710/1.m3u8#http://183.207.248.71/gitv/live1/G_CETV-2/G_CETV-2#http://111.63.117.13:6060/030000001000/G_CETV-2/G_CETV-2.m3u8
 CETV-3,http://111.20.33.93/PLTV/88888893/224/3221226226/index.m3u8
 CETV-4,https://hlscdn.liangtv.cn/live/343e872aba6d4096a14f2c675e698528/a65bdcf36db94eda8cb5ce02e1395f2a.m3u8#http://120.210.193.151:8006/120000001002/XMTcetv-4/index.m3u8#http://111.20.33.93/PLTV/88888893/224/3221226225/index.m3u8
-CCTV风云足球,http://117.148.179.137/PLTV/88888888/224/3221231547/index.m3u8#http://astream.apk1088.com:18888/channel.php?id=fengyunzuqiu_1500
-CCTV怀旧剧场,http://astream.apk1088.com:18888/channel.php?id=DOXjuchangHD_7000#http://117.148.179.158/PLTV/88888888/224/3221231544/index.m3u8
-CCTV第一剧场,http://astream.apk1088.com:18888/channel.php?id=DOXyinghuaHD_7000#http://117.148.179.172/PLTV/88888888/224/3221231540/index.m3u8
-CCTV风云剧场,http://astream.apk1088.com:18888/channel.php?id=DOXxinzhiHD_7000#http://117.148.179.162/PLTV/88888888/224/3221231604/index.m3u8
-CCTV风云音乐,http://astream.apk1088.com:18888/channel.php?id=DOXxinyiHD_7000
-CCTV世界地理,http://astream.apk1088.com:18888/channel.php?id=DOXhanliuHD_7000#http://117.148.179.156/PLTV/88888888/224/3221231537/index.m3u8
-CCTV央视台球,http://astream.apk1088.com:18888/channel.php?id=DOXyinglunHD_7000#http://117.148.179.167/PLTV/88888888/224/3221231616/index.m3u8
-CCTV央视文化精品,http://astream.apk1088.com:18888/channel.php?id=DOXyijiaHD_7000#http://117.148.179.147/PLTV/88888888/224/3221231561/index.m3u8
-CCTV女性时尚,http://astream.apk1088.com:18888/channel.php?id=DOXyuanxianHD_7000#http://111.20.33.93/PLTV/88888893/224/3221226237/index.m3u8#http://117.148.179.167/PLTV/88888888/224/3221231598/index.m3u8
-CCTV高尔夫网球,http://39.135.32.5:6610/PLTV/77777777/224/3221225884/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-CCTV电视指南,http://astream.apk1088.com:18888/channel.php?id=dianshizhinan_1500
-CCTV兵器科技,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225676/1/index.m3u8?fmt=ts2hls
-CCTV新科动漫,http://cctvtxyh5ca.liveplay.myqcloud.com/live/xinkedongman_2_hd.m3u8
+CCTV风云足球,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012514203.m3u8#http://117.148.179.137/PLTV/88888888/224/3221231547/index.m3u8
+CCTV怀旧剧场,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012511203.m3u8#http://117.148.179.158/PLTV/88888888/224/3221231544/index.m3u8
+CCTV第一剧场,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012514403.m3u8#http://117.148.179.172/PLTV/88888888/224/3221231540/index.m3u8
+CCTV风云剧场,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012513603.m3u8#http://117.148.179.162/PLTV/88888888/224/3221231604/index.m3u8
+CCTV风云音乐,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012514103.m3u8
+CCTV兵器科技,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012513403.m3u8
+CCTV世界地理,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012513303.m3u8#http://117.148.179.156/PLTV/88888888/224/3221231537/index.m3u8
+CCTV央视台球,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012513703.m3u8#http://117.148.179.167/PLTV/88888888/224/3221231616/index.m3u8
+CCTV央视文化精品,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012513803.m3u8#http://117.148.179.147/PLTV/88888888/224/3221231561/index.m3u8
+CCTV女性时尚,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012513903.m3u8#http://117.148.179.167/PLTV/88888888/224/3221231598/index.m3u8#http://111.20.33.93/PLTV/88888893/224/3221226237/index.m3u8
+CCTV高尔夫网球,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012512503.m3u8
+CCTV电视指南,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012514003.m3u8
+CCTV卫生健康,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012513503.m3u8
 CCTV老故事,http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8#http://111.20.33.93/PLTV/88888893/224/3221226236/index.m3u8
 CCTV发现之旅,http://111.20.33.93/PLTV/88888893/224/3221226235/index.m3u8
+CGTN,https://live.cgtn.com/1000/prog_index.m3u8#http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/chunklist_w1018196661_b1000000.m3u8#https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 CGTN,https://live.cgtn.com/1000/prog_index.m3u8#http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/chunklist_w1018196661_b1000000.m3u8#https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 CGTN记录,https://livedoc.cgtn.com/1000d/prog_index.m3u8#https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 CGTN法语,https://livefr.cgtn.com/1000f/prog_index.m3u8#https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
@@ -513,6 +514,7 @@ Y+频道,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 甘肃·靖远综合,http://39.134.32.102:6610/270000001111/1110000183/index.m3u8?IASHttpSessionId=OTT
 甘肃·平川综合,https://play.kankanlive.com/live/1621842376245934.m3u8
 甘肃·玉门综合,http://39.134.32.102:6610/270000001111/1110000125/index.m3u8?IASHttpSessionId=OTT
+甘肃·敦煌综合,http://39.134.32.102:6610/270000001111/1110000028/index.m3u8?IASHttpSessionId=OTT
 甘肃·金川综合,http://39.134.32.102:6610/270000001111/1110000181/index.m3u8?IASHttpSessionId=OTT#https://play.kankanlive.com/live/1625041962958919.m3u8
 甘肃·庆城综合,http://39.134.32.102:6610/270000001111/1110000156/index.m3u8?IASHttpSessionId=OTT
 甘肃·迭部综合,http://39.134.32.102:6610/270000001111/1110000154/index.m3u8?IASHttpSessionId=OTT
@@ -586,8 +588,8 @@ https://live.yjtvw.com:8081/live/smil:yjtv2.smil/playlist.m3u8#https://live.yjtv
 内蒙古·准格尔旗综合频道,http://pili-live-hls.nmgapp12019.sobeylive.com/nmgapp12019/live161802828375549.m3u8
 内蒙古·鄂托克旗综合频道,http://110.19.181.138:10080/hls/F509Rh7GR/F509Rh7GR_live.m3u8
 江西·经济,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226206/index.m3u8?fmt=ts2hls#http://local.live.jxtvcn.com.cn/live-jxtv/tv_jxtv3_hd.m3u8
-江西·少儿,http://local.live.jxtvcn.com.cn/live-jxtv/tv_jxtv6.m3u8
-江西·新闻,http://local.live.jxtvcn.com.cn/live-jxtv/tv_jxtv7.m3u8
+江西·少儿,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226194/index.m3u8?fmt=ts2hls#http://local.live.jxtvcn.com.cn/live-jxtv/tv_jxtv6.m3u8
+江西·新闻,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225615/index.m3u8?fmt=ts2hls#http://local.live.jxtvcn.com.cn/live-jxtv/tv_jxtv7.m3u8
 江西·教育,https://live.jxeduyun.com/streams/5e05b4659858d.m3u8
 江西·南昌新闻综合,http://39.135.138.60:18890/PLTV/88888888/224/3221226223/index.m3u8
 江西·南昌都市,http://39.135.138.60:18890/PLTV/88888888/224/3221226226/index.m3u8
@@ -921,6 +923,7 @@ https://live.yjtvw.com:8081/live/smil:yjtv2.smil/playlist.m3u8#https://live.yjtv
 陕西·商洛一套,http://39.134.19.135/PLTV/88888888/224/3221225979/1.m3u8
 陕西·宁强二套,http://39.134.19.135/PLTV/88888888/224/3221226031/1.m3u8
 陕西·神东一套,http://livesdong.chinamcache.com/sddst/zb01.flv?auth_key=1651114357-0-0-47fab624b80c8467784cb2f2ff5e6d2c
+陕西·圆点生活,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226552/index.m3u8
 滨海新闻综合,https://livealone302.iqilu.com/binhai/binhai_tv.m3u8
 
 
@@ -1115,21 +1118,21 @@ IPTV5+,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/322122634
 
 
 轮播,#genre#
-我和僵尸有个约会,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=14503914
 僵尸道长,http://ye23.win/iptv/bilibili.php?id=23825469
 神话,http://ye23.win/iptv/bilibili.php?id=7251976
 倚天屠龙记,http://121.51.14.14/tx.hls.huya.com/src/1524434097-1524434097-6547394591522291712-3048991650-10057-A-0-1.flv
 爱情公寓,http://121.51.14.14/tx.hls.huya.com/src/1388474069-1388474069-5963450717699047424-2777071594-10057-A-0-1-imgplus.m3u8#http://epg.112114.xyz/huya/11336726
 乡村爱情,http://121.51.14.14/tx.hls.huya.com/src/1524439828-1524439828-6547419205979865088-3049003112-10057-A-0-1.m3u8#http://epg.112114.xyz/huya/11602068
 鬼吹灯精绝古城,http://122.136.191.180/tx.hls.huya.com/src/1423782025-1423782025-6115097234007654400-2847687506-10057-A-0-1.m3u8#http://epg.112114.xyz/huya/11352871
-神探狄仁杰,http://tx2play1.douyucdn.cn/live/6027991rCMbJvPpG.xs#http://epg.112114.xyz/douyu/6027991
+神探狄仁杰,http://epg.112114.xyz/douyu/6027991
 西游记,http://epg.112114.xyz/douyu/5472438
 刑事侦缉档案,http://zzy789.xyz/douyu1.php?id=138959
 法证先锋,http://epg.112114.xyz/douyu/9019945
 使徒行者,http://epg.112114.xyz/douyu/7810803
 第八号当铺,http://121.51.14.14/tx.hls.huya.com/src/1099531752762-1099531752762-86436156702457856-2199063628980-10057-A-0-1.m3u8#http://epg.112114.xyz/huya/21059568
 康熙王朝,http://121.51.14.14/tx.hls.huya.com/src/1448737923-1448737923-6222281999759966208-2847699110-10057-A-0-1.m3u8#http://epg.112114.xyz/huya/11352940
-士兵突击,http://epg.112114.xyz/douyu/6949033#http://dyscdnali1.douyucdn.cn/live/6949033rKdwnkNlA.flv?uuid=
+士兵突击,http://epg.112114.xyz/huya/11342430
+少年包青天,http://epg.112114.xyz/huya/11342393
 李小哇絮叨叨,http://121.51.14.14/tx.hls.huya.com/src/1199515315044-1199515315044-5237452600151900160-2399030753544-10057-A-0-1.m3u8#http://epg.112114.xyz/huya/18441722
 极限挑战,http://121.51.14.14/tx.hls.huya.com/src/1423782086-1423782086-6115097496000659456-2847687628-10057-A-0-1-imgplus.m3u8#http://epg.112114.xyz/huya/11352914
 斗鱼电影,http://epg.112114.xyz/douyu/52787#http://blanki.cf/api/douyu.php?id=52787
@@ -1247,12 +1250,14 @@ SiTV东方影视,http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3
 四驱兄弟,http://121.51.14.14/tx.hls.huya.com/src/1423782104-1423782104-6115097573310070784-2847687664-10057-A-0-1.m3u8#http://epg.112114.xyz/huya/11352922
 蜡笔小新,http://121.51.14.14/tx.hls.huya.com/src/1423787878-1423787878-6115122372451237888-2847699212-10057-A-0-1-imgplus.m3u8#http://epg.112114.xyz/huya/11352970
 卡酷少儿,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226558/index.m3u8?accountinfo=OMDVq6b4lEslJm1UnEjrD67bT+dBi/stmegbNVdYPJSeBmMWSNPD7Wrrjb2ZDi7Um5UxWiZupPnRfM4wLeS74RrZe+RE99EyWRk+/h2ZwKcZU6zpMnBRj8F5x1e65FnY33yNhKtBp1tUOIOoQaZW2g==,,END
+哈哈炫动,http://183.207.255.188/live/program/live/hhxdhd/4000000/mnf.m3u8
 嘉佳卡通,http://183.207.255.188/live/program/live/jjkt/1300000/mnf.m3u8
 金鹰卡通,http://183.207.255.188/live/program/live/jykt/1300000/mnf.m3u8
 好消息卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 福建少儿,rtsp://183.252.176.54:554/PLTV/88888888/224/3221226120/10000100000000060000000002358082_0.smil
 福州少儿,http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
 浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787#http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8
+江西少儿,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226194/index.m3u8?fmt=ts2hls#http://local.live.jxtvcn.com.cn/live-jxtv/tv_jxtv6.m3u8
 黑龙江少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
 内蒙古少儿,https://live11.m2oplus.nmtv.cn/sepd/hd/live.m3u8
 南京少儿,http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
