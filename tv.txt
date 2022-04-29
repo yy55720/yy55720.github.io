@@ -923,7 +923,7 @@ https://live.yjtvw.com:8081/live/smil:yjtv2.smil/playlist.m3u8#https://live.yjtv
 陕西·商洛一套,http://39.134.19.135/PLTV/88888888/224/3221225979/1.m3u8
 陕西·宁强二套,http://39.134.19.135/PLTV/88888888/224/3221226031/1.m3u8
 陕西·神东一套,http://livesdong.chinamcache.com/sddst/zb01.flv?auth_key=1651114357-0-0-47fab624b80c8467784cb2f2ff5e6d2c
-陕西·圆点生活,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226552/index.m3u8
+陕西·圆点生活,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226552/index.m3u8#http://111.20.106.13:6610/yinhe/2/ch00000090990000002285/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
 滨海新闻综合,https://livealone302.iqilu.com/binhai/binhai_tv.m3u8
 
 
