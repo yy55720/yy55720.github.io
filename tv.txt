@@ -1203,6 +1203,14 @@ TVB剧场,http://117.148.179.157/PLTV/88888888/224/3221231733/index.m3u8
 星空电影,http://epg.112114.xyz/bili/23869919
 
 
+小品相声,#genre#
+赵本山经典小品,http://zzy789.xyz/douyu1.php?id=9817716#http://epg.112114.xyz/douyu/9817716
+宋小宝小品,http://zzy789.xyz/douyu1.php?id=9817729#http://epg.112114.xyz/douyu/9817729
+小品,http://zzy789.xyz/douyu1.php?id=9067836#http://epg.112114.xyz/douyu/9067836
+辽视欢乐集结号,http://zzy789.xyz/douyu1.php?id=9322175#http://epg.112114.xyz/douyu/9322175
+吉林卫视小品相声,http://zzy789.xyz/douyu1.php?id=9273031#http://epg.112114.xyz/douyu/9273031
+
+
 影视频道,#genre#
 峨眉电影,http://ikuai9.com:4000/udp/239.93.1.54:5140
 黑莓电影,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/jdianying/1.m3u8#http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225718/index.m3u8#http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225718/index.m3u8#http://111.40.196.9/PLTV/88888888/224/3221225610/index.m3u8
