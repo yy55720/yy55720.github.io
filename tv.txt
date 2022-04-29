@@ -1253,7 +1253,7 @@ SiTV东方影视,http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3
 蜡笔小新,http://121.51.14.14/tx.hls.huya.com/src/1423787878-1423787878-6115122372451237888-2847699212-10057-A-0-1-imgplus.m3u8#http://epg.112114.xyz/huya/11352970
 卡酷少儿,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226558/index.m3u8?accountinfo=OMDVq6b4lEslJm1UnEjrD67bT+dBi/stmegbNVdYPJSeBmMWSNPD7Wrrjb2ZDi7Um5UxWiZupPnRfM4wLeS74RrZe+RE99EyWRk+/h2ZwKcZU6zpMnBRj8F5x1e65FnY33yNhKtBp1tUOIOoQaZW2g==,,END
 哈哈炫动,http://183.207.255.188/live/program/live/hhxdhd/4000000/mnf.m3u8
-嘉佳卡通,http://183.207.255.188/live/program/live/jjkt/1300000/mnf.m3u8
+嘉佳卡通,http://fxhack.f3322.org:8000/udp/239.77.0.179:5146#http://183.207.255.188/live/program/live/jjkt/1300000/mnf.m3u8
 金鹰卡通,http://183.207.255.188/live/program/live/jykt/1300000/mnf.m3u8
 好消息卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 福建少儿,rtsp://183.252.176.54:554/PLTV/88888888/224/3221226120/10000100000000060000000002358082_0.smil
