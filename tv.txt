@@ -41,7 +41,6 @@ CCTV卫生健康,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012513503.m3u8
 CCTV老故事,http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8#http://111.20.33.93/PLTV/88888893/224/3221226236/index.m3u8
 CCTV发现之旅,http://111.20.33.93/PLTV/88888893/224/3221226235/index.m3u8
 CGTN,https://live.cgtn.com/1000/prog_index.m3u8#http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/chunklist_w1018196661_b1000000.m3u8#https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
-CGTN,https://live.cgtn.com/1000/prog_index.m3u8#http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/chunklist_w1018196661_b1000000.m3u8#https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 CGTN记录,https://livedoc.cgtn.com/1000d/prog_index.m3u8#https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 CGTN法语,https://livefr.cgtn.com/1000f/prog_index.m3u8#https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
 CGTN俄语,https://liveru.cgtn.com/1000r/prog_index.m3u8
@@ -514,8 +513,8 @@ Y+频道,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 甘肃·靖远综合,http://39.134.32.102:6610/270000001111/1110000183/index.m3u8?IASHttpSessionId=OTT
 甘肃·平川综合,https://play.kankanlive.com/live/1621842376245934.m3u8
 甘肃·玉门综合,http://39.134.32.102:6610/270000001111/1110000125/index.m3u8?IASHttpSessionId=OTT
-甘肃·敦煌综合,http://39.134.32.102:6610/270000001111/1110000028/index.m3u8?IASHttpSessionId=OTT
 甘肃·金川综合,http://39.134.32.102:6610/270000001111/1110000181/index.m3u8?IASHttpSessionId=OTT#https://play.kankanlive.com/live/1625041962958919.m3u8
+甘肃·敦煌综合,http://39.134.32.102:6610/270000001111/1110000028/index.m3u8?IASHttpSessionId=OTT
 甘肃·庆城综合,http://39.134.32.102:6610/270000001111/1110000156/index.m3u8?IASHttpSessionId=OTT
 甘肃·迭部综合,http://39.134.32.102:6610/270000001111/1110000154/index.m3u8?IASHttpSessionId=OTT
 甘肃·碌曲电视台,http://39.134.32.102:6610/270000001111/1110000198/index.m3u8?IASHttpSessionId=OTT
@@ -1137,7 +1136,7 @@ IPTV5+,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/322122634
 少年包青天,http://epg.112114.xyz/huya/11342393
 李小哇絮叨叨,http://121.51.14.14/tx.hls.huya.com/src/1199515315044-1199515315044-5237452600151900160-2399030753544-10057-A-0-1.m3u8#http://epg.112114.xyz/huya/18441722
 极限挑战,http://121.51.14.14/tx.hls.huya.com/src/1423782086-1423782086-6115097496000659456-2847687628-10057-A-0-1-imgplus.m3u8#http://epg.112114.xyz/huya/11352914
-斗鱼电影,http://epg.112114.xyz/douyu/52787#http://blanki.cf/api/douyu.php?id=52787
+斗鱼电影,http://epg.112114.xyz/douyu/52787
 漫威,http://121.51.14.14/tx.hls.huya.com/src/1099531752790-1099531752790-86436276961542144-2199063629036-10057-A-0-1.m3u8
 周星驰,http://121.51.94.84/tx.hls.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.m3u8#http://epg.112114.xyz/huya/11342412
 周星驰1,http://117.148.179.153/PLTV/88888888/224/3221231562/index.m3u8
