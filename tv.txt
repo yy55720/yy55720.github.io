@@ -1200,7 +1200,8 @@ IPTV5+,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/322122634
 少年包青天,http://epg.112114.xyz/huya/11342393
 李小哇絮叨叨,http://epg.112114.xyz/huya/18441722
 极限挑战,http://epg.112114.xyz/huya/11352914
-斗鱼电影,http://epg.112114.xyz/douyu/52787
+斗鱼电影,http://zzy789.xyz/douyu1.php?id=52787
+斗鱼电影1,http://zzy789.xyz/douyu1.php?id=5423
 虎牙科幻系列,http://epg.112114.xyz/huya/11352895
 漫威,http://epg.112114.xyz/huya/21059600
 周星驰,http://epg.112114.xyz/huya/11342412
