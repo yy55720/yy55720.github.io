@@ -123,13 +123,10 @@ FOX-FS1,http://stream.fs1.tv:8080/hls/webstream.m3u8
 
 
 台湾,#genre#
-龙祥时代,http://1e412075x3.zicp.fun:6666/hls/LSTIME-2/index.m3u8#http://120.84.96.32:808/hls/35/index.m3u8#http://61.222.202.191:80/live/yzyh.php?id=102
-纬来电影,http://1e412075x3.zicp.fun:6666/hls/VLDY/index.m3u8
-CINEMAX,http://123.51.230.64:8590/http/220.130.87.218:8088/hls/24/80/ch14.m3u8#http://61.222.202.191:80/live/yzyh.php?id=95
-天映频道,http://1e412075x3.zicp.fun:6666/hls/tianying-2/index.m3u8
-中天娱乐台,http://123.51.230.64:8585/http/192.168.1.9:8081/hls/67/809/ch26.m3u8#http://61.222.202.191:80/live/yzyh.php?id=23
+龙祥时代,http://120.84.96.32:808/hls/35/index.m3u8#http://61.222.202.191:80/live/yzyh.php?id=102
 东森电影,http://120.84.96.32:808/hls/32/index.m3u8#http://61.222.202.191:80/live/yzyh.php?id=98
 东森洋片,http://120.84.96.32:808/hls/33/index.m3u8#http://61.222.202.191:80/live/yzyh.php?id=99
+天映电影,http://120.84.96.25:808/hls/85/index.m3u8
 民视,rtmp://59.124.75.157/sat/tv051#http://61.222.202.191:80/live/yzyh.php?id=30
 台视,rtmp://59.124.75.138/sat/tv071
 中视,rtmp://59.124.75.138/sat/tv091#http://61.222.202.191:80/live/yzyh.php?id=29
@@ -1183,8 +1180,9 @@ IPTV5+,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/322122634
 
 
 轮播,#genre#
-僵尸道长,http://ye23.win/iptv/bilibili.php?id=23825469
-神话,http://ye23.win/iptv/bilibili.php?id=7251976
+世界未解之谜,http://zzy789.xyz/douyu1.php?id=9369468
+僵尸道长,http://epg.112114.xyz/bili/23825469#http://ye23.win/iptv/bilibili.php?id=23825469
+神话,http://epg.112114.xyz/bili/7251976#http://ye23.win/iptv/bilibili.php?id=7251976
 倚天屠龙记,http://epg.112114.xyz/huya/11602051
 爱情公寓,http://epg.112114.xyz/huya/11336726
 乡村爱情,http://epg.112114.xyz/huya/11602068
@@ -1268,6 +1266,7 @@ TVB剧场,http://117.148.179.157/PLTV/88888888/224/3221231733/index.m3u8
 
 
 小品相声,#genre#
+春晚经典小品,http://epg.112114.xyz/huya/11352875
 赵本山经典小品,http://zzy789.xyz/douyu1.php?id=9817716#http://epg.112114.xyz/douyu/9817716
 宋小宝小品,http://zzy789.xyz/douyu1.php?id=9817729#http://epg.112114.xyz/douyu/9817729
 小品,http://zzy789.xyz/douyu1.php?id=9067836#http://epg.112114.xyz/douyu/9067836
