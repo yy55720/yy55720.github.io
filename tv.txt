@@ -1185,9 +1185,9 @@ IPTV5+,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/322122634
 神话,http://epg.112114.xyz/bili/7251976#http://ye23.win/iptv/bilibili.php?id=7251976
 倚天屠龙记,http://epg.112114.xyz/huya/11602051
 爱情公寓,http://epg.112114.xyz/huya/11336726
-乡村爱情,http://epg.112114.xyz/huya/11602068
+乡村爱情,http://fangsong.live/hls/huya.php?id=11602068
 鬼吹灯系列,http://zzy789.xyz/douyu1.php?id=7701735
-鬼吹灯精绝古城,http://epg.112114.xyz/huya/11352871
+鬼吹灯精绝古城,http://fangsong.live/hls/huya.php?id=11352871
 神探狄仁杰,http://epg.112114.xyz/douyu/6027991
 西游记,http://epg.112114.xyz/douyu/5472438
 刑事侦缉档案,http://zzy789.xyz/douyu1.php?id=138959
@@ -1203,7 +1203,7 @@ IPTV5+,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/322122634
 斗鱼电影1,http://zzy789.xyz/douyu1.php?id=5423
 虎牙科幻系列,http://epg.112114.xyz/huya/11352895
 漫威,http://epg.112114.xyz/huya/21059600
-周星驰,http://epg.112114.xyz/huya/11342412
+周星驰,http://fangsong.live/hls/huya.php?id=11342412
 周星驰1,http://117.148.179.153/PLTV/88888888/224/3221231562/index.m3u8
 林正英,http://epg.112114.xyz/huya/11342421
 成龙,http://epg.112114.xyz/huya/11342386
