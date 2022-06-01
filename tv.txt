@@ -93,20 +93,23 @@ CGTN西班牙语,https://livees.cgtn.com/1000e/prog_index.m3u8#https://news.cgtn
 凤凰资讯台,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8#http://39.135.55.105:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1
 凤凰香港台,http://al-pull2.hkatv.vip/live/phoenixPHK.m3u8#http://61.222.202.191/live/yzyh.php?id=3
 凤凰电影台,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8#http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA
-无线新闻,http://ye23.win/iptv/tvb.php?id=1
-无线财经,http://ye23.win/iptv/tvb.php?id=2
-ViuTV,http://iptv.tvfix.org/hls/viutv.m3u8#http://61.222.202.191:80/live/yzyh.php?id=15
-ViuTV 6,http://iptv.tvfix.org/hls/viutv6.m3u8#http://61.222.202.191:80/live/yzyh.php?id=16
-RHK31,http://iptv.tvfix.org/hls/rthk31.m3u8#http://61.222.202.191:80/live/yzyh.php?id=17
-RHK32,http://iptv.tvfix.org/hls/rthk32.m3u8#http://61.222.202.191:80/live/yzyh.php?id=18
-香港C+,http://61.222.202.191:80/live/yzyh.php?id=21
-华丽翡翠台,http://61.222.202.191:80/live/yzyh.php?id=164
-TVB翡翠台,http://61.222.202.191:80/live/yzyh.php?id=4
-TVB明珠台,http://61.222.202.191:80/live/yzyh.php?id=6
-TVBJ2,http://61.222.202.191:80/live/yzyh.php?id=9
+无线新闻,http://ye23.win/iptv/tvb.php?id=1#https://cdn.hklive.tv/hls/83/index.m3u8
+无线财经,http://ye23.win/iptv/tvb.php?id=2#https://cdn.hklive.tv/hls/85/index.m3u8
+ViuTV,https://cdn.hklive.tv/hls/99/index.m3u8#http://61.222.202.191:80/live/yzyh.php?id=15
+ViuTV 6,https://cdn.hklive.tv/hls/96/index.m3u8#http://61.222.202.191:80/live/yzyh.php?id=16
+RHK31,https://cdn.hklive.tv/hls/31/index.m3u8#http://61.222.202.191:80/live/yzyh.php?id=17
+RHK32,https://cdn.hklive.tv/hls/32/index.m3u8#http://61.222.202.191:80/live/yzyh.php?id=18
+RHK33,https://cdn.hklive.tv/hls/33/index.m3u8
+TVB翡翠台,https://cdn.hklive.tv/hls/81/index.m3u8
+TVB翡翠台中英字幕,https://cdn.hklive.tv/hls/81b/index.m3u8
+TVB明珠台,https://cdn.hklive.tv/hls/84/index.m3u8
+TVB明珠台粤语,https://cdn.hklive.tv/hls/84b/index.m3u8
+TVBJ2,https://cdn.hklive.tv/hls/82/index.m3u8
 TVB星河,http://61.222.202.191:80/live/yzyh.php?id=7
 TVB功夫,http://61.222.202.191:80/live/yzyh.php?id=10
-香港开电视,http://iptv.tvfix.org/hls/opentv.m3u8
+香港开电视,https://cdn.hklive.tv/hls/77/index.m3u8
+香港C+,http://61.222.202.191:80/live/yzyh.php?id=21
+华丽翡翠台,http://61.222.202.191:80/live/yzyh.php?id=164
 Now体育,http://61.222.202.191:80/live/yzyh.php?id=19
 Now直播,http://61.222.202.191:80/live/yzyh.php?id=20
 阳光卫视,https://stream.chinasuntv.com/680k/mid_video_index.m3u8
