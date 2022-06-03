@@ -1193,7 +1193,7 @@ IPTV5+,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/322122634
 鬼吹灯精绝古城,http://fangsong.live/hls/huya.php?id=11352871
 神探狄仁杰,http://epg.112114.xyz/douyu/6027991
 西游记,http://epg.112114.xyz/douyu/5472438
-刑事侦缉档案,http://zzy789.xyz/douyu1.php?id=138959
+刑事侦缉档案,http://fangsong.live/hls/douyu.php?id=138959
 法证先锋,http://epg.112114.xyz/douyu/9019945
 使徒行者,http://epg.112114.xyz/douyu/7810803
 第八号当铺,http://epg.112114.xyz/huya/21059568
