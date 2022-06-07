@@ -1270,12 +1270,12 @@ TVB剧场,http://117.148.179.157/PLTV/88888888/224/3221231733/index.m3u8
 
 
 小品相声,#genre#
-春晚经典小品,http://epg.112114.xyz/huya/11352875
-赵本山经典小品,http://zzy789.xyz/douyu1.php?id=9817716#http://epg.112114.xyz/douyu/9817716
-宋小宝小品,http://zzy789.xyz/douyu1.php?id=9817729#http://epg.112114.xyz/douyu/9817729
-小品,http://zzy789.xyz/douyu1.php?id=9067836#http://epg.112114.xyz/douyu/9067836
-辽视欢乐集结号,http://zzy789.xyz/douyu1.php?id=9322175#http://epg.112114.xyz/douyu/9322175
-吉林卫视小品相声,http://zzy789.xyz/douyu1.php?id=9273031#http://epg.112114.xyz/douyu/9273031
+春晚经典小品,http://121.51.14.157/tx.hls.huya.com/src/1423782031-1423782031-6115097259777458176-2847687518-10057-A-0-1.m3u8#http://epg.112114.xyz/huya/11352875
+赵本山经典小品,http://fangsong.live/hls/douyu.php?id=9817716#http://epg.112114.xyz/douyu/9817716
+宋小宝小品,http://fangsong.live/hls/douyu.php?id=9817729#http://epg.112114.xyz/douyu/9817729
+小品,http://fangsong.live/hls/douyu.php?id=9067836#http://epg.112114.xyz/douyu/9067836
+辽视欢乐集结号,http://fangsong.live/hls/douyu.php?id=9322175#http://epg.112114.xyz/douyu/9322175
+吉林卫视小品相声,http://fangsong.live/hls/douyu.php?id=9273031#http://epg.112114.xyz/douyu/9273031
 
 
 影视频道,#genre#
