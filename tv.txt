@@ -1202,6 +1202,7 @@ IPTV5+,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/322122634
 少年包青天,http://121.51.14.157/tx.hls.huya.com/src/1394565200-1394565200-5989611926139699200-2789253856-10057-A-0-1.flv
 李小哇絮叨叨,http://epg.112114.xyz/huya/18441722
 极限挑战,http://epg.112114.xyz/huya/11352914
+1905,http://ep.b1791.com/php/1905m.php?id=1905tv
 斗鱼电影,http://akm-tct.douyucdn.cn/live/52787rlqwel5UH1y.flv#http://fangsong.live/hls/douyu.php?id=52787
 斗鱼电影1,http://fangsong.live/hls/douyu.php?id=5423
 虎牙科幻系列,http://epg.112114.xyz/huya/11352895
