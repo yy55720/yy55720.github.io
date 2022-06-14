@@ -1144,10 +1144,6 @@ NewTV超级综艺,http://39.134.66.66/PLTV/88888888/224/3221225642/index.m3u8#ht
 英雄联盟赛事,http://epg.112114.xyz/huya/660000
 姿态,http://epg.112114.xyz/huya/333003
 KiD影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-企鹅放映厅,http://111.6.232.36/txpcdn.liveplay.egame.qq.com/3954_145086784.m3u8
-企鹅国内影院,http://111.6.232.36/txpcdn.liveplay.egame.qq.com/live/3954_199681168.m3u8
-企鹅恐怖影院,http://111.6.232.36/txpcdn.liveplay.egame.qq.com/live/3954_363783415.m3u8
-企鹅国外影院,http://111.6.232.36/txpcdn.liveplay.egame.qq.com/live/3954_382971876.m3u8
 亚洲影院,http://117.148.179.141/PLTV/88888888/224/3221231516/index.m3u8
 Hot亚洲影院,http://39.136.48.2:8089/PLTV/88888888/224/3221225844/index.m3u8
 Hot欧美影院,http://39.136.48.4:8089/PLTV/88888888/224/3221226345/index.m3u8
@@ -1201,20 +1197,20 @@ IPTV5+,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/322122634
 
 
 轮播,#genre#
-世界未解之谜,http://zzy789.xyz/douyu1.php?id=9369468
+世界未解之谜,http://epg.112114.xyz/douyu/9369468
 僵尸道长,http://epg.112114.xyz/bili/23825469#http://ye23.win/iptv/bilibili.php?id=23825469
 神话,http://epg.112114.xyz/bili/7251976#http://ye23.win/iptv/bilibili.php?id=7251976
 倚天屠龙记,http://epg.112114.xyz/huya/11602051
 爱情公寓,http://epg.112114.xyz/huya/11336726
-乡村爱情,http://fangsong.live/hls/huya.php?id=11602068
+乡村爱情,http://epg.112114.xyz/huya/11602068
 鬼吹灯全集,http://mmitv.top/pltv/yy.php?id=1331686180
-鬼吹灯系列,http://akm-tct.douyucdn.cn/live/7701735rUocbClHb.flv#http://zzy789.xyz/douyu1.php?id=7701735
-鬼吹灯精绝古城,http://fangsong.live/hls/huya.php?id=11352871
-神探狄仁杰,http://fangsong.live/hls/douyu.php?id=6027991
-西游记,http://fangsong.live/hls/douyu.php?id=5472438
-刑事侦缉档案,http://fangsong.live/hls/douyu.php?id=138959
-法证先锋,http://fangsong.live/hls/douyu.php?id=9019945
-使徒行者,http://fangsong.live/hls/douyu.php?id=7810803
+鬼吹灯系列,http://akm-tct.douyucdn.cn/live/7701735rUocbClHb.flv#http://epg.112114.xyz/douyu/7701735
+鬼吹灯精绝古城,http://epg.112114.xyz/huya/11352871
+神探狄仁杰,http://epg.112114.xyz/douyu/6027991
+西游记,http://epg.112114.xyz/douyu/5472438
+刑事侦缉档案,http://epg.112114.xyz/douyu/138959
+法证先锋,http://epg.112114.xyz/douyu/9019945
+使徒行者,http://epg.112114.xyz/douyu/7810803
 第八号当铺,http://epg.112114.xyz/huya/21059568
 康熙王朝,http://epg.112114.xyz/huya/11352940
 士兵突击,http://epg.112114.xyz/huya/11342430
@@ -1223,10 +1219,10 @@ IPTV5+,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/322122634
 极限挑战,http://epg.112114.xyz/huya/11352914
 1905,http://ep.b1791.com/php/1905m.php?id=1905tv
 斗鱼电影,http://akm-tct.douyucdn.cn/live/52787rlqwel5UH1y.flv#http://fangsong.live/hls/douyu.php?id=52787
-斗鱼电影1,http://fangsong.live/hls/douyu.php?id=5423
+斗鱼电影1,http://epg.112114.xyz/douyu/5423
 虎牙科幻系列,http://epg.112114.xyz/huya/11352895
 漫威,http://epg.112114.xyz/huya/21059600
-周星驰,http://fangsong.live/hls/huya.php?id=11342412
+周星驰,http://epg.112114.xyz/huya/11342412
 周星驰1,http://112.74.200.9:88/tv000000/m3u8.php?/migu/623338112
 林正英,http://epg.112114.xyz/huya/11342421
 成龙,http://epg.112114.xyz/huya/11342386
