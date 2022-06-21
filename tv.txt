@@ -1143,7 +1143,7 @@ NewTV超级综艺,http://39.134.66.66/PLTV/88888888/224/3221225642/index.m3u8#ht
 网络,#genre#
 英雄联盟赛事,http://epg.112114.xyz/huya/660000
 姿态,http://epg.112114.xyz/huya/333003
-沫子,http://epg.112114.xyz/huya/696969
+沫子,http://121.51.14.157/tx.hls.huya.com/src/3197597-3197597-13733574540787712-6518650-10057-A-0-1.flv#http://epg.112114.xyz/huya/696969
 KiD影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 亚洲影院,http://117.148.179.141/PLTV/88888888/224/3221231516/index.m3u8
 Hot亚洲影院,http://39.136.48.2:8089/PLTV/88888888/224/3221225844/index.m3u8
