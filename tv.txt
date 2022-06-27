@@ -105,7 +105,7 @@ NOW爆谷台,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/26
 ViuTV,https://cdn.hklive.tv/hls/99/index.m3u8
 ViuTV 6,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/7#https://cdn.hklive.tv/hls/96/index.m3u8
 RHK31,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/13#https://cdn.hklive.tv/hls/31/index.m3u8
-RHK32,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/14https://cdn.hklive.tv/hls/32/index.m3u8
+RHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8#http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/14https://cdn.hklive.tv/hls/32/index.m3u8
 RHK33,https://cdn.hklive.tv/hls/33/index.m3u8
 TVB翡翠台,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/1#https://cdn.hklive.tv/hls/81/index.m3u8
 TVB明珠台,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/2#https://cdn.hklive.tv/hls/84/index.m3u8
@@ -132,6 +132,11 @@ FOX-FS1,http://stream.fs1.tv:8080/hls/webstream.m3u8
 
 
 台湾,#genre#
+中天新闻台,https://live.6zxr.xyz/ztxw/index.m3u8
+三立新闻台,https://live.6zxr.xyz/twtv/index.m3u8
+寰宇新闻台,https://live.6zxr.xyz/fhwszw/index.m3u8
+东森新闻,https://live.6zxr.xyz/dsxw/index.m3u8
+华视新闻台,https://live.6zxr.xyz/tvbs56/index.m3u8
 龙祥时代,http://120.84.96.32:808/hls/35/index.m3u8#http://61.222.202.191:80/live/yzyh.php?id=102
 东森电影,http://120.84.96.32:808/hls/32/index.m3u8#http://61.222.202.191:80/live/yzyh.php?id=98
 东森洋片,http://120.84.96.32:808/hls/33/index.m3u8#http://61.222.202.191:80/live/yzyh.php?id=99
@@ -166,7 +171,6 @@ EYE戏剧,http://61.222.202.191:80/live/yzyh.php?id=52
 靖天资讯台,http://61.222.202.191:80/live/yzyh.php?id=49
 靖天卡通台,http://61.222.202.191:80/live/yzyh.php?id=50
 三立财经新闻台,http://61.222.202.191:80/live/yzyh.php?id=145
-三立新闻台,http://61.222.202.191:80/live/yzyh.php?id=146
 三立台湾台,http://61.222.202.191:80/live/yzyh.php?id=38
 三立戏剧台,http://61.222.202.191:80/live/yzyh.php?id=39
 三立综合台,http://61.222.202.191:80/live/yzyh.php?id=40
@@ -1211,7 +1215,7 @@ IPTV5+,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/322122634
 西游记,http://epg.112114.xyz/douyu/5472438
 刑事侦缉档案,http://epg.112114.xyz/douyu/138959
 法证先锋,http://epg.112114.xyz/douyu/9019945
-使徒行者,http://epg.112114.xyz/douyu/7810803
+使徒行者,http://epg.112114.xyz/huya/23734256#http://epg.112114.xyz/douyu/7810803
 第八号当铺,http://epg.112114.xyz/huya/21059568
 康熙王朝,http://epg.112114.xyz/huya/11352940
 士兵突击,http://epg.112114.xyz/huya/11342430
