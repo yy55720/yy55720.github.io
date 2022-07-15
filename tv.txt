@@ -132,6 +132,28 @@ FOX-FS1,http://stream.fs1.tv:8080/hls/webstream.m3u8
 
 
 台湾,#genre#
+龙华电影,http://61.219.170.95:18574/http/192.168.1.9:8066/hls/210/10014/cstv14.m3u8
+龙华偶像,http://61.219.170.95:18573/http/192.168.1.9:8066/hls/210/10012/cstv12.m3u8
+纬来戏剧,http://61.219.170.95:18557/http/192.168.1.9:8081/hls/69/811/ch33.m3u8
+卫视电影台,http://61.219.170.95:18529/http/192.168.1.9:8081/hls/62/804/ch07.m3u8
+卫视中文台,http://61.219.170.95:18522/http/192.168.1.9:8081/hls/62/804/ch05.m3u8
+民视,rtmp://59.124.75.138/sat/tv051#http://61.222.202.191:80/live/yzyh.php?id=30
+台视,http://61.219.170.95:18543/http/192.168.1.9:8081/hls/72/814/ch46.m3u8#rtmp://59.124.75.138/sat/tv071
+中视,rtmp://59.124.75.138/sat/tv091#http://61.222.202.191:80/live/yzyh.php?id=29
+华视,rtmp://59.124.75.138/sat/tv111#http://61.222.202.191:80/live/yzyh.php?id=32
+纬来体育,rtmp://59.124.75.138/sat/tv721#http://61.222.202.191:80/live/yzyh.php?id=56
+纬来育乐,http://61.219.170.95:18541/http/192.168.1.9:8081/hls/68/810/ch30.m3u8#rtmp://59.124.75.138/sat/tv701
+纬来日本,rtmp://59.124.75.138/sat/tv771
+ELEVEN体育1,rtmp://59.124.75.138/sat/tv731
+ELEVEN体育2,rtmp://59.124.75.138/sat/tv741
+ELEVEN体育+,rtmp://59.124.75.138/sat/md051
+TVBS·欢乐台,rtmp://59.124.75.138/sat/tv421#http://61.222.202.191:80/live/yzyh.php?id=22
+TVBS·新闻台,rtmp://59.124.75.138/sat/tv551
+MoMo综合台,http://61.219.170.95:18576/http/192.168.1.9:8081/hls/76/818/momo_max.m3u8#rtmp://59.124.75.138/sat/tv761
+八大第一台,http://61.219.170.95:18539/http/192.168.1.9:8081/hls/66/808/ch22.m3u8
+东风卫视,http://61.219.170.95:18560/http/192.168.1.9:8081/hls/68/810/ch31.m3u8
+东森财经新闻,rtmp://59.124.75.138/sat/tv571#http://61.222.202.191:80/live/yzyh.php?id=44
+MUCH TV,http://61.219.170.95:18558/http/192.168.1.9:8081/hls/72/814/ch45.m3u8
 中天新闻台,https://live.6zxr.xyz/ztxw/index.m3u8
 三立新闻台,https://live.6zxr.xyz/twtv/index.m3u8
 寰宇新闻台,https://live.6zxr.xyz/fhwszw/index.m3u8
@@ -141,12 +163,7 @@ FOX-FS1,http://stream.fs1.tv:8080/hls/webstream.m3u8
 东森电影,http://120.84.96.32:808/hls/32/index.m3u8#http://61.222.202.191:80/live/yzyh.php?id=98
 东森洋片,http://120.84.96.32:808/hls/33/index.m3u8#http://61.222.202.191:80/live/yzyh.php?id=99
 天映频道,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/29
-卫视电影台,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/30
 美亚电影台,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/31
-民视,rtmp://59.124.75.157/sat/tv051#http://61.222.202.191:80/live/yzyh.php?id=30
-台视,rtmp://59.124.75.138/sat/tv071
-中视,rtmp://59.124.75.138/sat/tv091#http://61.222.202.191:80/live/yzyh.php?id=29
-华视,rtmp://59.124.75.157/sat/tv111#http://61.222.202.191:80/live/yzyh.php?id=32
 公视,http://61.222.202.191:80/live/yzyh.php?id=33
 民视台湾台,http://61.222.202.191:80/live/yzyh.php?id=31
 民视第一台,http://61.222.202.191:80/live/yzyh.php?id=46
@@ -161,7 +178,6 @@ EYE戏剧,http://61.222.202.191:80/live/yzyh.php?id=52
 八大娱乐台,http://61.222.202.191:80/live/yzyh.php?id=37
 东森综合,http://61.222.202.191:80/live/yzyh.php?id=42
 东森超视,http://61.222.202.191:80/live/yzyh.php?id=43
-东森财经新闻,rtmp://59.124.75.138/sat/tv571#http://61.222.202.191:80/live/yzyh.php?id=44
 东森卡通台,http://61.222.202.191:80/live/yzyh.php?id=54
 东森戏剧,http://61.222.202.191:80/live/yzyh.php?id=100
 龙华戏剧,http://61.222.202.191:80/live/yzyh.php?id=45
@@ -175,14 +191,8 @@ EYE戏剧,http://61.222.202.191:80/live/yzyh.php?id=52
 三立戏剧台,http://61.222.202.191:80/live/yzyh.php?id=39
 三立综合台,http://61.222.202.191:80/live/yzyh.php?id=40
 三立都会台,http://61.222.202.191:80/live/yzyh.php?id=41
-TVBS·欢乐台,rtmp://59.124.75.138/sat/tv421#http://61.222.202.191:80/live/yzyh.php?id=22
-TVBS·新闻台,rtmp://59.124.75.138/sat/tv551
-MoMo综合台,rtmp://59.124.75.138/sat/tv761#http://58.99.33.16:1935/liveedge17/live_075_3.stream/chunklist.m3u8
 中天综合台,http://61.222.202.191:80/live/yzyh.php?id=25
 中天亚洲台,http://61.222.202.191:80/live/yzyh.php?id=28
-ELEVEN体育1,rtmp://59.124.75.138/sat/tv731
-ELEVEN体育2,rtmp://59.124.75.138/sat/tv741
-ELEVEN体育+,rtmp://59.124.75.138/sat/md051
 ELTA影剧,http://61.222.202.191:80/live/yzyh.php?id=55
 ELTA体育1,http://61.222.202.191:80/live/yzyh.php?id=57
 ELTA体育2,rtmp://59.124.75.138/sat/md041#http://61.222.202.191:80/live/yzyh.php?id=58
@@ -193,9 +203,6 @@ ELTA体育2,rtmp://59.124.75.138/sat/md041#http://61.222.202.191:80/live/yzyh.ph
 博斯高球Ⅱ,http://61.222.202.191:80/live/yzyh.php?id=61
 博斯网球,http://61.222.202.191:80/live/yzyh.php?id=62
 智林体育台,http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
-纬来体育,rtmp://59.124.75.138/sat/tv721#http://61.222.202.191:80/live/yzyh.php?id=56
-纬来育乐,rtmp://59.124.75.138/sat/tv701
-纬来日本,rtmp://59.124.75.138/sat/tv771
 大爱一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱二台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 好消息1台,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
@@ -210,7 +217,6 @@ NHK华语视界,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.
 天映经典,http://61.222.202.191:80/live/yzyh.php?id=103
 天映经典,http://61.222.202.191:80/live/yzyh.php?id=107
 天映电影,http://61.222.202.191:80/live/yzyh.php?id=106
-卫视中文台,http://61.222.202.191:80/live/yzyh.php?id=108#http://61.222.202.191:80/live/yzyh.php?id=104
 星空,http://61.222.202.191:80/live/yzyh.php?id=111
 星卫HD电影台,http://61.222.202.191:80/live/yzyh.php?id=109
 台版美亚电影台,http://61.222.202.191:80/live/yzyh.php?id=110
@@ -1149,6 +1155,9 @@ NewTV超级综艺,http://39.134.66.66/PLTV/88888888/224/3221225642/index.m3u8#ht
 姿态,http://epg.112114.xyz/huya/333003
 沫子,http://121.51.14.157/tx.hls.huya.com/src/3197597-3197597-13733574540787712-6518650-10057-A-0-1.flv#http://epg.112114.xyz/huya/696969
 KiD影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+经典再现,http://112.19.214.90:8883/tsfile/live/1009_1.m3u8
+高清影院,http://112.19.214.90:8883/tsfile/live/1011_1.m3u8
+军旅谍战,http://112.19.214.90:8883/tsfile/live/1015_1.m3u8
 亚洲影院,http://117.148.179.141/PLTV/88888888/224/3221231516/index.m3u8
 Hot亚洲影院,http://39.136.48.2:8089/PLTV/88888888/224/3221225844/index.m3u8
 Hot欧美影院,http://39.136.48.4:8089/PLTV/88888888/224/3221226345/index.m3u8
@@ -1299,7 +1308,7 @@ TVB剧场,http://117.148.179.157/PLTV/88888888/224/3221231733/index.m3u8
 
 
 影视频道,#genre#
-峨眉电影,http://ikuai9.com:4000/udp/239.93.1.54:5140
+峨眉电影,http://112.19.214.90:8883/tsfile/live/1004_1.m3u8
 黑莓电影,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/jdianying/1.m3u8#http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225718/index.m3u8#http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225718/index.m3u8#http://111.40.196.9/PLTV/88888888/224/3221225610/index.m3u8
 CHC动作电影,http://120.210.193.151:8006/120000001002/XMTdzdy/1.m3u8#http://111.20.33.93/PLTV/88888893/224/3221226465/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 CHC家庭影院,http://120.210.193.151:8006/120000001002/XMTjtyy/1.m3u8#http://111.20.33.93/PLTV/88888893/224/3221226462/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
