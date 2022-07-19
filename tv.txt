@@ -1223,7 +1223,8 @@ IPTV5+,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/322122634
 西游记,http://124.223.212.38:83/douyu/5472438#http://epg.112114.xyz/douyu/5472438
 刑事侦缉档案,http://124.223.212.38:83/douyu/138959#http://epg.112114.xyz/douyu/138959
 法证先锋,http://124.223.212.38:83/douyu/9019945#http://epg.112114.xyz/douyu/9019945
-使徒行者,http://epg.112114.xyz/huya/7810803#http://epg.112114.xyz/douyu/7810803
+使徒行者,http://epg.112114.xyz/douyu/7810803
+好先生,http://epg.112114.xyz/huya/11602088#https://live.52sf.ga/huya/11602088
 第八号当铺,http://epg.112114.xyz/huya/21059568#https://live.52sf.ga/huya/21059568
 康熙王朝,http://epg.112114.xyz/huya/11352940#https://live.52sf.ga/huya/11352940
 士兵突击,http://epg.112114.xyz/huya/11342430#https://live.52sf.ga/huya/11342430
