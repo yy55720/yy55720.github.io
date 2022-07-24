@@ -94,25 +94,19 @@ CGTN西班牙语,https://livees.cgtn.com/1000e/prog_index.m3u8#https://news.cgtn
 凤凰资讯台,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8#http://39.135.55.105:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1
 凤凰香港台,http://al-pull2.hkatv.vip/live/phoenixPHK.m3u8#http://61.222.202.191/live/yzyh.php?id=3
 凤凰电影台,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8#http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA
-千禧经典台,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/27
-有线新闻,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/4
-财经资讯台,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/9
-有线603,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/11
-NOW新闻,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/5
-NOW爆谷台,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/26
-无线新闻,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/3#http://ye23.win/iptv/tvb.php?id=1#https://cdn.hklive.tv/hls/83/index.m3u8
-无线财经,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/8#http://ye23.win/iptv/tvb.php?id=2#https://cdn.hklive.tv/hls/85/index.m3u8
+无线新闻,https://cdn.hklive.tv/hls/83/index.m3u8#https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8
+无线财经,https://cdn.hklive.tv/hls/85/index.m3u8
+TVB翡翠台,https://cdn.hklive.tv/hls/81/index.m3u8
+TVB明珠台,https://cdn.hklive.tv/hls/84/index.m3u8
+TVB J1,https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
+TVBJ2,https://cdn.hklive.tv/hls/82/index.m3u8
+香港卫视文旅,https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
 ViuTV,https://cdn.hklive.tv/hls/99/index.m3u8
-ViuTV 6,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/7#https://cdn.hklive.tv/hls/96/index.m3u8
-RHK31,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/13#https://cdn.hklive.tv/hls/31/index.m3u8
-RHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8#http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/14https://cdn.hklive.tv/hls/32/index.m3u8
+ViuTV 6,https://cdn.hklive.tv/hls/96/index.m3u8
+RHK31,https://cdn.hklive.tv/hls/31/index.m3u8
+RHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8#https://cdn.hklive.tv/hls/32/index.m3u8
 RHK33,https://cdn.hklive.tv/hls/33/index.m3u8
-TVB翡翠台,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/1#https://cdn.hklive.tv/hls/81/index.m3u8
-TVB明珠台,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/2#https://cdn.hklive.tv/hls/84/index.m3u8
-TVBJ2,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/10#https://cdn.hklive.tv/hls/82/index.m3u8
-TVB星河,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/28
-TVB功夫,http://61.222.202.191:80/live/yzyh.php?id=10
-18台,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/12
+RHK34,https://cdn.hklive.tv/hls/34/index.m3u8
 香港开电视,https://cdn.hklive.tv/hls/77/index.m3u8
 香港C+,http://61.222.202.191:80/live/yzyh.php?id=21
 华丽翡翠台,http://61.222.202.191:80/live/yzyh.php?id=164
