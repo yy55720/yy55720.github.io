@@ -1237,7 +1237,7 @@ IPTV5+,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/322122634
 少年包青天,http://epg.112114.xyz/huya/11342393#http://121.51.14.157/tx.hls.huya.com/src/1394565200-1394565200-5989611926139699200-2789253856-10057-A-0-1.flv
 李小哇絮叨叨,https://live.52sf.ga/huya/18441722#http://121.51.14.157/tx.hls.huya.com/src/1199515315044-1199515315044-5237452600151900160-2399030753544-10057-A-0-1.flv#http://epg.112114.xyz/huya/18441722
 极限挑战,https://live.52sf.ga/huya/11352914#http://epg.112114.xyz/huya/11352914
-1905,http://ep.b1791.com/php/1905m.php?id=1905tv
+1905,http://mmitv.top/other/1905.php?id=1905#http://ep.b1791.com/php/1905m.php?id=1905tv
 斗鱼电影,http://124.223.212.38:83/douyu/5423#http://epg.112114.xyz/douyu/5423
 虎牙科幻系列,https://live.52sf.ga/huya/11352895#http://epg.112114.xyz/huya/11352895
 漫威,https://live.52sf.ga/huya/21059600#http://epg.112114.xyz/huya/21059600
