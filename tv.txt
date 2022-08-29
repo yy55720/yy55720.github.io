@@ -95,16 +95,15 @@ CGTN俄语,http://39.136.48.100:8089/PLTV/88888888/224/3221226326/index.m3u8
 无线财经,https://cdn.hklive.tv/hls/85/index.m3u8
 TVB翡翠台,https://cdn.hklive.tv/hls/81/index.m3u8
 TVB明珠台,https://cdn.hklive.tv/hls/84/index.m3u8
-TVB J1,https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
 TVB J2,http://120.84.96.152:808/hls/86/index.m3u8#https://cdn.hklive.tv/hls/82/index.m3u8
 TVB星河,http://113.64.147.7:808/hls/135/index.m3u8
 香港卫视文旅,https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
 ViuTV,https://cdn.hklive.tv/hls/99/index.m3u8
 ViuTV 6,https://cdn.hklive.tv/hls/96/index.m3u8
-RHK31,https://cdn.hklive.tv/hls/31/index.m3u8
-RHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8#https://cdn.hklive.tv/hls/32/index.m3u8
-RHK33,https://cdn.hklive.tv/hls/33/index.m3u8
-RHK34,https://cdn.hklive.tv/hls/34/index.m3u8
+RTHK31,https://cdn.hklive.tv/hls/31/index.m3u8
+RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8#https://cdn.hklive.tv/hls/32/index.m3u8
+RTHK33,https://cdn.hklive.tv/hls/33/index.m3u8
+RTHK34,https://cdn.hklive.tv/hls/34/index.m3u8
 香港开电视,https://cdn.hklive.tv/hls/77/index.m3u8
 香港C+,http://61.222.202.191:80/live/yzyh.php?id=21
 华丽翡翠台,http://61.222.202.191:80/live/yzyh.php?id=164
@@ -154,7 +153,7 @@ MoMo综合台,http://61.219.170.95:18576/http/192.168.1.9:8081/hls/76/818/momo_m
 东森财经新闻,rtmp://59.124.75.138/sat/tv571#http://61.222.202.191:80/live/yzyh.php?id=44
 东森超视,http://61.219.170.95:18555/http/192.168.1.9:8006/hls/(10-99)/(800-899)/ch(10-99).m3u8
 MUCH TV,http://61.219.170.95:18558/http/192.168.1.9:8081/hls/72/814/ch45.m3u8
-StarWorld,http://61.219.170.95:18504/http/192.168.1.9:8001/hls/(10-99)/(800-899)/ch(10-99).m3u8
+StarWorld卫视合家欢,http://61.219.170.95:18504/http/192.168.1.9:8001/hls/(10-99)/(800-899)/ch(10-99).m3u8
 AXW,http://61.219.170.95:18548/http/192.168.1.9:8002/hls/(10-99)/(800-899)/ch(10-99).m3u8
 ANIMAX,http://61.219.170.95:18550/http/192.168.1.9:8001/hls/(10-99)/(800-899)/ch(10-99).m3u8
 非凡商业,http://61.219.170.95:18510/http/192.168.1.9:8008/hls/(10-99)/(800-899)/ch(10-99).m3u8
@@ -172,7 +171,7 @@ ANIMAX,http://61.219.170.95:18550/http/192.168.1.9:8001/hls/(10-99)/(800-899)/ch
 民视台湾台,http://61.222.202.191:80/live/yzyh.php?id=31
 民视第一台,http://61.222.202.191:80/live/yzyh.php?id=46
 壹电视新闻台,http://61.222.202.191:80/live/yzyh.php?id=144
-华视新闻资讯,http://61.222.202.191:80/live/yzyh.php?id=147
+华视新闻资讯台,http://61.222.202.191:80/live/yzyh.php?id=147
 非凡新闻,http://61.222.202.191:80/live/yzyh.php?id=148
 年代新闻,http://61.222.202.191:80/live/yzyh.php?id=149
 EYE戏剧,http://61.222.202.191:80/live/yzyh.php?id=52
@@ -212,7 +211,7 @@ ELTA体育2,rtmp://59.124.75.138/sat/md041#http://61.222.202.191:80/live/yzyh.ph
 好消息1台,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
 好消息2台,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
 好消息卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
-大立電視,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+大立電視台,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 中台湾生活网,http://58.99.33.16:1935/liveedge17/live_852_3.stream/chunklist.m3u8
 南投新闻,http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m3u8
 海豚综合台,http://58.99.33.16:1935/liveedge17/live_077_3.stream/chunklist.m3u8
@@ -221,7 +220,7 @@ NHK华语视界,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.
 天映经典,http://61.222.202.191:80/live/yzyh.php?id=103
 天映经典,http://61.222.202.191:80/live/yzyh.php?id=107
 天映电影,http://61.222.202.191:80/live/yzyh.php?id=106
-星空,http://61.222.202.191:80/live/yzyh.php?id=111
+星空卫视,http://61.222.202.191:80/live/yzyh.php?id=111
 星卫HD电影台,http://61.222.202.191:80/live/yzyh.php?id=109
 台版美亚电影台,http://61.222.202.191:80/live/yzyh.php?id=110
 阿里郎,http://61.222.202.191:80/live/yzyh.php?id=51
