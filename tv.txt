@@ -152,7 +152,6 @@ MoMo综合台,http://61.219.170.95:18576/http/192.168.1.9:8081/hls/76/818/momo_m
 StarWorld卫视合家欢,http://61.219.170.95:18504/http/192.168.1.9:8001/hls/(10-99)/(800-899)/ch(10-99).m3u8
 AXN,http://61.219.170.95:18548/http/192.168.1.9:8002/hls/(10-99)/(800-899)/ch(10-99).m3u8
 ANIMAX,http://61.219.170.95:18550/http/192.168.1.9:8001/hls/(10-99)/(800-899)/ch(10-99).m3u8
-非凡商业,http://61.219.170.95:18510/http/192.168.1.9:8008/hls/(10-99)/(800-899)/ch(10-99).m3u8
 中天新闻台,https://live.6zxr.xyz/ztxw/index.m3u8
 三立新闻台,https://live.6zxr.xyz/twtv/index.m3u8
 寰宇新闻台,https://live.6zxr.xyz/fhwszw/index.m3u8
@@ -160,14 +159,16 @@ ANIMAX,http://61.219.170.95:18550/http/192.168.1.9:8001/hls/(10-99)/(800-899)/ch
 龙祥时代,http://120.84.96.32:808/hls/35/index.m3u8#http://61.222.202.191:80/live/yzyh.php?id=102
 东森电影,http://120.84.96.32:808/hls/32/index.m3u8#http://61.222.202.191:80/live/yzyh.php?id=98
 东森洋片,http://120.84.96.32:808/hls/33/index.m3u8#http://61.222.202.191:80/live/yzyh.php?id=99
-天映频道,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/29
+天映电影,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/29#http://61.222.202.191:80/live/yzyh.php?id=106
+天映经典,http://61.222.202.191:80/live/yzyh.php?id=107
 美亚电影台,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/31
 公视,http://61.222.202.191:80/live/yzyh.php?id=33
 民视台湾台,http://61.222.202.191:80/live/yzyh.php?id=31
 民视第一台,http://61.222.202.191:80/live/yzyh.php?id=46
 壹电视新闻台,http://61.222.202.191:80/live/yzyh.php?id=144
 华视新闻资讯台,https://live.6zxr.xyz/tvbs56/index.m3u8#http://61.222.202.191:80/live/yzyh.php?id=147
-非凡新闻,http://61.222.202.191:80/live/yzyh.php?id=148
+非凡新闻台,http://61.222.202.191:80/live/yzyh.php?id=148
+非凡商业台,http://61.219.170.95:18510/http/192.168.1.9:8008/hls/(10-99)/(800-899)/ch(10-99).m3u8
 年代新闻,http://61.222.202.191:80/live/yzyh.php?id=149
 EYE戏剧,http://61.222.202.191:80/live/yzyh.php?id=52
 八大第一台,http://61.222.202.191:80/live/yzyh.php?id=34
@@ -209,8 +210,6 @@ ELTA体育2,rtmp://59.124.75.138/sat/md041#http://61.222.202.191:80/live/yzyh.ph
 大立電視台,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 海豚综合台,http://58.99.33.16:1935/liveedge17/live_077_3.stream/chunklist.m3u8
 NHK华语视界,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-天映经典,http://61.222.202.191:80/live/yzyh.php?id=107
-天映电影,http://61.222.202.191:80/live/yzyh.php?id=106
 星空卫视,http://61.222.202.191:80/live/yzyh.php?id=111
 星卫电影台,http://61.222.202.191:80/live/yzyh.php?id=109
 台版美亚电影台,http://61.222.202.191:80/live/yzyh.php?id=110
