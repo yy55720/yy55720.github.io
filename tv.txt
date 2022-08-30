@@ -133,6 +133,7 @@ ELEVEN体育+,rtmp://59.124.75.138/sat/md051
 TVBS·欢乐台,rtmp://59.124.75.138/sat/tv421#http://61.222.202.191:80/live/yzyh.php?id=22
 TVBS·新闻台,rtmp://59.124.75.138/sat/tv551
 MoMo综合台,rtmp://59.124.75.138/sat/tv761#http://61.219.170.95:18576/http/192.168.1.9:8081/hls/76/818/momo_max.m3u8
+东森超视,rtmp://59.124.75.138/sat/tv331#http://61.219.170.95:18555/http/192.168.1.9:8006/hls/(10-99)/(800-899)/ch(10-99).m3u8
 东森财经新闻,rtmp://59.124.75.138/sat/tv571#http://61.222.202.191:80/live/yzyh.php?id=44
 ELTA体育2,rtmp://59.124.75.138/sat/md041#http://61.222.202.191:80/live/yzyh.php?id=58
 博斯无限,rtmp://59.124.75.138/sat/md011
@@ -157,7 +158,6 @@ NHK华语视界,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.
 东森电影,http://120.84.96.32:808/hls/32/index.m3u8#http://61.222.202.191:80/live/yzyh.php?id=98
 东森洋片,http://120.84.96.32:808/hls/33/index.m3u8#http://61.222.202.191:80/live/yzyh.php?id=99
 东森综合,http://61.222.202.191:80/live/yzyh.php?id=42
-东森超视,http://61.222.202.191:80/live/yzyh.php?id=43#http://61.219.170.95:18555/http/192.168.1.9:8006/hls/(10-99)/(800-899)/ch(10-99).m3u8
 东森卡通台,http://61.222.202.191:80/live/yzyh.php?id=54
 东森戏剧,http://61.222.202.191:80/live/yzyh.php?id=100
 年代MUCH,http://61.219.170.95:18558/http/192.168.1.9:8018/hls/(10-99)/(800-899)/ch(10-99).m3u8
