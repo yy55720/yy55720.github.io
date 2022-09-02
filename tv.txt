@@ -223,14 +223,13 @@ ABC新闻,http://61.222.202.191:80/live/yzyh.php?id=150
 安徽·影视,http://120.210.193.151:8006/120000001002/XMTah_yshd/index.m3u8#http://hdl-ahlive-ht.ahtv.cn/atvrtmp/143_q_live161829369249612.m3u8
 安徽·农业科教,http://120.210.193.151:8006/120000001002/XMTah_kjhd/index.m3u8#http://hdl-ahlive-ht.ahtv.cn/atvrtmp/143_q_live161829358013848.m3u8
 安徽·公共,http://120.210.193.151:8006/120000001002/XMTah_gghd/index.m3u8#http://hdl-ahlive-ht.ahtv.cn/atvrtmp/143_q_live161829349154529.m3u8
-安徽·睛彩安徽,http://120.210.193.151:8006/120000001002/XMTjcah/index.m3u8
+安徽·国际,http://120.210.193.151:8006/120000001002/XMTahgj/index.m3u8#http://hdl-ahlive-ht.ahtv.cn/atvrtmp/143_q_live161829422933950.m3u8
 安徽·海豚影视,http://120.210.193.151:8006/120000001002/XMThtys/1.m3u8
 安徽·海豚少儿,http://120.210.193.151:8006/120000001002/XMThtse/1.m3u8
 安徽·海豚健康,http://120.210.193.151:8006/120000001002/XMThtjk/1.m3u8
 安徽·海豚生活,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/pltv-htsh/1.m3u8
 安徽·徽生活,http://120.210.193.151:8006/120000001002/GDhuish/index.m3u8
-安徽·国际,http://120.210.193.151:8006/120000001002/XMTahgj/index.m3u8#http://hdl-ahlive-ht.ahtv.cn/atvrtmp/143_q_live161829422933950.m3u8
-安徽·导视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/XMTahds/1.m3u8
+安徽·睛彩安徽,http://120.210.193.151:8006/120000001002/XMTjcah/index.m3u8
 安徽·五河新闻综合,http://60.170.109.149:1935/live/wuhe2/playlist.m3u8
 安徽·五河文旅,http://60.170.109.149:1935/live/wuhe1/playlist.m3u8
 安徽·合肥新闻,https://hylive.hfbtv.com/lsdream/pdq062k/1000/live.m3u8
