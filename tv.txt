@@ -39,6 +39,7 @@ CCTV女性时尚,http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/20125139
 CCTV老故事,http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8#http://111.20.33.93/PLTV/88888893/224/3221226236/index.m3u8
 CCTV发现之旅,http://111.20.33.93/PLTV/88888893/224/3221226235/index.m3u8
 CGTN,http://39.136.48.29:8089/PLTV/88888888/224/3221226320/index.m3u8#http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/chunklist_w1018196661_b1000000.m3u8
+CGTN记录,http://gxfrg007.8800.org:8282/tsfile/live/1067_1.m3u8
 CGTN阿拉伯语,http://39.136.48.10:8089/PLTV/88888888/224/3221226405/index.m3u8
 CGTN西班牙语,http://39.136.48.18:8089/PLTV/88888888/224/3221226324/index.m3u8
 CGTN法语,http://39.136.48.18:8089/PLTV/88888888/224/3221226399/index.m3u8
