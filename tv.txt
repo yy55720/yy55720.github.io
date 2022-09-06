@@ -1038,12 +1038,10 @@ IPTV4K,http://124.232.231.246:6610/000000001001/201500000218/index.m3u8?IASHttpS
 
 
 轮播,#genre#
-世界未解之谜,http://124.223.212.38:83/douyu/9369468#http://epg.112114.xyz/douyu/9369468
+世界未解之谜,http://maomao.kandiantv.cn/douyu1.php?id=9369468#http://epg.112114.xyz/douyu/9369468
 僵尸道长,http://epg.112114.xyz/bili/23825469#http://ye23.win/iptv/bilibili.php?id=23825469
 神话,http://epg.112114.xyz/bili/7251976#http://ye23.win/iptv/bilibili.php?id=7251976
-倚天屠龙记,http://epg.112114.xyz/huya/11602051
 爱情公寓,http://epg.112114.xyz/huya/11336726#https://live.52sf.ga/huya/11336726
-乡村爱情,http://epg.112114.xyz/huya/11602068#https://live.52sf.ga/huya/11602068
 鬼吹灯系列,http://maomao.kandiantv.cn/douyu1.php?id=7701735#http://epg.112114.xyz/douyu/7701735
 鬼吹灯精绝古城,http://epg.112114.xyz/huya/11352871#https://live.52sf.ga/huya/11352871
 神探狄仁杰,http://maomao.kandiantv.cn/douyu1.php?id=6027991#http://epg.112114.xyz/douyu/6027991
@@ -1059,8 +1057,6 @@ IPTV4K,http://124.232.231.246:6610/000000001001/201500000218/index.m3u8?IASHttpS
 极限挑战,https://live.52sf.ga/huya/11352914#http://epg.112114.xyz/huya/11352914
 1905,http://mmitv.top/other/1905.php?id=1905#http://ep.b1791.com/php/1905m.php?id=1905tv
 斗鱼电影,http://maomao.kandiantv.cn/douyu1.php?id=5423#http://epg.112114.xyz/douyu/5423
-虎牙科幻系列,https://live.52sf.ga/huya/11352895#http://epg.112114.xyz/huya/11352895
-漫威,https://live.52sf.ga/huya/21059600#http://epg.112114.xyz/huya/21059600
 周星驰,https://live.52sf.ga/huya/11342412#http://epg.112114.xyz/huya/11342412
 周星驰1,http://112.74.200.9:88/tv000000/m3u8.php?/migu/623338112
 林正英,https://live.52sf.ga/huya/11342421#http://epg.112114.xyz/huya/11342421
