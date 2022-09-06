@@ -984,10 +984,9 @@ NewTV超级综艺,http://39.134.66.66/PLTV/88888888/224/3221225642/index.m3u8#ht
 KiD影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 经典再现,http://112.19.214.90:8883/tsfile/live/1009_1.m3u8
 高清影院,http://112.19.214.90:8883/tsfile/live/1011_1.m3u8
-亚洲影院,http://117.148.129.9/PLTV/88888888/224/3221231516/index.m3u8
-Hot精品剧场,http://cache.ott.fifalive.itv.cmvideo.cn:80/8230197131234717902/index.m3u8?channel-id=wasusyt&Contentid=8230197131234717902&livemode=1&stbId=no
 Hot欧美影院,http://cache.ott.fifalive.itv.cmvideo.cn:80/7185203501769528108/index.m3u8?channel-id=wasusyt&Contentid=7185203501769528108&livemode=1&stbId=no
 Hot亚洲影院,http://cache.ott.fifalive.itv.cmvideo.cn:80/5841816227539527643/index.m3u8?channel-id=wasusyt&Contentid=5841816227539527643&livemode=1&stbId=no
+Hot精品剧场,http://cache.ott.fifalive.itv.cmvideo.cn:80/8230197131234717902/index.m3u8?channel-id=wasusyt&Contentid=8230197131234717902&livemode=1&stbId=no
 Hot风尚音乐,http://cache.ott.fifalive.itv.cmvideo.cn:80/5529729098703832176/index.m3u8?channel-id=wasusyt&Contentid=5529729098703832176&livemode=1&stbId=no
 IPTV高清院线,http://iptv.wolink.cc:889/hls/63/index.m3u8
 IPTV古装剧场,http://iptv.wolink.cc:889/hls/61/index.m3u8
