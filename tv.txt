@@ -1125,7 +1125,7 @@ TVB剧场,http://117.148.129.9/PLTV/88888888/224/3221231733/index.m3u8#http://hm
 宋小宝小品,http://fangsong.live/hls/douyu.php?id=9817729#http://epg.112114.xyz/douyu/9817729
 小品,http://fangsong.live/hls/douyu.php?id=9067836#http://epg.112114.xyz/douyu/9067836
 辽视欢乐集结号,http://fangsong.live/hls/douyu.php?id=9322175#http://epg.112114.xyz/douyu/9322175
-吉林卫视小品相声,http://fangsong.live/hls/douyu.php?id=9273031#http://epg.112114.xyz/douyu/9273031
+小品相声,http://fangsong.live/hls/douyu.php?id=9273031#http://epg.112114.xyz/douyu/9273031
 
 
 影视频道,#genre#
