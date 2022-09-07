@@ -146,6 +146,7 @@ MoMo综合台,rtmp://59.124.75.138/sat/tv761#http://61.219.170.95:18576/http/192
 ELTA体育2,rtmp://59.124.75.138/sat/md011
 ELTA体育3,rtmp://59.124.75.138/sat/md051
 博斯魅力,rtmp://59.124.75.138/sat/md041
+HBO,rtmp://pull-f5-spe.ixigua.com/live/rtmvmzglipwqjctjfhjvrjgjuglvcbeywerweefshgfhhksggcxhbo
 大爱一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱二台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 好消息1台,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
@@ -1102,20 +1103,20 @@ TVB剧场,http://117.148.129.9/PLTV/88888888/224/3221231733/index.m3u8#http://hm
 古龙作品集,http://117.148.129.9/PLTV/88888888/224/3221231657/index.m3u8#http://112.74.200.9:88/tv000000/m3u8.php?/migu/639528313
 经典贺岁片,http://117.148.129.9/PLTV/88888888/224/3221231679/index.m3u8#http://112.74.200.9:88/tv000000/m3u8.php?/migu/625774662
 武侠剧场,http://117.148.129.9/PLTV/88888888/224/3221231763/index.m3u8#http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198822
-热播电视剧,http://112.49.51.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c57_lb_212_600_t10/c57_lb_212_600_t10.m3u8
-票房收割机,http://112.49.51.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c56_lb_184_600_t10/c56_lb_184_600_t10.m3u8
-收视冠军,http://112.49.51.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c56_lb_230_720P_t10/c56_lb_230_720P_t10.m3u8
-经典港片,http://112.49.51.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c51_lb_110_600_t10/c51_lb_110_600_t10.m3u8
-惊悚午夜,http://112.49.51.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c51_lb_115_600_t10/c51_lb_115_600_t10.m3u8
-仙侠玄幻,http://112.49.51.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c55_lb_148_600_t10/c55_lb_148_600_t10.m3u8
-权谋剧场,http://112.49.51.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c55_lb_167_600_t10/c55_lb_167_600_t10.m3u8
-军旅剧场,http://112.49.51.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c55_lb_144_600_t10/c55_lb_144_600_t10.m3u8
-抗战剧场,http://112.49.51.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c54_lb_163_600_t10/c54_lb_163_600_t10.m3u8
-红色剧场,http://112.49.51.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c56_lb_179_600_t10/c56_lb_179_600_t10.m3u8
-宫廷正剧,http://112.49.48.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c54_lb_152_600_t10/c54_lb_152_600_t10.m3u8
-家庭剧场,http://112.49.51.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c55_lb_158_600_t10/c55_lb_158_600_t10.m3u8
-军事观察,http://112.49.51.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c57_lb_239_720P_t10/c57_lb_239_720P_t10.m3u8
-五星影院,http://112.49.51.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c56_lb_183_600_t10/c56_lb_183_600_t10.m3u8
+热播电视剧,http://112.49.26.90/r/baiducdncmn2.inter.iqiyi.com/tslive/c57_lb_212_600_t10/c57_lb_212_600_t10.m3u8
+票房收割机,http://112.49.26.90/r/baiducdncmn2.inter.iqiyi.com/tslive/c56_lb_184_600_t10/c56_lb_184_600_t10.m3u8
+五星影院,http://112.49.26.90/r/baiducdncmn2.inter.iqiyi.com/tslive/c56_lb_183_600_t10/c56_lb_183_600_t10.m3u8
+收视冠军,http://112.49.26.90/r/baiducdncmn2.inter.iqiyi.com/tslive/c56_lb_230_720P_t10/c56_lb_230_720P_t10.m3u8
+经典港片,http://112.49.26.90/r/baiducdncmn2.inter.iqiyi.com/tslive/c51_lb_110_600_t10/c51_lb_110_600_t10.m3u8
+惊悚午夜,http://112.49.26.90/r/baiducdncmn2.inter.iqiyi.com/tslive/c51_lb_115_600_t10/c51_lb_115_600_t10.m3u8
+仙侠玄幻,http://112.49.26.90/r/baiducdncmn2.inter.iqiyi.com/tslive/c55_lb_148_600_t10/c55_lb_148_600_t10.m3u8
+权谋剧场,http://112.49.26.90/r/baiducdncmn2.inter.iqiyi.com/tslive/c55_lb_167_600_t10/c55_lb_167_600_t10.m3u8
+军旅剧场,http://112.49.26.90/r/baiducdncmn2.inter.iqiyi.com/tslive/c55_lb_144_600_t10/c55_lb_144_600_t10.m3u8
+抗战剧场,http://112.49.26.90/r/baiducdncmn2.inter.iqiyi.com/tslive/c54_lb_163_600_t10/c54_lb_163_600_t10.m3u8
+红色剧场,http://112.49.26.90/r/baiducdncmn2.inter.iqiyi.com/tslive/c56_lb_179_600_t10/c56_lb_179_600_t10.m3u8
+宫廷正剧,http://112.49.26.90/r/baiducdncmn2.inter.iqiyi.com/tslive/c54_lb_152_600_t10/c54_lb_152_600_t10.m3u8
+家庭剧场,http://112.49.26.90/r/baiducdncmn2.inter.iqiyi.com/tslive/c55_lb_158_600_t10/c55_lb_158_600_t10.m3u8
+军事观察,http://112.49.26.90/r/baiducdncmn2.inter.iqiyi.com/tslive/c57_lb_239_720P_t10/c57_lb_239_720P_t10.m3u8
 
 
 小品相声,#genre#
@@ -1176,7 +1177,7 @@ SiTV东方影视,http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3
 武城影视,https://jsylivealone302.iqilu.com/live/wucheng_tv02/index.m3u8
 济阳影视,https://jsylivealone302.iqilu.com/live/jiyang_tv02/index.m3u8
 河东影视,https://jsylivealone302.iqilu.com/live/hedong_tv01/index.m3u8
-The Last of the Mohicans
+
 
 少儿频道,#genre#
 中华小当家,http://epg.112114.xyz/huya/11342413#https://live.52sf.ga/huya/11342413
