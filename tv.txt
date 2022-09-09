@@ -286,7 +286,7 @@ Y+频道,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 上海·都市剧场,http://183.207.255.188/live/program/live/dsjchd/4000000/mnf.m3u8
 上海·生活时尚,http://183.207.255.188/live/program/live/shsshd/4000000/mnf.m3u8
 上海·游戏风云,http://183.207.255.188/live/program/live/yxfyhd/4000000/mnf.m3u8
-上海·法制天地,http://183.207.255.188/live/program/live/fztd/1300000/mnf.m3u8
+上海·法治天地,http://183.207.255.188/live/program/live/fztd/1300000/mnf.m3u8
 上海·浦东财经,http://183.207.255.188/live/program/live/dfcj/1300000/mnf.m3u8
 上海·七彩戏曲,http://183.207.255.188/live/program/live/qcxj/1300000/mnf.m3u8
 上海·魅力足球,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
