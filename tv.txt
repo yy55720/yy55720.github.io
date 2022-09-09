@@ -377,7 +377,7 @@ Y+频道,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 四川·德格综合,http://m3u8.channel.ganzitv.com/vms/videos/nmip-media/channellive/channel5/playlist.m3u8
 四川·珙县综合,http://pili-live-hls-cqgx.tianma3600.com/cqgx/ggpd.m3u8
 四川·宝兴综合,http://m3u8channel-bx.wuxianyaan.com/cms/videos/nmip-media-bx/channellive/channel11/playlist.m3u8
-四川·眉山公共频道,http://live2.scmstv.cn/ggpd/sd/live.m3u8
+四川·眉山公共,http://live2.scmstv.cn/ggpd/sd/live.m3u8
 四川·金堂电视台,https://p2.weizan.cn/2029575354/132309630725787078/live.m3u8
 四川·筠连综合,http://118.122.78.172:89/live1/live1.m3u8
 四川·大竹新闻综合,http://60.255.120.30:89/live1/live1.m3u8
