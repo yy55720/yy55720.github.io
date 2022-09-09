@@ -348,11 +348,10 @@ Y+频道,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 四川·新闻,http://112.19.214.90:8883/tsfile/live/1002_1.m3u8
 四川·经济,http://112.19.214.90:8883/tsfile/live/1001_1.m3u8
 四川·文化旅游,http://112.19.214.90:8883/tsfile/live/1003_1.m3u8
-四川·科教,http://112.19.214.90:8883/tsfile/live/1005_1.m3u8
+四川·科教,http://112.19.214.90:8883/tsfile/live/1005_1.m3u8#http://3017ugjo.live2.danghongyun.com/live/hls/4dc0e927160647a2bd585cb5495810be/3c2126c925204cddb74a3534b97e2765-1.m3u8
 四川·乡村,http://112.19.214.90:8883/tsfile/live/1006_1.m3u8
 四川·7,http://112.19.214.90:8883/tsfile/live/1007_1.m3u8
 四川·影视文艺,http://scgctvshow.sctv.com/hdlive/sctv5ded35dd50762b58e2e59/1.m3u8
-四川·科教,http://3017ugjo.live2.danghongyun.com/live/hls/4dc0e927160647a2bd585cb5495810be/3c2126c925204cddb74a3534b97e2765-1.m3u8
 四川·南充综合,https://nczbpull.ncntv.com.cn:443/nctv/2004.m3u8#https://file.ncntv.com.cn/cms/videos/nmip-media/channellive/channel15/playlist.m3u8
 四川·南充公共,https://nczbpull.ncntv.com.cn:443/nctv/2005.m3u8
 四川·南充科教,https://nczbpull.ncntv.com.cn:443/nctv/2006.m3u8
@@ -403,7 +402,7 @@ Y+频道,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 四川·汉源综合,http://live.hyxrmt.com:85/live/xwpd.m3u8
 四川·井研综合频道,http://tvfile.jy.lsrm.org.cn/cms/videos/nmip-media-jy/channellive/channel3/playlist.m3u8
 四川·马边综合,http://tvfile.mb.lsrm.org.cn/cms/videos/nmip-media/channellive/channel5/playlist.m3u8
-四川·沐川综合,http://tvfile.mcrm.org.cn/nmip-media/channellive/channel103064/playlist.m3u8#
+四川·沐川综合,http://tvfile.mcrm.org.cn/nmip-media/channellive/channel103064/playlist.m3u8
 四川·沙湾综合,http://tvfile.sw.lsrm.org.cn/cms/videos/nmip-media-sw/channellive/channel1/playlist.m3u8
 四川·泸县综合,http://lxfile.lxxcb.cn/nmip-media/channellive/channel103799/playlist.m3u8
 四川·蓬溪新闻综合,http://live.sctvcloud.com/live/pengxilive/playlist.m3u8
