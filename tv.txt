@@ -319,7 +319,7 @@ Y+频道,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 浙江·开化国家公园,http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8
 浙江·龙游新闻综合,http://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8
 浙江·龙游生活娱乐,http://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
-浙江·萧山生活,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
+浙江·萧山综合,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
 浙江·青田电视台,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
 浙江·永嘉新闻综合,http://l.cztvcloud.com/channels/lantian/SXyongjia1/720p.m3u8
 浙江·衢江新闻综合,http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8
