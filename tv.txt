@@ -379,9 +379,7 @@ Y+频道,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 四川·宝兴综合,http://m3u8channel-bx.wuxianyaan.com/cms/videos/nmip-media-bx/channellive/channel11/playlist.m3u8
 四川·眉山公共频道,http://live2.scmstv.cn/ggpd/sd/live.m3u8
 四川·金堂电视台,https://p2.weizan.cn/2029575354/132309630725787078/live.m3u8
-四川·彭州综合频道,http://livepgc.chinamcache.com/pgc/1252b2e7742044c90efcb59e92f19de2.m3u8?auth_key=1646132996-0-0-3091540ccfbc73698c9437843235d594
 四川·筠连综合,http://118.122.78.172:89/live1/live1.m3u8
-四川·威远综合,http://dxplay.scwy.cn/live/weiyuanzonghepingdao/index.m3u8
 四川·大竹新闻综合,http://60.255.120.30:89/live1/live1.m3u8
 四川·达州新闻综合,http://60.255.120.30:89/live2/live2.m3u8
 四川·万源综合,http://live.wanyuannews.com/wytv/hd/live.m3u8
@@ -402,8 +400,6 @@ Y+频道,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 四川·汉源综合,http://live.hyxrmt.com:85/live/xwpd.m3u8
 四川·井研综合频道,http://tvfile.jy.lsrm.org.cn/cms/videos/nmip-media-jy/channellive/channel3/playlist.m3u8
 四川·马边综合,http://tvfile.mb.lsrm.org.cn/cms/videos/nmip-media/channellive/channel5/playlist.m3u8
-四川·沐川综合,http://tvfile.mcrm.org.cn/nmip-media/channellive/channel103064/playlist.m3u8
-四川·沙湾综合,http://tvfile.sw.lsrm.org.cn/cms/videos/nmip-media-sw/channellive/channel1/playlist.m3u8
 四川·泸县综合,http://lxfile.lxxcb.cn/nmip-media/channellive/channel103799/playlist.m3u8
 四川·蓬溪新闻综合,http://live.sctvcloud.com/live/pengxilive/playlist.m3u8
 四川·邻水综合,http://live.sctvcloud.com/live/linshui/playlist.m3u8
@@ -411,7 +407,6 @@ Y+频道,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 四川·北川一套,http://live.sctvcloud.com/live/bcgqlive/playlist.m3u8
 四川·平武综合,http://live.sctvcloud.com/live/pwtv/playlist.m3u8
 四川·盐亭综合,http://live.sctvcloud.com/live/yttv/playlist.m3u8
-四川·宝坻一套,https://hb2stream1.baoxinwen.com/d6387fc7a8836e78/6385068498053235715_1597997122.m3u8?auth_key=1893456000-0-0-93ea48b07ddd03f4904079b7659e81a4
 重庆·科教,http://dyzy.pub:8000/udp/235.254.199.188:7980
 重庆·影视,http://dyzy.pub:8000/udp/235.254.199.180:7980
 重庆·文体娱乐,http://dyzy.pub:8000/udp/235.254.199.187:7980
@@ -667,6 +662,7 @@ Y+频道,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 河北·邢台综合,https://jwplay.hebyun.com.cn/live/xttv/1500k/tzwj_video.m3u8
 河北·兴隆综合,https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8
 天津·西青新闻综合,http://221.238.209.44:81/hls/live1.m3u8
+天津·宝坻一套,https://hb2stream1.baoxinwen.com/d6387fc7a8836e78/6385068498053235715_1597997122.m3u8?auth_key=1893456000-0-0-93ea48b07ddd03f4904079b7659e81a4
 广西·新闻,http://111.59.63.32:9901/tsfile/live/1007_1.m3u8
 广西·都市,http://111.59.63.32:9901/tsfile/live/1005_1.m3u8
 广西·影视,http://111.59.63.32:9901/tsfile/live/1006_1.m3u8
