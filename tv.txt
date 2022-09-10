@@ -361,6 +361,8 @@ Y+频道,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 四川·泸州综合,http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel106011/playlist.m3u8
 四川·泸州公共,http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel102221/playlist.m3u8
 四川·泸州科教,http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel103074/playlist.m3u8
+四川·达州新闻综合,http://112.19.214.90:8883/tsfile/live/1016_1.m3u8
+四川·达州文化生活,http://112.19.214.90:8883/tsfile/live/1017_1.m3u8
 四川·德阳新闻综合,http://scdytv.cn:1935/live/m_xwpd_livevideo/playlist.m3u8
 四川·德阳公共,http://scdytv.cn:1935/live/m_ggpd_livevideo/playlist.m3u8
 四川·隆昌综合,http://live.sctvcloud.com/live/longchang/playlist.m3u8
@@ -399,7 +401,6 @@ Y+频道,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 四川·西昌综合,http://103.252.251.199:18085/hls/xichangweishi.m3u8
 四川·汉源综合,http://live.hyxrmt.com:85/live/xwpd.m3u8
 四川·井研综合频道,http://tvfile.jy.lsrm.org.cn/cms/videos/nmip-media-jy/channellive/channel3/playlist.m3u8
-四川·马边综合,http://tvfile.mb.lsrm.org.cn/cms/videos/nmip-media/channellive/channel5/playlist.m3u8
 四川·泸县综合,http://lxfile.lxxcb.cn/nmip-media/channellive/channel103799/playlist.m3u8
 四川·蓬溪新闻综合,http://live.sctvcloud.com/live/pengxilive/playlist.m3u8
 四川·邻水综合,http://live.sctvcloud.com/live/linshui/playlist.m3u8
