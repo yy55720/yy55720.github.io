@@ -430,7 +430,7 @@ Y+频道,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 云南·保山二套,http://liveynbsdst.chinamcache.com/live/zb02.m3u8?auth_key=1645240679-0-0-d67bc97395c69c4381264c996315a24b
 云南·保山三套,http://liveynbsdst.chinamcache.com/live/zb03.m3u8?auth_key=1645240698-0-0-551c30f245abc8aa44554820452c332c
 云南·西双版纳综合,http://file.xsbnrtv.cn/vms/videos/nmip-media/channellive/channel1/playlist.m3u8
-云南·西双版纳公共,http://file.xsbnrtv.cn/vms/videos/nmip-media/channellive/channel3/playlist.m3u8
+云南·西双版纳民族语,http://file.xsbnrtv.cn/vms/videos/nmip-media/channellive/channel3/playlist.m3u8
 云南·腾冲电视,http://live.ynurl.com/video/s10012-TCTV/index.m3u8
 云南·瑞丽,http://live.ynurl.com/video/s10021-rltv/index.m3u8
 云南·施甸综合,http://live.ynurl.com/video/s10048-SDTV/index.m3u8
