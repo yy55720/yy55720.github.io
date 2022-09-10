@@ -383,8 +383,6 @@ Y+频道,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 四川·金堂电视台,https://p2.weizan.cn/2029575354/132309630725787078/live.m3u8
 四川·筠连综合,http://118.122.78.172:89/live1/live1.m3u8
 四川·大竹新闻综合,http://60.255.120.30:89/live1/live1.m3u8
-四川·达州新闻综合,http://60.255.120.30:89/live2/live2.m3u8
-四川·万源综合,http://live.wanyuannews.com/wytv/hd/live.m3u8
 四川·广汉综合,http://live.sctvcloud.com/live/guanghan/playlist.m3u8
 四川·旌阳新闻,http://live.sctvcloud.com/live/jingyang/playlist.m3u8
 四川·茂县新闻综合,http://pili-live-rtmp.scmxtv.com/scmxtv/mxtv.m3u8
@@ -407,7 +405,6 @@ Y+频道,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 四川·安州综合,http://live.sctvcloud.com/live/anzhoutv1/playlist.m3u8
 四川·北川一套,http://live.sctvcloud.com/live/bcgqlive/playlist.m3u8
 四川·平武综合,http://live.sctvcloud.com/live/pwtv/playlist.m3u8
-四川·盐亭综合,http://live.sctvcloud.com/live/yttv/playlist.m3u8
 重庆·科教,http://dyzy.pub:8000/udp/235.254.199.188:7980
 重庆·影视,http://dyzy.pub:8000/udp/235.254.199.180:7980
 重庆·文体娱乐,http://dyzy.pub:8000/udp/235.254.199.187:7980
