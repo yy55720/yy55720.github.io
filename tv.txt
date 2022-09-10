@@ -412,15 +412,13 @@ Y+频道,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 重庆·时尚,http://dyzy.pub:8000/udp/235.254.199.182:7980
 重庆·公共农村,http://dyzy.pub:8000/udp/235.254.199.186:7980
 重庆·开州综合,http://kaixianlive.cbg.cn:10345/1.m3u8
-重庆·开州生活,http://kaixianlive.cbg.cn:10345/5.m3u8
 重庆·垫江综合,http://125.62.24.185:80/1.m3u8
 重庆·大足综合,http://218.201.85.71:3170/m3u8
 重庆·璧山综合,http://222.179.42.129:8181/hls1.m3u8
-云南·昆明综合,http://wshls.live.migucloud.com/live/01YCQY7M_C0/playlist.m3u8#http://devlivepull.migucloud.com/live/01YCQY7M_C0.flv
-云南·昆明春城民生,https://devlivepull.migucloud.com/live/UD0YLY2G_C0_3.flv
-云南·昆明公共,http://wshls.live.migucloud.com/live/UD0YLY2G_C0_3/playlist.m3u8#http://devlivepull.migucloud.com/live/UD0YLY2G_C0_3.flv
+云南·昆明新闻综合,http://wshls.live.migucloud.com/live/01YCQY7M_C0/playlist.m3u8#http://devlivepull.migucloud.com/live/01YCQY7M_C0.flv
+云南·昆明春城民生,http://wshls.live.migucloud.com/live/UD0YLY2G_C0_3/playlist.m3u8#http://devlivepull.migucloud.com/live/UD0YLY2G_C0_3.flv
 云南·昆明经济生活,http://wshls.live.migucloud.com/live/JT9JEQ54_C0_2/playlist.m3u8#http://devlivepull.migucloud.com/live/JT9JEQ54_C0_2.flv
-云南·昆明影综艺,http://wshls.live.migucloud.com/live/KYLNJWFD_C0_2/playlist.m3u8#http://devlivepull.migucloud.com/live/KYLNJWFD_C0_2.flv
+云南·昆明影视综艺,http://wshls.live.migucloud.com/live/KYLNJWFD_C0_2/playlist.m3u8#http://devlivepull.migucloud.com/live/KYLNJWFD_C0_2.flv
 云南·昆明科学教育,http://wshls.live.migucloud.com/live/ZBXWIMTD_C0_2/playlist.m3u8#http://devlivepull.migucloud.com/live/ZBXWIMTD_C0_2.flv
 云南·昆明教育台,https://pili-live-hls-kmjy.tianma3600.com/kmjy/kmjy.m3u8
 云南·文山新闻综合,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8#http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
@@ -450,7 +448,6 @@ Y+频道,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 云南·镇雄电视台,http://livebroadcast.ccwb.cn/live/w1606722098119972.m3u8
 云南·贡山综合,http://livebroadcast.ccwb.cn/live/w1609121671179943.m3u8
 云南·个旧综合,http://tv.drs.hhtv.cc:8100/channellive/gjdst.flv
-云南·绿春综合,http://live.ynurl.com/video/s10042-LCTV/index.m3u8
 云南·元阳综合,http://tv.drs.hhtv.cc:8100/channellive/yydst.flv
 云南·广南电视台,http://live.ynurl.com/video/s10031-gnxgbds/index.m3u8
 云南·马关电视台,http://live.ynurl.com/video/s10046-001/index.m3u8
