@@ -537,7 +537,7 @@ Y+频道,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 新疆·石河子影视文体,http://124.88.144.73:1935/live/jjsh/playlist.m3u8
 新疆·石河子经济生活,http://124.88.144.73:1935/live/dywt/playlist.m3u8
 新疆·石河子教育,http://124.88.144.73:1935/live/jiaoyu/playlist.m3u8
-内蒙古·鄂托克旗综合频道,http://110.19.181.138:10080/hls/F509Rh7GR/F509Rh7GR_live.m3u8
+内蒙古·鄂托克综合频道,http://110.19.181.138:10080/hls/F509Rh7GR/F509Rh7GR_live.m3u8
 江西·新闻,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225615/index.m3u8?fmt=ts2hls#http://local.live.jxtvcn.com.cn/live-jxtv/tv_jxtv7.m3u8
 江西·经济,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226206/index.m3u8?fmt=ts2hls#http://local.live.jxtvcn.com.cn/live-jxtv/tv_jxtv3_hd.m3u8
 江西·都市,http://local.live.jxtvcn.com.cn/live-jxtv/tv_jxtv2.m3u8
@@ -559,18 +559,15 @@ Y+频道,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 江西·赣州新闻综合,http://pl1.cloud.dayang.com.cn/live/10062_nfeG7l.m3u8
 江西·赣州公共,http://pl1.cloud.dayang.com.cn/live/10062_Naq1lu.m3u8
 江西·广丰综合,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_guangfeng.m3u8
-江西·余干综合,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_yugan.m3u8
 江西·铜鼓综合,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_tonggu.m3u8
 江西·分宜综合,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_fenyi_tv.m3u8
 江西·井冈山综合,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_jgs.m3u8
 江西·都昌新闻综合,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_duchang.m3u8
 江西·庐山市电视台,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_lushan.m3u8
-贵州·罗甸综合,http://pili-live-rtmp.210.i2863.com/i2863-210/live_210_050252.m3u8
 贵州·松桃新闻,http://live.strmtzx.cn/stxw/sd/live.m3u8
 贵州·松桃综艺,http://live.strmtzx.cn/stzy/sd/live.m3u8
 贵州·黔西南综合,http://live2.qxndt.com/zhpd/sd/live.m3u8
 贵州·黔西南公共,http://live2.qxndt.com/ggpd/sd/live.m3u8
-贵州·三都新闻综合,http://pili-live-rtmp.207.i2863.com/i2863-207/sdpdzb.m3u8
 贵州·清镇综合,http://pili-live-rtmp.143.i2863.com/i2863-143/live_143_397273.m3u8
 贵州·七星关电视台,https://p2.weizan.cn/1681337293/692202026033145509/live.m3u8
 湖北·武汉新闻综合,http://video.hannews.com.cn/fs/livedit/579aab595e36f48a/adb11b845cc5a5ab.m3u8#http://live.hannews.com.cn/video/s10001-wuhannews/index.m3u8#rtmp://live.hannews.com.cn/video/s10001-wuhannews#http://jwlive.appwuhan.com/jw/20210809180243__6110fd43da4b6_818.m3u8?auth_key=1675091964-458351570-0-325688e99a0df23e8d71aad661a138da
