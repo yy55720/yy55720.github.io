@@ -807,7 +807,7 @@ Y+频道,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 吉林·公共,http://stream1.jlntv.cn/ggpd/sd/live.m3u8
 吉林·都市,http://stream1.jlntv.cn/dspd/sd/live.m3u8
 吉林·生活,http://stream1.jlntv.cn/shpd/sd/live.m3u8
-吉林·影院,http://stream1.jlntv.cn/yspd/sd/live.m3u8
+吉林·影视,http://stream1.jlntv.cn/yspd/sd/live.m3u8
 吉林·乡村,http://stream1.jlntv.cn/xcpd/sd/live.m3u8
 吉林·7,http://stream1.jlntv.cn/fzpd/sd/live.m3u8
 吉林·综艺文化,http://stream1.jlntv.cn/fzpd/sd/live.m3u8
