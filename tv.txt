@@ -815,11 +815,20 @@ Y+频道,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 吉林·延边朝鲜语综合,http://live.ybtvyun.com/video/s10006-b571c289a478/index.m3u8
 吉林·延边汉语综合,http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
 陕西·西安新闻综合,http://stream2.xiancity.cn/xatv1/sd/live.m3u8
-陕西·西安白鸽都市,http://stream2.xiancity.cn/xatv2/sd/live.m3u8
+陕西·西安都市频道,http://stream2.xiancity.cn/xatv2/sd/live.m3u8
 陕西·西安商务资讯,http://stream2.xiancity.cn/xatv3/sd/live.m3u8
-陕西·西安文化影视,http://stream2.xiancity.cn/xatv4/sd/live.m3u8
+陕西·西安影视频道,http://stream2.xiancity.cn/xatv4/sd/live.m3u8
 陕西·西安丝路频道,http://stream2.xiancity.cn/xatv5/sd/live.m3u8
-陕西·圆点生活,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226552/index.m3u8
+陕西·商洛一套,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226378/index.m3u8
+陕西·汉中一套,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226331/index.m3u8
+陕西·宝鸡一套,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226381/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226383/index.m3u8
+陕西·宝鸡二套,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226382/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226384/index.m3u8
+陕西·宁强一套,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226390/index.m3u8
+陕西·宁强二套,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226389/index.m3u8
+陕西·镇巴电视台,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226457/index.m3u8
+陕西·城固电视台,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226920/index.m3u8
+陕西·千阳电视台,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226945/index.m3u8
+陕西·西乡融媒,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226556/index.m3u8
 
 
 体育,#genre#
