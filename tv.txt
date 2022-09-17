@@ -1143,26 +1143,19 @@ SiTV东方影视,http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3
 上虞文化影视,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
 湖南电视剧,http://111.40.196.33/PLTV/88888888/224/3221225662/index.m3u8?
 甘肃文化影视,http://39.134.32.102:6610/270000001111/1110000323/index.m3u8?IASHttpSessionId=OTT
-海西影视,http://stream.haixitv.cn/1/sd/live.m3u8
 嘉兴文化影视,http://stream1.jiaxingren.com/whys/playlist.m3u8
 隆化影视,http://hblh.chinashadt.com:2036/live/stream:lh2.stream/playlist.m3u8
-淮安影视,http://stream.habctv.com/ysyl/sd/live.m3u8
 石河子影视文体,http://124.88.144.73:1935/live/jjsh/playlist.m3u8
 山西影视,http://liveflash.sxrtv.com/live/sxfilm.m3u8
-吉林影院,http://stream1.jlntv.cn/yspd/sd/live.m3u8
+吉林影视,http://stream1.jlntv.cn/yspd/sd/live.m3u8
 河北影视,http://183.196.25.171:808/hls/19/index.m3u8#https://event.pull.hebtv.com/jishi/yingshijupindao.m3u8
 西安文化影视,http://stream2.xiancity.cn/xatv4/sd/live.m3u8
-柳林影视,http://pili-live-hls.212.i2863.com/i2863-212/live_212_316579.m3u8
 河北影视,http://live6.plus.hebtv.com/hbysx/hd/live.m3u8
 永清影视,http://60.10.203.69:8000/4.m3u8
 平泉影视,https://jwliveqxzb.hebyun.com.cn/pqys/pqys.m3u8#https://jwcdnqx.hebyun.com.cn/live/pqys/1500k/tzwj_video.m3u8
 广西影视,http://111.59.63.32:9901/tsfile/live/1006_1.m3u8
 南宁影视,http://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8
 烟台影视,http://live.yantaitv.cn/live/e9f1d9045d474c31884d13fa4ffbbd16/a4a9b3704d854756907845107cc56129-1.m3u8
-商河影视,https://jsylivealone302.iqilu.com/live/shanghe_tv02.m3u8
-武城影视,https://jsylivealone302.iqilu.com/live/wucheng_tv02/index.m3u8
-济阳影视,https://jsylivealone302.iqilu.com/live/jiyang_tv02/index.m3u8
-河东影视,https://jsylivealone302.iqilu.com/live/hedong_tv01/index.m3u8
 
 
 少儿频道,#genre#
