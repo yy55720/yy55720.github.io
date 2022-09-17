@@ -1143,7 +1143,6 @@ SiTV东方影视,http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3
 上虞文化影视,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
 湖南电视剧,http://111.40.196.33/PLTV/88888888/224/3221225662/index.m3u8?
 甘肃文化影视,http://39.134.32.102:6610/270000001111/1110000323/index.m3u8?IASHttpSessionId=OTT
-嘉兴文化影视,http://stream1.jiaxingren.com/whys/playlist.m3u8
 隆化影视,http://hblh.chinashadt.com:2036/live/stream:lh2.stream/playlist.m3u8
 石河子影视文体,http://124.88.144.73:1935/live/jjsh/playlist.m3u8
 山西影视,http://liveflash.sxrtv.com/live/sxfilm.m3u8
