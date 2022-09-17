@@ -541,6 +541,16 @@ Y+频道,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 黑龙江·伊春新闻综合,http://live.yichuntv.com/e5d7b4b95cf849d79fa3964431dca1f3/h264_800k_ts/index.m3u8?type=flv2hls_m3u8
 黑龙江·伊春公共,http://live.yichuntv.com/1501fae792774811b2cd1366a078e666/h264_800k_ts/index.m3u8?type=flv2hls_m3u8
 黑龙江·萝北综合,http://juyunlive.juyun.tv/live/65887157.m3u8
+新疆·维吾尔语新闻综合,https://php.52sf.ga/@Curly_MouseIPTV-XJ.php?id=zb02
+新疆·哈萨克语新闻综合,https://php.52sf.ga/@Curly_MouseIPTV-XJ.php?id=zb03
+新疆·汉语综艺频道,https://php.52sf.ga/@Curly_MouseIPTV-XJ.php?id=zb04
+新疆·维吾尔语影视,https://php.52sf.ga/@Curly_MouseIPTV-XJ.php?id=zb05
+新疆·经济生活频道,https://php.52sf.ga/@Curly_MouseIPTV-XJ.php?id=zb07
+新疆·哈萨克语综艺,https://php.52sf.ga/@Curly_MouseIPTV-XJ.php?id=zb08
+新疆·维吾尔语经济生活,https://php.52sf.ga/@Curly_MouseIPTV-XJ.php?id=zb09
+新疆·汉语体育健康,https://php.52sf.ga/@Curly_MouseIPTV-XJ.php?id=zb10
+新疆·汉语信息服务,https://php.52sf.ga/@Curly_MouseIPTV-XJ.php?id=zb11
+新疆·少儿频道,https://php.52sf.ga/@Curly_MouseIPTV-XJ.php?id=zb12
 新疆·石河子新闻综合,http://124.88.144.73:1935/live/xwzh/playlist.m3u8
 新疆·石河子影视文体,http://124.88.144.73:1935/live/jjsh/playlist.m3u8
 新疆·石河子经济生活,http://124.88.144.73:1935/live/dywt/playlist.m3u8
