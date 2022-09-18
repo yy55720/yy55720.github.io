@@ -759,7 +759,6 @@ Y+频道,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 山东·历城新闻综合,https://jsylivealone302.iqilu.com/licheng/licheng_tv01.m3u8
 山东·曹县新闻综合,https://jsylivealone302.iqilu.com/live/caoxian_tv01.m3u8
 山东·海阳综合,https://jsylivealone302.iqilu.com/haiyang/haiyang_tv01.m3u8
-山东·峄城综合,https://jsylivealone302.iqilu.com/live/yicheng_tv01.m3u8
 山东·梁山新闻综合,https://jsylivealone302.iqilu.com/liangshan/liangshan_tv01.m3u8
 山东·坊子新闻综合,https://jsylivealone302.iqilu.com/fangziqu/fangziqu_tv01.m3u8
 山东·齐河新闻,https://jsylivealone302.iqilu.com/qihe/qihe_tv01.m3u8
@@ -1162,7 +1161,6 @@ SiTV东方影视,http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3
 上虞文化影视,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
 湖南电视剧,http://111.40.196.33/PLTV/88888888/224/3221225662/index.m3u8?
 甘肃文化影视,http://39.134.32.102:6610/270000001111/1110000323/index.m3u8?IASHttpSessionId=OTT
-隆化影视,http://hblh.chinashadt.com:2036/live/stream:lh2.stream/playlist.m3u8
 石河子影视文体,http://124.88.144.73:1935/live/jjsh/playlist.m3u8
 山西影视,http://liveflash.sxrtv.com/live/sxfilm.m3u8
 吉林影视,http://stream1.jlntv.cn/yspd/sd/live.m3u8
@@ -1205,14 +1203,13 @@ CCTV新科动漫,http://cctvtxyh5ca.liveplay.myqcloud.com/live/xinkedongman_2_hd
 SiTV动漫秀场,http://183.207.255.188/live/program/live/dmxchd/4000000/mnf.m3u8
 黑莓动画,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/donghuawg/1.m3u8#http://183.207.249.15/PLTV/3/224/3221225555/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225672/index.m3u8#http://39.134.67.7:80/wh7f454c46tw3677941986_2066137605/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/1590395940-1.m3u8#http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/1.m3u8
 iHOT爱动漫,http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000006000280630&livemode=1&stbId=3&channel-id=wasusyt
-动画2HD,http://39.134.182.236/PLTV/88888888/224/3221226178/index.m3u8
-狮子王国,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c2e7e767f3144bed959ef20b8b961fe5/850.m3u8
-倒霉特熊,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87f87ba569c147e3805f80e4844d2de9/1200.m3u8
+狮子王,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c2e7e767f3144bed959ef20b8b961fe5/850.m3u8
+倒霉熊,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87f87ba569c147e3805f80e4844d2de9/1200.m3u8
 反转星球,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3ccdecc7d6e341c1920ad4eac5d82f38/1200.m3u8
-云朵妈妈,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d8ad434c6b08421a927557a4d98da65c/1200.m3u8
-熊大熊二,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1733da751de64e6e910abda889d87a26/1200.m3u8
-熊大过年,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7ae265653fe149069c3b53e31caaf060/1200.m3u8
-猪侠英雄,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0f03b08bc7b042358144617000fd2931/1200.m3u8
+棉花糖和云朵妈妈,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d8ad434c6b08421a927557a4d98da65c/1200.m3u8
+熊出没之变形记,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1733da751de64e6e910abda889d87a26/1200.m3u8
+熊出没之过年,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7ae265653fe149069c3b53e31caaf060/1200.m3u8
+猪猪侠英雄猪少年,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0f03b08bc7b042358144617000fd2931/1200.m3u8
 
 
 音乐MV,#genre#
