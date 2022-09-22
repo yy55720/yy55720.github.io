@@ -332,6 +332,11 @@ Y+频道,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 浙江·萧山综合,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
 浙江·青田电视台,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
 浙江·永嘉新闻综合,http://l.cztvcloud.com/channels/lantian/SXyongjia1/720p.m3u8
+浙江·龙泉综合,http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
+浙江·庆元综合,http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8
+浙江·松阳综合,http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8
+浙江·遂昌综合,http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8
+浙江·云和综合,http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8
 浙江·衢江新闻综合,http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8
 浙江·金华综合,http://live.plus.jinhua.com.cn/xwzh/app/live.m3u8
 浙江·兰溪综合,http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8
