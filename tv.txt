@@ -264,7 +264,7 @@ ABC新闻,http://61.222.202.191:80/live/yzyh.php?id=150
 安徽·桐城综合,http://pili-live-hls.ahtc.tianma3600.com/ahtc/tcxw.m3u8
 全纪实,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/qjshd/4000000/mnf.m3u8
 Y+频道,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8#http://117.148.129.9/PLTV/88888888/224/3221230226/index.m3u8
-北京·纪实,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225675/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226232/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225675/index.m3u8#http://39.134.65.164/PLTV/88888888/224/3221225670/1.m3u8#http://39.135.138.58:18890/PLTV/88888888/224/3221225676/index.m3u8
+北京·纪实,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225675/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225675/index.m3u8#http://39.134.65.164/PLTV/88888888/224/3221225670/1.m3u8#http://39.135.138.58:18890/PLTV/88888888/224/3221225676/index.m3u8
 北京·新闻,http://live.funhillrm.com/5/sd/live.m3u8#http://111.13.42.235/PLTV/88888888/224/3221226437/1.m3u8
 北京·文艺,http://111.13.42.238/PLTV/88888888/224/3221226440/1.m3u8
 北京·科教,http://111.13.42.6/PLTV/88888888/224/3221226559/1.m3u8
@@ -272,6 +272,7 @@ Y+频道,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 北京·财经,http://111.13.42.6/PLTV/88888888/224/3221226560/1.m3u8
 北京·生活,http://111.13.42.242/PLTV/88888888/224/3221226561/1.m3u8
 北京·青年,http://111.13.42.242/PLTV/88888888/224/3221226562/1.m3u8
+北京·体育休闲,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226232/index.m3u8#http://111.20.33.83/PLTV/88888893/224/3221226232/1.m3u8
 北京·国际,http://111.13.42.234/PLTV/88888888/224/3221226510/1.m3u8
 北京·卡酷少儿,http://111.63.117.13:6060/030000001000/G_KAKU/G_KAKU.m3u8#http://39.135.138.60:18890/PLTV/88888888/224/3221225677/index.m3u8#http://111.59.189.40:8445/tsfile/live/1015_1.m3u8
 北京·房山无线,http://live.funhillrm.com/2/sd/live.m3u8
@@ -863,6 +864,7 @@ CCTV风云足球,http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/20125142
 山东体育,http://119.164.216.162:9901/tsfile/live/1002_1.m3u8
 广东体育,http://120.84.96.62:808/hls/22/index.m3u8#http://113.64.147.17:808/hls/1/index.m3u8#http://e59abdd420c65d43cc1550d493a88c71.v.smtcdns.net/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8#http://183.63.15.42:9901/tsfile/live/0136_1.m3u8
 上海五星体育,http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8#http://140.207.241.2:8080/live/program/live/ssty/4000000/mnf.m3u8
+北京体育,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226232/index.m3u8#http://111.20.33.83/PLTV/88888893/224/3221226232/1.m3u8
 上海劲爆体育,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jbtyhd/2300000/mnf.m3u8
 上海极速汽车,http://183.207.255.188/live/program/live/jsqchd/4000000/mnf.m3u8#http://111.20.33.93/PLTV/88888893/224/3221226574/index.m3u8
 iHOT爱体育,http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000006000290630&livemode=1&stbId=3&channel-id=wasusyt
