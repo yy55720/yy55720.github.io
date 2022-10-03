@@ -997,7 +997,7 @@ NewTV超级综艺,http://39.134.66.66/PLTV/88888888/224/3221225642/index.m3u8#ht
 姿态,https://live.52sf.ga/huya/333003#http://epg.112114.xyz/huya/333003
 沫子,http://121.51.14.157/tx.hls.huya.com/src/3197597-3197597-13733574540787712-6518650-10057-A-0-1.flv#https://live.52sf.ga/huya/696969#http://epg.112114.xyz/huya/696969
 KiD影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-好莱坞电影,http://www.372583307.top:4022/udp/233.50.201.228:5140
+百事通,http://www.372583307.top:4022/udp/233.50.201.228:5140
 龙鑫网络电影频道,http://106.115.24.46:9901/tsfile/live/1029_1.m3u8
 Hot欧美影院,http://cache.ott.fifalive.itv.cmvideo.cn:80/7185203501769528108/index.m3u8?channel-id=wasusyt&Contentid=7185203501769528108&livemode=1&stbId=no
 Hot亚洲影院,http://cache.ott.fifalive.itv.cmvideo.cn:80/5841816227539527643/index.m3u8?channel-id=wasusyt&Contentid=5841816227539527643&livemode=1&stbId=no
