@@ -1068,7 +1068,7 @@ IPTV4K,http://124.232.231.246:6610/000000001001/201500000218/index.m3u8?IASHttpS
 好先生,http://txtest-xp2p.p2p.huya.com/src/1449584504-1449584504-6225918037468381184-3049003172-10057-A-0-1.xs#http://epg.112114.xyz/huya/11602088#http://wtv.weetai.cn/iptv/2022/tyzb07.php?id=11602088
 第八号当铺,http://txtest-xp2p.p2p.huya.com/src/1099531752762-1099531752762-86436156702457856-2199063628980-10057-A-0-1.xs#http://epg.112114.xyz/huya/21059568#http://wtv.weetai.cn/iptv/2022/tyzb07.php?id=21059568
 康熙王朝,http://txtest-xp2p.p2p.huya.com/src/1448737923-1448737923-6222281999759966208-2847699110-10057-A-0-1.xs#http://epg.112114.xyz/huya/11352940#http://wtv.weetai.cn/iptv/2022/tyzb07.php?id=11352940
-士兵突击,http://wtv.weetai.cn/iptv/2022/tyzb07.php?id=11342430#http://epg.112114.xyz/huya/11342430
+士兵突击,http://wtv.weetai.cn/iptv/2022/tyzb09.php?id=10348728#http://wtv.weetai.cn/iptv/2022/tyzb09.php?id=4396972#http://wtv.weetai.cn/iptv/2022/tyzb07.php?id=11342430#http://epg.112114.xyz/huya/11342430
 少年包青天,http://epg.112114.xyz/huya/11342393#http://121.51.14.157/tx.hls.huya.com/src/1394565200-1394565200-5989611926139699200-2789253856-10057-A-0-1.flv
 李小哇絮叨叨,http://txtest-xp2p.p2p.huya.com/src/1199515315044-1199515315044-5237452600151900160-2399030753544-10057-A-0-1.xs#http://wtv.weetai.cn/iptv/2022/tyzb07.php?id=18441722#http://121.51.14.157/tx.hls.huya.com/src/1199515315044-1199515315044-5237452600151900160-2399030753544-10057-A-0-1.flv#http://epg.112114.xyz/huya/18441722
 极限挑战,http://txtest-xp2p.p2p.huya.com/src/1423782086-1423782086-6115097496000659456-2847687628-10057-A-0-1.xs#http://wtv.weetai.cn/iptv/2022/tyzb07.php?id=11352914#http://epg.112114.xyz/huya/11352914
