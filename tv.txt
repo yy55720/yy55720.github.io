@@ -123,15 +123,29 @@ FOX-FS1,http://stream.fs1.tv:8080/hls/webstream.m3u8
 
 
 台湾,#genre#
+好消息卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
+台视,http://2023.stream-link.org/playlist/ttv_news.flv
+华视,http://2023.stream-link.org/playlist/cts_news.flv
+中视,http://2023.stream-link.org/playlist/ctv_news.flv
+民视,http://2023.stream-link.org/playlist/ftv_news.flv
+中天新闻,http://2023.stream-link.org/playlist/cti_news.flv
+寰宇国际新闻,http://2023.stream-link.org/playlist/global_news.flv
+寰宇台湾新闻,http://2023.stream-link.org/playlist/global_tw.flv
+三立财经新闻台,http://2023.stream-link.org/playlist/set_inews.flv
+三立新闻台,http://2023.stream-link.org/playlist/set_news.flv
+三立新闻台+,http://2023.stream-link.org/playlist/set_news+.flv
+TVBS·新闻台,http://2023.stream-link.org/playlist/tvbs_news.flv
+TVBS·财经台,http://2023.stream-link.org/playlist/tvbs.flv
+中天综合台,http://2023.stream-link.org/playlist/cti_zh.flv
+中天亚洲台,http://2023.stream-link.org/playlist/cti_asia.flv
+天才冲冲冲,http://2023.stream-link.org/playlist/cts_zy.flv
+东森yoyo,http://2023.stream-link.org/playlist/ebc_yoyo.flv
+东森新闻,http://2023.stream-link.org/playlist/ebc_news.flv
+东森财经新闻,http://2023.stream-link.org/playlist/ebc_finance.flv
 东森电影,http://120.84.96.62:808/hls/32/index.m3u8
 龙祥时代,http://120.84.96.62:808/hls/35/index.m3u8
 天映经典,http://120.84.96.62:808/hls/85/index.m3u8
 东森洋片,http://gxfrg007.8800.org:8282/tsfile/live/1050_1.m3u8#http://120.84.96.32:808/hls/33/index.m3u8
-民视,rtmp://59.124.75.138/sat/tv051
-台视,rtmp://59.124.75.138/sat/tv071#http://61.219.170.95:18543/http/192.168.1.9:8081/hls/72/814/ch46.m3u8
-中视,rtmp://59.124.75.138/sat/tv091
-华视,rtmp://59.124.75.138/sat/tv111
-中天新闻,http://60.251.39.247:8504/http/192.168.77.24:8081/hls/78/80/ch63max.m3u8
 纬来体育,rtmp://59.124.75.138/sat/tv721
 纬来日本,rtmp://59.124.75.138/sat/tv771#http://61.219.170.95:18524/http/192.168.1.9:8004/hls/(10-99)/(800-899)/ch(10-99).m3u8
 纬来育乐,rtmp://59.124.75.138/sat/tv701#http://61.219.170.95:18541/http/192.168.1.9:8081/hls/68/810/ch30.m3u8
@@ -139,10 +153,8 @@ ELEVEN体育1,rtmp://59.124.75.138/sat/tv731
 ELEVEN体育2,rtmp://59.124.75.138/sat/tv741#rtmp://59.124.75.138/sat/md021
 ELEVEN体育+,rtmp://59.124.75.138/sat/md031
 TVBS·欢乐台,rtmp://59.124.75.138/sat/tv421
-TVBS·新闻台,rtmp://59.124.75.138/sat/tv551
 MoMo综合台,rtmp://59.124.75.138/sat/tv761#http://61.219.170.95:18576/http/192.168.1.9:8081/hls/76/818/momo_max.m3u8
 东森超视,rtmp://59.124.75.138/sat/tv331#http://61.219.170.95:18555/http/192.168.1.9:8006/hls/(10-99)/(800-899)/ch(10-99).m3u8
-东森财经新闻,rtmp://59.124.75.138/sat/tv571
 ELTA体育2,rtmp://59.124.75.138/sat/md011
 ELTA体育3,rtmp://59.124.75.138/sat/md051
 博斯魅力,rtmp://59.124.75.138/sat/md041
@@ -151,7 +163,6 @@ HBO,rtmp://pull-f5-spe.ixigua.com/live/rtmvmzglipwqjctjfhjvrjgjuglvcbeywerweefsh
 大爱二台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 好消息1台,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
 好消息2台,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
-好消息卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 大立電視台,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 NHK华语视界,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 龙华电影,http://61.219.170.95:18574/http/192.168.1.9:8066/hls/210/10014/cstv14.m3u8
@@ -164,7 +175,6 @@ NHK华语视界,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.
 纬来戏剧,http://61.219.170.95:18557/http/192.168.1.9:8081/hls/69/811/ch33.m3u8
 卫视电影台,http://61.219.170.95:18529/http/192.168.1.9:8081/hls/62/804/ch07.m3u8
 卫视中文台,http://61.219.170.95:18522/http/192.168.1.9:8081/hls/62/804/ch05.m3u8
-东森新闻,https://live.6zxr.xyz/dsxw/index.m3u8
 东森综合,http://61.222.202.191:80/live/yzyh.php?id=42
 东森卡通台,http://61.222.202.191:80/live/yzyh.php?id=54
 东森戏剧,http://61.222.202.191:80/live/yzyh.php?id=100
@@ -182,15 +192,11 @@ NHK华语视界,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.
 靖天国际台,http://61.222.202.191:80/live/yzyh.php?id=48
 靖天资讯台,http://61.222.202.191:80/live/yzyh.php?id=49
 靖天卡通台,http://61.222.202.191:80/live/yzyh.php?id=50
-三立财经新闻台,http://61.222.202.191:80/live/yzyh.php?id=145
 三立台湾台,http://61.222.202.191:80/live/yzyh.php?id=38
 三立戏剧台,http://61.222.202.191:80/live/yzyh.php?id=39
 三立综合台,http://61.222.202.191:80/live/yzyh.php?id=40
 三立都会台,http://61.222.202.191:80/live/yzyh.php?id=41
-三立新闻台,https://live.6zxr.xyz/twtv/index.m3u8
 中天新闻台,https://live.6zxr.xyz/ztxw/index.m3u8
-中天综合台,http://61.222.202.191:80/live/yzyh.php?id=25
-中天亚洲台,http://61.222.202.191:80/live/yzyh.php?id=28
 中天娱乐,http://61.219.170.95:18521/http/192.168.1.9:8002/hls/(10-99)/(800-899)/ch(10-99).m3u8
 ELTA影剧,http://61.222.202.191:80/live/yzyh.php?id=55
 ELTA体育1,http://61.222.202.191:80/live/yzyh.php?id=57
