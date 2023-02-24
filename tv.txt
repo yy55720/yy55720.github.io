@@ -101,6 +101,7 @@ TVB娱乐新闻台,https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909
 TVB J2,https://epg.pw/stream/37a3b546d2d3c1e405937065338495ad2f9b163f03c6b93de7a36bafba0624b3.ctv
 TVB星河,http://113.64.147.17:808/hls/135/index.m3u8
 有线18台,rtmp://119.81.124.89/sat/hk041
+面包台,https://epg.pw/stream/ed7491fc8fb17d33a52de028002e51c70bcf26a17fd5ad913d8b9a20b2d921a8.m3u8#https://epg.pw/stream/fedcc7d4d96c50976ccfb1d6df16437e715e0eb0e53906df89b2013306ca793c.m3u8
 香港卫视文旅,https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
 ViuTV,https://cdn.hklive.tv/hls/99/index.m3u8
 ViuTV 6,https://epg.pw/stream/fcf95dd8bb482a2b4835c20e918e735ab502980124329b404d78151789405d52.m3u8
