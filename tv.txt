@@ -359,10 +359,10 @@ Y+频道,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 浙江·兰溪综合,http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8
 浙江·嵊州综合,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
 福建·综合,http://p2.weizan.cn/11844069/132114573749498521/live.m3u8
-福建·福州综合,http://live.zohi.tv/video/s10001-FZTV-1/index.m3u8
-福建·福州影视,http://live.zohi.tv/video/s10001-yspd-2/index.m3u8
-福建·福州生活,http://live.zohi.tv/video/s10001-shpd-3/index.m3u8
-福建·福州少儿,http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
+福建·福州综合,http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
+福建·福州影视,http://live.zohi.tv/video/s10001-fztv-2/index.m3u8
+福建·福州生活,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
+福建·福州少儿,http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
 福建·三明新闻综合,http://stream.smntv.cn/smtv1/sd/live.m3u8
 福建·三明公共频道,http://stream.smntv.cn/smtv2/sd/live.m3u8
 福建·龙岩综合,http://live.lytv.net.cn/zhpwd/hd/live.m3u8
