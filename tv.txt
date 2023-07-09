@@ -1010,7 +1010,7 @@ NewTV超级电视剧,http://39.134.66.66/PLTV/88888888/224/3221225637/index.m3u8
 
 
 
-网络，#流派#
+网络，#genre#
 英雄联盟赛事,http://121.51.112.233/tx.flv.huya.com/src/78941969-2559461593-10992803837303062528-2693342886-10057-A-0-1.m3u8#http://mmit v.top/pltv/ huya.php?id=660000#http://epg.112114.xyz/huya/660000
 姿态,http://121.51.112.233/tx.flv.huya.com/src/2367547387-2367547387-10168538598895255552-4735218230-10057-A-0-1.m3u8#http://mmitv.top/pltv/huya.php?id=333003#http://epg.112114.xyz/huya/333003
 沫子,http://121.51.112.233/tx.flv.huya.com/src/3197597-3197597-13733574540787712-6518650-10057-A-0-1.m3u8#http://mmitv.top/pltv/huya.php?id=696969
