@@ -1076,7 +1076,8 @@ IPTV4K,http://124.232.231.246:6610/000000001001/201500000218/index.m3u8?IASHttpS
 
 轮播,#genre#
 世界未解之谜,http://epg.112114.xyz/douyu/9369468#http://sss.iptv8.top/live/douyu.php?id=9369468#http://maomao.kandiantv.cn/douyu1.php?id=9369468#https://www.goodiptv.club/douyu/9369468
-僵尸道长,http://epg.112114.xyz/douyu/7356023#http://sss.iptv8.top/live/douyu.php?id=7356023#http://maomao.kandiantv.cn/douyu1.php?id=7356023#https://www.goodiptv.club/douyu/7356023
+僵尸道长,http://epg.112114.xyz/douyu/11609457#http://sss.iptv8.top/live/douyu.php?id=11609457#http://maomao.kandiantv.cn/douyu1.php?id=11609457#https://www.goodiptv.club/douyu/11609457
+僵尸道长2,http://epg.112114.xyz/douyu/7356023#http://sss.iptv8.top/live/douyu.php?id=7356023#http://maomao.kandiantv.cn/douyu1.php?id=7356023#https://www.goodiptv.club/douyu/7356023
 神话,http://epg.112114.xyz/douyu/5448413#http://sss.iptv8.top/live/douyu.php?id=5448413#http://maomao.kandiantv.cn/douyu1.php?id=5448413#https://www.goodiptv.club/douyu/5448413
 爱情公寓,http://59.63.238.206/aldirect.rtmp.huya.com/src/1388474069-1388474069-5963450717699047424-2777071594-10057-A-0-1.m3u8#http://58.241.27.203/huya-app-373.aldirect-corp-hls.huya.com/src/1388474069-1388474069-5963450717699047424-2777071594-10057-A-0-1.m3u8#http://43.137.29.240/txdirect.flv.huya.com/src/1388474069-1388474069-5963450717699047424-2777071594-10057-A-0-1.m3u8#http://43.128.40.42:198/虎牙直播/huya.php?id=11336726#http://epg.112114.xyz/huya/11336726
 鬼吹灯系列,http://epg.112114.xyz/douyu/7701735#http://sss.iptv8.top/live/douyu.php?id=7701735#http://maomao.kandiantv.cn/douyu1.php?id=7701735#https://www.goodiptv.club/douyu/7701735
