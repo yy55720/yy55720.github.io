@@ -1095,7 +1095,7 @@ IPTV4K,http://124.232.231.246:6610/000000001001/201500000218/index.m3u8?IASHttpS
 神探狄仁杰,http://sss.iptv8.top/live/douyu.php?id=6027991#http://maomao.kandiantv.cn/douyu1.php?id=6027991#https://www.goodiptv.club/douyu/6027991#http://epg.112114.xyz/douyu/6027991
 西游记,http://epg.112114.xyz/douyu/5472438#http://sss.iptv8.top/live/douyu.php?id=5472438#http://maomao.kandiantv.cn/douyu1.php?id=5472438#https://www.goodiptv.club/douyu/5472438
 刑事侦缉档案,http://epg.112114.xyz/douyu/138959#http://sss.iptv8.top/live/douyu.php?id=138959#http://maomao.kandiantv.cn/douyu1.php?id=138959#https://www.goodiptv.club/douyu/138959
-刑事侦缉档案H,http://43.138.170.29:35455/huya/23734169#http://43.128.40.42:198/虎牙直播/huya.php?id=23734169#http://epg.112114.xyz/huya/23734169
+刑事侦缉档案H,http://lu1.cc/tv/php/huya.php?id=11774959#http://159.75.85.63:35455/huya/23734169#http://43.138.170.29:35455/huya/23734169#http://43.128.40.42:198/虎牙直播/huya.php?id=23734169#http://epg.112114.xyz/huya/23734169
 使徒行者,http://epg.112114.xyz/douyu/7810803#http://sss.iptv8.top/live/douyu.php?id=7810803#http://maomao.kandiantv.cn/douyu1.php?id=7810803#https://www.goodiptv.club/douyu/7810803
 使徒行者H,http://43.138.170.29:35455/huya/23734256#http://43.128.40.42:198/虎牙直播/huya.php?id=23734256#http://epg.112114.xyz/huya/23734256
 好先生,http://43.138.170.29:35455/huya/11602088#http://43.128.40.42:198/虎牙直播/huya.php?id=11602088#http://epg.112114.xyz/huya/11602088
