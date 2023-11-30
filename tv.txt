@@ -1,24 +1,24 @@
 副本,#流派#
-央视,#genre#
-CCTV-1综合,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-cctv1/1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8#http://39.134.66.2/PLTV/88888888/224/3221225816/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8
-CCTV-2财经,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-cctv2/1.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
-CCTV-3综艺,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-cctv3/1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
-CCTV-4中文国际,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-4/1.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/1.m3u8
-CCTV-4中文国际 欧洲,http://39.136.48.20:8089/PLTV/88888888/224/3221226318/index.m3u8#http://117.148.129.9/PLTV/88888888/224/3221231615/index.m3u8#http://117.148.129.68/PLTV/88888888/224/3221231615/index.m3u8
-CCTV-4中文国际 美洲,http://39.136.48.7:8089/PLTV/88888888/224/3221226395/index.m3u8
-CCTV-5体育,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-5/1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8#http://39.134.66.110/PLTV/88888888/224/3221225818/index.m3u8
-CCTV-5+体育赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8#http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-cctv05plus/1.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225507/index.m3u8#http://39.134.65.175/PLTV/88888888/224/3221225507/index.m3u8
-CCTV-6电影,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-cctv6/1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
-CCTV-7国防军事,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-7/1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8#http://39.135.135.22:80/wh7f454c46tw1882204598_-1795601636/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225671/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226192/1.m3u8
-CCTV-8电视剧,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-cctv8/1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8#http://39.134.66.2/PLTV/88888888/224/3221225795/index.m3u8
-CCTV-9纪录,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-cctv9/1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8#http://39.135.135.30/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225676/index.m3u8
-CCTV-10科教,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-10/1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225677/index.m3u8#http://39.135.135.79:80/wh7f454c46tw1853683378_-322509916/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
+央视,#流派#
+CCTV-1综合，http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-cctv1/1.m3u8#http://ottrrs.hl.chinamobile.com /PLTV/88888888/224/3221226016/index.m3u8#http://39.134.66.2/PLTV/88888888/224/3221225816/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224 /3221226231/1.m3u8
+CCTV-2财经,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-cctv2/1.m3u8#http://dbiptv.sn.chinamobile.com /PLTV/88888888/224/3221226195/1.m3u8
+CCTV-3综艺,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-cctv3/1.m3u8#http://ottrrs.hl.chinamobile.com /PLTV/88888888/224/3221226021/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
+CCTV-4中文国际,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-4/1.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/ 88888888/224/3221226191/1.m3u8
+CCTV-4中文国际欧洲,http://39.136.48.20:8089/PLTV/88888888/224/3221226318/index.m3u8#http://117.148.129.9/PLTV/88888888/224/3221231615/index.m3u8#http ://117.148.129.68/PLTV/88888888/224/3221231615/index.m3u8
+CCTV-4中文国际美洲,http://39.136.48.7:8089/PLTV/88888888/224/3221226395/index.m3u8
+CCTV-5体育，http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-5/1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888 /224/3221226019/index.m3u8#http://39.134.66.110/PLTV/88888888/224/3221225818/index.m3u8
+CCTV-5+体育赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8#http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business /live/HD-8M-1080P-cctv05plus/1.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225507/index.m3u8#http://39.134.65.175/PLTV/88888888/224/3221225507 /index.m3u8
+CCTV-6电影,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-cctv6/1.m3u8#http://ottrrs.hl.chinamobile.com /PLTV/88888888/224/3221226010/index.m3u8
+CCTV-7国防军事,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-7/1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8#http://39.135.135.22:80/wh7f454c46tw1882204598_-1795601636/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/索引.m3u8#http://39.134。 66.66/PLTV/88888888/224/3221225671/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226192/1.m3u8
+CCTV-8电视剧，http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-cctv8/1.m3u8#http://ottrrs.hl.chinamobile.com /PLTV/88888888/224/3221226008/index.m3u8#http://39.134.66.2/PLTV/88888888/224/3221225795/index.m3u8
+CCTV-9纪录,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-cctv9/1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8#http://39.135.135.30/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8#http://39.134.66.66/PLTV /88888888/224/3221225676/index.m3u8
+CCTV-10科教,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-10/1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888 /224/3221225730/index.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225677/index.m3u8#http://39.135.135.79:80/wh7f454c46tw1853683378_-322509916 /ottrrs.hl.chinamobile.com /PLTV/88888888/224/3221225730/index.m3u8
 CCTV-11戏曲,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-11/1.m3u8#http://39.134.65.162/PLTV/88888888/224/3221225517/index.m3u8#http://39.134.65.7:80/wh7f454c46tw1736895264_-839369804/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
-CCTV-12社会与法,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-12/1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225669/index.m3u8#http://39.135.135.70:80/wh7f454c46tw1829513060_732052264/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
-CCTV-13新闻,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8#http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-13/1.m3u8
-CCTV-14少儿,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-14/1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8#http://39.135.135.36:80/wh7f454c46tw1774882669_697216759/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225674/index.m3u8
-CCTV-15音乐,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-15/1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
-CCTV-16奥林匹克,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-cctv16/1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
+CCTV-12社会与法,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-12/1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV /88888888/224/3221225731/index.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225669/index.m3u8#http://39.135.135.70:80/wh7f454c46tw1829513060_7 32052264/ottrrs.hl.chinamobile。com /PLTV/88888888/224/3221225731/index.m3u8
+CCTV-13新闻,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8#http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live /cctv-13/1.m3u8
+CCTV-14少儿,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-14/1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8#http://39.135.135.36:80/wh7f454c46tw1774882669_697216759/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8#http://39 .134.66.66 /PLTV /88888888/224/3221225674/index.m3u8
+CCTV-15音乐,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-15/1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888 /224/3221225601/index.m3u8
+CCTV-16监听，http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-cctv16/1.m3u8#http://ottrrs.hl.chinamobile.com /PLTV/88888888/224/3221226100/index.m3u8
 CCTV-17农业农村,http://120.210.193.151:8006/120000001002/XMTcctv-17hd/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225708/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226198/1.m3u8
 CCTV-4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 CETV-1,http://txycetvbl.centv.cn/cetv1/ypd.m3u8#http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/jiaoyutv/1.m3u8
@@ -26,7 +26,7 @@ CETV-2,http://txycetvbl.centv.cn/cetv2/2020tsytk.m3u8#http://120.210.193.151:800
 CETV-3,http://txycsbl.centv.cn/zb/0822cetv3.m3u8
 CETV-4,http://txycsbl.centv.cn/zb/0822cetv4.m3u8#http://txycetvbl.centv.cn/cetv4/zjpd.m3u8#http://120.210.193.151:8006/120000001002/XMTcetv-4/index.m3u8
 CCTV风云足球,http://120.210.193.151:8006/120000001002/XMTfyzq/1.m3u8#http://42.176.185.28:9901/tsfile/live/1017_1.m3u8
-CCTV风云音乐,http://120.210.193.151:8006/120000001002/XMTfyyy/1.m3u8#http://42.176.185.28:9901/tsfile/live/1024_1.m3u8
+央视风云音乐,http://120.210.193.151:8006/120000001002/XMTfyyy/1.m3u8#http://42.176.185.28:9901/tsfile/live/1024_1.m3u8
 CCTV第一剧场,http://120.210.193.151:8006/120000001002/XMTdyjc/1.m3u8
 CCTV风云剧场,http://120.210.193.151:8006/120000001002/XMTfyjc/1.m3u8#http://42.176.185.28:9901/tsfile/live/1030_1.m3u8
 CCTV怀旧剧场,http://120.210.193.151:8006/120000001002/XMThjjc/1.m3u8
@@ -1086,51 +1086,52 @@ IPTV4K,http://124.232.231.246:6610/000000001001/201500000218/index.m3u8?IASHttpS
 
 
 轮播,#genre#
-世界未解之谜,http://epg.112114.xyz/douyu/9369468#http://sss.iptv8.top/live/douyu.php?id=9369468#http://maomao.kandiantv.cn/douyu1.php?id=9369468#https://www.goodiptv.club/douyu/9369468
-僵尸道长,http://epg.112114.xyz/douyu/7356023#http://sss.iptv8.top/live/douyu.php?id=7356023#http://maomao.kandiantv.cn/douyu1.php?id=7356023#https://www.goodiptv.club/douyu/7356023
-神话,http://epg.112114.xyz/douyu/5448413#http://sss.iptv8.top/live/douyu.php?id=5448413#http://maomao.kandiantv.cn/douyu1.php?id=5448413#https://www.goodiptv.club/douyu/5448413
-爱情公寓,http://43.138.170.29:35455/huya/11336726#http://43.128.40.42:198/虎牙直播/huya.php?id=11336726#http://epg.112114.xyz/huya/11336726
-鬼吹灯系列,http://epg.112114.xyz/douyu/7701735#http://sss.iptv8.top/live/douyu.php?id=7701735#http://maomao.kandiantv.cn/douyu1.php?id=7701735#https://www.goodiptv.club/douyu/7701735
-鬼吹灯精绝古城,http://43.138.170.29:35455/huya/11352871#http://43.128.40.42:198/虎牙直播/huya.php?id=11352871#http://epg.112114.xyz/huya/11352871
-神探狄仁杰,http://sss.iptv8.top/live/douyu.php?id=6027991#http://maomao.kandiantv.cn/douyu1.php?id=6027991#https://www.goodiptv.club/douyu/6027991#http://epg.112114.xyz/douyu/6027991
-西游记,http://epg.112114.xyz/douyu/5472438#http://sss.iptv8.top/live/douyu.php?id=5472438#http://maomao.kandiantv.cn/douyu1.php?id=5472438#https://www.goodiptv.club/douyu/5472438
-刑事侦缉档案,http://epg.112114.xyz/douyu/138959#http://sss.iptv8.top/live/douyu.php?id=138959#http://maomao.kandiantv.cn/douyu1.php?id=138959#https://www.goodiptv.club/douyu/138959
-刑事侦缉档案H,http://lu1.cc/tv/php/huya.php?id=23734169#http://159.75.85.63:35455/huya/23734169#http://43.138.170.29:35455/huya/23734169#http://43.128.40.42:198/虎牙直播/huya.php?id=23734169#http://epg.112114.xyz/huya/23734169
-使徒行者,http://epg.112114.xyz/douyu/7810803#http://sss.iptv8.top/live/douyu.php?id=7810803#http://maomao.kandiantv.cn/douyu1.php?id=7810803#https://www.goodiptv.club/douyu/7810803
-使徒行者H,http://43.138.170.29:35455/huya/23734256#http://43.128.40.42:198/虎牙直播/huya.php?id=23734256#http://epg.112114.xyz/huya/23734256
-好先生,http://43.138.170.29:35455/huya/11602088#http://43.128.40.42:198/虎牙直播/huya.php?id=11602088#http://epg.112114.xyz/huya/11602088
-第八号当铺,http://43.138.170.29:35455/huya/21059568#http://43.128.40.42:198/虎牙直播/huya.php?id=21059568#http://epg.112114.xyz/huya/21059568
-康熙王朝,http://43.138.170.29:35455/huya/11352940#http://43.128.40.42:198/虎牙直播/huya.php?id=11352940#http://epg.112114.xyz/huya/11352940
+世界未解之谜,http://lxajh.top/tv/douyu.php?id=9369468#https://www.goodiptv.club/douyu/9369468#http://43.138.170.29:35455/douyu/9369468
+僵尸道长,http://lxajh.top/tv/douyu.php?id=7356023#https://www.goodiptv.club/douyu/7356023#http://43.138.170.29:35455/douyu/7356023
+神话,http://lxajh.top/tv/douyu.php?id=5448413#https://www.goodiptv.club/douyu/5448413#http://43.138.170.29:35455/douyu/5448413
+爱情公寓,http://43.138.170.29:35455/huya/11336726#http://43.128.40.42:198/虎牙直播/huya.php?id=11336726#http://159.75.85.63:35455/huya/
+鬼吹灯系列,http://lxajh.top/tv/douyu.php?id=7701735#https://www.goodiptv.club/douyu/7701735#http://43.138.170.29:35455/douyu/7701735
+鬼吹灯精绝古城,http://43.138.170.29:35455/huya/11352871#http://43.128.40.42:198/虎牙直播/huya.php?id=11352871#http://159.75.85.63:35455/huya/
+神探狄仁杰,http://lxajh.top/tv/douyu.php?id=6027991#https://www.goodiptv.club/douyu/6027991#http://43.138.170.29:35455/douyu/6027991
+西游记,http://lxajh.top/tv/douyu.php?id=5472438#https://www.goodiptv.club/douyu/5472438#http://43.138.170.29:35455/douyu/5472438
+刑事侦缉档案,http://lxajh.top/tv/douyu.php?id=138959#https://www.goodiptv.club/douyu/138959#http://43.138.170.29:35455/douyu/138959
+刑事侦缉档案H,http://43.138.170.29:35455/huya/23734169#http://43.128.40.42:198/虎牙直播/huya.php?id=23734169#http://159.75.85.63:35455/huya/
+使徒行者,http://lxajh.top/tv/douyu.php?id=7810803#https://www.goodiptv.club/douyu/7810803#http://43.138.170.29:35455/douyu/7810803
+使徒行者H,http://43.138.170.29:35455/huya/23734256#http://43.128.40.42:198/虎牙直播/huya.php?id=23734256#http://159.75.85.63:35455/huya/
+好先生,http://43.138.170.29:35455/huya/11602088#http://43.128.40.42:198/虎牙直播/huya.php?id=11602088#http://159.75.85.63:35455/huya/
+第八号当铺,http://43.138.170.29:35455/huya/21059568#http://43.128.40.42:198/虎牙直播/huya.php?id=21059568#http://159.75.85.63:35455/huya/
+康熙王朝,http://43.138.170.29:35455/huya/11352940#http://43.128.40.42:198/虎牙直播/huya.php?id=11352940#http://159.75.85.63:35455/huya/
 士兵突击,http://59.63.238.206/aldirect.rtmp.huya.com/src/1394575555-1394575555-5989656400526049280-2789274566-10057-A-0-1.m3u8#http://58.241.27.203/huya-app-373.aldirect-corp-hls.huya.com/src/1394575555-1394575555-5989656400526049280-2789274566-10057-A-0-1.m3u8#http://43.137.29.240/txdirect.flv.huya.com/src/1394575555-1394575555-5989656400526049280-2789274566-10057-A-0-1.m3u8
 少年包青天,http://43.128.40.42:198/虎牙直播/huya.php?id=11342393#http://121.51.14.157/tx.hls.huya.com/src/1394565200-1394565200-5989611926139699200-2789253856-10057-A-0-1.flv
-李小哇絮叨叨,http://43.138.170.29:35455/huya/18441722#http://43.128.40.42:198/虎牙直播/huya.php?id=18441722#http://epg.112114.xyz/huya/18441722
-法证先锋,http://43.138.170.29:35455/huya/23863804#http://43.128.40.42:198/虎牙直播/huya.php?id=23863804#http://epg.112114.xyz/huya/23863804
-极限挑战,http://43.138.170.29:35455/huya/11352914#http://43.128.40.42:198/虎牙直播/huya.php?id=11352914#http://epg.112114.xyz/huya/11352914
+李小哇絮叨叨,http://43.138.170.29:35455/huya/18441722#http://43.128.40.42:198/虎牙直播/huya.php?id=18441722#http://159.75.85.63:35455/huya/18441722
+法证先锋,http://43.138.170.29:35455/huya/23863804#http://43.128.40.42:198/虎牙直播/huya.php?id=23863804#http://159.75.85.63:35455/huya/23863804
+极限挑战,http://43.138.170.29:35455/huya/11352914#http://43.128.40.42:198/虎牙直播/huya.php?id=11352914#http://159.75.85.63:35455/huya/11352914
 1905,http://nas.jdshipin.com:8801/1905.php?id=1905dy
-斗鱼科幻动作,http://epg.112114.xyz/douyu/4332#http://sss.iptv8.top/live/douyu.php?id=4332#http://maomao.kandiantv.cn/douyu1.php?id=4332#https://www.goodiptv.club/douyu/4332
-斗鱼灾难巨兽,http://epg.112114.xyz/douyu/252802#http://sss.iptv8.top/live/douyu.php?id=252802#http://maomao.kandiantv.cn/douyu1.php?id=252802#https://www.goodiptv.club/douyu/252802
-斗鱼经典电影,http://epg.112114.xyz/douyu/413573#http://sss.iptv8.top/live/douyu.php?id=413573#http://maomao.kandiantv.cn/douyu1.php?id=413573#https://www.goodiptv.club/douyu/413573
-斗鱼电影,http://epg.112114.xyz/douyu/5423#http://sss.iptv8.top/live/douyu.php?id=5423#http://maomao.kandiantv.cn/douyu1.php?id=5423#https://www.goodiptv.club/douyu/5423
-特辑电影,http://epg.112114.xyz/douyu/3637778#http://sss.iptv8.top/live/douyu.php?id=3637778#http://maomao.kandiantv.cn/douyu1.php?id=3637778#https://www.goodiptv.club/douyu/3637778
-周星驰,http://43.138.170.29:35455/huya/11342412#http://43.128.40.42:198/虎牙直播/huya.php?id=11342412#http://epg.112114.xyz/huya/11342412
-林正英,http://43.138.170.29:35455/huya/11342421#http://43.128.40.42:198/虎牙直播/huya.php?id=11342421#http://epg.112114.xyz/huya/11342421
-成龙,http://43.138.170.29:35455/huya/11342386#http://43.128.40.42:198/虎牙直播/huya.php?id=11342386#http://epg.112114.xyz/huya/11342386
-李连杰,http://43.138.170.29:35455/huya/11342390#http://43.128.40.42:198/虎牙直播/huya.php?id=11342390#http://epg.112114.xyz/huya/11342390
-刘德华,http://43.138.170.29:35455/huya/11342424#http://43.128.40.42:198/虎牙直播/huya.php?id=11342424#http://epg.112114.xyz/huya/11342424
-五福星,http://43.138.170.29:35455/huya/11282233#http://43.128.40.42:198/虎牙直播/huya.php?id=11282233#http://epg.112114.xyz/huya/11282233
-甄子丹,http://43.138.170.29:35455/huya/11352935#http://43.128.40.42:198/虎牙直播/huya.php?id=11352935#http://epg.112114.xyz/huya/11352935
-周润发,http://43.138.170.29:35455/huya/11342387#http://43.128.40.42:198/虎牙直播/huya.php?id=11342387#http://epg.112114.xyz/huya/11342387
+1905,http://nas.jdshipin.com:8801/1905.php?id=1905dy
+斗鱼科幻动作,http://lxajh.top/tv/douyu.php?id=4332#https://www.goodiptv.club/douyu/4332#http://43.138.170.29:35455/douyu/4332
+斗鱼灾难巨兽,http://lxajh.top/tv/douyu.php?id=252802#https://www.goodiptv.club/douyu/252802#http://43.138.170.29:35455/douyu/252802
+斗鱼经典电影,http://lxajh.top/tv/douyu.php?id=413573#https://www.goodiptv.club/douyu/413573#http://43.138.170.29:35455/douyu/413573
+斗鱼电影,http://lxajh.top/tv/douyu.php?id=5423#https://www.goodiptv.club/douyu/5423#http://43.138.170.29:35455/douyu/5423
+特辑电影,http://lxajh.top/tv/douyu.php?id=3637778#https://www.goodiptv.club/douyu/3637778#http://43.138.170.29:35455/douyu/3637778
+周星驰,http://43.138.170.29:35455/huya/11342412#http://43.128.40.42:198/虎牙直播/huya.php?id=11342412#http://159.75.85.63:35455/huya/11342412
+林正英,http://43.138.170.29:35455/huya/11342421#http://43.128.40.42:198/虎牙直播/huya.php?id=11342421#http://159.75.85.63:35455/huya/11342421
+成龙,http://43.138.170.29:35455/huya/11342386#http://43.128.40.42:198/虎牙直播/huya.php?id=11342386#http://159.75.85.63:35455/huya/11342386
+李连杰,http://43.138.170.29:35455/huya/11342390#http://43.128.40.42:198/虎牙直播/huya.php?id=11342390#http://159.75.85.63:35455/huya/11342390
+刘德华,http://43.138.170.29:35455/huya/11342424#http://43.128.40.42:198/虎牙直播/huya.php?id=11342424#http://159.75.85.63:35455/huya/11342424
+五福星,http://43.138.170.29:35455/huya/11282233#http://43.128.40.42:198/虎牙直播/huya.php?id=11282233#http://159.75.85.63:35455/huya/11282233
+甄子丹,http://43.138.170.29:35455/huya/11352935#http://43.128.40.42:198/虎牙直播/huya.php?id=11352935#http://159.75.85.63:35455/huya/11352935
+周润发,http://43.138.170.29:35455/huya/11342387#http://43.128.40.42:198/虎牙直播/huya.php?id=11342387#http://159.75.85.63:35455/huya/11342387
 张国荣,http://hlsbkmgsplive.miguvideo.com/wd_r3/virtuallive/5102354727/150/01.m3u8?&HlsSubType=&encrypt=#http://112.74.200.9:88/tv000000/m3u8.php?/migu/707689526
 郭富城,http://hlsbkmgsplive.miguvideo.com/wd_r2/virtuallive/5102010220/150/01.m3u8?&HlsSubType=&encrypt=#http://112.74.200.9:88/tv000000/m3u8.php?/migu/639528330
 梁朝伟,http://hlsbkmgsplive.miguvideo.com/wd_r3/virtuallive/5100144102/150/01.m3u8?&HlsSubType=&encrypt=
 沈腾,http://43.138.170.29:35455/huya/11601968#http://43.128.40.42:198/虎牙直播/huya.php?id=11601968#http://epg.112114.xyz/huya/11601968
-港片,http://43.138.170.29:35455/huya/11602043#http://43.128.40.42:198/虎牙直播/huya.php?id=11602043#http://epg.112114.xyz/huya/11602043
-警匪,http://43.138.170.29:35455/huya/11352886#http://43.128.40.42:198/虎牙直播/huya.php?id=11352886#http://epg.112114.xyz/huya/11352886
-港剧搞笑,http://43.138.170.29:35455/huya/=11352965#http://43.128.40.42:198/虎牙直播/huya.php?id=11352965#http://epg.112114.xyz/huya/11352965
-古墓系列,http://43.138.170.29:35455/huya/11352912#http://43.128.40.42:198/虎牙直播/huya.php?id=11352913#http://epg.112114.xyz/huya/11352912
-金庸电影,http://43.138.170.29:35455/huya/11342427#http://43.128.40.42:198/虎牙直播/huya.php?id=11342427#http://epg.112114.xyz/huya/11342427
-喜剧,http://43.138.170.29:35455/huya/11602044#http://43.128.40.42:198/虎牙直播/huya.php?id=11602044#http://epg.112114.xyz/huya/11602044
-搞笑,http://43.138.170.29:35455/huya/11342423#http://43.128.40.42:198/虎牙直播/huya.php?id=11342423#http://epg.112114.xyz/huya/11342423
+港片,http://43.138.170.29:35455/huya/11602043#http://43.128.40.42:198/虎牙直播/huya.php?id=11602043#http://159.75.85.63:35455/huya/11602043
+警匪,http://43.138.170.29:35455/huya/11352886#http://43.128.40.42:198/虎牙直播/huya.php?id=11352886#http://159.75.85.63:35455/huya/11352886
+港剧搞笑,http://43.138.170.29:35455/huya/=11352965#http://43.128.40.42:198/虎牙直播/huya.php?id=11352965#http://159.75.85.63:35455/huya/11352965
+古墓系列,http://43.138.170.29:35455/huya/11352912#http://43.128.40.42:198/虎牙直播/huya.php?id=11352913#http://159.75.85.63:35455/huya/11352912
+金庸电影,http://43.138.170.29:35455/huya/11342427#http://43.128.40.42:198/虎牙直播/huya.php?id=11342427#http://159.75.85.63:35455/huya/11342427
+喜剧,http://43.138.170.29:35455/huya/11602044#http://43.128.40.42:198/虎牙直播/huya.php?id=11602044#http://159.75.85.63:35455/huya/11602044
+搞笑,http://43.138.170.29:35455/huya/11342423#http://43.128.40.42:198/虎牙直播/huya.php?id=11342423#http://159.75.85.63:35455/huya/11342423
 金庸频道,http://hlsbkmgsplive.miguvideo.com/wd_r2/virtuallive/5100181876/150/01.m3u8?&HlsSubType=&encrypt=#http://112.74.200.9:88/tv000000/m3u8.php?/migu/625774640
 喜剧联盟,http://hlsbkmgsplive.miguvideo.com/wd_r2/virtuallive/5101097468/150/01.m3u8?&HlsSubType=&encrypt=#http://112.74.200.9:88/tv000000/m3u8.php?/migu/637444830
 高分影院,http://hlsbkmgsplive.miguvideo.com/wd_r1/virtuallive/5101000708/150/01.m3u8?&HlsSubType=&encrypt=#http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198191
