@@ -1,6 +1,6 @@
 副本,#流派#
 央视,#genre#
-CCTV-1综合，http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-cctv1/1.m3u8#http://ottrrs.hl.chinamobile.com /PLTV/88888888/224/3221226016/index.m3u8#http://39.134.66.2/PLTV/88888888/224/3221225816/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224 /3221226231/1.m3u8
+CCTV-1综合,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-cctv1/1.m3u8#http://ottrrs.hl.chinamobile.com /PLTV/88888888/224/3221226016/index.m3u8#http://39.134.66.2/PLTV/88888888/224/3221225816/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224 /3221226231/1.m3u8
 CCTV-2财经,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-cctv2/1.m3u8#http://dbiptv.sn.chinamobile.com /PLTV/88888888/224/3221226195/1.m3u8
 CCTV-3综艺,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-cctv3/1.m3u8#http://ottrrs.hl.chinamobile.com /PLTV/88888888/224/3221226021/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
 CCTV-4中文国际,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-4/1.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/ 88888888/224/3221226191/1.m3u8
