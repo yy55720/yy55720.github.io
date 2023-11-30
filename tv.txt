@@ -1,5 +1,5 @@
 副本,#流派#
-央视,#流派#
+央视,#genre#
 CCTV-1综合，http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-cctv1/1.m3u8#http://ottrrs.hl.chinamobile.com /PLTV/88888888/224/3221226016/index.m3u8#http://39.134.66.2/PLTV/88888888/224/3221225816/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224 /3221226231/1.m3u8
 CCTV-2财经,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-cctv2/1.m3u8#http://dbiptv.sn.chinamobile.com /PLTV/88888888/224/3221226195/1.m3u8
 CCTV-3综艺,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-cctv3/1.m3u8#http://ottrrs.hl.chinamobile.com /PLTV/88888888/224/3221226021/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
@@ -1085,7 +1085,7 @@ IPTV大健康,http://221.179.136.140:443/PLTV/88888888/224/3221226556/1.m3u8
 IPTV4K,http://124.232.231.246:6610/000000001001/201500000218/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 
 
-轮播，#流派#
+轮播,#genre#
 世界未解之谜,http://lxajh.top/tv/douyu.php?id=9369468#https://www.goodiptv.club/douyu/9369468#http://43.138.170.29:35455/douyu/ 9369468
 僵尸道长,http://lxajh.top/tv/douyu.php?id=7356023#https://www.goodiptv.club/douyu/7356023#http://43.138.170.29:35455/douyu/7356023
 神话,http://lxajh.top/tv/douyu.php?id=5448413#https://www.goodiptv.club/douyu/5448413#http://43.138.170.29:35455/douyu/5448413
