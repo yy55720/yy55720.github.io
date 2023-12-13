@@ -396,6 +396,7 @@ ABC新闻,http://61.222.202.191:80/live/yzyh.php?id=150
 四川·开江新闻,rtmp://222.208.237.54/live1/live1#rtmp://lmt.kjzx.net/live1/live1
 四川·彭山,rtmp://tv.psrm.net:1935/channellive/ch1
 四川·马尔康,rtmp://live.zmmek.com/live/zhxw
+四川·汶川,rtmp://live.iwcmt.cn:1936/live/zhxw
 重庆·垫江综合,http://125.62.24.185:80/1.m3u8
 重庆·大足综合,http://218.201.85.71:3170/m3u8
 重庆·璧山综合,http://222.179.42.129:8181/hls1.m3u8
