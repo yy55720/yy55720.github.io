@@ -441,6 +441,10 @@ ABC新闻,http://61.222.202.191:80/live/yzyh.php?id=150
 江苏·镇江2台,rtmp://zjtv-wshls.homecdn.com/live/2aa16
 江苏·常熟综合,rtmp://cstvplay.21cs.cn/cstv1/cstv1
 江苏·常熟民生,rtmp://cstvplay.21cs.cn/cstv2/cstv2
+江苏·睢宁综合,rtmp://221.229.243.45:1935/live/live1
+江苏·睢宁生活教育,rtmp://221.229.243.45:1935/live/live2
+江苏·睢宁三农,rtmp://221.229.243.45:1935/live/live3
+江苏·睢宁资讯,rtmp://221.229.243.45:1935/live/live4
 广东·文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0-0-7b2730980c8860963374597c20ad3935
 广东·深圳都市,http://livepull-tcyzb.sztv.com.cn/showto_live/dushi01.m3u8
 广东·深圳东部,https://lglivepull.sznews.com/live/2646.m3u8#http://liveplay.sznews.com/66_showto_live/2646.m3u8#http://lglivepull.sznews.com/showto_live/2646.m3u8
@@ -632,6 +636,8 @@ ABC新闻,http://61.222.202.191:80/live/yzyh.php?id=150
 山东·鱼台新闻,rtmp://alivealone.litenews.cn/63/513ae5b367f24751a14e36db65237035
 山东·五莲文化旅游,rtmp://alivealone.litenews.cn/299/88621c064ade45db9478010b15eed2ad
 山东·乳山生活,rtmp://alivealone.litenews.cn/143/7aa1513e8b9444d8a872e3f66a8cff5e
+山东·巨野,rtmp://alivealone.litenews.cn/139/c4110c0e12d7493bb17b455c15a203f5
+山东·宁阳,rtmp://alivealone.litenews.cn/123/1c9fe1197fbc402ebdb9e592269594eb
 河南·梨园频道,http://120.210.193.151:8006/120000001002/XMTliyuan/1.m3u8
 河南·武术世界,http://120.210.193.151:8006/120000001002/XMTwushu/1.m3u8
 河南·文物宝库,http://120.210.193.151:8006/120000001002/XMTwenwu/1.m3u8
