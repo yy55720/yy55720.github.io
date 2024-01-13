@@ -540,10 +540,10 @@ ABC新闻,http://61.222.202.191:80/live/yzyh.php?id=150
 广西·都市,http://111.59.63.32:9901/tsfile/live/1005_1.m3u8
 广西·影视,http://111.59.63.32:9901/tsfile/live/1006_1.m3u8
 广西·综艺旅游,http://111.59.63.32:9901/tsfile/live/1004_1.m3u8
-广西·南宁新闻,http://hls.nntv.cn/nnlive/NNTV_NEWS_A.m3u8
-广西·南宁都市,http://hls.nntv.cn/nnlive/NNTV_METRO_A.m3u8
-广西·南宁公共,http://hls.nntv.cn/nnlive/NNTV_PUB_A.m3u8#rtmp://rtmp.nntv.cn/nnlive/NNTV_PUB_A
-广西·南宁影视,http://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8
+广西·南宁新闻综合,https://hls.nntv.cn/nnlive/XWZH_24.m3u8
+广西·南宁文旅生活,https://hls.nntv.cn/nnlive/WLSH_24.m3u8
+广西·南宁公共,https://hls.nntv.cn/nnlive/GGPD_24.m3u8
+广西·南宁影视娱乐,https://hls.nntv.cn/nnlive/YSYL_24.m3u8
 广西·贺州综合,http://zhz.gxhzxw.com:2935/live/HZXW-HD/playlist.m3u8
 广西·天等,rtmp://live.gxrb.com.cn/gx/tiandeng
 广西·宾阳,rtmp://live.gxrb.com.cn/gx/binyang
@@ -976,7 +976,7 @@ CHC高清电影,http://120.210.193.151:8006/120000001002/XMTgqdy/1.m3u8#http://d
 哈尔滨影视,http://stream.hrbtv.net/yspd/sd/live.m3u8
 永清影视,http://60.10.203.69:8000/4.m3u8
 平泉影视,https://jwliveqxzb.hebyun.com.cn/pqys/pqys.m3u8#https://jwcdnqx.hebyun.com.cn/live/pqys/1500k/tzwj_video.m3u8
-南宁影视,http://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8
+南宁影视,https://hls.nntv.cn/nnlive/YSYL_24.m3u8
 西部电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226364/1.m3u8
 SiTV欢笑剧场,http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8#http://111.20.33.93/PLTV/88888893/224/3221226582/index.m3u8
 SiTV都市剧场,http://183.207.255.188/live/program/live/dsjchd/4000000/mnf.m3u8#http://111.20.33.93/PLTV/88888893/224/3221226581/index.m3u8
