@@ -298,11 +298,12 @@ ABC新闻,http://61.222.202.191:80/live/yzyh.php?id=150
 北京·卡酷少儿,http://zteres.sn.chinamobile.com:6060/000000001000/7851974109718180595/index.m3u8?channel-id=bestzb&Contentid=7851974109718180595&livemode=1&stbId=3#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8#http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/kakukaton/1.m3u8
 北京·房山无线,http://live.funhillrm.com/2/sd/live.m3u8
 北京·石景山电视台,http://live.sjsrm.com/bjsjs/sd/live.m3u8
+全纪实,http://223.215.32.204:8888/udp/238.1.78.151:7080#http://223.240.228.165:8888/udp/238.1.78.151:7080#http://60.168.53.185:8888/udp/238.1.78.151:7080#http://114.96.39.74:4022/udp/238.1.78.151:7080#http://117.57.48.46:8888/udp/238.1.78.151:7080#http://117.57.48.49:8888/udp/238.1.78.151:7080#http://124.112.240.220:4022/udp/238.1.78.151:7080#http://117.67.177.109:4022/udp/238.1.78.151:7080#http://60.169.43.144:4000/udp/238.1.78.151:7080
 上海·新闻,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031110/index.m3u8?channel-id=bestzb&Contentid=5000000011000031110&livemode=1&stbId=3
 上海·五星体育,http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
 上海·纪实人文,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225673/index.m3u8
 上海·新视觉,http://nas.jdshipin.com:8801/bst.php?id=xsjhd/4000000
-上海·动漫秀场,http://120.210.193.151:8006/120000001002/XMTdmxc/1.m3u8#http://nas.jdshipin.com:8801/bst.php?id=dmxc8m/8000000
+上海·动漫秀场,http://120.210.193.151:8006/120000001002/XMTdmxc/1.m3u8#http://nas.jdshipin.com:8801/bst.php?id=dmxc8m/8000000#http://223.215.32.204:8888/udp/238.1.78.154:7104#http://223.240.228.165:8888/udp/238.1.78.154:7104#http://60.168.53.185:8888/udp/238.1.78.154:7104#http://114.96.39.74:4022/udp/238.1.78.154:7104#http://117.57.48.46:8888/udp/238.1.78.154:7104#http://117.57.48.49:8888/udp/238.1.78.154:7104#http://124.112.240.220:4022/udp/238.1.78.154:7104#http://117.67.177.109:4022/udp/238.1.78.154:7104#http://60.169.43.144:4000/udp/238.1.78.154:7104
 上海·欢笑剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8
 上海·都市剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226581/index.m3u8
 上海·生活时尚,http://nas.jdshipin.com:8801/bst.php?id=shss8m/8000000
@@ -800,7 +801,7 @@ CHC家庭影院,http://120.210.193.151:8006/120000001002/XMTjtyy/1.m3u8#http://d
 CHC高清电影,http://120.210.193.151:8006/120000001002/XMTgqdy/1.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8#http://39.134.18.68/PLTV/88888888/224/3221232382/index.m3u8
 SiTV欢笑剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8
 SiTV都市剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226581/index.m3u8
-SiTV动漫秀场,http://120.210.193.151:8006/120000001002/XMTdmxc/1.m3u8#http://nas.jdshipin.com:8801/bst.php?id=dmxc8m/8000000
+SiTV动漫秀场,http://120.210.193.151:8006/120000001002/XMTdmxc/1.m3u8#http://nas.jdshipin.com:8801/bst.php?id=dmxc8m/8000000#http://223.215.32.204:8888/udp/238.1.78.154:7104#http://223.240.228.165:8888/udp/238.1.78.154:7104#http://60.168.53.185:8888/udp/238.1.78.154:7104#http://114.96.39.74:4022/udp/238.1.78.154:7104#http://117.57.48.46:8888/udp/238.1.78.154:7104#http://117.57.48.49:8888/udp/238.1.78.154:7104#http://124.112.240.220:4022/udp/238.1.78.154:7104#http://117.67.177.109:4022/udp/238.1.78.154:7104#http://60.169.43.144:4000/udp/238.1.78.154:7104
 SiTV劲爆体育,http://zteres.sn.chinamobile.com:6060/000000001000/5000000002000029972/index.m3u8?channel-id=bestzb&Contentid=5000000002000029972&livemode=1&stbId=3
 SiTV游戏风云,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226579/index.m3u8
 SiTV生活时尚,http://nas.jdshipin.com:8801/bst.php?id=shss8m/8000000
@@ -1021,7 +1022,7 @@ SiTV东方影视,http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3
 南京少儿,http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
 CCTV-14少儿,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-14/1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8#http://39.135.135.36:80/wh7f454c46tw1774882669_697216759/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225674/index.m3u8
 霸州少儿,http://hbbz.chinashadt.com:2036/live/stream:bzse.stream/playlist.m3u8
-SiTV动漫秀场,http://nas.jdshipin.com:8801/bst.php?id=dmxc8m/8000000#http://120.210.193.151:8006/120000001002/XMTdmxc/1.m3u8
+SiTV动漫秀场,http://nas.jdshipin.com:8801/bst.php?id=dmxc8m/8000000#http://120.210.193.151:8006/120000001002/XMTdmxc/1.m3u8#http://223.215.32.204:8888/udp/238.1.78.154:7104#http://223.240.228.165:8888/udp/238.1.78.154:7104#http://60.168.53.185:8888/udp/238.1.78.154:7104#http://114.96.39.74:4022/udp/238.1.78.154:7104#http://117.57.48.46:8888/udp/238.1.78.154:7104#http://117.57.48.49:8888/udp/238.1.78.154:7104#http://124.112.240.220:4022/udp/238.1.78.154:7104#http://117.67.177.109:4022/udp/238.1.78.154:7104#http://60.169.43.144:4000/udp/238.1.78.154:7104
 黑莓动画,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/donghuawg/1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8#http://39.134.67.7:80/wh7f454c46tw3677941986_2066137605/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/1590395940-1.m3u8#http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/1.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225529/index.m3u8
 iHOT爱动漫,http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000280630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000280630&livemode=1&stbId=3
 宁夏少儿,http://120.253.104.16:808/hls/290/index.m3u8
