@@ -368,7 +368,6 @@ ABC新闻,http://61.222.202.191:80/live/yzyh.php?id=150
 福建·漳浦,http://220.161.87.62:8090/hls/0/index.m3u8
 四川·科教,http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
 四川·泸州综合,http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel106011/playlist.m3u8#rtmp://tvdrs.luzhoubs.com/channellive/lztv1
-四川·泸州公共,http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel102221/playlist.m3u8#rtmp://tvdrs.luzhoubs.com/channellive/lztv2
 四川·泸州科教生活,http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel103074/playlist.m3u8#rtmp://tvdrs.luzhoubs.com/channellive/lztv3#http://file.luzhoubs.com/nmip-media/channellive/channel103074/playlist.m3u8
 四川·德阳新闻综合,http://scdytv.cn:1935/live/m_xwpd_livevideo/playlist.m3u8#rtmp://scdytv.cn:1935/live/m_xwpd_livevideo
 四川·德阳文旅科教,http://scdytv.cn:1935/live/m_ggpd_livevideo/playlist.m3u8#rtmp://scdytv.cn:1935/live/m_ggpd_livevideo
@@ -381,7 +380,6 @@ ABC新闻,http://61.222.202.191:80/live/yzyh.php?id=150
 四川·泸县综合,http://lxfile.lxxcb.cn/nmip-media/channellive/channel103799/playlist.m3u8#rtmp://tv.lxxcb.cn:1935/channellive/lxtv1
 四川·夹江综合,rtmp://tv.jjrm.org.cn/channellive/ch1
 四川·宝兴综合,rtmp://drs.tv.yatv.tv:1935/channellive/baoxingxian#http://drs.tv.yatv.tv:8080/channellive/baoxingxian.flv
-四川·威远综合,http://dxplay.scwy.cn/live/weiyuanzonghepingdao/index.m3u8
 四川·沐川综合,rtmp://tv.mcrm.org.cn:1935/channellive/tv01
 四川·营山,rtmp://tv.drs.ysxtv.cn/channellive/ystv-bak#rtmp://tv.drs.ysxtv.cn:1935/channellive/ystv-bak
 四川·通川,rtmp://tv.drs.dzxw.net/channellive/tcpd-dz3
