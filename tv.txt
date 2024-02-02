@@ -396,7 +396,6 @@ ABC新闻,http://61.222.202.191:80/live/yzyh.php?id=150
 四川·甘孜综合,http://tv.drs.ganzitv.com:8100/channellive/gztv.flv
 四川·达州新闻综合,http://tv.drs.dzxw.net/channellive/xwzhpd-dz1.flv
 四川·达州文化生活,http://tv.drs.dzxw.net/channellive/ggpd-dz2.flv
-四川·长宁综合,http://cnpull.sccnfb.com/live/123456.m3u8
 四川·渠县新闻综合,http://222.208.224.227:81/hls/cfp2p8m3.m3u8
 四川·南部综合,http://pili-live-rtmp.148.i2863.com/i2863-148/live_148_811389.m3u8
 四川·江油综合,http://dcpull.sctvcloud.com:80/live/56ce76ab01881000f9f7f6c700000000/playlist.m3u8
@@ -499,7 +498,6 @@ ABC新闻,http://61.222.202.191:80/live/yzyh.php?id=150
 广东·深圳东部,https://lglivepull.sznews.com/live/2646.m3u8#http://liveplay.sznews.com/66_showto_live/2646.m3u8#http://lglivepull.sznews.com/showto_live/2646.m3u8
 广东·深圳龙岗,http://liveplay.sznews.com/66_showto_live/2647.m3u8#http://lglivepull.sznews.com/showto_live/2647.m3u8
 广东·深圳众创,http://liveplay.sznews.com/66_showto_live/2645.m3u8#http://lglivepull.sznews.com/showto_live/2645.m3u8
-广东·韶关公共频道,https://www.sgmsw.cn/videos/tv/201805/1308/9P424TC5M000AFO13CXK6GN6BOA889D2/hls/live.m3u8
 广东·番禺综合,http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
 广东·潮州综合,http://time-vod-qhlive.sobeylive.com/czbtv2019/czzhpd.m3u8
 广东·潮州民生,http://time-vod-qhlive.sobeylive.com/czbtv2019/czggpd.m3u8
@@ -615,6 +613,7 @@ ABC新闻,http://61.222.202.191:80/live/yzyh.php?id=150
 河北·平泉综合,https://jwcdnqx.hebyun.com.cn/live/pqzh/1500k/tzwj_video.m3u8#rtmp://jwliveqxzb.hebyun.com.cn/pqzh/pqzh
 河北·平泉影视,https://jwliveqxzb.hebyun.com.cn/pqys/pqys.m3u8#https://jwcdnqx.hebyun.com.cn/live/pqys/1500k/tzwj_video.m3u8#rtmp://jwliveqxzb.hebyun.com.cn/pqys/pqys
 河北·邢台综合,https://jwplay.hebyun.com.cn/live/xttv/1500k/tzwj_video.m3u8
+河北·邢台城市生活,https://jwcdnqx.hebyun.com.cn/live/xtcsshpd/1500k/tzwj_video.m3u8
 河北·兴隆综合,https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8
 河北·清河新闻综合,https://jwcdnqx.hebyun.com.cn/live/qinghe/1500k/tzwj_video.m3u8#rtmp://jwliveqxzb.hebyun.com.cn/qinghe/qinghe
 河北·清河经济综艺,https://jwcdnqx.hebyun.com.cn/live/qinghe1/1500k/tzwj_video.m3u8#rtmp://jwliveqxzb.hebyun.com.cn/qinghe1/qinghe1
@@ -634,7 +633,7 @@ ABC新闻,http://61.222.202.191:80/live/yzyh.php?id=150
 广西·宾阳综合,https://rtmp.gdlive.gdmain.com:443/live/lgmzjyml.m3u8#rtmp://live.gxrb.com.cn/gx/binyang
 广西·来宾综合,http://zb.lbnews.com.cn:1935/live/lbzh.stream/playlist.m3u8
 广西·北海新闻综合,http://rtmp.gdlive.gdmain.com/live/09em4xbl.m3u8
-广西·北海经济科技,https://lives.myun.tv/live/ln9rndz0.m3u8
+广西·北海经济科技,https://rtmp.gdlive.gdmain.com/live/ln9rndz0.m3u8#https://lives.myun.tv/live/ln9rndz0.m3u8
 广西·北海图文频道,http://citylive.njgdmm.com/beihai/d49b9838-dacf-4a22-ab46-1eed2b515d88.m3u8
 广西·崇左综合,https://lives.myun.tv/live/5rmber2l.m3u8
 广西·藤县综合,http://play.txdst.cn/live/txtv.m3u8
