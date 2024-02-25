@@ -879,6 +879,9 @@ IPTV淘电影,http://r.jdshipin.com/OeHMu#http://r.jdshipin.com/OeHMu
 CHC动作电影,http://120.210.193.151:8006/120000001002/XMTdzdy/1.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 CHC家庭影院,http://120.210.193.151:8006/120000001002/XMTjtyy/1.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 CHC高清电影,http://120.210.193.151:8006/120000001002/XMTgqdy/1.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8#http://39.134.18.68/PLTV/88888888/224/3221232382/index.m3u8
+欧洲华文电视台1,http://vvlive.eztv.vip/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
+欧洲华文电视台2,http://vvlive.eztv.vip/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa2def0b71d5389778b0d3
+欧洲华文电视台6,http://vvlive.eztv.vip:80/huawen6/huawen6.m3u8?auth_key=1660814676-0-0-4d45d97f017e545dd368719f8dd48ffe
 SiTV欢笑剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8
 SiTV都市剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226581/index.m3u8
 SiTV动漫秀场,http://223.100.63.144:880/dx110.m3u8#http://120.210.193.151:8006/120000001002/XMTdmxc/1.m3u8
