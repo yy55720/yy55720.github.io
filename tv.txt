@@ -95,7 +95,7 @@ CGTN俄语,https://liveru.cgtn.com/1000r/prog_index.m3u8
 凤凰电影台,http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA
 无线新闻,http://live.cooltv.top/tv/tvb.php?id=0https://cdn.hklive.tv/hls/83/index.m3u8
 无线财经体育资讯,http://r.jdshipin.com/jUx8K#http://live.cooltv.top/tv/tvb.php?id=2
-星空卫视,http://120.84.96.62:808/hls/79/index.m3u8
+星空卫视,http://wouu.net:9977/udp/239.93.0.156:2193
 TVB翡翠台,http://r.jdshipin.com/qClQf#http://r.jdshipin.com/qrfbg
 TVB明珠台,http://r.jdshipin.com/ZQ4kN
 TVB娱乐新闻台,https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
@@ -314,6 +314,7 @@ ABC新闻,http://61.222.202.191:80/live/yzyh.php?id=150
 上海·都市剧场,http://180.158.146.27:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 上海·游戏风云,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226579/index.m3u8
 上海·法治天地,http://180.158.146.27:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+上海·第一财经,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226966/index.m3u8
 上海·崇明综合,http://180.158.146.27:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江·新闻,http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江·少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
@@ -913,8 +914,6 @@ NewTV超级综艺,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-busin
 英雄联盟赛事,http://8.137.57.240:81/hy.php?url=660000#http://43.138.170.29:35455/huya/660000#http://mmitv.top/pltv/huya.php?id=660000#http://159.75.85.63:35455/huya/660000
 姿态,http://8.137.57.240:81/hy.php?url=333003#http://43.138.170.29:35455/huya/333003#http://mmitv.top/pltv/huya.php?id=333003#http://159.75.85.63:35455/huya/333003
 沫子,http://8.137.57.240:81/hy.php?url=696969#http://43.138.170.29:35455/huya/696969#http://mmitv.top/pltv/huya.php?id=696969#http://159.75.85.63:35455/huya/696969
-IPTV淘电影,http://r.jdshipin.com/OeHMu#http://r.jdshipin.com/OeHMu
-精彩影视,http://117.190.144.101:9901/tsfile/live/1082_1.m3u8?key=txiptv
 黑莓电影,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/jdianying/1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225681/index.m3u8
 黑莓动画,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/donghuawg/1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8#http://39.134.67.7:80/wh7f454c46tw3677941986_2066137605/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/1590395940-1.m3u8#http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/1.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225529/index.m3u8
 哒啵赛事,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/wmyx/1.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226954/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225559/index.m3u8
@@ -934,8 +933,15 @@ SiTV生活时尚,http://223.241.76.223:4022/udp/238.1.78.155:7112
 SiTV法治天地,http://180.158.146.27:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 SiTV劲爆体育,http://zteres.sn.chinamobile.com:6060/000000001000/5000000002000029972/index.m3u8?channel-id=bestzb&Contentid=5000000002000029972&livemode=1&stbId=3
 SiTV游戏风云,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226579/index.m3u8
-SiTV金色学堂,http://223.100.63.144:880/dx109.m3u8
+SiTV金色学堂,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226994/index.m3u8
 SiTV极速汽车,http://183.207.255.188/live/program/live/jsqchd/4000000/mnf.m3u8#http://111.20.33.93/PLTV/88888893/224/3221226574/index.m3u8
+IPTV淘剧场,http://218.241.192.50:8808/udp/239.3.1.95:8001#http://qnap.yjnhome.com:4000/udp/239.3.1.95:8001
+IPTV淘电影,http://218.241.192.50:8808/udp/239.3.1.250:8001#http://qnap.yjnhome.com:4000/udp/239.3.1.250:8001
+IPTV淘娱乐,http://218.241.192.50:8808/udp/239.3.1.100:8001#http://qnap.yjnhome.com:4000/udp/239.3.1.100:8001
+IPTV淘精彩,http://218.241.192.50:8808/udp/239.3.1.178:8001#http://qnap.yjnhome.com:4000/udp/239.3.1.178:8001
+IPTV萌宠TV,http://218.241.192.50:8808/udp/239.3.1.102:8001#http://qnap.yjnhome.com:4000/udp/239.3.1.102:8001
+IPTV淘Baby,http://218.241.192.50:8808/udp/239.3.1.238:8001#http://qnap.yjnhome.com:4000/udp/239.3.1.238:8001
+经典再现,http://183.222.72.116:6868/rtp/239.10.0.130:5140
 精彩电视剧,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
 精彩体育,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226010/index.m3u8
 精彩电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226011/index.m3u8
@@ -956,8 +962,8 @@ IPTV高清院线,http://119.39.128.18:88/hls/34/index.m3u8
 IPTV抗战剧场,http://119.39.128.18:88/hls/35/index.m3u8
 IPTV古装剧场,http://119.39.128.18:88/hls/36/index.m3u8
 IPTV经典剧场,http://119.39.128.18:88/hls/37/index.m3u8
-经典再现,http://112.19.214.90:8883/tsfile/live/1009_1.m3u8
 高清影院,http://112.19.214.90:8883/tsfile/live/1011_1.m3u8
+精彩影视,http://117.190.144.101:9901/tsfile/live/1082_1.m3u8?key=txiptv
 CBN每日影院,http://120.253.104.16:808/hls/140/index.m3u8
 CBN幸福剧场,http://120.253.104.16:808/hls/142/index.m3u8
 CBN幸福娱乐,http://120.253.104.16:808/hls/143/index.m3u8
@@ -970,9 +976,6 @@ CCTV 4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 CNC·中文台,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
 CNC·英文台,http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
 IPTV5+,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226345/index.m3u8
-IPTV淘娱乐,http://111.13.42.230/PLTV/88888888/224/3221226551/1.m3u8
-IPTV淘BABY,http://111.13.42.6/PLTV/88888888/224/3221226554/1.m3u8
-IPTV萌宠TV,http://111.13.42.235/PLTV/88888888/224/3221226555/1.m3u8
 IPTV4K超清,http://111.13.42.238/PLTV/88888888/224/3221226550/1.m3u8
 IPTV大健康,http://221.179.136.140:443/PLTV/88888888/224/3221226556/1.m3u8
 IPTV4K,http://124.232.231.246:6610/000000001001/201500000218/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
@@ -1088,7 +1091,7 @@ TVB剧场,http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279865
 
 
 影视频道,#genre#
-峨眉电影,http://r.jdshipin.com/XIjta#http://r.jdshipin.com/vFgDS
+峨眉电影,http://182.150.48.83:8888/newlive/live/hls/54/live.m3u8
 黑莓电影,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/jdianying/1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225681/index.m3u8
 CHC动作电影,http://120.210.193.151:8006/120000001002/XMTdzdy/1.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 CHC家庭影院,http://120.210.193.151:8006/120000001002/XMTjtyy/1.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
