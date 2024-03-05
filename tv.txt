@@ -1268,8 +1268,8 @@ Alan Walker feat. Iselin Solheim - Faded,https://15799848.s21v.faiusr.com/58/ABU
 
 
 海外,#genre#
-MEDIACORP,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-ArirangTV,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+新加坡 Ⅰ 新传媒,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+韩国 Ⅰ 阿里郎,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8#http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8#http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch/master.m3u8#http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 半岛新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
 韩国 Ⅰ 국악방송,http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 韩国 Ⅰ 여수MBC(MBC Yeosu),https://5c3639aa99149.streamlock.net/live_TV/TV/playlist.m3u8
@@ -1279,7 +1279,6 @@ ArirangTV,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1c
 韩国 Ⅰ MBC,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 韩国 Ⅰ KCTV,http://119.77.96.184:1935/chn21/chn21/chunklist_w252131137.m3u8#http://119.77.96.184:1935/chn21/chn21/playlist.m3u8#http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
 韩国 Ⅰ BBS佛教广播,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m3u8
-韩国 Ⅰ 阿里郎WORLD,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8#http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch/master.m3u8#http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 韩国 Ⅰ KCTV DV,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8#http://119.77.96.184:1935/chn21/chn21/chunklist_w252131137.m3u8
 韩国 Ⅰ EBS儿童,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8#http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
 韩国 Ⅰ EBS1,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8#http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
