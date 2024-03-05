@@ -1027,58 +1027,6 @@ IPTV4K超清,http://124.232.231.246:6610/000000001001/201500000218/index.m3u8?IA
 金庸电影,http://8.137.57.240:81/hy.php?url=11342427#http://43.138.170.29:35455/huya/11342427#http://mmitv.top/pltv/huya.php?id=11342427#http://159.75.85.63:35455/huya/11342427
 喜剧,http://8.137.57.240:81/hy.php?url=11602044#http://43.138.170.29:35455/huya/11602044#http://mmitv.top/pltv/huya.php?id=11602044#http://159.75.85.63:35455/huya/11602044
 搞笑,http://8.137.57.240:81/hy.php?url=11342423#http://43.138.170.29:35455/huya/11342423#http://mmitv.top/pltv/huya.php?id=11342423#http://159.75.85.63:35455/huya/11342423
-金庸频道,http://hlsbkmgsplive.miguvideo.com/wd_r2/virtuallive/5100181876/150/01.m3u8?&HlsSubType=&encrypt=#http://112.74.200.9:88/tv000000/m3u8.php?/migu/625774640
-喜剧联盟,http://hlsbkmgsplive.miguvideo.com/wd_r2/virtuallive/5101097468/150/01.m3u8?&HlsSubType=&encrypt=#http://112.74.200.9:88/tv000000/m3u8.php?/migu/637444830
-高分影院,http://hlsbkmgsplive.miguvideo.com/wd_r1/virtuallive/5101000708/150/01.m3u8?&HlsSubType=&encrypt=#http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198191
-怀旧老片,http://hlsbkmgsplive.miguvideo.com/wd_r3/virtuallive/5100074916/150/01.m3u8?&HlsSubType=&encrypt=#http://112.74.200.9:88/tv000000/m3u8.php?/migu/621640582
-僵尸剧场,http://hlsbkmgsplive.miguvideo.com/wd_r2/virtuallive/5100192783/150/01.m3u8?&HlsSubType=&encrypt=#http://112.74.200.9:88/tv000000/m3u8.php?/migu/627033504
-TVB剧场,http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279865347_-1298155843/PLTV/88888888/224/3221231733/1.m3u8
-新片放映厅,http://hlsbkmgsplive.miguvideo.com/wd-virtuallive5100030975-150/01.m3u8?&HlsSubType=&encrypt=#http://112.74.200.9:88/tv000000/m3u8.php?/migu/619495952
-试胆大会,http://hlsbkmgsplive.miguvideo.com/wd_r2/virtuallive/5101098146/150/01.m3u8?&HlsSubType=&encrypt=#http://112.74.200.9:88/tv000000/m3u8.php?/migu/637483721
-高能烧脑时刻,http://hlsbkmgsplive.miguvideo.com/wd_r3/virtuallive/5100179386/150/01.m3u8?&HlsSubType=&encrypt=#http://112.74.200.9:88/tv000000/m3u8.php?/migu/625542365
-军旅剧场,http://hlsbkmgsplive.miguvideo.com/wd_r2/virtuallive/5100180303/150/01.m3u8?&HlsSubType=&encrypt=#http://112.74.200.9:88/tv000000/m3u8.php?/migu/625643517
-少林剧场,http://hlsbkmgsplive.miguvideo.com/wd_r2/virtuallive/5102010220/150/01.m3u8?&HlsSubType=&encrypt=#http://112.74.200.9:88/tv000000/m3u8.php?/migu/625526423
-古龙作品集,http://hlsbkmgsplive.miguvideo.com/wd_r2/virtuallive/5102010216/150/01.m3u8?&HlsSubType=&encrypt=#http://112.74.200.9:88/tv000000/m3u8.php?/migu/639528313
-解压影院,http://hlsbkmgsplive.miguvideo.com/wd_r2/virtuallive/5100180868/150/01.m3u8?&HlsSubType=&encrypt=
-开心麻花剧场,http://hlsbkmgsplive.miguvideo.com/wd_r3/virtuallive/5100179816/150/01.m3u8?&HlsSubType=&encrypt=
-美国电影时刻,http://hlsbkmgsplive.miguvideo.com/wd_r2/virtuallive/5102010221/150/01.m3u8?&HlsSubType=&encrypt=
-温情催泪影院,http://hlsbkmgsplive.miguvideo.com/wd_r1/virtuallive/5101000708/150/01.m3u8?&HlsSubType=&encrypt=
-影像俄罗斯,http://hlsbkmgsplive.miguvideo.com/migu/gunbo/5900002054/150/20210204/01.m3u8?&HlsSubType=&encrypt=
-热剧联播,http://hlsbkmgsplive.miguvideo.com/wd_r3/cctv/rejulianbo/600/01.m3u8?&HlsSubType=&encrypt=
-运动员演戏,http://hlsbkmgsplive.miguvideo.com/wd_r3/virtuallive/5100170828/150/01.m3u8?&HlsSubType=&encrypt=
-体育影视佳作,http://hlsbkmgsplive.miguvideo.com/wd_r2/virtuallive/5100181836/150/01.m3u8?&HlsSubType=&encrypt=
-爱国影展,http://hlsbkmgsplive.miguvideo.com/wd_r3/virtuallive/5100179213/150/01.m3u8?&HlsSubType=&encrypt=
-红色谍战剧场,,http://hlsbkmgsplive.miguvideo.com/wd_r3/virtuallive/5101079524/150/01.m3u8?&HlsSubType=&encrypt=
-红色轮播台,http://hlsbkmgsplive.miguvideo.com/migu/virtuallive2/5900002413/51/20210706/01.m3u8?&HlsSubType=&encrypt=
-致敬英雄,http://hlsbkmgsplive.miguvideo.com/wd_r2/virtuallive/5100181674/150/01.m3u8?&HlsSubType=&encrypt=
-爆款动画电影,http://hlsbkmgsplive.miguvideo.com/wd_r3/virtuallive/5100172731/150/01.m3u8?&HlsSubType=&encrypt=
-经典动画大集合,http://hlsbkmgsplive.miguvideo.com/wd_r3/cctv/jingdiandonghua/600/01.m3u8?&HlsSubType=&encrypt=
-泰想看电影,http://hlsbkmgsplive.miguvideo.com/wd_r1/virtuallive/5101000755/150/01.m3u8?&HlsSubType=&encrypt=
-乡村振兴,http://hlsbkmgsplive.miguvideo.com/migu/virtuallive2/5900002409/57/20210706/01.m3u8?&HlsSubType=&encrypt=
-西域风情,http://hlsbkmgsplive.miguvideo.com/wd_r1/virtuallive/5101000751/150/01.m3u8?&HlsSubType=&encrypt=
-环游世界,http://hlsbkmgsplive.miguvideo.com/wd-virtuallive5100002043-150/01.m3u8?&HlsSubType=&encrypt=
-咪咕24小时体育,http://hlsbkmgsplive.miguvideo.com/wd_r2/virtuallive/tysy201903/150/01.m3u8?&HlsSubType=&encrypt=
-赛事最经典,http://hlsbkmgsplive.miguvideo.com/wd_r3/cctv/saishijingdian/600/01.m3u8?&HlsSubType=&encrypt=
-体坛名栏汇,http://hlsbkmgsplive.miguvideo.com/wd_r3/cctv/titanminglan/600/01.m3u8?&HlsSubType=&encrypt=
-智慧养老,http://hlsbkmgsplive.miguvideo.com/wd-virtuallive5100002043-150/01.m3u8?&HlsSubType=&encrypt=
-走进艺术,http://hlsbkmgsplive.miguvideo.com/wd_r2/virtuallive/5100182141/150/01.m3u8?&HlsSubType=&encrypt=
-最强综艺趴,http://hlsbkmgsplive.miguvideo.com/wd_r3/cctv/zuiqiangzongyi/600/01.m3u8?&HlsSubType=&encrypt=
-综艺现场,http://hlsbkmgsplive.miguvideo.com/wd_r3/virtuallive/5100074920/150/01.m3u8?&HlsSubType=&encrypt=
-电竞风云,http://hlsbkmgsplive.miguvideo.com/wd_r3/virtuallive/5100179159/150/01.m3u8?&HlsSubType=&encrypt=
-热播电视剧,http://112.49.26.90/r/baiducdncmn2.inter.iqiyi.com/tslive/c57_lb_212_600_t10/c57_lb_212_600_t10.m3u8
-票房收割机,http://112.49.26.90/r/baiducdncmn2.inter.iqiyi.com/tslive/c56_lb_184_600_t10/c56_lb_184_600_t10.m3u8
-五星影院,http://112.49.26.90/r/baiducdncmn2.inter.iqiyi.com/tslive/c56_lb_183_600_t10/c56_lb_183_600_t10.m3u8
-收视冠军,http://112.49.26.90/r/baiducdncmn2.inter.iqiyi.com/tslive/c56_lb_230_720P_t10/c56_lb_230_720P_t10.m3u8
-经典港片,http://112.49.26.90/r/baiducdncmn2.inter.iqiyi.com/tslive/c51_lb_110_600_t10/c51_lb_110_600_t10.m3u8
-惊悚午夜,http://112.49.26.90/r/baiducdncmn2.inter.iqiyi.com/tslive/c51_lb_115_600_t10/c51_lb_115_600_t10.m3u8
-仙侠玄幻,http://112.49.26.90/r/baiducdncmn2.inter.iqiyi.com/tslive/c55_lb_148_600_t10/c55_lb_148_600_t10.m3u8
-权谋剧场,http://112.49.26.90/r/baiducdncmn2.inter.iqiyi.com/tslive/c55_lb_167_600_t10/c55_lb_167_600_t10.m3u8
-军旅剧场,http://112.49.26.90/r/baiducdncmn2.inter.iqiyi.com/tslive/c55_lb_144_600_t10/c55_lb_144_600_t10.m3u8
-抗战剧场,http://112.49.26.90/r/baiducdncmn2.inter.iqiyi.com/tslive/c54_lb_163_600_t10/c54_lb_163_600_t10.m3u8
-红色剧场,http://112.49.26.90/r/baiducdncmn2.inter.iqiyi.com/tslive/c56_lb_179_600_t10/c56_lb_179_600_t10.m3u8
-宫廷正剧,http://112.49.26.90/r/baiducdncmn2.inter.iqiyi.com/tslive/c54_lb_152_600_t10/c54_lb_152_600_t10.m3u8
-家庭剧场,http://112.49.26.90/r/baiducdncmn2.inter.iqiyi.com/tslive/c55_lb_158_600_t10/c55_lb_158_600_t10.m3u8
-军事观察,http://112.49.26.90/r/baiducdncmn2.inter.iqiyi.com/tslive/c57_lb_239_720P_t10/c57_lb_239_720P_t10.m3u8
 
 
 小品相声,#genre#
@@ -1320,30 +1268,18 @@ Alan Walker feat. Iselin Solheim - Faded,https://15799848.s21v.faiusr.com/58/ABU
 
 
 海外,#genre#
-国际新闻,https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8
-阿里郎,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
-CGNTV-中文,http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_ch/chunklist_w1705401687.m3u8
-CGNTV-韩国,http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_kr02/chunklist.m3u8#http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_kr02/playlist.m3u8#http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_kr02/chunklist_w1604760015.m3u8
-CGNTV-日本,http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/chunklist_w564190259.m3u8
-韩国 Ⅰ 选举广播,http://necgokr2-724.acs.wecandeo.com/ms/2528/724/index_1.m3u8
-韩国 Ⅰ NBS农业,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
-韩国 Ⅰ 가요TV,http://gayotv.net:1935/live/gayotv/playlist.m3u8
+MEDIACORP,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+ArirangTV,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+半岛新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
 韩国 Ⅰ 국악방송,http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 韩国 Ⅰ 여수MBC(MBC Yeosu),https://5c3639aa99149.streamlock.net/live_TV/TV/playlist.m3u8
-韩国 Ⅰ 제주 MBC(MBC Jeju),https://5cf58a556f9b2.streamlock.net:443/live/tv_jejumbc/playlist.m3u8
-韩国 Ⅰ YTN,http://slive.ytn.co.kr/ytn/_definst_/ytn_stream_20190306/playlist.m3u8
-韩国 Ⅰ TBS,http://tbs.hscdn.com/tbstvweb/tbstv/playlist.m3u8
 韩国 Ⅰ KBC SBS,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
-韩国 Ⅰ TBC SBS,http://221.157.125.239:1935/live/psike/playlist.m3u8
 韩国 Ⅰ CJB SBS,http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
 韩国 Ⅰ TJB SBS,http://1.245.74.5:1935/live/tv/.m3u8
 韩国 Ⅰ MBC,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 韩国 Ⅰ KCTV,http://119.77.96.184:1935/chn21/chn21/chunklist_w252131137.m3u8#http://119.77.96.184:1935/chn21/chn21/playlist.m3u8#http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
-韩国 Ⅰ KOREA YTN,http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
 韩国 Ⅰ BBS佛教广播,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m3u8
-韩国 Ⅰ SBS 星级频道,https://streaming-a-802.cdn.nextologies.com/SBS_18/playlist.m3u8
-韩国 Ⅰ SBS 影视频道,https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.m3u8
-韩国 Ⅰ 阿里郎WORLD,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch/master.m3u8#http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+韩国 Ⅰ 阿里郎WORLD,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8#http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch/master.m3u8#http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 韩国 Ⅰ KCTV DV,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8#http://119.77.96.184:1935/chn21/chn21/chunklist_w252131137.m3u8
 韩国 Ⅰ EBS儿童,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8#http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
 韩国 Ⅰ EBS1,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8#http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
@@ -1352,104 +1288,15 @@ CGNTV-日本,http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/chunklis
 韩国 Ⅰ EBS+2,http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
 韩国 Ⅰ EBSE,http://ebsonairios.ebs.co.kr/plus3tablet500k/tablet500k/plus3tablet500k.index.m3u8
 俄罗斯 Ⅰ GITV,http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-俄罗斯 Ⅰ ТВTV,http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/chunklist_b4128000.m3u8
-俄罗斯 Ⅰ 时尚频道,http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
-俄罗斯 Ⅰ Hope,https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/chunklist.m3u8
 俄罗斯 Ⅰ FM 音乐频道,http://rtmp.one.by:1200
 俄罗斯 Ⅰ OR 音乐频道,http://rtmp.one.by:2200/
-日本 Ⅰ NHK総合,http://203.162.235.41:16903
-日本 Ⅰ テレビ朝日,http://203.162.235.41:16906
-日本 Ⅰ テレビ東京,http://203.162.235.41:16908
-日本 Ⅰ フジテレビ,http://203.162.235.41:16904
-日本 Ⅰ BS TBS,http://203.162.235.41:16913
-日本 Ⅰ 全天新闻,http://www.news24.jp/livestream/index.m3u8
-日本 Ⅰ 声优广播,http://www.uniqueradio.jp/agplayerf/hls/Active.m3u8
-日本 Ⅰ 日本购物,http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8
-日本 Ⅰ 宝石GSTV,https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/playlist.m3u8#https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/chunklist_w1860888413_b600000.m3u8
 日本 Ⅰ QVC,http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
-日本 Ⅰ DX,http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
 越南 Ⅰ ANTV,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8#http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
 越南 Ⅰ HBTV,http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
-越南 Ⅰ KTV,http://210.245.20.94/hls/ktv1.m3u8
-越南 Ⅰ PTTH,http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
-越南 Ⅰ PTP,http://113.161.4.48:8080/phuyen/tv.m3u8
-泰国 Ⅰ NBT,http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist.m3u8
-泰国 Ⅰ PBS,http://thaipbs-live.cdn.byteark.com/live-en/playlist_720p/index.m3u8
-印度音乐电视台,http://104.237.60.234/live/gabruutv.m3u8?dsjtv.m3u8
-新加坡,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-卡塔尔 Ⅰ 卡斯体育,http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
-新马 Ⅰ 亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-蒙古国 Ⅰ MNB,http://103.14.38.107:1935/live/mnb.stream/master.m3u8
-阿尔巴利亚,http://tvsn-i.akamaihd.net/hls/live/261837/expo/expo_750.m3u8
-斯诺伐克 Ⅰ J O J,http://nn2.joj.sk/hls/joj-540.m3u8
-斯洛伐克 Ⅰ WAU,http://nn2.joj.sk/hls/wau-540.m3u8
-阿联酋 Ⅰ 迪拜赛马,http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
-阿联酋 Ⅰ ATV 1,http://85.132.81.184:8080/atv/index.m3u8
-阿联酋 Ⅰ ATV 2,http://85.132.81.184:8080/atv-2/index.m3u8
-阿联酋 Ⅰ ATV 4,http://85.132.81.184:8080/atv-4/index.m3u8
-以色列1,https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/master.m3u8
-以色列2,https://dvr.ch20-cdnwiz.com/mobilehls/dvr.m3u8
-澳大利亚赛马网,https://racingvic-i.akamaized.net/hls/live/598695/racingvic/268.m3u8
-西班牙 Ⅰ 皇马足球,http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
-西班牙 Ⅰ 中国环球,http://livees.cgtn.com/1000e/prog_index.m3u8
-意大利 Ⅰ 意大利电台,http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
-意大利 Ⅰ V2 音乐频道,http://de1se01.v2beat.live/playlist.m3u8
-法国 Ⅰ 第五世界台,http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
-法国 Ⅰ 新闻,http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
+泰国 Ⅰ PBS,http://thaipbs-live.cdn.byteark.com/live-en/playlist_720p/index.m3u8#http://thaipbs-live.cdn.byteark.com/live/playlist_480p/index.m3u8
 法国 Ⅰ 时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8#http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
-法国 Ⅰ 24台 (英语),http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 乌克兰 Ⅰ M2音乐频道,http://live.m2.tv/hls3/stream.m3u8
-英国MTV,http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
-美国 Ⅰ 狗狗宠物,http://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
-美国 Ⅰ Bloomberg,http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
-美国 Ⅰ CSBN,http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
-美国 Ⅰ 购物QVC,http://live.qvcuk.simplestreamcdn.com/live/qvcuk_main_clean/bitrate1.isml/3/prog_index.m3u8
-美国 Ⅰ Denver 8,http://granicusliveus8-a.akamaihd.net/denver/G0080_002/chunklist.m3u8
-美国 Ⅰ 中国环球 (美国),http://live.cgtn.com/1000/prog_index.m3u8
 美国 Ⅰ 红牛运动,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8#http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-美国 Ⅰ MTV 音乐频道,http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
-美国切达电视,http://live.chdrstatic.com/cbn/primary/3.m3u8
-UK,http://live.qvcuk.simplestreamcdn.com/live/qvcuk_beauty_clean/bitrate1.isml/3/prog_index.m3u8
-M2O TV,http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
-KPRF,http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
-Ytv,http://streams.sibinformburo.cdnvideo.ru/sibinformburo/sibinformburo.sdp/chunklist.m3u8
-VB,http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
-REUN,https://livefta.malimarcdn.com/ftaedge00/houngfa.sdp/chunklist.m3u8
-THAIPBS-3,http://thaipbs-live.cdn.byteark.com/live/playlist_480p/index.m3u8
-Star Sports,rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
 Fashion TV (SK),http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
-HD Fashion & Lifestyle (UA),http://95.67.47.115/hls/hdfashion_ua_low/index.m3u8
 WOW!TV,http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8#http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
-American Horrors,http://170.178.189.66:1935/live/Stream1/.m3u8
-Ariana TV,http://d2g7v53450s2i2.cloudfront.net/ATNUS/streamdelay/chunklist_w1314452267.m3u8
-Arirang TV,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
-Bahrain Sport,http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist_w1452818509.m3u8
-Bambarbia TV,http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/bbb/bbbtv-720p/playlist.m3u8
-Bloomberg (EN),https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-700-1_live.m3u8
-California Music Channel,https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8
-Classique TV,http://stmv3.srvstm.com/classique/classique/playlist.m3u8
-CMC TV,http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/CMC-TV.m3u8
-Music Channel,https://ch.iptvmate.net/b8799300af8ecf28e89b77029dfa9e6d.m3u8
-Most Video 2,http://w4.mostvideo.tv/heltv/ch2.m3u8
-Music Box (SK),http://80.94.54.42/tvnasa/stream/playlist.m3u8
-Music Top,http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8#http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w538311571_b364000_sleng.m3u8
-Sky Folk TV,http://eu.live.skyfolk.mk/live.m3u8
-NBC,http://161.0.157.5/PLTV/88888888/224/3221227040/index.m3u8#http://161.0.157.51/PLTV/88888888/224/3221227040/01.m3u8#http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8?fluxustv.m3u8
-NEWS 24,http://tv.balkanweb.com:8081/news24/livestream/chunks.m3u8#http://tv.balkanweb.com/news24/livestream/playlist.m3u8
-Dubai Sports,http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
-France 24 (ESP),http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master_2000.m3u8
-France 24 Arabic,http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
-TV 5,http://hls.cdn.ua/tv5.zp.ua_live/_definst_:tv5/playlist.m3u8
-TV5 Monde,http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_6.m3u8
 TV7+ (Хмельн),http://tv7plus.com/hls/tv7_site.m3u8
-Jewelry,http://wowzaprod134-i.akamaihd.net/hls/live/577814/ccddaf02/playlist.m3u8
-Darcizzle,http://30a-tv.com/darcizzle.m3u8
-218 News,http://95.85.47.43/libya218news/tracks-v1a1/mono.m3u8
-Atameken,http://live-atameken.cdnvideo.ru/atameken/atameken_hq.sdp/chunklist.m3u8
-The Outdo,http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w981409619_b1105254.m3u8?fluxustv.m3u8
-FTVLIVE,http://218.236.58.185:1935/FTVLIVE_MOBILE/Stream_mobile/playlist.m3u8
-Luxury,http://nano.teleservice.su:8080/hls/luxury.m3u8
-ArirangTV,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-MEDIACORP,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-newsmax,https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8
-半岛新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
