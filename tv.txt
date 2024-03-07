@@ -1130,7 +1130,6 @@ CCTV新科动漫,http://cctvtxyh5ca.liveplay.myqcloud.com/live/xinkedongman_2_hd
 
 
 音乐MV,#genre#
-凤凰传奇 - 海底,https://vd2.bdstatic.com/mda-mduvdz4k395e9vgh/sc/mda-mduvdz4k395e9vgh.mp4
 李贞贤 - 可疑的男人,https://vd3.bdstatic.com/mda-mec1dwtc45ize2ve/sc/mda-mec1dwtc45ize2ve.mp4
 淑熙 - 啦啦啦,https://vd4.bdstatic.com/mda-me103s03qf649xi3/sc/cae_h264/1619889075460398442/mda-me103s03qf649xi3.mp4
 李秀英 - 啦啦啦,https://vd3.bdstatic.com/mda-me2044r88ae74t0q/sc/cae_h264/1619980227289908824/mda-me2044r88ae74t0q.mp4
@@ -1139,9 +1138,6 @@ Olly Murs - That Girl,https://vd3.bdstatic.com/mda-pg12di8e5jy0773r/sc/cae_h264/
 滨崎步 - M,https://vd2.bdstatic.com/mda-me100xkq9nz6hdk2/sc/mda-me100xkq9nz6hdk2.mp4
 滨崎步 - My all,https://vd2.bdstatic.com/mda-me0zzb1sbym882bp/sc/mda-me0zzb1sbym882bp.mp4
 Delacey - Dream It Possible,https://vd2.bdstatic.com/mda-kmupx4m9p7qi1m2m/v1-cae/sc/mda-kmupx4m9p7qi1m2m.mp4
-田馥甄、韩红 - 魔鬼中的天使,https://vd4.bdstatic.com/mda-ndehxm91vjewz9s2/720p/h264_delogo/1650026416727344136/mda-ndehxm91vjewz9s2.mp4
-刘明湘 - 漂洋过海来看你,https://vd4.bdstatic.com/mda-ndehvxghysjar62a/480p/h264_delogo/1650026326400010455/mda-ndehvxghysjar62a.mp4
-又又 - 你的样子,https://txmov2.a.yximgs.com/udata/W_7YYGKAjOS84_zh.mp4
 程响 - 等你归来,https://vd2.bdstatic.com/mda-md1c72m2ggbga88b/1080p/cae_h264/1617353400/mda-md1c72m2ggbga88b.mp4
 阿桑 - 寂寞在唱歌,https://vd2.bdstatic.com/mda-km9s2rpnbupmirtf/v1-cae/1080p/mda-km9s2rpnbupmirtf.mp4
 朱研 - 真的很难忘记你,https://vd4.bdstatic.com/mda-md4t9hf2j941shwe/hd/mda-md4t9hf2j941shwe.mp4
@@ -1149,8 +1145,14 @@ Delacey - Dream It Possible,https://vd2.bdstatic.com/mda-kmupx4m9p7qi1m2m/v1-cae
 光头华夏 - 无期,https://vd3.bdstatic.com/mda-kd6sjc06kyyxr4cm/v1-cae/sc/mda-kd6sjc06kyyxr4cm.mp4
 白银河 - 逆流成河,https://vd2.bdstatic.com/mda-mdvpv44ks7mdfcz3/mda-mdvpv44ks7mdfcz3.mp4
 李雅微 - 我们的纪念,https://vd4.bdstatic.com/mda-ma1wiu21hh3nsems/v1-cae/1080p/mda-ma1wiu21hh3nsems.mp4
+蜜雪薇琪 - 独立,https://vd3.bdstatic.com/mda-pi74zhptwxegyzum/sc/cae_h264/1694219078422190507/mda-pi74zhptwxegyzum.mp4
 Reol - 平面镜,https://vd2.bdstatic.com/mda-md4jqsvxie1zuuas/sc/mda-md4jqsvxie1zuuas.mp4
 Reol - 煩悩遊戯,https://vd4.bdstatic.com/mda-kjsqusran7kstr40/mda-kjsqusran7kstr40.mp4
+南合文斗 - 让泪化作相思雨,https://vd2.bdstatic.com/mda-kft0itj6wz2dr8v9/v1-cae/1080p/mda-kft0itj6wz2dr8v9.mp4
+凤凰传奇 - 海底,https://vd2.bdstatic.com/mda-mduvdz4k395e9vgh/sc/mda-mduvdz4k395e9vgh.mp4
+田馥甄、韩红 - 魔鬼中的天使,https://vd4.bdstatic.com/mda-ndehxm91vjewz9s2/720p/h264_delogo/1650026416727344136/mda-ndehxm91vjewz9s2.mp4
+刘明湘 - 漂洋过海来看你,https://vd4.bdstatic.com/mda-ndehvxghysjar62a/480p/h264_delogo/1650026326400010455/mda-ndehvxghysjar62a.mp4
+又又 - 你的样子,https://txmov2.a.yximgs.com/udata/W_7YYGKAjOS84_zh.mp4
 手创乐队 - Hall of fame,https://vd2.bdstatic.com/mda-khrs4xttjcfxj7n5/v1-cae/1080p/mda-khrs4xttjcfxj7n5.mp4
 西域男孩 - My love,https://vd2.bdstatic.com/mda-mb2qsbmzz0rp8g7y/v1-cae/1080p/mda-mb2qsbmzz0rp8g7y.mp4
 Sia - Unstoppable,https://vd2.bdstatic.com/mda-kmpkc7x3ia091msx/v1-cae/1080p/mda-kmpkc7x3ia091msx.mp4
@@ -1167,7 +1169,7 @@ Sia - Unstoppable,https://vd2.bdstatic.com/mda-kmpkc7x3ia091msx/v1-cae/1080p/mda
 谭咏麟 - 讲不出再见,https://vd3.bdstatic.com/mda-md5qdvpdrrft0qqd/mda-md5qdvpdrrft0qqd.mp4
 姜玉阳 - 秋风落叶,https://vd3.bdstatic.com/mda-kjbik2d0yrqmj2g1/v1-cae/1080p/mda-kjbik2d0yrqmj2g1.mp4
 姜玉阳 - 痛彻心扉,https://vd4.bdstatic.com/mda-kmfupt5nezkntuq4/sc/cae_h264_clips/1608122472/mda-kmfupt5nezkntuq4.mp4
-God is a girl,https://vd2.bdstatic.com/mda-pcujg7yc1tcrf5t5/sc/cae_h264/1680182651833450484/mda-pcujg7yc1tcrf5t5.mp4
+God is a girl,https://vd2.bdstatic.com/mda-maaiu9mmiqugnc5c/sc/cae_h264/1679708782580620626/mda-maaiu9mmiqugnc5c.mp4
 Kiss - 因为是女子,https://vd2.bdstatic.com/mda-me107z4jv2r19kve/sc/mda-me107z4jv2r19kve.mp4
 金南玲 - 逆流成河,https://vd3.bdstatic.com/mda-keiff6tunu6k4hvd/sc/mda-keiff6tunu6k4hvd.mp4
 迈克尔杰克逊经典现场,https://vd2.bdstatic.com/mda-md4s0146s3jq2fcb/sc/mda-md4s0146s3jq2fcb.mp4
@@ -1177,7 +1179,6 @@ Kiss - 因为是女子,https://vd2.bdstatic.com/mda-me107z4jv2r19kve/sc/mda-me10
 阿杜 - 离别,https://vd3.bdstatic.com/mda-ki6rcvgbyx2c4m9y/v1-cae/mda-ki6rcvgbyx2c4m9y.mp4
 孙楠、韩红 - 美丽的神话,https://vd4.bdstatic.com/mda-kmngapjqenb3i9ra/v1-cae/1080p/mda-kmngapjqenb3i9ra.mp4
 成龙、金喜善 - 无尽的爱,https://vd4.bdstatic.com/mda-ifphb62azr2qk9kf/hd/mda-ifphb62azr2qk9kf.mp4
-南合文斗 - 让泪化作相思雨,https://vd2.bdstatic.com/mda-kft0itj6wz2dr8v9/v1-cae/1080p/mda-kft0itj6wz2dr8v9.mp4
 莫文蔚 - 电台情歌,https://vd4.bdstatic.com/mda-mact38ncv86a7z5x/v1-cae/1080p/mda-mact38ncv86a7z5x.mp4
 吴若希 - 越难越爱,https://vd3.bdstatic.com/mda-jmqqpf76yq9pubda/v1-cae/sc/mda-jmqqpf76yq9pubda.mp4
 毛不易 - 牧马城市,https://vdse.bdstatic.com//1d83dfc2411243e5b9f44462e1e55ab3.mp4
@@ -1236,7 +1237,6 @@ Kiss - 因为是女子,https://vd2.bdstatic.com/mda-me107z4jv2r19kve/sc/mda-me10
 李翊君 - 多情人都把灵魂给了谁,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/o1koj80kDcERprb8epC%40%40hd.m3u8
 龙梅子 - 泪满天,http://vodcdn.video.taobao.com/oss/ali-video/2ea2890443421f58665a7fdf0a297265/video.m3u8
 张学友 - 只想一生跟你走,http://vodcdn.video.taobao.com/oss/ali-video/7f567e1159256a099f3de8f1fdda2db0/video.m3u8
-蜜雪薇琪 - 独立,https://vd3.bdstatic.com/mda-pi74zhptwxegyzum/sc/cae_h264/1694219078422190507/mda-pi74zhptwxegyzum.mp4
 My Heart Will Go On (泰坦尼克号主题曲),https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg_uCa4gUo7Irtnwc.mp4
 迈克尔杰克逊30周年演唱会片段-比利·金-BILLIE.JEAN,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgw9ma4gUo3YLDvgU.mp4
 Eminem、Rihanna - Love The Way You Lie,http://em.21dtv.com/songs/60100718.mkv
