@@ -503,6 +503,8 @@ ABC新闻,http://61.222.202.191:80/live/yzyh.php?id=150
 江苏·无锡都市资讯,http://stream.thmz.com/wxtv3/playlist.m3u8
 江苏·无锡生活,http://stream.thmz.com/wxtv4/playlist.m3u8
 江苏·无锡经济,http://stream.thmz.com/wxtv5/playlist.m3u8
+江苏·泰州2,http://stream1.mytaizhou.net/jjshnew/playlist.m3u8
+江苏·泰州3,http://stream1.mytaizhou.net/ysylnew/playlist.m3u8
 江苏·苏州新闻综合,https://tylive.kan0512.com/norecord/norecord_csztv1.m3u8
 江苏·苏州社会经济,https://tylive.kan0512.com/norecord/norecord_csztv2.m3u8
 江苏·苏州文化生活,https://tylive.kan0512.com/norecord/norecord_csztv3.m3u8
@@ -518,11 +520,12 @@ ABC新闻,http://61.222.202.191:80/live/yzyh.php?id=150
 江苏·连云港新闻综合,http://live.lyg1.com/zhpd/sd/live.m3u8
 江苏·海安新闻综合,http://haian-tv-hls.cm.jstv.com/haian-tv/haaxwzh.m3u8
 广东·文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0-0-7b2730980c8860963374597c20ad3935
-广东·广州综合,http://yima.eu.org/gz.php?id=zhonghe  
-广东·广州新闻,http://yima.eu.org/gz.php?id=xinwen 
-广东·广州影视,http://yima.eu.org/gz.php?id=yingshi 
-广东·广州竞赛,http://yima.eu.org/gz.php?id=jingsai 
-广东·广州法治,http://yima.eu.org/gz.php?id=fazhi 
+广东·广州综合,http://tencentplaygzrb.gztv.com/sec/zonghes.m3u8#http://yima.eu.org/gz.php?id=zhonghe  
+广东·广州新闻,http://tencentplaygzrb.gztv.com/sec/xinwen.m3u8#http://yima.eu.org/gz.php?id=xinwen 
+广东·广州影视,http://tencentplaygzrb.gztv.com/sec/yingshi.m3u8#http://yima.eu.org/gz.php?id=yingshi 
+广东·广州竞赛,http://tencentplaygzrb.gztv.com/sec/jingsai.m3u8#http://yima.eu.org/gz.php?id=jingsai 
+广东·广州法治,http://tencentplaygzrb.gztv.com/sec/fazhi.m3u8#http://yima.eu.org/gz.php?id=fazhi 
+广东·广州南国都市,http://tencentplaygzrb.gztv.com/sec/nanguodushi.m3u8
 广东·深圳都市,http://livepull-tcyzb.sztv.com.cn/showto_live/dushi01.m3u8
 广东·深圳东部,https://lglivepull.sznews.com/live/2646.m3u8#http://liveplay.sznews.com/66_showto_live/2646.m3u8#http://lglivepull.sznews.com/showto_live/2646.m3u8
 广东·深圳龙岗,http://liveplay.sznews.com/66_showto_live/2647.m3u8#http://lglivepull.sznews.com/showto_live/2647.m3u8
@@ -1051,7 +1054,7 @@ CHC高清电影,http://120.210.193.151:8006/120000001002/XMTgqdy/1.m3u8#http://d
 安徽影视,http://120.210.193.151:8006/120000001002/XMTah_yshd/index.m3u8#http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829369249612.m3u8#http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8
 海豚影视,http://120.210.193.151:8006/120000001002/XMThtys/1.m3u8
 北京影视,https://iptv.luas.edu.cn/liverespath/d68ca2a45a66f1289325852228ee748974c431ca/index.m3u8
-广州影视,http://yima.eu.org/gz.php?id=yingshi
+广州影视,http://tencentplaygzrb.gztv.com/sec/yingshi.m3u8#http://yima.eu.org/gz.php?id=yingshi 
 黑龙江影视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8#http://39.134.66.4/PLTV/88888888/224/3221225973/index.m3u8#https://idclive.hljtv.com:4430/live/hljys_hd.m3u8#http://39.134.65.151/PLTV/88888888/224/3221225971/1.m3u8
 陕西影视,http://sncbn.ch-cdn.gitv.tv/gitv_escape/G_SHANXI-4/G_SHANXI-4.m3u8#http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226360/index.m3u8
 湖南电影,http://175.0.50.196:8899/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1078,7 +1081,6 @@ SiTV都市剧场,http://otvstream-yy.otvcloud.com/otv/skcc/live/channel43085/ind
 平泉影视,https://jwliveqxzb.hebyun.com.cn/pqys/pqys.m3u8#https://jwcdnqx.hebyun.com.cn/live/pqys/1500k/tzwj_video.m3u8
 南宁影视,https://hls.nntv.cn/nnlive/YSYL_24.m3u8
 西部电影,http://sncbn.ch-cdn.gitv.tv/gitv_escape/G_SHANXI-5/G_SHANXI-5.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226364/1.m3u8
-广州影视,http://ye23.win/iptv/gztv.php?id=yingshi
 深圳电视剧,http://ye23.win/iptv/sztv.php?id=3
 杭州影视,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229377/index.m3u8
 江西影视旅游,http://local.live.jxtvcn.com.cn/live-jxtv/tv_jxtv4.m3u8
