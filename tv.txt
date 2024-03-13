@@ -297,8 +297,14 @@ ABC新闻,http://61.222.202.191:80/live/yzyh.php?id=150
 安徽·和县新闻综合,https://live.fst1994.net/hls/hexianzh/index.m3u8
 安徽·绩溪新闻综合,http://xzbf.fst1994.cn/jxtv/jxzh.m3u8
 北京·纪实科教,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226232/1.m3u8#http://39.134.65.164/PLTV/88888888/224/3221225670/1.m3u8
-北京·新闻,http://live.funhillrm.com/5/sd/live.m3u8
-北京·体育休闲,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226232/index.m3u8
+北京·新闻,http://111.196.131.234:8012/rtp/239.3.1.159:8000#http://221.219.73.129:18888/rtp/239.3.1.159:8000
+北京·影视,http://111.196.131.234:8012/rtp/239.3.1.158:8000#http://221.219.73.129:18888/rtp/239.3.1.158:8000
+北京·文艺,http://111.196.131.234:8012/rtp/239.3.1.242:8000#http://221.219.73.129:18888/rtp/239.3.1.242:8000
+北京·财经,http://111.196.131.234:8012/rtp/239.3.1.116:8000#http://221.219.73.129:18888/rtp/239.3.1.116:8000
+北京·生活,http://111.196.131.234:8012/rtp/239.3.1.117:8000#http://221.219.73.129:18888/rtp/239.3.1.117:8000
+北京·青年,http://111.196.131.234:8012/rtp/239.3.1.118:8000#http://221.219.73.129:18888/rtp/239.3.1.118:8000
+北京·体育休闲,http://111.196.131.234:8012/rtp/239.3.1.243:8000#http://221.219.73.129:18888/rtp/239.3.1.243:8000
+北京·国际,http://111.196.11.234:8012/rtp/239.3.1.235:8000#http://221.219.73.129:18888/rtp/239.3.1.235:8000
 北京·卡酷少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8#http://221.2.146.228:8888/newlive/live/hls/57/live.m3u8#http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/kakukaton/1.m3u8
 北京·房山无线,http://live.funhillrm.com/2/sd/live.m3u8
 北京·石景山电视台,http://live.sjsrm.com/bjsjs/sd/live.m3u8
@@ -799,7 +805,7 @@ CCTV高尔夫·网球,http://120.210.193.151:8006/120000001002/XMTgolf/1.m3u8
 体育赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225764/index.m3u8
 辽宁体育,http://42.176.185.28:9901/tsfile/live/1007_1.m3u8
 广东体育,http://r.jdshipin.com/LiYdg
-北京体育,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226232/index.m3u8
+北京体育,http://111.196.131.234:8012/rtp/239.3.1.243:8000#http://221.219.73.129:18888/rtp/239.3.1.243:8000
 上海极速汽车,http://183.207.255.188/live/program/live/jsqchd/4000000/mnf.m3u8#http://111.20.33.93/PLTV/88888893/224/3221226574/index.m3u8
 杭州体育,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229316/index.m3u8
 四海钓鱼,http://117.190.144.101:9901/tsfile/live/0125_1.m3u8?key=txiptv
@@ -1053,7 +1059,7 @@ CHC家庭影院,http://120.210.193.151:8006/120000001002/XMTjtyy/1.m3u8#http://d
 CHC高清电影,http://120.210.193.151:8006/120000001002/XMTgqdy/1.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8#http://39.134.18.68/PLTV/88888888/224/3221232382/index.m3u8
 安徽影视,http://120.210.193.151:8006/120000001002/XMTah_yshd/index.m3u8#http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829369249612.m3u8#http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8
 海豚影视,http://120.210.193.151:8006/120000001002/XMThtys/1.m3u8
-北京影视,https://iptv.luas.edu.cn/liverespath/d68ca2a45a66f1289325852228ee748974c431ca/index.m3u8
+北京影视,http://111.196.131.234:8012/rtp/239.3.1.158:8000#http://221.219.73.129:18888/rtp/239.3.1.158:8000
 广州影视,http://tencentplaygzrb.gztv.com/sec/yingshi.m3u8#http://yima.eu.org/gz.php?id=yingshi 
 黑龙江影视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8#http://39.134.66.4/PLTV/88888888/224/3221225973/index.m3u8#https://idclive.hljtv.com:4430/live/hljys_hd.m3u8#http://39.134.65.151/PLTV/88888888/224/3221225971/1.m3u8
 陕西影视,http://sncbn.ch-cdn.gitv.tv/gitv_escape/G_SHANXI-4/G_SHANXI-4.m3u8#http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226360/index.m3u8
