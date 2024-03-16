@@ -242,7 +242,6 @@ ANIMAX,http://61.219.170.95:18550/http/192.168.1.9:8001/hls/(10-99)/(800-899)/ch
 海豚综合台,http://58.99.33.16:1935/liveedge17/live_077_3.stream/chunklist.m3u8
 星卫电影台,http://61.222.202.191:80/live/yzyh.php?id=109
 台版美亚电影台,http://61.222.202.191:80/live/yzyh.php?id=110
-阿里郎,http://61.222.202.191:80/live/yzyh.php?id=51
 HITS,http://61.222.202.191:80/live/yzyh.php?id=113
 WB华纳电影,http://61.222.202.191:80/live/yzyh.php?id=114
 好莱坞电影台,http://61.222.202.191:80/live/yzyh.php?id=94
@@ -822,7 +821,6 @@ CCTV高尔夫·网球,http://120.210.193.151:8006/120000001002/XMTgolf/1.m3u8
 上海极速汽车,http://183.207.255.188/live/program/live/jsqchd/4000000/mnf.m3u8#http://111.20.33.93/PLTV/88888893/224/3221226574/index.m3u8
 杭州体育,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229316/index.m3u8
 四海钓鱼,http://117.190.144.101:9901/tsfile/live/0125_1.m3u8?key=txiptv
-精彩体育,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226010/index.m3u8
 
 
 UTV,#genre#
@@ -976,8 +974,6 @@ IPTV淘Baby,http://218.241.192.50:8808/udp/239.3.1.238:8001#http://qnap.yjnhome.
 百事通全球大片,http://php.jdshipin.com:8880/bst.php?id=qqdp8m/8000000
 经典再现,http://183.222.72.116:6868/rtp/239.10.0.130:5140
 精彩电视剧,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
-精彩体育,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226010/index.m3u8
-精彩电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226011/index.m3u8
 精彩综艺,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226009/index.m3u8
 探索亚洲,https://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
 求索纪录,http://39.134.65.162/PLTV/88888888/224/3221225713/index.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225713/index.m3u8
@@ -985,7 +981,6 @@ IPTV淘Baby,http://218.241.192.50:8808/udp/239.3.1.238:8001#http://qnap.yjnhome.
 求索科学,http://39.134.65.162/PLTV/88888888/224/3221225728/index.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225728/index.m3u8
 求索生活,http://39.134.65.162/PLTV/88888888/224/3221225715/index.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225715/index.m3u8
 KiD影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-百事通,http://www.372583307.top:4022/udp/233.50.201.228:5140
 龙鑫网络电影频道,http://106.115.24.46:9901/tsfile/live/1029_1.m3u8
 Hot欧美影院,http://cache.ott.fifalive.itv.cmvideo.cn:80/7185203501769528108/index.m3u8?channel-id=wasusyt&Contentid=7185203501769528108&livemode=1&stbId=no
 Hot亚洲影院,http://cache.ott.fifalive.itv.cmvideo.cn:80/5841816227539527643/index.m3u8?channel-id=wasusyt&Contentid=5841816227539527643&livemode=1&stbId=no
@@ -994,7 +989,6 @@ Hot风尚音乐,http://cache.ott.fifalive.itv.cmvideo.cn:80/5529729098703832176/
 IPTV高清院线,http://119.39.128.18:88/hls/34/index.m3u8
 IPTV抗战剧场,http://119.39.128.18:88/hls/35/index.m3u8
 IPTV古装剧场,http://119.39.128.18:88/hls/36/index.m3u8
-IPTV经典剧场,http://119.39.128.18:88/hls/37/index.m3u8
 高清影院,http://112.19.214.90:8883/tsfile/live/1011_1.m3u8
 CBN每日影院,http://120.253.104.16:808/hls/140/index.m3u8
 CBN幸福剧场,http://120.253.104.16:808/hls/142/index.m3u8
@@ -1060,58 +1054,6 @@ IPTV4K超清,http://124.232.231.246:6610/000000001001/201500000218/index.m3u8?IA
 金庸电影,http://8.137.57.240:81/hy.php?url=11342427#http://43.138.170.29:35455/huya/11342427#http://mmitv.top/pltv/huya.php?id=11342427#http://159.75.85.63:35455/huya/11342427
 喜剧,http://8.137.57.240:81/hy.php?url=11602044#http://43.138.170.29:35455/huya/11602044#http://mmitv.top/pltv/huya.php?id=11602044#http://159.75.85.63:35455/huya/11602044
 搞笑,http://8.137.57.240:81/hy.php?url=11342423#http://43.138.170.29:35455/huya/11342423#http://mmitv.top/pltv/huya.php?id=11342423#http://159.75.85.63:35455/huya/11342423
-金庸频道,http://hlsbkmgsplive.miguvideo.com/wd_r2/virtuallive/5100181876/150/01.m3u8?&HlsSubType=&encrypt=#http://112.74.200.9:88/tv000000/m3u8.php?/migu/625774640
-喜剧联盟,http://hlsbkmgsplive.miguvideo.com/wd_r2/virtuallive/5101097468/150/01.m3u8?&HlsSubType=&encrypt=#http://112.74.200.9:88/tv000000/m3u8.php?/migu/637444830
-高分影院,http://hlsbkmgsplive.miguvideo.com/wd_r1/virtuallive/5101000708/150/01.m3u8?&HlsSubType=&encrypt=#http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198191
-怀旧老片,http://hlsbkmgsplive.miguvideo.com/wd_r3/virtuallive/5100074916/150/01.m3u8?&HlsSubType=&encrypt=#http://112.74.200.9:88/tv000000/m3u8.php?/migu/621640582
-僵尸剧场,http://hlsbkmgsplive.miguvideo.com/wd_r2/virtuallive/5100192783/150/01.m3u8?&HlsSubType=&encrypt=#http://112.74.200.9:88/tv000000/m3u8.php?/migu/627033504
-TVB剧场,http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279865347_-1298155843/PLTV/88888888/224/3221231733/1.m3u8
-新片放映厅,http://hlsbkmgsplive.miguvideo.com/wd-virtuallive5100030975-150/01.m3u8?&HlsSubType=&encrypt=#http://112.74.200.9:88/tv000000/m3u8.php?/migu/619495952
-试胆大会,http://hlsbkmgsplive.miguvideo.com/wd_r2/virtuallive/5101098146/150/01.m3u8?&HlsSubType=&encrypt=#http://112.74.200.9:88/tv000000/m3u8.php?/migu/637483721
-高能烧脑时刻,http://hlsbkmgsplive.miguvideo.com/wd_r3/virtuallive/5100179386/150/01.m3u8?&HlsSubType=&encrypt=#http://112.74.200.9:88/tv000000/m3u8.php?/migu/625542365
-军旅剧场,http://hlsbkmgsplive.miguvideo.com/wd_r2/virtuallive/5100180303/150/01.m3u8?&HlsSubType=&encrypt=#http://112.74.200.9:88/tv000000/m3u8.php?/migu/625643517
-少林剧场,http://hlsbkmgsplive.miguvideo.com/wd_r2/virtuallive/5102010220/150/01.m3u8?&HlsSubType=&encrypt=#http://112.74.200.9:88/tv000000/m3u8.php?/migu/625526423
-古龙作品集,http://hlsbkmgsplive.miguvideo.com/wd_r2/virtuallive/5102010216/150/01.m3u8?&HlsSubType=&encrypt=#http://112.74.200.9:88/tv000000/m3u8.php?/migu/639528313
-解压影院,http://hlsbkmgsplive.miguvideo.com/wd_r2/virtuallive/5100180868/150/01.m3u8?&HlsSubType=&encrypt=
-开心麻花剧场,http://hlsbkmgsplive.miguvideo.com/wd_r3/virtuallive/5100179816/150/01.m3u8?&HlsSubType=&encrypt=
-美国电影时刻,http://hlsbkmgsplive.miguvideo.com/wd_r2/virtuallive/5102010221/150/01.m3u8?&HlsSubType=&encrypt=
-温情催泪影院,http://hlsbkmgsplive.miguvideo.com/wd_r1/virtuallive/5101000708/150/01.m3u8?&HlsSubType=&encrypt=
-影像俄罗斯,http://hlsbkmgsplive.miguvideo.com/migu/gunbo/5900002054/150/20210204/01.m3u8?&HlsSubType=&encrypt=
-热剧联播,http://hlsbkmgsplive.miguvideo.com/wd_r3/cctv/rejulianbo/600/01.m3u8?&HlsSubType=&encrypt=
-运动员演戏,http://hlsbkmgsplive.miguvideo.com/wd_r3/virtuallive/5100170828/150/01.m3u8?&HlsSubType=&encrypt=
-体育影视佳作,http://hlsbkmgsplive.miguvideo.com/wd_r2/virtuallive/5100181836/150/01.m3u8?&HlsSubType=&encrypt=
-爱国影展,http://hlsbkmgsplive.miguvideo.com/wd_r3/virtuallive/5100179213/150/01.m3u8?&HlsSubType=&encrypt=
-红色谍战剧场,,http://hlsbkmgsplive.miguvideo.com/wd_r3/virtuallive/5101079524/150/01.m3u8?&HlsSubType=&encrypt=
-红色轮播台,http://hlsbkmgsplive.miguvideo.com/migu/virtuallive2/5900002413/51/20210706/01.m3u8?&HlsSubType=&encrypt=
-致敬英雄,http://hlsbkmgsplive.miguvideo.com/wd_r2/virtuallive/5100181674/150/01.m3u8?&HlsSubType=&encrypt=
-爆款动画电影,http://hlsbkmgsplive.miguvideo.com/wd_r3/virtuallive/5100172731/150/01.m3u8?&HlsSubType=&encrypt=
-经典动画大集合,http://hlsbkmgsplive.miguvideo.com/wd_r3/cctv/jingdiandonghua/600/01.m3u8?&HlsSubType=&encrypt=
-泰想看电影,http://hlsbkmgsplive.miguvideo.com/wd_r1/virtuallive/5101000755/150/01.m3u8?&HlsSubType=&encrypt=
-乡村振兴,http://hlsbkmgsplive.miguvideo.com/migu/virtuallive2/5900002409/57/20210706/01.m3u8?&HlsSubType=&encrypt=
-西域风情,http://hlsbkmgsplive.miguvideo.com/wd_r1/virtuallive/5101000751/150/01.m3u8?&HlsSubType=&encrypt=
-环游世界,http://hlsbkmgsplive.miguvideo.com/wd-virtuallive5100002043-150/01.m3u8?&HlsSubType=&encrypt=
-咪咕24小时体育,http://hlsbkmgsplive.miguvideo.com/wd_r2/virtuallive/tysy201903/150/01.m3u8?&HlsSubType=&encrypt=
-赛事最经典,http://hlsbkmgsplive.miguvideo.com/wd_r3/cctv/saishijingdian/600/01.m3u8?&HlsSubType=&encrypt=
-体坛名栏汇,http://hlsbkmgsplive.miguvideo.com/wd_r3/cctv/titanminglan/600/01.m3u8?&HlsSubType=&encrypt=
-智慧养老,http://hlsbkmgsplive.miguvideo.com/wd-virtuallive5100002043-150/01.m3u8?&HlsSubType=&encrypt=
-走进艺术,http://hlsbkmgsplive.miguvideo.com/wd_r2/virtuallive/5100182141/150/01.m3u8?&HlsSubType=&encrypt=
-最强综艺趴,http://hlsbkmgsplive.miguvideo.com/wd_r3/cctv/zuiqiangzongyi/600/01.m3u8?&HlsSubType=&encrypt=
-综艺现场,http://hlsbkmgsplive.miguvideo.com/wd_r3/virtuallive/5100074920/150/01.m3u8?&HlsSubType=&encrypt=
-电竞风云,http://hlsbkmgsplive.miguvideo.com/wd_r3/virtuallive/5100179159/150/01.m3u8?&HlsSubType=&encrypt=
-热播电视剧,http://112.49.26.90/r/baiducdncmn2.inter.iqiyi.com/tslive/c57_lb_212_600_t10/c57_lb_212_600_t10.m3u8
-票房收割机,http://112.49.26.90/r/baiducdncmn2.inter.iqiyi.com/tslive/c56_lb_184_600_t10/c56_lb_184_600_t10.m3u8
-五星影院,http://112.49.26.90/r/baiducdncmn2.inter.iqiyi.com/tslive/c56_lb_183_600_t10/c56_lb_183_600_t10.m3u8
-收视冠军,http://112.49.26.90/r/baiducdncmn2.inter.iqiyi.com/tslive/c56_lb_230_720P_t10/c56_lb_230_720P_t10.m3u8
-经典港片,http://112.49.26.90/r/baiducdncmn2.inter.iqiyi.com/tslive/c51_lb_110_600_t10/c51_lb_110_600_t10.m3u8
-惊悚午夜,http://112.49.26.90/r/baiducdncmn2.inter.iqiyi.com/tslive/c51_lb_115_600_t10/c51_lb_115_600_t10.m3u8
-仙侠玄幻,http://112.49.26.90/r/baiducdncmn2.inter.iqiyi.com/tslive/c55_lb_148_600_t10/c55_lb_148_600_t10.m3u8
-权谋剧场,http://112.49.26.90/r/baiducdncmn2.inter.iqiyi.com/tslive/c55_lb_167_600_t10/c55_lb_167_600_t10.m3u8
-军旅剧场,http://112.49.26.90/r/baiducdncmn2.inter.iqiyi.com/tslive/c55_lb_144_600_t10/c55_lb_144_600_t10.m3u8
-抗战剧场,http://112.49.26.90/r/baiducdncmn2.inter.iqiyi.com/tslive/c54_lb_163_600_t10/c54_lb_163_600_t10.m3u8
-红色剧场,http://112.49.26.90/r/baiducdncmn2.inter.iqiyi.com/tslive/c56_lb_179_600_t10/c56_lb_179_600_t10.m3u8
-宫廷正剧,http://112.49.26.90/r/baiducdncmn2.inter.iqiyi.com/tslive/c54_lb_152_600_t10/c54_lb_152_600_t10.m3u8
-家庭剧场,http://112.49.26.90/r/baiducdncmn2.inter.iqiyi.com/tslive/c55_lb_158_600_t10/c55_lb_158_600_t10.m3u8
-军事观察,http://112.49.26.90/r/baiducdncmn2.inter.iqiyi.com/tslive/c57_lb_239_720P_t10/c57_lb_239_720P_t10.m3u8
 
 
 小品相声,#genre#
