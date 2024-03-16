@@ -3,8 +3,8 @@ CCTV-1综合,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/l
 CCTV-2财经,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-cctv2/1.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
 CCTV-3综艺,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-cctv3/1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
 CCTV-4中文国际,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-4/1.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/1.m3u8
-CCTV-4中文国际 欧洲,http://220.176.159.183:8888/udp/239.252.219.192:5140#http://222.141.133.195:8888/rtp/225.1.5.31:1342
-CCTV-4中文国际 美洲,http://220.176.159.183:8888/udp/239.252.219.193:5140
+CCTV-4中文国际 欧洲,http://118.254.159.80:8888/udp/239.76.246.95:1234#http://219.155.15.127:4022/rtp/225.1.5.31:1342#http://106.57.1.95:55555/udp/239.200.201.180:4220
+CCTV-4中文国际 美洲,http://118.254.159.80:8888/udp/239.76.246.96:1234#http://219.155.15.127:4022/rtp/225.1.5.32:1343#http://106.57.1.95:55555/udp/239.200.201.181:4220
 CCTV-5体育,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-5/1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8#http://39.134.66.110/PLTV/88888888/224/3221225818/index.m3u8
 CCTV-5+体育赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8#http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-cctv05plus/1.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225507/index.m3u8#http://39.134.65.175/PLTV/88888888/224/3221225507/index.m3u8
 CCTV-6电影,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-cctv6/1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
@@ -960,12 +960,14 @@ SiTV劲爆体育,http://php.jdshipin.com:8880/bst.php?id=jbtyhd/4000000#http://p
 SiTV游戏风云,http://php.jdshipin.com:8880/bst.php?id=yxfyhd/4000000#http://php.jdshipin.com:8880/bst.php?id=yxfy#http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226579/index.m3u8
 SiTV金色学堂,http://php.jdshipin.com:8880/bst.php?id=jsxt#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226994/index.m3u8
 SiTV极速汽车,http://php.jdshipin.com:8880/bst.php?id=jsqchd/4000000
-IPTV淘剧场,http://218.241.192.50:8808/udp/239.3.1.95:8001#http://qnap.yjnhome.com:4000/udp/239.3.1.95:8001
-IPTV淘电影,http://218.241.192.50:8808/udp/239.3.1.250:8001#http://qnap.yjnhome.com:4000/udp/239.3.1.250:8001
-IPTV淘娱乐,http://218.241.192.50:8808/udp/239.3.1.100:8001#http://qnap.yjnhome.com:4000/udp/239.3.1.100:8001
-IPTV淘精彩,http://218.241.192.50:8808/udp/239.3.1.178:8001#http://qnap.yjnhome.com:4000/udp/239.3.1.178:8001
-IPTV萌宠TV,http://218.241.192.50:8808/udp/239.3.1.102:8001#http://qnap.yjnhome.com:4000/udp/239.3.1.102:8001
-IPTV淘Baby,http://218.241.192.50:8808/udp/239.3.1.238:8001#http://qnap.yjnhome.com:4000/udp/239.3.1.238:8001
+IPTV淘剧场,http://123.118.61.134:8686/rtp/239.3.1.95:8001#http://218.241.192.50:8808/udp/239.3.1.95:8001#http://qnap.yjnhome.com:4000/udp/239.3.1.95:8001#http://111.196.131.234:8012/rtp/239.3.1.95:8001
+IPTV淘电影,http://123.118.61.134:8686/rtp/239.3.1.250:8001#http://218.241.192.50:8808/udp/239.3.1.250:8001#http://qnap.yjnhome.com:4000/udp/239.3.1.250:8001#http://111.196.131.234:8012/rtp/239.3.1.250:8001
+IPTV淘娱乐,http://123.118.61.134:8686/rtp/239.3.1.100:8001#http://218.241.192.50:8808/udp/239.3.1.100:8001#http://qnap.yjnhome.com:4000/udp/239.3.1.100:8001
+IPTV淘精彩,http://123.118.61.134:8686/rtp/239.3.1.178:8001#http://218.241.192.50:8808/udp/239.3.1.178:8001#http://qnap.yjnhome.com:4000/udp/239.3.1.178:8001
+IPTV萌宠TV,http://123.118.61.134:8686/rtp/239.3.1.102:8001#http://218.241.192.50:8808/udp/239.3.1.102:8001#http://qnap.yjnhome.com:4000/udp/239.3.1.102:8001
+IPTV淘Baby,http://123.118.61.134:8686/rtp/239.3.1.238:8001#http://218.241.192.50:8808/udp/239.3.1.238:8001#http://qnap.yjnhome.com:4000/udp/239.3.1.238:800
+IPTV大健康,http://123.118.61.134:8686/rtp/239.3.1.251:8001#http://221.219.73.129:18888/rtp/239.3.1.251:8001#http://111.196.131.234:8012/rtp/239.3.1.251:8001
+IPTV4K超清http://123.118.61.134:8686/rtp/239.3.1.249:8001#http://221.219.73.129:18888/rtp/239.3.1.249:8001#http://111.196.131.234:8012/rtp/239.3.1.249:8001
 百事通华语影院,http://php.jdshipin.com:8880/bst.php?id=hyyy#http://php.jdshipin.com:8880/bst.php?id=hyyy8m/8000000
 百事通星光影院,http://php.jdshipin.com:8880/bst.php?id=xgyy
 百事通谍战剧场,http://php.jdshipin.com:8880/bst.php?id=dzjc
@@ -1002,9 +1004,6 @@ CCTV 4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 CNC·中文台,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
 CNC·英文台,http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
 IPTV5+,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226345/index.m3u8
-IPTV4K超清,http://111.13.42.238/PLTV/88888888/224/3221226550/1.m3u8
-IPTV大健康,http://221.179.136.140:443/PLTV/88888888/224/3221226556/1.m3u8
-IPTV4K超清,http://124.232.231.246:6610/000000001001/201500000218/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 
 
 轮播,#genre#
