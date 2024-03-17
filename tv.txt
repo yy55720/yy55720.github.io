@@ -136,6 +136,7 @@ FOX-FS1,http://stream.fs1.tv:8080/hls/webstream.m3u8
 纬来体育,http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130#rtmp://119.81.124.89/sat/tv721
 八大戏剧台,http://222.218.158.195:8181/tsfile/live/0150_1.m3u8
 龙祥时代,http://180.142.145.135:8181/tsfile/live/1075_1.m3u8
+东森戏剧,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=156395
 好消息卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 台视,rtmp://119.81.124.89/sat/tv071#https://epg.pw/stream/e43c7da3f07bd4a5c8584901e2f6ff522368b6b3d8a02ac7e476de8a9a31912c.ctv
 华视,rtmp://119.81.124.89/sat/tv111
@@ -197,7 +198,6 @@ NHK华语视界,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.
 卫视中文台,http://61.219.170.95:18522/http/192.168.1.9:8081/hls/62/804/ch05.m3u8
 东森综合,http://61.222.202.191:80/live/yzyh.php?id=42
 东森卡通台,http://61.222.202.191:80/live/yzyh.php?id=54
-东森戏剧,https://epg.pw/stream/1fa14e0b5c74e380f78b9768c5e039ea458c6b11798d424e09bae500bc66cdc0.m3u8
 年代MUCH,http://61.219.170.95:18558/http/192.168.1.9:8018/hls/(10-99)/(800-899)/ch(10-99).m3u8
 年代新闻,http://61.222.202.191:80/live/yzyh.php?id=149
 八大第一台,http://61.219.170.95:18539/http/192.168.1.9:8081/hls/66/808/ch22.m3u8
@@ -475,6 +475,11 @@ ABC新闻,http://61.222.202.191:80/live/yzyh.php?id=150
 云南·元阳综合,http://tv.drs.hhtv.cc:8100/channellive/yydst.flv
 云南·麻栗坡电视台,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel18/playlist.m3u8#http://tvdrs.wsrtv.com.cn:8100/channellive/mlptv.flv#rtmp://tvdrs.wsrtv.com.cn:5040/channellive/mlptv#https://m3u8.channel.wsrtv.com.cn/nmip-media/channellive/channel107237/playlist.m3u8
 云南·绥江,rtmp://livebroadcast.ccwb.cn/live/w1615172384810938#http://livebroadcast.ccwb.cn/live/w1615172384810938.m3u8
+甘肃·经济,https://hlss.gstv.com.cn/49048r/9kzvr5.flv#rtmp://livein.gstv.com.cn/49048r/9kzvr5
+甘肃·文化影视,https://hlss.gstv.com.cn/49048r/068vw9.flv#rtmp://livein.gstv.com.cn/49048r/068vw9
+甘肃·公共应急,https://hlss.gstv.com.cn/49048r/2v86i8.flv#rtmp://livein.gstv.com.cn/49048r/2v86i8
+甘肃·都市,https://hlss.gstv.com.cn/49048r/4o7e76.flv#rtmp://livein.gstv.com.cn/49048r/4o7e76
+甘肃·少儿,https://hlss.gstv.com.cn/49048r/oj57of.flv#rtmp://livein.gstv.com.cn/49048r/oj57of
 甘肃·白银综合,http://live.bygd.cn/byzh/sd/live.m3u8
 甘肃·白银公共,http://live.bygd.cn/bygg/sd/live.m3u8
 甘肃·崆峒综合,http://125.74.200.110:10080/hls/001/001_live.m3u8#rtmp://125.74.200.110:10085/hls/001
@@ -974,14 +979,17 @@ IPTV4K超清http://123.118.61.134:8686/rtp/239.3.1.249:8001#http://221.219.73.12
 百事通热门剧场,http://php.jdshipin.com:8880/bst.php?id=rmjc
 百事通青春动漫,http://php.jdshipin.com:8880/bst.php?id=qcdm
 百事通全球大片,http://php.jdshipin.com:8880/bst.php?id=qqdp8m/8000000
-经典再现,http://183.222.72.116:6868/rtp/239.10.0.130:5140
-精彩电视剧,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
-精彩综艺,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226009/index.m3u8
-探索亚洲,https://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
+睛彩竞技,http://221.219.77.170:4000/rtp/239.3.1.125:8001#http://111.196.131.234:8012/rtp/239.3.1.125:8001
+睛彩篮球,http://221.219.77.170:4000/rtp/239.3.1.126:8001#http://111.196.131.234:8012/rtp/239.3.1.126:8001
+睛彩羽毛球,http://221.219.77.170:4000/rtp/239.3.1.127:8001#http://111.196.131.234:8012/rtp/239.3.1.127:8001
 求索纪录,http://39.134.65.162/PLTV/88888888/224/3221225713/index.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225713/index.m3u8
 求索动物,http://39.134.66.66/PLTV/88888888/224/3221225730/index.m3u8#http://39.134.65.162/PLTV/88888888/224/3221225730/index.m3u8
 求索科学,http://39.134.65.162/PLTV/88888888/224/3221225728/index.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225728/index.m3u8
 求索生活,http://39.134.65.162/PLTV/88888888/224/3221225715/index.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225715/index.m3u8
+经典再现,http://183.222.72.116:6868/rtp/239.10.0.130:5140
+精彩电视剧,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
+精彩综艺,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226009/index.m3u8
+探索亚洲,https://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
 KiD影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 龙鑫网络电影频道,http://106.115.24.46:9901/tsfile/live/1029_1.m3u8
 Hot欧美影院,http://cache.ott.fifalive.itv.cmvideo.cn:80/7185203501769528108/index.m3u8?channel-id=wasusyt&Contentid=7185203501769528108&livemode=1&stbId=no
@@ -1131,7 +1139,7 @@ SiTV都市剧场,http://php.jdshipin.com:8880/bst.php?id=dsjchd/4000000#http://p
 东至影视,http://223.247.33.124:1935/live/yingshi/playlist.m3u8
 嘉兴影视,http://pluslive.jiaxingren.com/whys/sd/live.m3u8
 宁波影视,http://live1.cloud.nbtv.cn/live/e8370b0010ca4d15af9d81c7ce10f6da?fmt=h264_500k_flv&trs=hls_ts
-甘肃文化影视,http://39.134.32.102:6610/270000001111/1110000323/index.m3u8?IASHttpSessionId=OTT
+甘肃文化影视,https://hlss.gstv.com.cn/49048r/068vw9.flv#rtmp://livein.gstv.com.cn/49048r/068vw9
 云南影视,https://hwapi.yunshicloud.com/62hdvf/utrat7.m3u8
 高青影视,rtmp://jsylivealone.iqilu.com/gaoqing/gaoqing_tv02
 镇海先锋影视,http://pluslive.zhxww.net/channel2/sd/live.m3u8
@@ -1166,7 +1174,7 @@ iHOT爱动漫,http://zteres.sn.chinamobile.com:6060/000000001000/600000000600028
 深圳少儿,http://ye23.win/iptv/sztv.php?id=7
 天津少儿,http://221.196.136.54:9998/udp/225.1.1.125:5002
 江西少儿,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226194/index.m3u8?fmt=ts2hls#http://local.live.jxtvcn.com.cn/live-jxtv/tv_jxtv6.m3u8
-甘肃少儿,http://39.134.32.102:6610/270000001111/1110000327/index.m3u8?IASHttpSessionId=OTT
+甘肃少儿,https://hlss.gstv.com.cn/49048r/oj57of.flv#rtmp://livein.gstv.com.cn/49048r/oj57of
 新疆少儿,http://117.190.144.101:9901/tsfile/live/1010_1.m3u8?key=txiptv
 山东少儿,http://119.164.216.162:9901/tsfile/live/1006_1.m3u8
 CCTV新科动漫,http://cctvtxyh5ca.liveplay.myqcloud.com/live/xinkedongman_2_hd.m3u8
