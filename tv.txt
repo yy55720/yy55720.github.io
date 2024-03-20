@@ -136,7 +136,6 @@ FOX-FS1,http://stream.fs1.tv:8080/hls/webstream.m3u8
 
 台湾,#genre#
 纬来体育,http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130#rtmp://119.81.124.89/sat/tv721
-八大戏剧台,http://222.218.158.195:8181/tsfile/live/0150_1.m3u8
 龙祥时代,http://180.142.145.135:8181/tsfile/live/1075_1.m3u8#http://mywlkj.ddns.net:754/dl/dl668/yximgs.php?id=44
 东森电影,http://mywlkj.ddns.net:754/dl/dl668/yximgs.php?id=42
 东森戏剧,http://mywlkj.ddns.net:754/dl/dl668/yximgs.php?id=40#http://mywlkj.ddns.net:754/dl/dl668/yximgs.php?id=41#http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=156395
@@ -223,8 +222,8 @@ NHK华语视界,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.
 年代MUCH,http://61.219.170.95:18558/http/192.168.1.9:8018/hls/(10-99)/(800-899)/ch(10-99).m3u8
 八大第一台,http://61.219.170.95:18539/http/192.168.1.9:8081/hls/66/808/ch22.m3u8
 八大综合台,http://61.219.170.95:18517/http/192.168.1.9:8007/hls/(10-99)/(800-899)/ch(10-99).m3u8
+八大戏剧台,http://222.218.158.195:8181/tsfile/live/0150_1.m3u8
 八大娱乐台,http://61.222.202.191:80/live/yzyh.php?id=37
-天映电影,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/29
 民视台湾台,http://61.222.202.191:80/live/yzyh.php?id=31
 民视第一台,rtmp://119.81.124.89/sat/md021#http://61.222.202.191:80/live/yzyh.php?id=46
 非凡商业台,http://61.219.170.95:18510/http/192.168.1.9:8008/hls/(10-99)/(800-899)/ch(10-99).m3u8
