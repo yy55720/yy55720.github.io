@@ -1035,7 +1035,7 @@ NewTV超级综艺,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-busin
 CHC动作电影,http://120.210.193.151:8006/120000001002/XMTdzdy/1.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 CHC家庭影院,http://120.210.193.151:8006/120000001002/XMTjtyy/1.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 CHC高清电影,http://120.210.193.151:8006/120000001002/XMTgqdy/1.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8#http://39.134.18.68/PLTV/88888888/224/3221232382/index.m3u8
-重温经典,http://222.218.158.195:8181/tsfile/live/1085_1.m3u8#http://43.141.130.70/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8#http://1.62.64.80/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8#http://1.62.64.234/2d07c55520f72f74e7a4710c981d91e2.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8 
+重温经典,http://1.62.64.80/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8#http://1.62.64.234/2d07c55520f72f74e7a4710c981d91e2.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8 
 精彩影视,http://222.218.158.195:8181/tsfile/live/1026_1.m3u8#http://118.112.90.2:8888/udp/239.93.42.92:5140
 欧洲华文电视台1,http://vvlive.eztv.vip/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
 欧洲华文电视台2,http://vvlive.eztv.vip/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa2def0b71d5389778b0d3
@@ -1130,8 +1130,8 @@ IPTV5+,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/322122634
 斗鱼科幻动作,http://lxajh.top/tv/douyu.php?id=4332#http://zzy789.xyz/douyu1.php?id=4332#http://43.138.170.29:35455/douyu/4332
 斗鱼灾难巨兽,http://lxajh.top/tv/douyu.php?id=252802#http://zzy789.xyz/douyu1.php?id=252802#http://43.138.170.29:35455/douyu/252802
 斗鱼经典电影,http://lxajh.top/tv/douyu.php?id=413573#http://zzy789.xyz/douyu1.php?id=413573#http://43.138.170.29:35455/douyu/413573
-斗鱼电影,http://lxajh.top/tv/douyu.php?id=5423#http://zzy789.xyz/douyu1.php?id=5423#http://43.138.170.29:35455/douyu/5423
-特辑电影,http://lxajh.top/tv/douyu.php?id=3637778#http://zzy789.xyz/douyu1.php?id=3637778#http://43.138.170.29:35455/douyu/3637778
+斗鱼神乐1,http://lxajh.top/tv/douyu.php?id=85894#http://zzy789.xyz/douyu1.php?id=85894#http://43.138.170.29:35455/douyu/85894
+斗鱼神乐2,http://lxajh.top/tv/douyu.php?id=122402#http://zzy789.xyz/douyu1.php?id=122402#http://43.138.170.29:35455/douyu/122402
 周星驰,http://8.137.57.240:81/hy.php?url=11342412#http://43.138.170.29:35455/huya/11342412#http://mmitv.top/pltv/huya.php?id=11342412#http://159.75.85.63:35455/huya/11342412
 林正英,http://8.137.57.240:81/hy.php?url=11342421#http://43.138.170.29:35455/huya/11342421#http://mmitv.top/pltv/huya.php?id=11342421#http://159.75.85.63:35455/huya/11342421
 成龙,http://8.137.57.240:81/hy.php?url=11342386#http://43.138.170.29:35455/huya/11342386#http://mmitv.top/pltv/huya.php?id=11342386#http://159.75.85.63:35455/huya/11342386
