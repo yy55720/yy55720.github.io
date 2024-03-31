@@ -249,7 +249,6 @@ EYE戏剧,http://61.222.202.191:80/live/yzyh.php?id=52
 华视新闻资讯台,https://live.6zxr.xyz/tvbs56/index.m3u8
 StarWorld卫视合家欢,http://61.219.170.95:18504/http/192.168.1.9:8001/hls/(10-99)/(800-899)/ch(10-99).m3u8
 ANIMAX,http://61.219.170.95:18550/http/192.168.1.9:8001/hls/(10-99)/(800-899)/ch(10-99).m3u8
-寰宇新闻台,https://live.6zxr.xyz/fhwszw/index.m3u8
 东风卫视,http://61.219.170.95:18560/http/192.168.1.9:8081/hls/68/810/ch31.m3u8
 智林体育台,https://epg.pw/stream/ebb39752a37905401eb997aeacb0113bb0aeec6fae6ca8b3f03b42b006eda328.m3u8
 海豚综合台,http://58.99.33.16:1935/liveedge17/live_077_3.stream/chunklist.m3u8
