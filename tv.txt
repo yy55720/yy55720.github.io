@@ -831,6 +831,8 @@ ABC新闻,http://61.222.202.191:80/live/yzyh.php?id=150
 河南·永城新闻综合,http://tvpull.dxhmt.cn:9081/tv/11481-1.m3u8
 河南·兰考新闻,http://tvpull.dxhmt.cn:9081/tv/10225-1.m3u8
 河南·西峡电视台,http://tvpull.dxhmt.cn:9081/tv/11323-1.m3u8
+河南·杞县新闻综合,http://tvpull.dxhmt.cn:9081/tv/10221-1.m3u8
+河南·邓州综合,http://tvpull.dxhmt.cn:9081/tv/11381-1.m3u8
 宁夏·公共,https://hls.ningxiahuangheyun.com/live/nxgg1M.m3u8
 宁夏·经济,https://hls.ningxiahuangheyun.com/live/nxjj1M.m3u8
 宁夏·文旅,https://hls.ningxiahuangheyun.com/live/nxwl1M.m3u8
