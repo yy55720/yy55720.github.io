@@ -323,7 +323,6 @@ ABC新闻,http://61.222.202.191:80/live/yzyh.php?id=150
 北京·卡酷少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8#http://221.2.146.228:8888/newlive/live/hls/57/live.m3u8#http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/kakukaton/1.m3u8
 北京·房山无线,http://live.funhillrm.com/2/sd/live.m3u8
 北京·石景山电视台,http://live.sjsrm.com/bjsjs/sd/live.m3u8
-全纪实,http://223.215.32.204:8888/udp/238.1.78.151:7080
 上海·纪实人文,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225673/index.m3u8
 上海·新闻综合,http://php.jdshipin.com:8880/bst.php?id=xwzhhd8m/8000000#http://lr1.aikan.miguvideo.com/wd_r4/dfl/xinwenzonghehd/3000/index.m3u8?msisdn=&encrypt=#http://61.170.164.195:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 上海·都市,http://php.jdshipin.com:8880/bst.php?id=ylpdhd/4000000#http://php.jdshipin.com:8880/bst.php?id=shds#http://61.170.164.195:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
