@@ -524,8 +524,8 @@ ABC新闻,http://61.222.202.191:80/live/yzyh.php?id=150
 福建·旅游,http://php.jdshipin.com:8880/bst.php?id=fjly
 福建·电视剧,http://php.jdshipin.com:8880/bst.php?id=fjdsj
 福建·经济,http://php.jdshipin.com:8880/bst.php?id=fjjj
-福建·厦门1,http://117.27.190.42:9901/tsfile/live/23293_1.m3u8?key=txiptv&playlive=1&authid=0
-福建·厦门2,http://117.27.190.42:9901/tsfile/live/23294_1.m3u8?key=txiptv&playlive=1&authid=0
+福建·厦门1,http://117.30.215.40:4022/rtp/239.61.3.55:9848#http://nas.8211321.com:5555/rtp/239.61.3.55:9848#http://27.154.214.56:8888/rtp/239.61.3.55:9848
+福建·厦门2,http://117.30.215.40:4022/rtp/239.61.3.56:9854#http://nas.8211321.com:5555/rtp/239.61.3.56:9854#http://27.154.214.56:8888/rtp/239.61.3.56:9854
 福建·福州综合,http://live.zohi.tv/video/s10001-fztv-1/index.m3u8#http://117.27.190.42:9901/tsfile/live/23301_1.m3u8?key=txiptv&playlive=1&authid=0
 福建·福州生活,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 福建·福州少儿,http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
