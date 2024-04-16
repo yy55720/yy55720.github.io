@@ -948,6 +948,9 @@ ABC新闻,http://61.222.202.191:80/live/yzyh.php?id=150
 辽宁·生活,http://fxgm.fxjf.work:19901/tsfile/live/1004_1.m3u8#http://rt4.orangevip.top:8999/rtp/232.0.0.150:1234
 辽宁·教育青少,http://fxgm.fxjf.work:19901/tsfile/live/1005_1.m3u8#http://rt4.orangevip.top:8999/rtp/232.0.0.241:1234
 辽宁·北方,http://fxgm.fxjf.work:19901/tsfile/live/1006_1.m3u8#http://rt4.orangevip.top:8999/rtp/232.0.0.151:1234
+辽宁·大连新闻综合,http://live.cooltv.top/tv/cutv.php?id=dlxwzh#http://live.cooltv.top/tv/tide.php?id=dlzh
+辽宁·大连文体,http://live.cooltv.top/tv/tide.php?id=dlwt#http://live.cooltv.top/tv/cutv.php?id=dlwt
+辽宁·大连生活,http://live.cooltv.top/tv/tide.php?id=dlsh#http://live.cooltv.top/tv/cutv.php?id=dlsh
 吉林·公共新闻,http://gongzhuling.lnott.top:9999/hls/23/index.m3u8#http://119.54.12.35:9999/hls/23/index.m3u8#http://119.54.12.6:9999/hls/23/index.m3u8#http://119.54.8.235:9999/hls/23/index.m3u8#http://119.54.12.141:9999/hls/23/index.m3u8
 吉林·都市,http://gongzhuling.lnott.top:9999/hls/19/index.m3u8#http://119.54.12.35:9999/hls/19/index.m3u8#http://119.54.12.6:9999/hls/19/index.m3u8#http://119.54.8.235:9999/hls/19/index.m3u8#http://119.54.12.141:9999/hls/19/index.m3u8
 吉林·生活,http://gongzhuling.lnott.top:9999/hls/20/index.m3u8#http://119.54.12.35:9999/hls/20/index.m3u8#http://119.54.12.6:9999/hls/20/index.m3u8#http://119.54.8.235:9999/hls/20/index.m3u8#http://119.54.12.141:9999/hls/20/index.m3u8
@@ -1023,6 +1026,7 @@ CCTV高尔夫·网球,http://120.210.193.151:8006/120000001002/XMTgolf/1.m3u8
 深圳体育健康,http://113.67.166.23:8889/udp/239.77.1.128:5146#http://113.83.248.211:4200/udp/239.77.1.128:5146#http://116.21.123.201:8000/udp/239.77.1.128:5146#http://218.19.110.254:9999/udp/239.77.1.128:5146#http://14.117.234.16:9000/udp/239.77.1.128:5146#http://119.23.60.89:8460/udp/239.77.1.128:5146
 上海极速汽车,http://183.207.255.188/live/program/live/jsqchd/4000000/mnf.m3u8#http://111.20.33.93/PLTV/88888893/224/3221226574/index.m3u8
 杭州体育,http://125.210.152.19:9121/live/hzgq-hzsegq-h264.m3u8
+大连文体,http://live.cooltv.top/tv/tide.php?id=dlwt#http://live.cooltv.top/tv/cutv.php?id=dlwt
 四海钓鱼,http://lr1.aikan.miguvideo.com/wd_r4/peoplecn/shdiaoyu/1200/index.m3u8?msisdn=&encrypt=
 来钓鱼吧,http://118.114.188.36:8888/udp/239.93.42.8:5140#http://182.149.106.41:8888/udp/239.93.42.8:5140#http://110.188.37.163:55555/udp/239.93.42.8:5140#http://171.214.202.208:4000/udp/239.93.42.8:5140#http://171.214.250.205:4022/udp/239.93.42.8:5140
 
