@@ -1204,7 +1204,7 @@ KiD影院,https://pull.kktv8.com/livekktv/128600025.flv
 哒啵电竞,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226951/index.m3u8
 CHC动作电影,http://120.210.193.151:8006/120000001002/XMTdzdy/1.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 CHC家庭影院,http://120.210.193.151:8006/120000001002/XMTjtyy/1.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
-CHC高清电影,http://120.210.193.151:8006/120000001002/XMTgqdy/1.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8#http://39.134.18.68/PLTV/88888888/224/3221232382/index.m3u8
+CHC影迷电影,http://120.210.193.151:8006/120000001002/XMTgqdy/1.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8#http://39.134.18.68/PLTV/88888888/224/3221232382/index.m3u8
 重温经典,http://117.162.34.102/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8#http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
 精彩影视,http://gzly.hkychina.com:6001/udp/239.252.220.223:5140#http://gzly.hkychina.com:6003/udp/239.252.220.223:5140
 IPTV淘剧场,http://124.64.236.210:8012/rtp/239.3.1.95:8001#http://1.203.76.124:7788/udp/225.1.8.37:8002#http://114.254.89.70:2222/rtp/239.3.1.95:8001#http://115.171.216.54:4000/udp/225.1.8.37:8002#http://218.241.192.50:8808/udp/239.3.1.95:8001#http://111.196.131.234:8012/rtp/239.3.1.95:8001
@@ -1313,7 +1313,7 @@ SiTV极速汽车,http://php.jdshipin.com:8880/bst.php?id=jsqchd/4000000
 黑莓电影,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/jdianying/1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225681/index.m3u8
 CHC动作电影,http://120.210.193.151:8006/120000001002/XMTdzdy/1.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 CHC家庭影院,http://120.210.193.151:8006/120000001002/XMTjtyy/1.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
-CHC高清电影,http://120.210.193.151:8006/120000001002/XMTgqdy/1.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8#http://39.134.18.68/PLTV/88888888/224/3221232382/index.m3u8
+CHC影迷电影,http://120.210.193.151:8006/120000001002/XMTgqdy/1.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8#http://39.134.18.68/PLTV/88888888/224/3221232382/index.m3u8
 长影频道,http://gongzhuling.lnott.top:9999/hls/28/index.m3u8#http://119.54.12.35:9999/hls/28/index.m3u8#http://119.54.12.6:9999/hls/28/index.m3u8#http://119.54.8.235:9999/hls/28/index.m3u8#http://119.54.12.141:9999/hls/28/index.m3u8
 安徽影视,http://120.210.193.151:8006/120000001002/XMTah_yshd/index.m3u8#http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829369249612.m3u8#http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8
 北京影视,http://111.196.131.234:8012/rtp/239.3.1.158:8000#http://123.113.100.181:4022/rtp/239.3.1.158:8000#http://123.117.32.124:4000/rtp/239.3.1.158:8000#http://124.64.236.210:8012/rtp/239.3.1.158:8000#http://1.203.76.124:7788/udp/225.1.8.82:8000#http://114.254.89.70:2222/rtp/239.3.1.158:8000#http://221.218.211.229:58888/rtp/239.3.1.158:8000#http://125.33.179.15:5555/rtp/239.3.1.158:8000#http://115.171.216.54:4000/udp/225.1.8.82:8000#http://www.liruixiang.cc:9000/rtp/239.3.1.158:8000
