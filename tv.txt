@@ -476,8 +476,8 @@ ABC新闻,http://61.222.202.191:80/live/yzyh.php?id=150
 江苏·常熟综合,rtmp://cstvplay.21cs.cn/cstv1/cstv1#http://cstvplay.21cs.cn/cstv1/cstv1.m3u8
 江苏·常熟民生经济,rtmp://cstvplay.21cs.cn/cstv2/cstv2#http://cstvplay.21cs.cn/cstv2/cstv2.m3u8
 江苏·睢宁综合,rtmp://221.229.243.45:1935/live/live1
-江苏·睢宁生活教育,rtmp://221.229.243.45:1935/live/live2
-江苏·睢宁三农,rtmp://221.229.243.45:1935/live/live3
+江苏·睢宁生活教育,http://suining-tv-hls.cm.jstv.com/suining-tv/suiningsh.m3u8#rtmp://221.229.243.45:1935/live/live2
+江苏·睢宁三农,http://suining-tv-hls.cm.jstv.com/suining-tv/suiningsn.m3u8#rtmp://221.229.243.45:1935/live/live3
 江苏·睢宁资讯,rtmp://221.229.243.45:1935/live/live4
 江苏·扬州新闻,http://cm-wshls.homecdn.com/live/8bb.m3u8#http://mmitv.top/test/yztv.php?id=yzxw
 江苏·扬州城市,http://cm-wshls.homecdn.com/live/8bd.m3u8#http://mmitv.top/test/yztv.php?id=yzcs
@@ -576,6 +576,8 @@ ABC新闻,http://61.222.202.191:80/live/yzyh.php?id=150
 四川·泸州科教生活,http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel103074/playlist.m3u8#rtmp://tvdrs.luzhoubs.com/channellive/lztv3#http://file.luzhoubs.com/nmip-media/channellive/channel103074/playlist.m3u8
 四川·德阳新闻综合,http://scdytv.cn:1935/live/m_xwpd_livevideo/playlist.m3u8#rtmp://scdytv.cn:1935/live/m_xwpd_livevideo
 四川·德阳文旅科教,http://scdytv.cn:1935/live/m_ggpd_livevideo/playlist.m3u8#rtmp://scdytv.cn:1935/live/m_ggpd_livevideo
+四川·巴中综合,http://30814.hlsplay.aodianyun.com/lms_30814/tv_channel_246.m3u8
+四川·巴中文旅生活,http://30814.hlsplay.aodianyun.com/lms_30814/tv_channel_247.m3u8
 四川·洪雅综合,http://117.172.215.250:8083/videos/live/35/39/GQVbrgob5CGJM/GQVbrgob5CGJM.M3U8
 四川·蓬安综合,http://palive.patv123.com:8091/live/xwpd_800K.m3u8
 四川·德格综合,http://dgfile.ganzitv.com:80/nmip-media/channellive/channel101955/playlist.m3u8
@@ -617,6 +619,7 @@ ABC新闻,http://61.222.202.191:80/live/yzyh.php?id=150
 四川·宣汉综合,http://livexuanhan.chinamcache.com:80/live/push1.m3u8
 四川·丹棱综合,http://dcpull.sctvcloud.com:80/live/51f08e62018810000b2562ab00000000/playlist.m3u8
 四川·北川综合,http://dcpull.sctvcloud.com:80/live/561c239c01881000e4bfd3e600000000/playlist.m3u8
+重庆·潼南综合,http://183.230.184.51:65500/tntv1.m3u8
 重庆·垫江综合,http://125.62.24.185:80/1.m3u8#http://play-sh.quklive.com/live/1672366847646284.m3u8#http://play-sh.quklive.com/live/1672366847646284.flv#rtmp://play-sh.quklive.com/live/1672366847646284
 重庆·大足综合,http://218.201.85.71:3170/m3u8
 重庆·璧山综合,http://222.179.42.129:8181/hls1.m3u8
