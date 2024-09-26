@@ -1295,8 +1295,8 @@ SiTV极速汽车,http://php.jdshipin.com:8880/bst.php?id=jsqchd/4000000
 李小哇絮叨叨,http://cfss.cc/cdn/hy/18441722.m3u8#https://sxtv.cloudns.org/huya/18441722#https://lunbo.freetv.top/huya/18441722#http://huanqiuzhibo.cn/manifest/huya.php?id=18441722#http://159.75.85.63:35455/huya/18441722#https://www.goodiptv.club/huya/18441722
 法证先锋,http://cfss.cc/cdn/hy/23863804.m3u8#https://sxtv.cloudns.org/huya/23863804#https://lunbo.freetv.top/huya/23863804#http://huanqiuzhibo.cn/manifest/huya.php?id=23863804#http://159.75.85.63:35455/huya/23863804#https://www.goodiptv.club/huya/23863804
 极限挑战,http://cfss.cc/cdn/hy/11352914.m3u8#https://sxtv.cloudns.org/huya/11352914#https://lunbo.freetv.top/huya/11352914#http://huanqiuzhibo.cn/manifest/huya.php?id=11352914#http://159.75.85.63:35455/huya/11352914#https://www.goodiptv.club/huya/11352914
-1905国内电影,http://php.jdshipin.com:8880/1905.php?id=1905dy
-1905国外电影,http://php.jdshipin.com:8880/1905.php?id=1905dy2
+1905国内电影,http://xxw.me0.cn/1905dy.php?id=1905a#http://php.jdshipin.com:8880/1905.php?id=1905dy
+1905国外电影,http://xxw.me0.cn/1905dy.php?id=1905b#http://php.jdshipin.com:8880/1905.php?id=1905dy2
 斗鱼科幻动作,http://maomao.kandiantv.cn/douyu1.php?id=4332#https://sxtv.cloudns.org/douyu/4332#https://lunbo.freetv.top/douyu/4332#http://huanqiuzhibo.cn/manifest/douyu.php?id=4332#http://lxajh.top/tv/douyu.php?id=4332#http://159.75.85.63:35455/douyu/4332#http://zzy789.xyz/douyu1.php?id=4332#https://www.goodiptv.club/douyu/4332
 斗鱼灾难巨兽,http://maomao.kandiantv.cn/douyu1.php?id=252802#https://sxtv.cloudns.org/douyu/252802#https://lunbo.freetv.top/douyu/252802#http://huanqiuzhibo.cn/manifest/douyu.php?id=252802#http://lxajh.top/tv/douyu.php?id=252802#http://159.75.85.63:35455/douyu/252802#http://zzy789.xyz/douyu1.php?id=252802#https://www.goodiptv.club/douyu/252802
 斗鱼经典电影,http://maomao.kandiantv.cn/douyu1.php?id=6621#https://sxtv.cloudns.org/douyu/6621#https://lunbo.freetv.top/douyu/6621#http://huanqiuzhibo.cn/manifest/douyu.php?id=6621#http://lxajh.top/tv/douyu.php?id=6621#http://159.75.85.63:35455/douyu/6621#http://zzy789.xyz/douyu1.php?id=6621#https://www.goodiptv.club/douyu/6621
