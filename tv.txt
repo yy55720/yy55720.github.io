@@ -1214,7 +1214,6 @@ NewTV超级综艺,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-busin
 网络,#genre#
 英雄联盟赛事,https://lunbo.freetv.top/huya/660000#http://huanqiuzhibo.cn/manifest/huya.php?id=660000#http://159.75.85.63:35455/huya/660000#https://www.goodiptv.club/huya/660000
 姿态,https://lunbo.freetv.top/huya/333003#http://huanqiuzhibo.cn/manifest/huya.php?id=333003#http://159.75.85.63:35455/huya/333003#https://www.goodiptv.club/huya/333003
-沫子,http://159.75.85.63:35455/huya/696969#https://www.goodiptv.club/huya/696969#https://live.metshop.top/huya/696969#https://lunbo.freetv.top/huya/696969
 KiD影院,https://pull.kktv8.com/livekktv/128600025.flv
 黑莓电影,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/jdianying/1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 黑莓动画,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/donghuawg/1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8#http://39.134.67.7:80/wh7f454c46tw3677941986_2066137605/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/1590395940-1.m3u8#http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/1.m3u8
