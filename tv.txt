@@ -99,6 +99,11 @@ TVB J1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
 TVB Plus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
 TVB翡翠台,http://php.jdshipin.com:8880/smt.php?id=Tvbjade
 TVB翡翠台(港),http://php.jdshipin.com:8880/smt.php?id=jade_twn#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
+RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8#https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
+RTHK34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8#https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
+RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream04/streamPlaylist.m3u8#https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
+C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
+面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 TVB明珠台,http://ali.hlspull.yximgs.com/live/huanqiuhklivetcfjhvdjjxcodwoetjmncthvbstyreyhbnnvbdjjwthjyjtvbmj.flv#http://61.144.82.98:808/hls/106/index.m3u8http://mywlkj.ddns.net:754/dl/dl668/yximgs.php?id=4
 TVB娱乐新闻台,https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8#http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
 TVB功夫,http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8#https://edge6a.v2h-cdn.com/asia_action/asia_action.stream/chunklist.m3u8
@@ -1248,7 +1253,7 @@ KiD影院,https://pull.kktv8.com/livekktv/128600025.flv
 CHC动作电影,http://120.210.193.151:8006/120000001002/XMTdzdy/1.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 CHC家庭影院,http://120.210.193.151:8006/120000001002/XMTjtyy/1.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 CHC影迷电影,http://120.210.193.151:8006/120000001002/XMTgqdy/1.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8#http://39.134.18.68/PLTV/88888888/224/3221232382/index.m3u8
-重温经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
+重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv#http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
 精彩影视,http://220.175.144.151:9000/udp/239.252.220.223:5140#http://iku.sunnyli.link:4144/udp/239.252.220.223:5140#http://220.176.218.35:8888/udp/239.252.220.223:5140
 IPTV淘剧场,http://218.241.192.50:8808/udp/239.3.1.95:8001#http://111.197.224.161:4022/rtp/239.3.1.95:8001#http://123.113.237.79:8888/rtp/239.3.1.95:8001#http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.95:8001#http://imzbpfrp.zzmd.fun:8888/rtp/239.3.1.95:8001#http://cn.zzmd.fun:8888/rtp/239.3.1.95:8001#http://yfaqkkms.zzmd.fun:8888/rtp/239.3.1.95:8001
 IPTV淘电影,http://218.241.192.50:8808/udp/239.3.1.250:8001#http://111.197.224.161:4022/rtp/239.3.1.250:8001#http://123.113.237.79:8888/rtp/239.3.1.250:8001#http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.250:8001#http://imzbpfrp.zzmd.fun:8888/rtp/239.3.1.250:8001#http://cn.zzmd.fun:8888/rtp/239.3.1.250:8001#http://yfaqkkms.zzmd.fun:8888/rtp/239.3.1.250:8001
@@ -1289,6 +1294,7 @@ SiTV极速汽车,http://php.jdshipin.com:8880/bst.php?id=jsqchd/4000000
 求索生活,http://39.134.65.162/PLTV/88888888/224/3221225715/index.m3u8
 探索频道,http://mywlkj.ddns.net:754/dl/dl668/yximgs.php?id=56
 动物星球,http://mywlkj.ddns.net:754/dl/dl668/yximgs.php?id=59
+亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612417/live.m3u8
 来钓鱼吧,http://118.114.188.36:8888/udp/239.93.42.8:5140#http://182.149.106.41:8888/udp/239.93.42.8:5140#http://110.188.37.163:55555/udp/239.93.42.8:5140#http://171.214.202.208:4000/udp/239.93.42.8:5140#http://171.214.250.205:4022/udp/239.93.42.8:5140
 麻辣体育,http://118.114.188.36:8888/udp/239.93.42.2:5140#http://182.149.106.41:8888/udp/239.93.42.2:5140#http://110.188.37.163:55555/udp/239.93.42.2:5140#http://171.214.202.208:4000/udp/239.93.42.2:5140#http://171.214.250.205:4022/udp/239.93.42.2:5140
 少儿天地,http://118.114.188.36:8888/udp/239.93.42.34:5140#http://182.149.106.41:8888/udp/239.93.42.34:5140#http://110.188.37.163:55555/udp/239.93.42.34:5140#http://171.214.202.208:4000/udp/239.93.42.34:5140#http://171.214.250.205:4022/udp/239.93.42.34:5140
