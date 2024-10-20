@@ -190,7 +190,7 @@ Eltv生活旅游,http://37.27.111.214:8080/live/85/hls.m3u8
 Nickelodeon,http://37.27.111.214:8080/live/12/hls.m3u8
 Nickjr,http://37.27.111.214:8080/live/22/hls.m3u8
 History,http://37.27.111.214:8080/live/27/hls.m3u8
-TITV,http://37.27.111.214:8080/live/2/hls.m3u8
+TITV原视,http://37.27.111.214:8080/live/2/hls.m3u8
 客家电视台,http://37.27.111.214:8080/live/1/hls.m3u8
 momo,http://37.27.111.214:8080/live/3/hls.m3u8
 mnews镜新闻,http://37.27.111.214:8080/live/62/hls.m3u8
