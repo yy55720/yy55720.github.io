@@ -1067,7 +1067,7 @@ CCTV风云足球,http://120.210.193.151:8006/120000001002/XMTfyzq/1.m3u8#http://
 上海五星体育,http://gslbservzqhsw.itv.cmvideo.cn/5000000010000017540/1.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3#http://47.102.200.34:18081/live/program/live/wxtyhd8m/8000000/mnf.m3u8
 魅力足球,http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031207/1.m3u8?channel-id=bestzb&Contentid=5000000011000031207&livemode=1&stbId=3#http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43083/index.m3u8
 上海劲爆体育,http://gslbservzqhsw.itv.cmvideo.cn/5000000002000029972/1.m3u8?channel-id=bestzb&Contentid=5000000002000029972&livemode=1&stbId=3#http://47.102.200.34:18081/live/program/live/jbtyhd8m/8000000/mnf.m3u8
-iHOT爱体育,http://112.17.52.85/PLTV/88888888/224/3221233700/index.m3u8
+iHOT爱体育,http://xeace.cn:8888/udp/239.93.42.19:5140
 NewTV精品体育,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/jtiyu/1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8#http://gslbservzqhsw.itv.cmvideo.cn/1000000004000014634/1.m3u8?channel-id=ystenlive&Contentid=1000000004000014634&livemode=1&stbId=3
 NewTV超级体育,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-NEWTV05/1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8#http://gslbservzqhsw.itv.cmvideo.cn/1000000001000009601/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009601&livemode=1&stbId=3
 快乐垂钓,http://120.210.193.151:8006/120000001002/XMTklcd/1.m3u8#http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031206/1.m3u8?channel-id=bestzb&Contentid=5000000011000031206&livemode=1&stbId=3
@@ -1180,24 +1180,24 @@ CIBN家居用品,http://iptv.inewya.com/qq494937337/others/cibn.php?id=16#http:/
 
 
 iHOT,#genre#
-iHOT爱悬疑,http://171.213.37.127:4022/udp/239.93.42.12:5140#http://171.214.202.208:4000/udp/239.93.42.12:5140
-iHOT爱喜剧,http://171.213.37.127:4022/udp/239.93.42.21:5140#http://171.214.202.208:4000/udp/239.93.42.21:5140
-iHOT爱经典,http://171.213.37.127:4022/udp/239.93.42.13:5140#http://171.214.202.208:4000/udp/239.93.42.13:5140
-iHOT爱院线,http://171.213.37.127:4022/udp/239.93.42.11:5140#http://171.214.202.208:4000/udp/239.93.42.11:5140
-iHOT爱谍战,http://171.213.37.127:4022/udp/239.93.42.14:5140#http://171.214.202.208:4000/udp/239.93.42.14:5140
-iHOT爱科幻,http://171.213.37.127:4022/udp/239.93.42.10:5140#http://171.214.202.208:4000/udp/239.93.42.10:5140
-iHOT爱奇谈,http://171.213.37.127:4022/udp/239.93.42.22:5140#http://171.214.202.208:4000/udp/239.93.42.22:5140
-iHOT爱动漫,http://171.213.37.127:4022/udp/239.93.42.23:5140#http://171.214.202.208:4000/udp/239.93.42.23:5140
-iHOT爱电竞,http://171.213.37.127:4022/udp/239.93.42.19:5140#http://171.214.202.208:4000/udp/239.93.42.19:5140
-iHOT爱青春,http://171.213.37.127:4022/udp/239.93.42.16:5140#http://171.214.202.208:4000/udp/239.93.42.16:5140
-iHOT爱玩具,http://171.213.37.127:4022/udp/239.93.42.18:5140#http://171.214.202.208:4000/udp/239.93.42.18:5140
-iHOT爱怀旧,http://171.213.37.127:4022/udp/239.93.42.21:5140#http://171.214.202.208:4000/udp/239.93.42.21:5140
-iHOT爱赛车,http://171.213.37.127:4022/udp/239.93.42.20:5140#http://171.214.202.208:4000/udp/239.93.42.20:5140
-iHOT爱幼教,http://171.213.37.127:4022/udp/239.93.42.17:5140#http://171.214.202.208:4000/udp/239.93.42.17:5140
-iHOT爱体育,http://112.17.52.85/PLTV/88888888/224/3221233700/index.m3u8
-iHOT爱历史,http://112.17.52.85/PLTV/88888888/224/3221233685/index.m3u8
-iHOT爱旅行,http://112.17.52.85/PLTV/88888888/224/3221233703/index.m3u8
-iHOT爱浪漫,http://112.17.52.85/PLTV/88888888/224/3221233665/index.m3u8
+iHOT爱悬疑,http://xeace.cn:8888/udp/239.93.42.12:5140
+iHOT爱喜剧,http://xeace.cn:8888/udp/239.93.42.9:5140
+iHOT爱院线,http://xeace.cn:8888/udp/239.93.42.11:5140
+iHOT爱谍战,http://xeace.cn:8888/udp/239.93.42.14:5140
+iHOT爱科幻,http://xeace.cn:8888/udp/239.93.42.10:5140
+iHOT爱奇谈,http://xeace.cn:8888/udp/239.93.42.22:5140
+iHOT爱动漫,http://xeace.cn:8888/udp/239.93.42.23:5140
+iHOT爱浪漫,http://xeace.cn:8888/udp/239.93.42.21:5140
+iHOT爱体育,http://xeace.cn:8888/udp/239.93.42.19:5140
+iHOT爱赛车,http://xeace.cn:8888/udp/239.93.42.20:5140
+iHOT爱历史,http://xeace.cn:8888/udp/239.93.42.13:5140
+iHOT爱旅行,http://xeace.cn:8888/udp/239.93.42.16:5140
+iHOT爱玩具,http://xeace.cn:8888/udp/239.93.42.18:5140
+iHOT爱幼教,http://xeace.cn:8888/udp/239.93.42.17:5140
+iHOT爱经典,http://171.213.37.127:4022/udp/239.93.42.13:5140
+iHOT爱电竞,http://171.213.37.127:4022/udp/239.93.42.19:5140
+iHOT爱青春,http://171.213.37.127:4022/udp/239.93.42.16:5140
+iHOT爱怀旧,http://171.213.37.127:4022/udp/239.93.42.21:5140
 iHOT爱解密,http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000200630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000200630&livemode=1&stbId=3
 iHOT爱探索,http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000300630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000300630&livemode=1&stbId=3
 iHOT爱娱乐,http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000130630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000130630&livemode=1&stbId=3
@@ -1211,7 +1211,6 @@ iHOT爱美食,http://zteres.sn.chinamobile.com:6060/000000001000/600000000600012
 iHOT爱家庭,http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000090630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000090630&livemode=1&stbId=3
 iHOT爱极限,http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000170630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000170630&livemode=1&stbId=3
 iHOT爱军武,http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000006000170630&livemode=1&stbId=3&channel-id=wasusyt
-
 
 NewTV,#genre#
 NewTV精品大剧,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/jdaju/1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8#http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/1.m3u8#http://gslbservzqhsw.itv.cmvideo.cn/1000000004000013968/1.m3u8?channel-id=ystenlive&Contentid=1000000004000013968&livemode=1&stbId=3
