@@ -172,7 +172,7 @@ HITS,http://37.27.111.214:8080/live/28/hls.m3u8
 博斯网球,http://37.27.111.214:8080/live/16/hls.m3u8
 东森新闻,http://37.27.111.214:8080/live/20/hls.m3u8
 TVBS,http://37.27.111.214:8080/live/23/hls.m3u8
-TVBS·欢乐台,http://37.27.111.214:8080/live/24/hls.m3u8
+TVBS欢乐台,http://37.27.111.214:8080/live/24/hls.m3u8
 幸福空间居家台,http://37.27.111.214:8080/live/26/hls.m3u8
 三立综合台,http://37.27.111.214:8080/live/31/hls.m3u8
 公视戏剧,http://37.27.111.214:8080/live/87/hls.m3u8
@@ -208,7 +208,7 @@ ELTA影剧,http://ali.hlspull.yximgs.com/live/huanqiuhklivesfbxcvjsfjdhnfcvbsxjd
 CINEMAX,http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbjbvbjjjbvyvblcfybjxdbcjcfdvsfcbjbnjtcjnemjx.flv#http://mywlkj.ddns.net:754/dl/dl668/yximgs.php?id=49
 THRILL惊栗电影台,http://ali.hlspull.yximgs.com/live/huanqiuhkliveecvjwejjosvojjjsjjjdejfjxjucjshvjcsjjfcjtchpljy.flv#http://mywlkj.ddns.net:754/dl/dl668/yximgs.php?id=51
 AXN,http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbjbvbjjjfjvjhslcfybjssxsjbcjcfdvsfcbjbnjtyjxn.flv#http://mywlkj.ddns.net:754/dl/dl668/yximgs.php?id=53
-TVBS·新闻台,http://ali.hlspull.yximgs.com/live/huanqiuhklivejojwhjxojhjjjlfhjljsjcnxjfvbhjdjwjfjjdsswvtvbsxw.flv#http://mywlkj.ddns.net:754/dl/dl668/yximgs.php?id=25
+TVBS新闻台,http://ali.hlspull.yximgs.com/live/huanqiuhklivejojwhjxojhjjjlfhjljsjcnxjfvbhjdjwjfjjdsswvtvbsxw.flv#http://mywlkj.ddns.net:754/dl/dl668/yximgs.php?id=25
 好消息卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 大立電視台,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 台视,http://ali.hlspull.yximgs.com/live/huanqiuhkliveptejfsxlvcjdewjjjpsjfvvxcjjjpfossvbxcfjjtjvxjhlts.flv#http://mywlkj.ddns.net:754/dl/dl668/yximgs.php?id=23
@@ -240,7 +240,7 @@ DAZN,http://ali.hlspull.yximgs.com/live/huanqiuhklivejjojjxcvyhjsjhtejwfhfvjjdvb
 寰宇国际新闻,http://2023.stream-link.org/playlist/global_news.flv
 三立财经新闻台,http://2023.stream-link.org/playlist/set_inews.flv
 三立新闻台+,http://2023.stream-link.org/playlist/set_news+.flv
-TVBS·财经台,http://2023.stream-link.org/playlist/tvbs.flv
+TVBS财经台,http://2023.stream-link.org/playlist/tvbs.flv
 中天综合台,https://epg.pw/stream/9ffc906d37cf095d0fb596c3cba6c6253e8e445f4ccd24563c7a2e9e99c39f39.m3u8
 采昌影剧,https://epg.pw/stream/24bbd9b0c31ad0e2686d4497d2317ac105a11152a7431d9c8537fad11d038c6c.m3u8
 i-Fun动漫,https://epg.pw/stream/8689f3a4aaa41a290d04abab81f61fcfcfe95772b97610ea7f849fe6284ad534.m3u8
