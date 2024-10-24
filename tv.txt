@@ -595,7 +595,6 @@ ABC新闻,http://61.222.202.191:80/live/yzyh.php?id=150
 四川·德格综合,http://dgfile.ganzitv.com:80/nmip-media/channellive/channel101955/playlist.m3u8#rtmp://tv.drs.ganzitv.com:1935/channellive/dege
 四川·松潘综合,http://live.spccmc.com:90/live/spxwzh.m3u8
 四川·乐至综合,http://175.155.106.72:89/live1/live1.m3u8
-四川·汉源综合,http://live.hyxrmt.com:85/live/xwpd.m3u8
 四川·泸县综合,rtmp://tv.lxxcb.cn:1935/channellive/lxtv1
 四川·夹江综合,rtmp://tv.jjrm.org.cn/channellive/ch1
 四川·沐川综合,rtmp://tv.mcrm.org.cn:1935/channellive/tv01
@@ -854,10 +853,6 @@ ABC新闻,http://61.222.202.191:80/live/yzyh.php?id=150
 山东·青岛4,http://124.129.235.34:9901/tsfile/live/1014_1.m3u8
 山东·青岛5,http://124.129.235.34:9901/tsfile/live/1015_1.m3u8
 山东·青岛6,http://124.129.235.34:9901/tsfile/live/1016_1.m3u8
-山东·烟台新闻综合,http://live.yantaitv.cn/live/3e81a8879da44c5dadf3bd9c10468e1c/9b776d420ee4438199b7657c8eb88f07-1.m3u8
-山东·烟台公共,http://live.yantaitv.cn/live/e50f104a4ffe4a41b2217cbda534146f/d86092e69df94668b33390278b061700-1.m3u8
-山东·烟台经济科技,http://live.yantaitv.cn/live/27f84144e95a4652ae9e5c211b2a6b55/405f3e33ba384aa0a16014d0becd1261-1.m3u8
-山东·烟台影视,http://live.yantaitv.cn/live/e9f1d9045d474c31884d13fa4ffbbd16/a4a9b3704d854756907845107cc56129-1.m3u8
 山东·济宁综合,http://lives.jnnews.tv/video/s10001-JNTV-1/index.m3u8
 山东·济宁教育,http://lives.jnnews.tv/video/s10001-JTV2/index.m3u8
 山东·济宁生活,http://lives.jnnews.tv/video/s10001-JNTV-2/index.m3u8
