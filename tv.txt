@@ -481,6 +481,8 @@ ABC新闻,http://61.222.202.191:80/live/yzyh.php?id=150
 浙江·余姚姚江文化,http://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8
 浙江·平湖新闻综合,http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8
 浙江·文成综合,http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8
+浙江·洞头综合,http://play-sh13.quklive.com/live/1688012459764188.m3u8?auth_key=2028413596-fc5dc2320f7f48b98b2287e55a028b39-0-2d0ee22ce5009e44ff294c7ca34a6274 
+浙江·东阳新闻综合,http://play-sh13.quklive.com/live/1681113308206040.m3u8?auth_key=2028413158-ad2723c5e94045f393c4ccc595b573f9-0-c75b8d81f4470e67519c154e85115a4e
 江苏·新闻,http://lr1.aikan.miguvideo.com/wd_r2/jstv/jsgonggong/600/index.m3u8?msisdn=&encrypt=
 江苏·城市,http://58.220.219.14:9901/tsfile/live/0120_3.m3u8?key=txiptv&playlive=1&authid=0
 江苏·影视,http://lr1.aikan.miguvideo.com/wd_r2/jstv/jsyingshi/600/index.m3u8?msisdn=&encrypt=
@@ -521,6 +523,7 @@ ABC新闻,http://61.222.202.191:80/live/yzyh.php?id=150
 江苏·苏州生活资讯,https://tylive.kan0512.com/norecord/norecord_csztv5.m3u8
 江苏·大丰新闻,http://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafengyt.m3u8
 江苏·大丰公共,http://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafenget.m3u8
+江苏·如东新闻综合,http://rudong-tv-hls.cm.jstv.com/rudong-tv/rdxwzh.m3u8
 江苏·江阴新闻综合,http://221.228.70.101:8080/live/xinwen.m3u8
 江苏·泗阳综合,http://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzh.m3u8
 江苏·泗阳资讯,http://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzx.m3u8
@@ -729,6 +732,8 @@ ABC新闻,http://61.222.202.191:80/live/yzyh.php?id=150
 贵州·松桃综艺,http://live.strmtzx.cn/stzy/sd/live.m3u8
 贵州·黔南1,rtmp://tv.qntv.net/channellive/ch1
 贵州·黔南2,rtmp://tv.qntv.net/channellive/ch2
+贵州·安顺新闻综合,http://hplayer1.juyun.tv/camera/154379194.m3u8
+贵州·安顺公共频道,http://hplayer1.juyun.tv/camera/154526164.m3u8#http://ea164060f5c174db44fd1ba466217f9d.livehwc3.cn/hplayer1.juyun.tv/camera/154526164.m3u8
 湖北·综合,http://223.75.148.190:9901/tsfile/live/1010_1.m3u8
 湖北·公共新闻,http://223.75.148.190:9901/tsfile/live/1006_1.m3u8
 湖北·经视,http://223.75.148.190:9901/tsfile/live/1007_1.m3u8
@@ -955,6 +960,9 @@ ABC新闻,http://61.222.202.191:80/live/yzyh.php?id=150
 宁夏·经济,https://hls.ningxiahuangheyun.com/live/nxjj1M.m3u8#http://stream.nxtv.com.cn/jjpd/sd/live.m3u8
 宁夏·文旅,https://hls.ningxiahuangheyun.com/live/nxwl1M.m3u8
 宁夏·少儿,https://hls.ningxiahuangheyun.com/live/nxse1M.m3u8#http://stream.nxtv.com.cn/sepd/sd/live.m3u8
+宁夏·银川生活,http://play-sh13.quklive.com/live/1667883987087179.m3u8?auth_key=2020823474-454fe4125ffb46448d158b5416843aca-0-d153678307b7ae7e07e22d0e5fcb22e8
+宁夏·银川公共,http://play-sh13.quklive.com/live/1667883943560053.m3u8?auth_key=2020823262-bc2cb743dfab4ce6a26d546eb441f796-0-f59f1ab82df61a440b646adb0d38782e
+宁夏·银川文体,http://play-sh13.quklive.com/live/1667884025738071.m3u8?auth_key=2020823590-f8b344018ae147f9a2ddc0c208153cfe-0-e82894e30aaa46a685d4e8cd901224a0
 宁夏·吴忠综合,http://live.kanwz.net/zhpd/sd/live.m3u8
 宁夏·吴忠公共,http://live.kanwz.net/ggpd/sd/live.m3u8
 青海·经视,http://stream.qhbtv.com/qhsh/playlist.m3u8#http://stream.qhbtv.com/qhsh/sd/live.m3u8
