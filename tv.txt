@@ -138,7 +138,6 @@ RTHK32,http://mywlkj.ddns.net:754/dl/dl668/yximgs.php?id=16#https://rthktv32-liv
 香港开电视,https://cdn.hklive.tv/hls/77/index.m3u8
 Now直播,http://61.222.202.191:80/live/yzyh.php?id=20
 阳光卫视,https://stream.chinasuntv.com/680k/mid_video_index.m3u8
-mediacorp,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 澳门卫视,https://live.mastvnet.com/lsdream/MSTV/1500/live.m3u8
 澳视澳门,http://nas.jdshipin.com:8801/gdas.php#http://61.244.22.5/ch1/ch1.live/index.m3u8
 澳视葡文,http://61.244.22.4/ch2/ch2.live/playelist.m3u8
