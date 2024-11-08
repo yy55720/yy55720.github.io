@@ -388,6 +388,11 @@ ABC新闻,http://61.222.202.191:80/live/yzyh.php?id=150
 广东·广州竞赛,http://tencentplaygzrb.gztv.com/sec/jingsai.m3u8#http://yima.eu.org/gz.php?id=jingsai#http://php.jdshipin.com:8880/gztv.php?id=jingsai
 广东·广州法治,http://tencentplaygzrb.gztv.com/sec/fazhi.m3u8#http://yima.eu.org/gz.php?id=fazhi#http://php.jdshipin.com:8880/gztv.php?id=fazhi
 广东·广州南国都市,http://tencentplaygzrb.gztv.com/sec/nanguodushi.m3u8#http://php.jdshipin.com:8880/gztv.php?id=shenghuo
+广东·佛山综合,http://php.jdshipin.com:8880/fstv.php?id=fszh
+广东·佛山影视,http://php.jdshipin.com:8880/fstv.php?id=fsys
+广东·佛山公共,http://php.jdshipin.com:8880/fstv.php?id=fsgg
+广东·佛山南海,http://php.jdshipin.com:8880/fstv.php?id=fsnh
+广东·佛山高明,http://php.jdshipin.com:8880/fstv.php?id=fsgm
 广东·深圳龙岗,http://liveplay.sznews.com/66_showto_live/2647.m3u8
 广东·深圳众创,http://liveplay.sznews.com/66_showto_live/2645.m3u8
 广东·潮州综合,http://time-vod-qhlive.sobeylive.com/czbtv2019/czzhpd.m3u8
