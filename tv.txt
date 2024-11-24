@@ -163,7 +163,7 @@ THRILL惊栗电影台,http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
 TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8#https://litv.zapi.us.kg/?id=4gtv-4gtv073#http://37.27.111.214:8080/live/23/hls.m3u8
 TVBS新闻台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8#https://litv.zapi.us.kg/?id=4gtv-4gtv072
 中视,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8#https://litv.zapi.us.kg/?id=4gtv-4gtv040
-中天新闻,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
+中天新闻,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8#https://litv.zapi.us.kg/?id=4gtv-4gtv009
 中天亚洲台,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8#https://litv.zapi.us.kg/?id=4gtv-4gtv109
 三立,http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
 三立综合台,https://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8#http://37.27.111.214:8080/live/31/hls.m3u8
@@ -176,7 +176,7 @@ KIX,http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
 民视第一台,https://litv.zapi.us.kg/?id=4gtv-4gtv003#http://37.27.111.214:8080/live/4/hls.m3u8
 民视台湾台,https://litv.zapi.us.kg/?id=4gtv-4gtv001#http://37.27.111.214:8080/live/5/hls.m3u8
 民视,https://litv.zapi.us.kg/?id=4gtv-4gtv002#https://litv.zapi.us.kg/?id=4gtv-4gtv155#http://37.27.111.214:8080/live/6/hls.m3u8
-中视新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv009#http://37.27.111.214:8080/live/7/hls.m3u8
+中视新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv074#http://37.27.111.214:8080/live/7/hls.m3u8
 中视菁采台,https://litv.zapi.us.kg/?id=4gtv-4gtv064#http://37.27.111.214:8080/live/48/hls.m3u8
 华视新闻资讯,https://litv.zapi.us.kg/?id=4gtv-4gtv052#http://37.27.111.214:8080/live/8/hls.m3u8
 博斯高球Ⅰ,https://litv.zapi.us.kg/?id=litv-longturn05#http://37.27.111.214:8080/live/13/hls.m3u8
