@@ -158,6 +158,7 @@ AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8#https://litv.zapi.us.kg
 三立戏剧台,http://61.221.215.25:8800/hls/41/index.m3u8
 ROCK Action,http://aktv.top/AKTV/live/aktv3/rockaction/AKTV.m3u8#http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8#http://37.27.111.214:8080/live/94/hls.m3u8
 THRILL惊栗电影台,http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
+i-Fun动漫,http://aktv.top/AKTV/live/aktv2/ifun/AKTV.m3u8#https://litv.zapi.us.kg/?id=litv-ftv15
 梦工厂动画,http://37.27.111.214:8080/live/57/hls.m3u8
 华视,http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8#https://litv.zapi.us.kg/?id=4gtv-4gtv041
 TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8#https://litv.zapi.us.kg/?id=4gtv-4gtv073#http://37.27.111.214:8080/live/23/hls.m3u8
@@ -179,6 +180,7 @@ KIX,http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
 中视新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv074#http://37.27.111.214:8080/live/7/hls.m3u8
 中视菁采台,https://litv.zapi.us.kg/?id=4gtv-4gtv064#http://37.27.111.214:8080/live/48/hls.m3u8
 华视新闻资讯,https://litv.zapi.us.kg/?id=4gtv-4gtv052#http://37.27.111.214:8080/live/8/hls.m3u8
+东森新闻,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8#http://37.27.111.214:8080/live/20/hls.m3u8
 博斯高球Ⅰ,https://litv.zapi.us.kg/?id=litv-longturn05#http://37.27.111.214:8080/live/13/hls.m3u8
 博斯高球Ⅱ,https://litv.zapi.us.kg/?id=litv-longturn06
 博斯运动Ⅰ,https://litv.zapi.us.kg/?id=litv-longturn07#http://37.27.111.214:8080/live/14/hls.m3u8
@@ -220,7 +222,6 @@ MediaCorp Channel U,http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
 靖天综合台,https://litv.zapi.us.kg/?id=4gtv-4gtv046
 靖天日本台,https://litv.zapi.us.kg/?id=4gtv-4gtv047
 采昌影剧,https://litv.zapi.us.kg/?id=4gtv-4gtv049
-i-Fun动漫,https://litv.zapi.us.kg/?id=litv-ftv15
 靖洋戏剧台,https://litv.zapi.us.kg/?id=4gtv-4gtv045
 靖洋卡通台,https://litv.zapi.us.kg/?id=4gtv-4gtv057
 台湾戏剧台,https://litv.zapi.us.kg/?id=litv-longturn22
@@ -251,7 +252,6 @@ MCE,http://37.27.111.214:8080/live/98/hls.m3u8
 影迷纪实台,http://37.27.111.214:8080/live/92/hls.m3u8
 HITS,http://37.27.111.214:8080/live/28/hls.m3u8
 中视经典,http://37.27.111.214:8080/live/47/hls.m3u8
-东森新闻,http://37.27.111.214:8080/live/20/hls.m3u8
 幸福空间居家台,http://37.27.111.214:8080/live/26/hls.m3u8
 Eltv生活英语台,http://37.27.111.214:8080/live/56/hls.m3u8
 Eltv生活旅游,http://37.27.111.214:8080/live/85/hls.m3u8
