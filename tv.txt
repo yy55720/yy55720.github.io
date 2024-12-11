@@ -3,8 +3,8 @@ CCTV-1综合,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/l
 CCTV-2财经,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-cctv2/1.m3u8
 CCTV-3综艺,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-cctv3/1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
 CCTV-4中文国际,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-4/1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
-CCTV-4中文国际 欧洲,http://118.254.159.80:8888/udp/239.76.246.95:1234#http://219.155.15.127:4022/rtp/225.1.5.31:1342#http://106.57.1.95:55555/udp/239.200.201.180:4220
-CCTV-4中文国际 美洲,http://118.254.159.80:8888/udp/239.76.246.96:1234#http://219.155.15.127:4022/rtp/225.1.5.32:1343#http://106.57.1.95:55555/udp/239.200.201.181:4220
+CCTV-4中文国际 欧洲,http://159.75.85.63:36666/migu/608807419.m3u8?migutoken=901e49a817078eb73fed1223eed364366d8c3663974893782c2753201e021a1229b8a80affc72d8cc1ff11799ac7512c3d76689cce6f2922fd3c80bb5af0c7656134726059e0a19051de5600a1
+CCTV-4中文国际 美洲,http://159.75.85.63:36666/migu/608807416.m3u8?migutoken=6e63bb957e7a7a586c3bb9e034114eed7600d1f78d593144e513300359c43b10a47bed77394dfaa20f821c9c3fa2492874691f480632ce24cf1f9c68fdb5d9de9c8b27ef26d83b757654bd8fb6
 CCTV-5体育,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-5/1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 CCTV-5+体育赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8#http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-cctv05plus/1.m3u8
 CCTV-6电影,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-cctv6/1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
@@ -32,7 +32,7 @@ CCTV电视指南,http://120.210.193.151:8006/120000001002/XMTdszn/1.m3u8
 CCTV央视文化精品,http://120.210.193.151:8006/120000001002/XMTysjp/1.m3u8
 CCTV女性时尚,http://120.210.193.151:8006/120000001002/XMTnxss/1.m3u8
 CCTV老故事,http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8
-CCTV发现之旅,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226235/index.m3u8
+CCTV发现之旅,http://159.75.85.63:36666/migu/624878970.m3u8?migutoken=896f19a95a2e23607ca99eeccf1c42512ba527a9273bc58287e28d37e43b1455ee017605b1a87c0849062fddee36d9c2aaee6d74eab9a8e754d9099f32532fdbd5ad12ebba94d40b41b163e19e
 CCTV卫生健康,http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012513503.m3u8#http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012513502.m3u8
 CETV-1,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/jiaoyutv/1.m3u8
 CETV-2,http://120.210.193.151:8006/120000001002/XMTcetv-2/index.m3u8
