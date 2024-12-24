@@ -85,7 +85,7 @@ CCTV-4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8#http://120.210.193.151:8006/120000001002/XMTbtws/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
 三沙卫视,http://39.134.136.161:6610/000000001000/5000000011000288016/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000288016#http://120.210.193.151:8006/120000001002/XMTssws/index.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8#http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226516/index.m3u8
-农林卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226229/index.m3u8
+农林卫视,http://tvbox6.com/tv/bfgd.php?id=122#http://120.76.248.139/live/bfgd/4200000122.m3u8
 
 
 港澳,#genre#
