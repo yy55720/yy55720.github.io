@@ -1151,15 +1151,6 @@ IPTV4K超清,http://114.254.89.70:2222/rtp/239.3.1.249:8001
 春晚经典小品,https://182.40.120.171/test-txdwk.flv.huya.com/src/1524439828-1524439828-6547419205979865088-3049003112-10057-A-0-1.m3u8#https://www.goodiptv.club/huya/11602068#https://lunbo.freetv.top/huya/11602068#https://025365.xyz:8082/huya.php?id=11602068#http://huanqiuzhibo.cn/manifest/huya.php?id=11602068#http://159.75.85.63:35455/huya/11602068
 
 
-小品相声,#genre#
-赵本山经典小品,http://lxajh.top/tv/douyu.php?id=9817716#http://120.77.28.4:8648/douyu.php?id=9817716#http://jiaojirentv.top/2020/dy.php?id=9817716#http://huanqiuzhibo.cn/manifest/douyu.php?id=9817716#https://lunbo.freetv.top/douyu/9817716#http://zzy789.xyz/douyu1.php?id=9817716#https://www.goodiptv.club/douyu/9817716
-宋小宝小品,http://lxajh.top/tv/douyu.php?id=9817729#http://120.77.28.4:8648/douyu.php?id=9817729#http://jiaojirentv.top/2020/dy.php?id=9817729#http://huanqiuzhibo.cn/manifest/douyu.php?id=9817729#https://lunbo.freetv.top/douyu/9817729#http://zzy789.xyz/douyu1.php?id=9817729#https://www.goodiptv.club/douyu/9817729
-小品,http://lxajh.top/tv/douyu.php?id=9067836#http://120.77.28.4:8648/douyu.php?id=9067836#http://jiaojirentv.top/2020/dy.php?id=9067836#http://huanqiuzhibo.cn/manifest/douyu.php?id=9067836#https://lunbo.freetv.top/douyu/9067836#http://zzy789.xyz/douyu1.php?id=9067836#https://www.goodiptv.club/douyu/9067836
-辽视欢乐集结号,http://lxajh.top/tv/douyu.php?id=9322175#http://120.77.28.4:8648/douyu.php?id=9322175#http://jiaojirentv.top/2020/dy.php?id=9322175#http://huanqiuzhibo.cn/manifest/douyu.php?id=9322175#https://lunbo.freetv.top/douyu/9322175#http://zzy789.xyz/douyu1.php?id=9322175#https://www.goodiptv.club/douyu/9322175
-小品相声,http://lxajh.top/tv/douyu.php?id=9273031#http://120.77.28.4:8648/douyu.php?id=9273031#http://jiaojirentv.top/2020/dy.php?id=9273031#http://huanqiuzhibo.cn/manifest/douyu.php?id=9273031#https://lunbo.freetv.top/douyu/9273031#http://zzy789.xyz/douyu1.php?id=9273031#https://www.goodiptv.club/douyu/9273031
-春晚经典小品,https://aldirect.flv.huya.com/src/1524439828-1524439828-6547419205979865088-3049003112-10057-A-0-1.flv#http://huanqiuzhibo.cn/manifest/huya.php?id=11602068#https://www.goodiptv.club/huya/11602068#https://lunbo.freetv.top/huya/11602068#http://159.75.85.63:35455/huya/11602068
-
-
 影视频道,#genre#
 峨眉电影,http://xeace.cn:8888/udp/239.93.0.252:5140#http://118.114.168.57:8888/udp/239.93.0.252:5140#http://vl15191373.imwork.net:8880/udp/239.93.0.252:5140
 黑莓电影,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/jdianying/1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
