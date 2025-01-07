@@ -1060,7 +1060,7 @@ Newtv魅力潇湘,http://gslbservzqhsw.itv.cmvideo.cn/1000000001000006197/1.m3u8
 
 
 网络,#genre#
-英雄联盟赛事,https://182.40.120.171/test-txdwk.flv.huya.com/src/78941969-2601386338-11172869245971202048-3120471182-10057-A-0-1.m3u8#https://www.goodiptv.club/huya/660000#https://lunbo.freetv.top/huya/660000#http://huanqiuzhibo.cn/manifest/huya.php?id=660000#https://025365.xyz:8082/huya.php?id=660000
+英雄联盟赛事,https://025365.xyz:8082/douyu.php?id=288016#http://lxajh.top/tv/douyu.php?id=288016#http://huanqiuzhibo.cn/manifest/douyu.php?id=288016#https://lunbo.freetv.top/douyu/288016#http://zzy789.xyz/douyu1.php?id=288016
 姿态,https://182.40.120.171/test-txdwk.flv.huya.com/src/2367547387-2367547387-10168538598895255552-4735218230-10057-A-0-1.m3u8#https://www.goodiptv.club/huya/333003#https://lunbo.freetv.top/huya/333003#http://huanqiuzhibo.cn/manifest/huya.php?id=333003#https://025365.xyz:8082/huya.php?id=333003
 KiD影院,https://pull.kktv8.com/livekktv/128600025.flv
 黑莓电影,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/jdianying/1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
