@@ -921,6 +921,14 @@ ABC新闻,http://61.222.202.191:80/live/yzyh.php?id=150
 青海·民和综合,http://livecdn.dmqhyadmin.com/hls/xjminhe.m3u8
 青海·兴海综合,http://lived.dmqhyadmin.com/xhzhpd/sd/live.m3u8
 青海·同德综合,https://lived.dmqhyadmin.com/tdtv/playlist.m3u8
+辽宁·都市,http://tvbox6.com/tv/bfgd.php?id=610#http://120.76.248.139/live/bfgd/4200000610.m3u8
+辽宁·北方,http://tvbox6.com/tv/bfgd.php?id=071#http://120.76.248.139/live/bfgd/4200000071.m3u8
+辽宁·生活,http://tvbox6.com/tv/bfgd.php?id=073#http://120.76.248.139/live/bfgd/4200000073.m3u8
+辽宁·体育,http://tvbox6.com/tv/bfgd.php?id=611#http://120.76.248.139/live/bfgd/4200000611.m3u8
+辽宁·影视剧,http://tvbox6.com/tv/bfgd.php?id=070#http://120.76.248.139/live/bfgd/4200000070.m3u8
+辽宁·教育青少,http://tvbox6.com/tv/bfgd.php?id=075#http://120.76.248.139/live/bfgd/4200000075.m3u8
+辽宁·经济,http://tvbox6.com/tv/bfgd.php?id=076#http://tvbox6.com/tv/bfgd.php?id=480#http://120.76.248.139/live/bfgd/4200000076.m3u8#http://120.76.248.139/live/bfgd/4200000480.m3u8
+辽宁·公共,http://tvbox6.com/tv/bfgd.php?id=077#http://tvbox6.com/tv/bfgd.php?id=481#http://120.76.248.139/live/bfgd/4200000481.m3u8#http://120.76.248.139/live/bfgd/4200000077.m3u8
 辽宁·大连新闻综合,http://live.cooltv.top/tv/cutv.php?id=dlxwzh#http://live.cooltv.top/tv/tide.php?id=dlzh
 辽宁·大连文体,http://live.cooltv.top/tv/tide.php?id=dlwt#http://live.cooltv.top/tv/cutv.php?id=dlwt
 辽宁·大连生活,http://live.cooltv.top/tv/tide.php?id=dlsh#http://live.cooltv.top/tv/cutv.php?id=dlsh
@@ -982,7 +990,7 @@ CCTV央视台球,http://120.210.193.151:8006/120000001002/XMTystq/1.m3u8
 CCTV高尔夫·网球,http://120.210.193.151:8006/120000001002/XMTgolf/1.m3u8
 24小时体育,http://117.148.129.9/PLTV/88888888/224/3221231778/index.m3u8
 体育赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225764/index.m3u8
-辽宁体育,http://fxgm.fxjf.work:19901/tsfile/live/1003_1.m3u8
+辽宁体育,http://tvbox6.com/tv/bfgd.php?id=611#http://120.76.248.139/live/bfgd/4200000611.m3u8
 广东体育,https://vod.gdtv.cn/m3u8/202401/170558960149.m3u8
 北京体育,http://live.nctv.top/6688/bjtv.php?id=bjty
 陕西体育休闲,http://36.46.99.197:8020/rtp/239.111.205.36:5140
@@ -1219,7 +1227,7 @@ SiTV都市剧场,http://39.134.136.161:6610/000000001000/2000000002000000015/ind
 西部电影,http://gxlive.snrtv.com/sx8-SD.m3u8#http://61.150.67.62:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳电视剧,http://113.67.166.23:8889/udp/239.77.1.125:5146#http://113.83.248.211:4200/udp/239.77.1.125:5146#http://116.21.123.201:8000/udp/239.77.1.125:5146#http://218.19.110.254:9999/udp/239.77.1.125:5146#http://14.117.234.16:9000/udp/239.77.1.125:5146#http://119.23.60.89:8460/udp/239.77.1.125:5146
 杭州影视,http://125.210.152.19:9121/live/hzgq-hzysgq-h264.m3u8#http://60.189.46.86:9999/rtp/233.50.201.176:5140#http://220.189.92.148:9999/rtp/233.50.201.176:5140#http://lx.haoyuhuojia.com:4022/rtp/233.50.201.176:5140#http://183.142.58.169:8881/rtp/233.50.201.176:5140#http://218.71.36.138:9999/rtp/233.50.201.176:5140#http://iptv.myxcwh.com:8125/rtp/233.50.201.176:5140
-辽宁影视剧,http://fxgm.fxjf.work:19901/tsfile/live/1001_1.m3u8#http://rt4.orangevip.top:8999/rtp/232.0.0.25:1234
+辽宁影视剧,http://tvbox6.com/tv/bfgd.php?id=070#http://120.76.248.139/live/bfgd/4200000070.m3u8
 江西影视旅游,http://play-live-hls.jxtvcn.com.cn//tv_jxtv4.m3u8
 福州影视,http://live.zohi.tv/video/s10001-yspd-2/index.m3u8
 四川影视文艺,http://110.189.102.15:9901/tsfile/live/0137_1.m3u8#http://vl15191373.imwork.net:8880/udp/239.93.0.166:5140
