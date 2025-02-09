@@ -154,6 +154,7 @@ FOX-FS1,http://stream.fs1.tv:8080/hls/webstream.m3u8
 龙华洋片台,http://ali.hlspull.yximgs.com:80/live/huanqiuhktvqeqcxlvofbqbvbqqqfqvqhslcfvxcvxsqbcvqfjvsfcbqbnqtyxty.flv
 CINEMAX,http://ali.hlspull.yximgs.com:80/live/huanqiuhktvqeqcxlvofbqbvbqqqbvyvblcfybqxjbcqcfjvsfcbqbnqtcqnemqx.flv
 天映经典,http://ali.hlspull.yximgs.com:80/live/huanqiuhktvvcnyjsqfqsetqqfcvbcjtsqqfvxcvsqnmbnlqqhqqnmyhsqqftyjq.flv
+天映频道,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476310.m3u8
 AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
 三立戏剧台,http://61.221.215.25:8800/hls/41/index.m3u8
 中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
@@ -279,7 +280,6 @@ momo,
 东森戏剧,http://50.7.238.114:8278/ettvdrama/playlist.m3u8?tid=MA2A9945921599459215&ct=19249&tsum=c9097ecdf4a17c0922196dbf04b0c6e7#http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 好莱坞电影台,http://mywlkj.ddns.net:754/dl/dl668/yximgs.php?id=47
 ELTA影剧,http://mywlkj.ddns.net:754/dl/dl668/yximgs.php?id=48
-天映频道,http://mywlkj.ddns.net:754/dl/dl668/yximgs.php?id=17
 好消息卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 大立電視台,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 壹电视新闻台,http://mywlkj.ddns.net:754/dl/dl668/yximgs.php?id=26
