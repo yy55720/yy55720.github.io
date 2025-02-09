@@ -89,35 +89,34 @@ CCTV-4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 
 
 港澳,#genre#
-凤凰中文台,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8#http://media.a049.ottcn.com/PLTV/3/224/3221228527/1.m3u8#http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw#http://www.lebaobei.top:6868/udp/239.255.30.50:8231#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰资讯台,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8#http://www.lebaobei.top:6868/udp/239.255.30.70:8231#http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx#http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-凤凰香港台,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8#http://media.a049.ottcn.com/PLTV/3/224/3221228530/1.m3u8#http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk#http://www.lebaobei.top:6868/udp/239.255.30.123:8231#http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+凤凰中文台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰资讯台,http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx#http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰香港台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk#http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 凤凰电影台,http://home.js001.com:7777/stream/channelid/884059847?profile=pass
-美亚电影台,http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8#http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
-Now星影台,http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
-Now爆谷台,http://aktv.top/AKTV/live/aktv2/now-1/AKTV.m3u8
-ANIMAX,http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
+美亚电影台,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476212.m3u8#http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
+Now星影台,
+Now爆谷台,
+ANIMAX,
 澳门莲花,http://php.jdshipin.com:8880/amlh.php
-TVB明珠台,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8#http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
-TVB娱乐新闻台,http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8#http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
-无线新闻,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8#http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw#http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
-TVB星河,http://aktv.top/AKTV/live/aktv2/tvb/AKTV.m3u8#http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe#http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe#http://php.jdshipin.com:8880/smt.php?id=Xinhe#http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
+TVB明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
+TVB娱乐新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
+无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw#http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
+TVB星河,http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe#http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe#http://php.jdshipin.com:8880/smt.php?id=Xinhe#http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
 TVB J1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
-TVB Plus,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8#http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2#http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
-TVB翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8#http://php.jdshipin.com:8880/smt.php?id=Tvbjade
+TVB Plus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2#http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
+TVB翡翠台,http://php.jdshipin.com:8880/smt.php?id=Tvbjade
 TVB翡翠台(港),http://php.jdshipin.com:8880/smt.php?id=jade_twn#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
-TVB千禧经典台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
-TVB功夫,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
+TVB千禧经典台,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476210.m3u8#http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
+TVB功夫,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476226.m3u8#http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 TVB明珠剧集台(北美),http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
 TVB翡翠剧集台(北美),http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
 TVB翡翠综合台(北美),http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
 MYTV SUPER,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
 MYTV SUPER2,http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
 MYTV SUPER3,http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
-无线新闻台(北美),http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8#http://aktv.top/AKTV/live/aktv/null-20/AKTV.m3u8
-ViuTV,http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8#http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
+无线新闻台(北美),http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 ViuTV 6,http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
-C+,http://aktv.top/AKTV/live/aktv3/c/AKTV.m3u8#http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
+C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 myTV SUPER 18台,http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
 RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8#https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
 RTHK34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPlaylist.m3u8#https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8#https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
