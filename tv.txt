@@ -151,7 +151,7 @@ FOX-FS1,http://stream.fs1.tv:8080/hls/webstream.m3u8
 
 台湾,#genre#
 龙祥时代,http://ali.hlspull.yximgs.com:80/live/huanqiuhktvmqloehqbqqqpvboyjetqewsqhthqyuqfqwetyqqqhflxsq.flv
-龙华洋片台,http://ali.hlspull.yximgs.com:80/live/huanqiuhktvqeqcxlvofbqbvbqqqfqvqhslcfvxcvxsqbcvqfjvsfcbqbnqtyxty.flv
+龙华洋片,http://ali.hlspull.yximgs.com:80/live/huanqiuhktvqeqcxlvofbqbvbqqqfqvqhslcfvxcvxsqbcvqfjvsfcbqbnqtyxty.flv
 CINEMAX,http://ali.hlspull.yximgs.com:80/live/huanqiuhktvqeqcxlvofbqbvbqqqbvyvblcfybqxjbcqcfjvsfcbqbnqtcqnemqx.flv
 天映经典,http://ali.hlspull.yximgs.com:80/live/huanqiuhktvvcnyjsqfqsetqqfcvbcjtsqqfvxcvsqnmbnlqqhqqnmyhsqqftyjq.flv
 天映频道,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476310.m3u8
