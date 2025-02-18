@@ -1064,7 +1064,7 @@ Newtv魅力潇湘,http://gslbservzqhsw.itv.cmvideo.cn/1000000001000006197/1.m3u8
 
 
 网络,#genre#
-英雄联盟赛事,http://lxajh.top/tv/douyu.php?id=288016#http://huanqiuzhibo.cn/manifest/douyu.php?id=288016#http://zzy789.xyz/douyu1.php?id=288016#http://hulun.top:35455/douyu/288016#http://124.248.69.76:26781/douyu/288016#http://1.94.31.214:35455/douyu/288016
+英雄联盟赛事,https://182.40.120.171/test-txdwk.flv.huya.com/src/78941969-2601386338-11172869245971202048-3120471182-10057-A-0-1.m3u8#http://124.248.69.76:26781/huya/660000#http://hulun.top:35455/huya/660000#http://rihou.cc:555/huyad.php?id=660000#http://huanqiuzhibo.cn/manifest/huya.php?id=660000#http://1.94.31.214:35455/huya/660000#https://live.iill.top/huya/660000#http://cdn.jdshipin.com:8880/huya.php?id=660000
 姿态,https://182.40.120.171/test-txdwk.flv.huya.com/src/2367547387-2367547387-10168538598895255552-4735218230-10057-A-0-1.m3u8#http://124.248.69.76:26781/huya/333003#http://hulun.top:35455/huya/333003#http://rihou.cc:555/huyad.php?id=333003#http://huanqiuzhibo.cn/manifest/huya.php?id=333003#http://1.94.31.214:35455/huya/333003#https://live.iill.top/huya/333003#http://cdn.jdshipin.com:8880/huya.php?id=333003
 黑莓电影,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/jdianying/1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 黑莓动画,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/donghuawg/1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8#http://39.134.67.7:80/wh7f454c46tw3677941986_2066137605/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/1590395940-1.m3u8#http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/1.m3u8
