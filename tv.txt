@@ -150,11 +150,6 @@ FOX-FS1,http://stream.fs1.tv:8080/hls/webstream.m3u8
 
 
 台湾,#genre#
-龙祥时代,http://ali.hlspull.yximgs.com:80/live/huanqiuhktvmqloehqbqqqpvboyjetqewsqhthqyuqfqwetyqqqhflxsq.flv
-龙华洋片,http://ali.hlspull.yximgs.com:80/live/huanqiuhktvqeqcxlvofbqbvbqqqfqvqhslcfvxcvxsqbcvqfjvsfcbqbnqtyxty.flv
-CINEMAX,http://ali.hlspull.yximgs.com:80/live/huanqiuhktvqeqcxlvofbqbvbqqqbvyvblcfybqxjbcqcfjvsfcbqbnqtcqnemqx.flv
-天映经典,http://ali.hlspull.yximgs.com:80/live/huanqiuhktvvcnyjsqfqsetqqfcvbcjtsqqfvxcvsqnmbnlqqhqqnmyhsqqftyjq.flv
-天映频道,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476310.m3u8
 AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
 三立戏剧台,http://61.221.215.25:8800/hls/41/index.m3u8
 中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
@@ -178,6 +173,11 @@ DAZN1,rtmp://f13h.mine.nu/sat/tv731
 DAZN2,rtmp://f13h.mine.nu/sat/tv741
 中天新闻,https://bxtv.587788.xyz/stream/bxtv/null-7/master.m3u8?u=xiaojia&p=edae81555a120d107ce989b744c762c7031a03490a7cb78b3613ab6d7b947ceb
 寰宇新闻,https://bxtv.587788.xyz/stream/bxtv/null-8/master.m3u8?u=xiaojia&p=edae81555a120d107ce989b744c762c7031a03490a7cb78b3613ab6d7b947ceb
+龙祥时代,http://ali.hlspull.yximgs.com:80/live/huanqiuhktvmqloehqbqqqpvboyjetqewsqhthqyuqfqwetyqqqhflxsq.flv
+龙华洋片,http://ali.hlspull.yximgs.com:80/live/huanqiuhktvqeqcxlvofbqbvbqqqfqvqhslcfvxcvxsqbcvqfjvsfcbqbnqtyxty.flv
+CINEMAX,http://ali.hlspull.yximgs.com:80/live/huanqiuhktvqeqcxlvofbqbvbqqqbvyvblcfybqxjbcqcfjvsfcbqbnqtcqnemqx.flv
+天映经典,http://ali.hlspull.yximgs.com:80/live/huanqiuhktvvcnyjsqfqsetqqfcvbcjtsqqfvxcvsqnmbnlqqhqqnmyhsqqftyjq.flv
+天映频道,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476310.m3u8
 龙华电影,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
 PopC,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
 东森电影,http://1b6467f415.iok.la:9931/tsfile/live/1043_1.m3u8
