@@ -95,45 +95,45 @@ CCTV-4K,http://101.204.187.4:8644/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.co
 凤凰香港台,https://bxtv.587788.xyz/stream/bxtv/null-5/master.m3u8?u=xiaojia&p=edae81555a120d107ce989b744c762c7031a03490a7cb78b3613ab6d7b947ceb#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk#http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 凤凰电影台,http://home.js001.com:7777/stream/channelid/884059847?profile=pass
 美亚电影台,https://bxtv.587788.xyz/stream/bxtv/null-6/master.m3u8?u=xiaojia&p=edae81555a120d107ce989b744c762c7031a03490a7cb78b3613ab6d7b947ceb#http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
-TVB翡翠台,https://bxtv.587788.xyz/stream/bxtv/null/master.m3u8?u=xiaojia&p=edae81555a120d107ce989b744c762c7031a03490a7cb78b3613ab6d7b947ceb#http://php.jdshipin.com:8880/smt.php?id=Tvbjade
+TVB翡翠台,https://cdn.163189.xyz/live/fct4k/stream.m3u8#https://cdn3.163189.xyz/live/fct/stream.m3u8#http://cdn9.163189.xyz/smt1.1.php?id=jade_twn#https://bxtv.587788.xyz/stream/bxtv/null/master.m3u8?u=xiaojia&p=edae81555a120d107ce989b744c762c7031a03490a7cb78b3613ab6d7b947ceb#http://php.jdshipin.com:8880/smt.php?id=Tvbjade
 TVB明珠台,https://bxtv.587788.xyz/stream/bxtv/null-2/master.m3u8?u=xiaojia&p=edae81555a120d107ce989b744c762c7031a03490a7cb78b3613ab6d7b947ceb#http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
-TVB Plus,https://bxtv.587788.xyz/stream/bxtv/tvbplus/master.m3u8?u=xiaojia&p=edae81555a120d107ce989b744c762c7031a03490a7cb78b3613ab6d7b947ceb#http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2#http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
-无线新闻,https://bxtv.587788.xyz/stream/bxtv/null-1/master.m3u8?u=xiaojia&p=edae81555a120d107ce989b744c762c7031a03490a7cb78b3613ab6d7b947ceb#http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw#http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
+TVB Plus,https://cdn.163189.xyz/live/tvbp/stream.m3u8#https://cdn.163189.xyz/live/?id=tvbp#https://bxtv.587788.xyz/stream/bxtv/tvbplus/master.m3u8?u=xiaojia&p=edae81555a120d107ce989b744c762c7031a03490a7cb78b3613ab6d7b947ceb#http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2#http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
+无线新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn#https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn#https://bxtv.587788.xyz/stream/bxtv/null-1/master.m3u8?u=xiaojia&p=edae81555a120d107ce989b744c762c7031a03490a7cb78b3613ab6d7b947ceb#http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw#http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
+TVB星河,http://cdn9.163189.xyz/smt1.1.php?id=Xinhe#http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe#http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe#http://php.jdshipin.com:8880/smt.php?id=Xinhe#http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
+TVB千禧经典台,http://cdn9.163189.xyz/smt3.1.1.php?id=Tvbclassic#http://cdn9.163189.xyz/smt1.1.php?id=Tvbclassic#http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 Now星影台,
 Now爆谷台,
 ANIMAX,
 澳门莲花,http://php.jdshipin.com:8880/amlh.php
 TVB娱乐新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
-TVB星河,http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe#http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe#http://php.jdshipin.com:8880/smt.php?id=Xinhe#http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
 TVB J1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
 TVB翡翠台(港),http://php.jdshipin.com:8880/smt.php?id=jade_twn#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
-TVB千禧经典台,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476210.m3u8#http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 TVB功夫,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476226.m3u8#http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
+HOY77,https://cdn.163189.xyz/live/hoy/stream.m3u8#http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
+RTHK31,https://cdn5.163189.xyz/live/rthk31/stream.m3u8
+RTHK32,https://cdn5.163189.xyz/live/rthk32/stream.m3u8
+无线新闻台(北美),http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
+C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 TVB明珠剧集台(北美),http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
 TVB翡翠剧集台(北美),http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
 TVB翡翠综合台(北美),http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
 MYTV SUPER,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
 MYTV SUPER2,http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
 MYTV SUPER3,http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
-无线新闻台(北美),http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
-ViuTV 6,http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
-C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 myTV SUPER 18台,http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
 RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8#https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
 RTHK34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPlaylist.m3u8#https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8#https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
 RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream04/streamPlaylist.m3u8#https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+ViuTV 6,http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
 TVB直播,https://edge6a.v2h-cdn.com/liveshow/liveshow.stream/chunklist.m3u8#https://edge6a.v2h-cdn.com/liveshow/liveshow.stream/playlist.m3u8
 无线财经体育资讯,http://mywlkj.ddns.net:754/dl/dl668/yximgs.php?id=8#http://mywlkj.ddns.net:754/dl/dl668/yximgs.php?id=9
 星空卫视,http://wouu.net:9977/udp/239.93.0.156:2193
 TVB J2,http://mywlkj.ddns.net:754/dl/dl668/yximgs.php?id=5
-HOY77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 HOY78,http://aktv.top/AKTV/live/aktv/hoy78/AKTV.m3u8#http://mywlkj.ddns.net:754/dl/dl668/yximgs.php?id=11
 Channel [V],http://180.142.145.135:8181/tsfile/live/1006_1.m3u8#http://182.148.15.100:8888/udp/239.93.0.157:2194
 环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 耀才财经台,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000#https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8#http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8#https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8#https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w316626141.m3u8
-RTHK31,http://mywlkj.ddns.net:754/dl/dl668/yximgs.php?id=15#https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8
-RTHK32,http://mywlkj.ddns.net:754/dl/dl668/yximgs.php?id=16#https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream1/streamPlaylist.m3u8
 有线18台,rtmp://119.81.124.89/sat/hk041
 香港卫视文旅,https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
 香港开电视,https://cdn.hklive.tv/hls/77/index.m3u8
