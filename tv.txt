@@ -90,9 +90,9 @@ CCTV-4K,http://101.204.187.4:8644/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.co
 
 
 港澳,#genre#
-凤凰中文台,https://bxtv.587788.xyz/stream/bxtv/null-3/master.m3u8?u=xiaojia&p=edae81555a120d107ce989b744c762c7031a03490a7cb78b3613ab6d7b947ceb#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰资讯台,https://bxtv.587788.xyz/stream/bxtv/null-4/master.m3u8?u=xiaojia&p=edae81555a120d107ce989b744c762c7031a03490a7cb78b3613ab6d7b947ceb#http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx#http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-凤凰香港台,https://bxtv.587788.xyz/stream/bxtv/null-5/master.m3u8?u=xiaojia&p=edae81555a120d107ce989b744c762c7031a03490a7cb78b3613ab6d7b947ceb#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk#http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+凤凰中文台,https://cdn.163189.xyz/live/fhzw/stream.m3u8#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰资讯台,https://cdn3.163189.xyz/live/fhzx/stream.m3u8#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx#http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰香港台,https://cdn6.163189.xyz/live/fhhk/stream.m3u8#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk#http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 凤凰电影台,http://home.js001.com:7777/stream/channelid/884059847?profile=pass
 美亚电影台,https://bxtv.587788.xyz/stream/bxtv/null-6/master.m3u8?u=xiaojia&p=edae81555a120d107ce989b744c762c7031a03490a7cb78b3613ab6d7b947ceb#http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
 TVB翡翠台,https://cdn.163189.xyz/live/fct4k/stream.m3u8#https://cdn3.163189.xyz/live/fct/stream.m3u8#http://cdn9.163189.xyz/smt1.1.php?id=jade_twn#https://bxtv.587788.xyz/stream/bxtv/null/master.m3u8?u=xiaojia&p=edae81555a120d107ce989b744c762c7031a03490a7cb78b3613ab6d7b947ceb#http://php.jdshipin.com:8880/smt.php?id=Tvbjade
