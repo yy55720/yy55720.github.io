@@ -101,26 +101,26 @@ TVB Plus,https://cdn.163189.xyz/live/tvbp/stream.m3u8#https://cdn.163189.xyz/liv
 无线新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn#https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn#https://bxtv.587788.xyz/stream/bxtv/null-1/master.m3u8?u=xiaojia&p=edae81555a120d107ce989b744c762c7031a03490a7cb78b3613ab6d7b947ceb#http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw#http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
 TVB星河,http://cdn9.163189.xyz/smt1.1.php?id=Xinhe#http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe#http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe#http://php.jdshipin.com:8880/smt.php?id=Xinhe#http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
 TVB千禧经典台,http://cdn9.163189.xyz/smt3.1.1.php?id=Tvbclassic#http://cdn9.163189.xyz/smt1.1.php?id=Tvbclassic#http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
-Now星影台,
-Now爆谷台,
-ANIMAX,
 澳门莲花,http://php.jdshipin.com:8880/amlh.php
 TVB娱乐新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 TVB J1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
 TVB翡翠台(港),http://php.jdshipin.com:8880/smt.php?id=jade_twn#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
-TVB功夫,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476226.m3u8#http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
-HOY77,https://cdn.163189.xyz/live/hoy/stream.m3u8#http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
-RTHK31,https://cdn5.163189.xyz/live/rthk31/stream.m3u8
-RTHK32,https://cdn5.163189.xyz/live/rthk32/stream.m3u8
+TVB功夫,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
+HOY77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 无线新闻台(北美),http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
-TVB明珠剧集台(北美),http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
-TVB翡翠剧集台(北美),http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
-TVB翡翠综合台(北美),http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
+RTHK31,https://cdn5.163189.xyz/live/rthk31/stream.m3u8
+RTHK32,https://cdn5.163189.xyz/live/rthk32/stream.m3u8
+ANIMAX,http://aktv_stream1.m16tv.cfd/stream/aktv3/animaxhk/AKTV.m3u8
+TVB翡翠剧集台(北美),http://aktv_stream1.m16tv.cfd/stream/aktv/null-18/AKTV.m3u8
+TVB明珠剧集台(北美),http://aktv_stream1.m16tv.cfd/stream/aktv/null-19/AKTV.m3u8
+TVB翡翠综合台(北美),http://aktv_stream1.m16tv.cfd/stream/aktv/null-17/AKTV.m3u8
+myTV SUPER 18台,http://aktv_stream1.m16tv.cfd/stream/aktv/mytvsuper18/AKTV.m3u8
+Now星影台,
+Now爆谷台,
 MYTV SUPER,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
 MYTV SUPER2,http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
 MYTV SUPER3,http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
-myTV SUPER 18台,http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
 RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8#https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
 RTHK34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPlaylist.m3u8#https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8#https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
 RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream04/streamPlaylist.m3u8#https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
@@ -172,38 +172,38 @@ AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
 MoMo综合台,rtmp://f13h.mine.nu/sat/tv761
 DAZN1,rtmp://f13h.mine.nu/sat/tv731
 DAZN2,rtmp://f13h.mine.nu/sat/tv741
-中天新闻,https://bxtv.587788.xyz/stream/bxtv/null-7/master.m3u8?u=xiaojia&p=edae81555a120d107ce989b744c762c7031a03490a7cb78b3613ab6d7b947ceb
-寰宇新闻,https://bxtv.587788.xyz/stream/bxtv/null-8/master.m3u8?u=xiaojia&p=edae81555a120d107ce989b744c762c7031a03490a7cb78b3613ab6d7b947ceb
+中天新闻,http://aktv_stream1.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
+寰宇新闻,http://aktv_stream1.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8
+Love Nature,http://aktv_stream1.m16tv.cfd/stream/aktv2/lovenaturehd/AKTV.m3u8
+PopC,http://aktv_stream1.m16tv.cfd/stream/aktv/popc/AKTV.m3u8
+ROCK Action,http://aktv_stream1.m16tv.cfd/stream/aktv/rockaction/AKTV.m3u8
+TVBS新闻台,http://aktv_stream1.m16tv.cfd/stream/aktv/tvbs-1/AKTV.m3u8
+tvN,http://aktv_stream1.m16tv.cfd/stream/aktv/tvn/AKTV.m3u8
+AXN,http://aktv_stream1.m16tv.cfd/stream/aktv2/axn/AKTV.m3u8
+东森新闻,http://aktv_stream1.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
+DW,http://aktv_stream1.m16tv.cfd/stream/aktv3/dw/AKTV.m3u8
+KIX,http://aktv_stream1.m16tv.cfd/stream/aktv3/kix/AKTV.m3u8
+THRILL惊栗电影台,http://aktv_stream1.m16tv.cfd/stream/aktv3/thrill/AKTV.m3u8
+Nickelodeon,http://aktv_stream1.m16tv.cfd/stream/aktv3/nickelodeon/AKTV.m3u8
+Nickjr,http://aktv_stream1.m16tv.cfd/stream/aktv3/nickjr/AKTV.m3u8
+MediaCorp Channel 5,http://aktv_stream1.m16tv.cfd/stream/aktv/channel5hd/AKTV.m3u8
+MediaCorp Channel 8,http://aktv_stream1.m16tv.cfd/stream/aktv/channel8hd/AKTV.m3u8
+MediaCorp Channel U,http://aktv_stream1.m16tv.cfd/stream/aktv/channeluhd/AKTV.m3u8
 龙祥时代,http://ali.hlspull.yximgs.com:80/live/huanqiuhktvmqloehqbqqqpvboyjetqewsqhthqyuqfqwetyqqqhflxsq.flv
 龙华洋片,http://ali.hlspull.yximgs.com:80/live/huanqiuhktvqeqcxlvofbqbvbqqqfqvqhslcfvxcvxsqbcvqfjvsfcbqbnqtyxty.flv
 CINEMAX,http://ali.hlspull.yximgs.com:80/live/huanqiuhktvqeqcxlvofbqbvbqqqbvyvblcfybqxjbcqcfjvsfcbqbnqtcqnemqx.flv
 天映经典,http://ali.hlspull.yximgs.com:80/live/huanqiuhktvvcnyjsqfqsetqqfcvbcjtsqqfvxcvsqnmbnlqqhqqnmyhsqqftyjq.flv
 天映频道,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476310.m3u8
 龙华电影,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
-PopC,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
 东森电影,http://1b6467f415.iok.la:9931/tsfile/live/1043_1.m3u8
 靖天电影台,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
-ROCK Action,http://aktv.top/AKTV/live/aktv3/rockaction/AKTV.m3u8#http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
-THRILL惊栗电影台,http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
 i-Fun动漫,http://aktv.top/AKTV/live/aktv2/ifun/AKTV.m3u8
 梦工厂动画,http://37.27.111.214:8080/live/57/hls.m3u8
 TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
-TVBS新闻台,http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8#http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 中天亚洲台,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
-Love Nature,http://aktv.top/AKTV/live/aktv2/lovenaturehd/AKTV.m3u8#http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
-DW,http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
-KIX,http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
-AXN,http://aktv.top/AKTV/live/aktv2/axn/AKTV.m3u8
 龙华日韩,http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
 三立,http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
 三立财经新闻台,http://aktv.top/AKTV/live/aktv/null-14/AKTV.m3u8
-tvN,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
-MediaCorp Channel 5,http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
-MediaCorp Channel 8,http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
-MediaCorp Channel U,http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
-Nickelodeon,http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
-Nickjr,http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
-东森新闻,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
 民视第一台,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv003
 民视台湾台,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv001
 中视新闻,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv074
