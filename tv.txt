@@ -110,6 +110,7 @@ HOY77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 无线新闻台(北美),http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 星空卫视,https://tv.bfsu.edu.cn/hls/startv.m3u8
 Channel [V],https://tv.bfsu.edu.cn/hls/channelv.m3u8
+Star Sports,https://tv.bfsu.edu.cn/hls/starsports.m3u8
 C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 RTHK31,https://cdn5.163189.xyz/live/rthk31/stream.m3u8
 RTHK32,https://cdn5.163189.xyz/live/rthk32/stream.m3u8
