@@ -114,6 +114,9 @@ Star Sports,https://tv.bfsu.edu.cn/hls/starsports.m3u8
 C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 RTHK31,https://cdn5.163189.xyz/live/rthk31/stream.m3u8
 RTHK32,https://cdn5.163189.xyz/live/rthk32/stream.m3u8
+RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8#https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
+RTHK34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPlaylist.m3u8#https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8#https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
+RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream04/streamPlaylist.m3u8#https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
 ANIMAX,http://aktv_stream1.m16tv.cfd/stream/aktv3/animaxhk/AKTV.m3u8
 TVB翡翠剧集台(北美),http://aktv_stream1.m16tv.cfd/stream/aktv/null-18/AKTV.m3u8
 TVB明珠剧集台(北美),http://aktv_stream1.m16tv.cfd/stream/aktv/null-19/AKTV.m3u8
@@ -124,9 +127,6 @@ Now爆谷台,
 MYTV SUPER,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
 MYTV SUPER2,http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
 MYTV SUPER3,http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
-RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8#https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
-RTHK34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPlaylist.m3u8#https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8#https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
-RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream04/streamPlaylist.m3u8#https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 ViuTV 6,http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
 TVB直播,https://edge6a.v2h-cdn.com/liveshow/liveshow.stream/chunklist.m3u8#https://edge6a.v2h-cdn.com/liveshow/liveshow.stream/playlist.m3u8
@@ -551,7 +551,7 @@ ABC新闻,http://61.222.202.191:80/live/yzyh.php?id=150
 福建·电视剧,http://8.138.7.223/tv/fjtv.php?id=7#http://kudan.x3322.net:3456/fujian.php?id=7#http://php.jdshipin.com:8880/fujian.php?id=4
 福建·经济,http://8.138.7.223/tv/fjtv.php?id=9#http://kudan.x3322.net:3456/fujian.php?id=9#http://php.jdshipin.com:8880/fujian.php?id=6
 福建·教育,http://php.jdshipin.com:8880/bst.php?id=fjjy
-福建·福州综合,http://live.zohi.tv/video/s10001-fztv-1/index.m3u8#http://117.27.190.42:9901/tsfile/live/23301_1.m3u8?key=txiptv&playlive=1&authid=0
+福建·福州综合,http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
 福建·福州生活,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 福建·福州少儿,http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
 福建·泉州4,rtmp://live.qztv.cn/live/mny
