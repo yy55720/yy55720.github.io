@@ -590,6 +590,8 @@ ABC新闻,http://61.222.202.191:80/live/yzyh.php?id=150
 四川·成都都市生活,http://8.138.7.223/tv/dl/sxg.php?id=70#http://101.204.187.4:8644/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/CDTV-3_4000.m3u8?E=&U=&A=&K=&P=&S=
 四川·成都影视文艺,http://8.138.7.223/tv/dl/sxg.php?id=71#http://101.204.187.4:8644/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/CDTV-4_4000.m3u8?E=&U=&A=&K=&P=&S=
 四川·成都公共,http://8.138.7.223/tv/dl/sxg.php?id=72#http://101.204.187.4:8644/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/CDTV-5_4000.m3u8?E=&U=&A=&K=&P=&S=
+四川·遂宁综合,https://szyplaytv.snxw.com/live/xwzh/playlist.m3u8
+四川·遂宁文化生活,https://szyplaytv.snxw.com/live/gggy/playlist.m3u8
 四川·泸州综合,http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel106011/playlist.m3u8#rtmp://tvdrs.luzhoubs.com/channellive/lztv1
 四川·泸州科教生活,http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel103074/playlist.m3u8#rtmp://tvdrs.luzhoubs.com/channellive/lztv3#http://file.luzhoubs.com/nmip-media/channellive/channel103074/playlist.m3u8
 四川·德阳新闻综合,http://scdytv.cn:1935/live/m_xwpd_livevideo/playlist.m3u8#rtmp://scdytv.cn:1935/live/m_xwpd_livevideo
