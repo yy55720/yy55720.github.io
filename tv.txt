@@ -40,13 +40,13 @@ CETV-2,http://120.210.193.151:8006/120000001002/XMTcetv-2/index.m3u8
 CETV-3,http://txycsbl.centv.cn/zb/0822cetv3.m3u8
 CETV-4,http://120.210.193.151:8006/120000001002/XMTcetv-4/index.m3u8
 CGTN,http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/chunklist_w1018196661_b1000000.m3u8#http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctvennews/1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225604/index.m3u8
-CGTN记录,http://home.wwang.pw:35455/itv/5000000002000019634.m3u8?cdn=bestzb
-CGTN阿拉伯语,http://home.wwang.pw:35455/itv/5000000002000019634.m3u8?cdn=bestzb
-CGTN西班牙语,http://home.wwang.pw:35455/itv/5000000002000019634.m3u8?cdn=bestzb
-CGTN法语,http://home.wwang.pw:35455/itv/5000000002000019634.m3u8?cdn=bestzb
-CGTN俄语,http://home.wwang.pw:35455/itv/5000000002000019634.m3u8?cdn=bestzb
-CCTV-4K,http://home.wwang.pw:35455/itv/5000000002000019634.m3u8?cdn=bestzb
-CCTV-8K,http://home.wwang.pw:35455/itv/5000000002000019634.m3u8?cdn=bestzb
+CGTN记录,http://138.2.44.51:50001/TVOD/7114647837765104058/hnbblive/index.m3u8#http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-9/1.m3u8
+CGTN阿拉伯语,http://138.2.44.51:50001/TVOD/1000000006000280001/ystenlive/index.m3u8
+CGTN西班牙语,http://138.2.44.51:50001/TVOD/1000000006000280002/ystenlive/index.m3u8
+CGTN法语,http://138.2.44.51:50001/TVOD/1000000006000280003/ystenlive/index.m3u8
+CGTN俄语,http://138.2.44.51:50001/TVOD/1000000006000280004/ystenlive/index.m3u8
+CCTV-4K,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/1.m3u8
+CCTV-8K,http://58.222.30.156/hlslive-tx-cdn.ysp.cctv.cn/ysp/2020603421.m3u8
 
 
 卫视,#genre#
@@ -1269,7 +1269,7 @@ SiTV都市剧场,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1
 蜡笔小新,http://dns.yiandrive.com:15907/huya/11352970#http://rihou.cc:555/huyad.php?id=11352970#http://1.94.31.214:35455/huya/11352970#http://124.248.69.76:26781/huya/11352970#http://hulun.top:35455/huya/11352970#http://www.douzhicloud.site:35455/huya/11352970#https://live.iill.top/huya/11352970#http://cdn.jdshipin.com:8880/huya.php?id=11352970#http://iptv.com.gerss.cn/huya/11352970#https://182.40.120.171/test-txdwk.flv.huya.com/src/1423787878-1423787878-6115122372451237888-2847699212-10057-A-0-1.m3u8
 卡酷少儿,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/kkse8m/index.m3u8#http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/kakukaton/1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
 哈哈炫动,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/hhxd8m/index.m3u8#http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/xuandongkaton/1.m3u8
-嘉佳卡通,http://8.138.7.223/tv/dl/sxg.php?id=79#http://101.204.187.4:8644/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/jjkt_2000.m3u8?E=&U=&A=&K=&P=&S=
+嘉佳卡通,http://138.2.44.51:50001/TVOD/1000000002000025964/ystenlive/index.m3u8#http://138.2.44.51:50001/TVOD/6000000003000025508/wasusyt/index.m3u8
 金鹰卡通,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/jykt/index.m3u8#http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/jinyingkaton/1.m3u8#http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/jinyingkaton/1.m3u8
 优漫卡通,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/youmankaton/1.m3u8
 福建少儿,http://8.138.7.223/tv/fjtv.php?id=2#http://kudan.x3322.net:3456/fujian.php?id=11#http://php.jdshipin.com:8880/fujian.php?id=8
