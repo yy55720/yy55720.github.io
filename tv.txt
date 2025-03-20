@@ -419,12 +419,15 @@ ABC新闻,http://61.222.202.191:80/live/yzyh.php?id=150
 广东·少儿,https://vod.gdtv.cn/m3u8/202401/170515928771.m3u8
 广东·4K,https://vod.gdtv.cn/m3u8/202401/170567928663.m3u8
 广东·岭南戏曲,https://vod.gdtv.cn/m3u8/202401/170567939446.m3u8
+广东·民生,http://119.123.178.255:8086/hls/39/index.m3u8
+广东·经济科教,http://119.123.178.255:8086/hls/63/index.m3u8
 广东·广州综合,http://php.jdshipin.com:8880/gztv.php?id=zhonghe#http://tencentplaygzrb01.gztv.com/live/zonghes.m3u8#https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=5d7708684007fcea395caff98369084c&txTime=19019c37743
 广东·广州新闻,http://php.jdshipin.com:8880/gztv.php?id=xinwen#http://tencentplaygzrb01.gztv.com/live/xinwen.m3u8#https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=f80e5b7654c57c7571a314d94befe320&txTime=19019c051d5
 广东·广州影视,http://php.jdshipin.com:8880/gztv.php?id=yingshi#http://tencentplaygzrb01.gztv.com/live/yingshi.m3u8#https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=cbfba109d1fef4ef29e93a1c6bba208e&txTime=19019e62015
 广东·广州竞赛,http://php.jdshipin.com:8880/gztv.php?id=jingsai#http://tencentplaygzrb01.gztv.com/live/jingsai.m3u8#https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=f0caf677b15fe7b314aa18a8e00702d3&txTime=19019f0d637
 广东·广州法治,http://php.jdshipin.com:8880/gztv.php?id=fazhi#http://tencentplaygzrb01.gztv.com/live/fazhi.m3u8#https://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=491c40d07978ba7046704a7844042ff6&txTime=19019f3714e
 广东·广州南国都市,http://php.jdshipin.com:8880/gztv.php?id=shenghuo#http://tencentplaygzrb01.gztv.com/live/nanguodushi.m3u8
+广东·深圳都市,http://119.123.178.255:8086/hls/103/index.m3u8
 广东·佛山综合,http://php.jdshipin.com:8880/fstv.php?id=fszh#http://106.53.99.30/dl/fstv.php?id=fszh
 广东·佛山影视,http://php.jdshipin.com:8880/fstv.php?id=fsys#http://106.53.99.30/dl/fstv.php?id=fsys
 广东·佛山公共,http://php.jdshipin.com:8880/fstv.php?id=fsgg#http://106.53.99.30/dl/fstv.php?id=fsgg
@@ -432,8 +435,6 @@ ABC新闻,http://61.222.202.191:80/live/yzyh.php?id=150
 广东·佛山高明,http://php.jdshipin.com:8880/fstv.php?id=fsgm#http://106.53.99.30/dl/fstv.php?id=fsgm
 广东·佛山顺德,http://php.jdshipin.com:8880/fstv.php?id=fssd#http://106.53.99.30/dl/fstv.php?id=fssd
 广东·佛山三水,http://php.jdshipin.com:8880/fstv.php?id=fsss#http://106.53.99.30/dl/fstv.php?id=fsss
-广东·深圳龙岗,http://liveplay.sznews.com/66_showto_live/2647.m3u8
-广东·深圳众创,http://liveplay.sznews.com/66_showto_live/2645.m3u8
 广东·潮州综合,http://time-vod-qhlive.sobeylive.com/czbtv2019/czzhpd.m3u8
 广东·潮州民生,http://time-vod-qhlive.sobeylive.com/czbtv2019/czggpd.m3u8
 广东·东莞新闻综合,http://php.jdshipin.com:8880/0769.php?id=xwzh
