@@ -412,11 +412,11 @@ ABC新闻,http://61.222.202.191:80/live/yzyh.php?id=150
 上海·七彩戏剧,http://z.b.bkpcp.top/m.php?id=qcxj#http://138.2.44.51:50001/TVOD/5000000011000031116/bestzb/index.m3u8#http://138.2.44.51:50001/TVOD/2000000002000000010/hnbblive/index.m3u8
 上海·东方财经,http://www.xiaoya.bond:50001/TVOD/5000000007000010003/bestzb/index.m3u8#http://www.xiaoya.bond:50001/TVOD/2000000002000000090/hnbblive/index.m3u8#http://v.tik686.com:50001/TVOD/5000000007000010003/bestzb/index.m3u8#http://v.tik686.com:50001/TVOD/2000000002000000090/hnbblive/index.m3u8
 上海·崇明综合,http://180.158.146.27:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-广东·新闻,https://vod.gdtv.cn/m3u8/202401/170565678746.m3u8
-广东·珠江,https://vod.gdtv.cn/m3u8/202401/170567350934.m3u8
-广东·体育,https://vod.gdtv.cn/m3u8/202401/170558960149.m3u8
-广东·影视,https://vod.gdtv.cn/m3u8/202401/170530952414.m3u8
-广东·少儿,https://vod.gdtv.cn/m3u8/202401/170515928771.m3u8
+广东·新闻,http://119.123.178.255:8086/hls/45/index.m3u8
+广东·珠江,http://119.123.178.255:8086/hls/47/index.m3u8
+广东·体育,http://119.123.178.255:8086/hls/42/index.m3u8
+广东·影视,http://119.123.178.255:8086/hls/46/index.m3u8
+广东·少儿,http://119.123.178.255:8086/hls/40/index.m3u8
 广东·4K,https://vod.gdtv.cn/m3u8/202401/170567928663.m3u8
 广东·岭南戏曲,https://vod.gdtv.cn/m3u8/202401/170567939446.m3u8
 广东·民生,http://119.123.178.255:8086/hls/39/index.m3u8
@@ -994,7 +994,7 @@ NewTV超级体育,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-busin
 快乐垂钓,http://120.210.193.151:8006/120000001002/XMTklcd/1.m3u8#http://39.134.136.161:6610/000000001000/2000000002000000067/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000002000000067#http://39.134.136.161:6610/000000001000/5000000011000031206/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031206
 CCTV央视台球,http://120.210.193.151:8006/120000001002/XMTystq/1.m3u8
 CCTV高尔夫·网球,http://120.210.193.151:8006/120000001002/XMTgolf/1.m3u8
-广东体育,https://vod.gdtv.cn/m3u8/202401/170558960149.m3u8
+广东体育,http://119.123.178.255:8086/hls/42/index.m3u8
 北京体育,https://tv.bfsu.edu.cn/hls/btv11hd.m3u8
 上海五星体育,http://36.105.100.208:35455/itv/5000000010000017540.m3u8?cdn=bestzb#http://yc.myds.me:35455/itv/5000000010000017540.m3u8?cdn=bestzb#http://cdnat.yesclouds.com:37788/itv/5000000010000017540.m3u8?cdn=bestzb#http://home.wwang.pw:35455/itv/5000000010000017540.m3u8?cdn=bestzb
 iHOT爱体育,http://www.xiaoya.bond:50001/TVOD/6000000006000290630/wasusyt/index.m3u8#http://www.xiaoya.bond:50001/TVOD/2000000004000000060/hnbblive/index.m3u8#http://v.tik686.com:50001/TVOD/6000000006000290630/wasusyt/index.m3u8#http://v.tik686.com:50001/TVOD/2000000004000000060/hnbblive/index.m3u8
@@ -1242,7 +1242,7 @@ SiTV都市剧场,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1
 河南电视剧,http://115.60.241.249:2000/rtp/225.1.4.55:1084
 石河子影视文体,http://124.88.144.73:1935/live/jjsh/playlist.m3u8
 长影频道,http://gongzhuling.lnott.top:9999/hls/28/index.m3u8
-广东影视,https://vod.gdtv.cn/m3u8/202401/170530952414.m3u8
+广东影视,http://119.123.178.255:8086/hls/46/index.m3u8
 陕西影视,http://gxlive.snrtv.com/sx4-SD.m3u8
 湖北影视,http://223.75.148.190:9901/tsfile/live/1009_1.m3u8
 吉林影视,http://gongzhuling.lnott.top:9999/hls/21/index.m3u8
@@ -1289,7 +1289,7 @@ SiTV动漫秀场,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1
 新动漫,http://183.188.20.168:6000/rtp/226.0.2.73:8496
 优优宝贝,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel11007/index.m3u8
 少儿天地,http://118.114.188.36:8888/udp/239.93.42.34:5140
-广东少儿,https://vod.gdtv.cn/m3u8/202401/170515928771.m3u8
+广东少儿,http://119.123.178.255:8086/hls/40/index.m3u8
 海南少儿,https://live3.hnntv.cn/srs/tv/sepd.m3u8
 河北少儿科教,http://tv.pull.hebtv.com/jishi/shaoerkejiao.m3u8?t=2510710360&k=4ff4446adf3cce3de40dd013255b38b2
 iHOT爱动漫,http://www.xiaoya.bond:50001/TVOD/6000000006000280630/wasusyt/index.m3u8#http://www.xiaoya.bond:50001/TVOD/2000000004000000059/hnbblive/index.m3u8#http://v.tik686.com:50001/TVOD/6000000006000280630/wasusyt/index.m3u8#http://v.tik686.com:50001/TVOD/2000000004000000059/hnbblive/index.m3u8
