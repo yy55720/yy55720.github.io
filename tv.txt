@@ -31,20 +31,20 @@ CCTV高尔夫·网球,http://120.210.193.151:8006/120000001002/XMTgolf/1.m3u8
 CCTV电视指南,http://120.210.193.151:8006/120000001002/XMTdszn/1.m3u8
 CCTV央视文化精品,http://120.210.193.151:8006/120000001002/XMTysjp/1.m3u8
 CCTV女性时尚,http://120.210.193.151:8006/120000001002/XMTnxss/1.m3u8
-CCTV老故事,http://8.138.7.223/tv/dl/sxg.php?id=53#http://101.204.187.4:8644/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/lgs_2000.m3u8?E=&U=&A=&K=&P=&S=
-CCTV发现之旅,http://8.138.7.223/tv/dl/sxg.php?id=55#http://101.204.187.4:8644/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/fxzl_2000.m3u8?E=&U=&A=&K=&P=&S=
-CCTV中学生,http://8.138.7.223/tv/dl/sxg.php?id=54#http://101.204.187.4:8644/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/zxs_4000.m3u8?E=&U=&A=&K=&P=&S=
+CCTV老故事,http://z.b.bkpcp.top/m.php?id=lgs#http://tvbox6.icu/tv/migu.php?id=lgs
+CCTV发现之旅,http://z.b.bkpcp.top/m.php?id=fxzl#http://tvbox6.icu/tv/migu.php?id=fxzl
+CCTV中学生,http://z.b.bkpcp.top/m.php?id=zxs#http://tvbox6.icu/tv/migu.php?id=zxs
 CCTV卫生健康,http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012513503.m3u8#http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012513502.m3u8
 CETV-1,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/jiaoyutv/1.m3u8
 CETV-2,http://120.210.193.151:8006/120000001002/XMTcetv-2/index.m3u8
 CETV-3,http://txycsbl.centv.cn/zb/0822cetv3.m3u8
 CETV-4,http://120.210.193.151:8006/120000001002/XMTcetv-4/index.m3u8
 CGTN,http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/chunklist_w1018196661_b1000000.m3u8#http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctvennews/1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225604/index.m3u8
-CGTN记录,http://138.2.44.51:50001/TVOD/7114647837765104058/hnbblive/index.m3u8#http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-9/1.m3u8
-CGTN阿拉伯语,http://138.2.44.51:50001/TVOD/1000000006000280001/ystenlive/index.m3u8
-CGTN西班牙语,http://138.2.44.51:50001/TVOD/1000000006000280002/ystenlive/index.m3u8
-CGTN法语,http://138.2.44.51:50001/TVOD/1000000006000280003/ystenlive/index.m3u8
-CGTN俄语,http://138.2.44.51:50001/TVOD/1000000006000280004/ystenlive/index.m3u8
+CGTN记录,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-9/1.m3u8#http://z.b.bkpcp.top/m.php?id=cgtnjl#http://tvbox6.icu/tv/migu.php?id=cgtnjl#https://0472.org/hls/cgtnd.m3u8
+CGTN阿拉伯语,http://z.b.bkpcp.top/m.php?id=cgtna#http://tvbox6.icu/tv/migu.php?id=cgtna#https://0472.org/hls/cgtna.m3u8
+CGTN西班牙语,http://z.b.bkpcp.top/m.php?id=cgtne#http://tvbox6.icu/tv/migu.php?id=cgtne#https://0472.org/hls/cgtnx.m3u8
+CGTN法语,http://z.b.bkpcp.top/m.php?id=cgtnf#http://tvbox6.icu/tv/migu.php?id=cgtnf#https://0472.org/hls/cgtnf.m3u8
+CGTN俄语,http://z.b.bkpcp.top/m.php?id=cgtnr#http://tvbox6.icu/tv/migu.php?id=cgtnr#https://0472.org/hls/cgtne.m3u8
 CCTV-4K,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/1.m3u8
 CCTV-8K,http://58.222.30.156/hlslive-tx-cdn.ysp.cctv.cn/ysp/2020603421.m3u8
 
@@ -91,11 +91,10 @@ CCTV-8K,http://58.222.30.156/hlslive-tx-cdn.ysp.cctv.cn/ysp/2020603421.m3u8
 
 
 港澳,#genre#
-凤凰中文台,https://cdn.163189.xyz/live/fhzw/stream.m3u8#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰资讯台,https://cdn3.163189.xyz/live/fhzx/stream.m3u8#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx#http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-凤凰香港台,https://cdn6.163189.xyz/live/fhhk/stream.m3u8#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk#http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
-凤凰电影台,http://home.js001.com:7777/stream/channelid/884059847?profile=pass
-凤凰电影台,https://tv.bfsu.edu.cn/hls/fhdy.m3u8
+凤凰中文台,http://43.129.81.169/qctv.fengshows.cn/live/0701pcc72.flv#https://cdn.163189.xyz/live/fhzw/stream.m3u8#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰资讯台,http://43.129.81.169/qctv.fengshows.cn/live/0701pin72.flv#https://cdn3.163189.xyz/live/fhzx/stream.m3u8#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx#http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰香港台,http://43.129.81.169/qctv.fengshows.cn/live/0701phk72.flv#https://cdn6.163189.xyz/live/fhhk/stream.m3u8#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk#http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+凤凰电影台,http://home.js001.com:7777/stream/channelid/884059847?profile=pass#https://tv.bfsu.edu.cn/hls/fhdy.m3u8
 TVB翡翠台,https://cdn.163189.xyz/live/fct4k/stream.m3u8#https://cdn3.163189.xyz/live/fct/stream.m3u8#http://cdn9.163189.xyz/smt1.1.php?id=jade_twn#https://bxtv.587788.xyz/stream/bxtv/null/master.m3u8?u=xiaojia&p=edae81555a120d107ce989b744c762c7031a03490a7cb78b3613ab6d7b947ceb#http://php.jdshipin.com:8880/smt.php?id=Tvbjade
 TVB明珠台,https://bxtv.587788.xyz/stream/bxtv/null-2/master.m3u8?u=xiaojia&p=edae81555a120d107ce989b744c762c7031a03490a7cb78b3613ab6d7b947ceb#http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
 TVB Plus,https://cdn.163189.xyz/live/tvbp/stream.m3u8#https://cdn.163189.xyz/live/?id=tvbp#https://bxtv.587788.xyz/stream/bxtv/tvbplus/master.m3u8?u=xiaojia&p=edae81555a120d107ce989b744c762c7031a03490a7cb78b3613ab6d7b947ceb#http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2#http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
