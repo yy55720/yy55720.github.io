@@ -31,20 +31,20 @@ CCTV高尔夫·网球,http://120.210.193.151:8006/120000001002/XMTgolf/1.m3u8
 CCTV电视指南,http://120.210.193.151:8006/120000001002/XMTdszn/1.m3u8
 CCTV央视文化精品,http://120.210.193.151:8006/120000001002/XMTysjp/1.m3u8
 CCTV女性时尚,http://120.210.193.151:8006/120000001002/XMTnxss/1.m3u8
-CCTV老故事,http://z.b.bkpcp.top/m.php?id=lgs#http://tvbox6.icu/tv/migu.php?id=lgs
-CCTV发现之旅,http://z.b.bkpcp.top/m.php?id=fxzl#http://tvbox6.icu/tv/migu.php?id=fxzl
-CCTV中学生,http://z.b.bkpcp.top/m.php?id=zxs#http://tvbox6.icu/tv/migu.php?id=zxs
+CCTV老故事,http://z.b.bkpcp.top/m.php?id=lgs
+CCTV发现之旅,http://z.b.bkpcp.top/m.php?id=fxzl
+CCTV中学生,http://z.b.bkpcp.top/m.php?id=zxs
 CCTV卫生健康,http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012513503.m3u8#http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012513502.m3u8
 CETV-1,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/jiaoyutv/1.m3u8
 CETV-2,http://120.210.193.151:8006/120000001002/XMTcetv-2/index.m3u8
 CETV-3,http://txycsbl.centv.cn/zb/0822cetv3.m3u8
 CETV-4,http://120.210.193.151:8006/120000001002/XMTcetv-4/index.m3u8
 CGTN,http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/chunklist_w1018196661_b1000000.m3u8#http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctvennews/1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225604/index.m3u8
-CGTN记录,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-9/1.m3u8#http://z.b.bkpcp.top/m.php?id=cgtnjl#http://tvbox6.icu/tv/migu.php?id=cgtnjl#https://0472.org/hls/cgtnd.m3u8
-CGTN阿拉伯语,http://z.b.bkpcp.top/m.php?id=cgtna#http://tvbox6.icu/tv/migu.php?id=cgtna#https://0472.org/hls/cgtna.m3u8
-CGTN西班牙语,http://z.b.bkpcp.top/m.php?id=cgtne#http://tvbox6.icu/tv/migu.php?id=cgtne#https://0472.org/hls/cgtnx.m3u8
-CGTN法语,http://z.b.bkpcp.top/m.php?id=cgtnf#http://tvbox6.icu/tv/migu.php?id=cgtnf#https://0472.org/hls/cgtnf.m3u8
-CGTN俄语,http://z.b.bkpcp.top/m.php?id=cgtnr#http://tvbox6.icu/tv/migu.php?id=cgtnr#https://0472.org/hls/cgtne.m3u8
+CGTN记录,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-9/1.m3u8#http://z.b.bkpcp.top/m.php?id=cgtnjl#https://0472.org/hls/cgtnd.m3u8
+CGTN阿拉伯语,http://z.b.bkpcp.top/m.php?id=cgtna#https://0472.org/hls/cgtna.m3u8
+CGTN西班牙语,http://z.b.bkpcp.top/m.php?id=cgtne#https://0472.org/hls/cgtnx.m3u8
+CGTN法语,http://z.b.bkpcp.top/m.php?id=cgtnf#https://0472.org/hls/cgtnf.m3u8
+CGTN俄语,http://z.b.bkpcp.top/m.php?id=cgtnr#https://0472.org/hls/cgtne.m3u8
 CCTV-4K,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/1.m3u8
 CCTV-8K,http://58.222.30.156/hlslive-tx-cdn.ysp.cctv.cn/ysp/2020603421.m3u8
 
@@ -997,7 +997,7 @@ CCTV高尔夫·网球,http://120.210.193.151:8006/120000001002/XMTgolf/1.m3u8
 北京体育,https://tv.bfsu.edu.cn/hls/btv11hd.m3u8
 上海五星体育,http://36.105.100.208:35455/itv/5000000010000017540.m3u8?cdn=bestzb#http://yc.myds.me:35455/itv/5000000010000017540.m3u8?cdn=bestzb#http://cdnat.yesclouds.com:37788/itv/5000000010000017540.m3u8?cdn=bestzb#http://home.wwang.pw:35455/itv/5000000010000017540.m3u8?cdn=bestzb
 iHOT爱体育,http://www.xiaoya.bond:50001/TVOD/6000000006000290630/wasusyt/index.m3u8#http://www.xiaoya.bond:50001/TVOD/2000000004000000060/hnbblive/index.m3u8#http://v.tik686.com:50001/TVOD/6000000006000290630/wasusyt/index.m3u8#http://v.tik686.com:50001/TVOD/2000000004000000060/hnbblive/index.m3u8
-新视觉,http://120.76.248.139/live/bfgd/4200000249.m3u8#http://8.138.7.223/tv/dl/sxg.php?id=74#http://101.204.187.4:8644/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/ycxsjH265_4000.m3u8?E=&U=&A=&K=&P=&S=#http://tvbox6.icu/tv/gdmzyd.php?id=97#http://php.jdshipin.com:8880/TVOD/iptv.php?id=xsj
+新视觉,http://120.76.248.139/live/bfgd/4200000249.m3u8#http://8.138.7.223/tv/dl/sxg.php?id=74#http://101.204.187.4:8644/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/ycxsjH265_4000.m3u8?E=&U=&A=&K=&P=&S=#http://php.jdshipin.com:8880/TVOD/iptv.php?id=xsj
 辽宁体育,http://120.76.248.139/live/bfgd/4200000611.m3u8
 足球频道,http://nmglive.imfc.cn/5n1r1c/182396.m3u8
 麻辣体育,http://118.114.188.36:8888/udp/239.93.42.2:5140
@@ -1011,7 +1011,7 @@ iHOT爱体育,http://www.xiaoya.bond:50001/TVOD/6000000006000290630/wasusyt/inde
 上海极速汽车,http://183.207.255.188/live/program/live/jsqchd/4000000/mnf.m3u8#http://111.20.33.93/PLTV/88888893/224/3221226574/index.m3u8
 杭州体育,http://125.210.152.19:9121/live/hzgq-hzsegq-h264.m3u8
 大连文体,http://live.cooltv.top/tv/tide.php?id=dlwt#http://live.cooltv.top/tv/cutv.php?id=dlwt
-四海钓鱼,http://8.138.7.223/tv/dl/sxg.php?id=90#http://101.204.187.4:8644/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/shdy_4000.m3u8?E=&U=&A=&K=&P=&S=
+四海钓鱼,http://z.b.bkpcp.top/m.php?id=shdy
 来钓鱼吧,http://118.114.188.36:8888/udp/239.93.42.8:5140
 
 
