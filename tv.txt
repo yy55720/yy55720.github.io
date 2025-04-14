@@ -636,10 +636,10 @@ ABC新闻,http://61.222.202.191:80/live/yzyh.php?id=150
 重庆·酉阳综合,rtmp://113.207.29.195/applive/youytv01
 重庆·巫山综合,https://qxlmlive9.cbg.cn/applive/wspd001/chunklist.m3u8
 重庆·永川综合,rtmp://113.207.29.195/applive/yctv01#https://qxlmlive9.cbg.cn/applive/yctv01/playlist.m3u8
-云南·都市,http://221.213.70.18:9901/tsfile/live/0128_1.m3u8#http://ynxsj.7766.org:9901/tsfile/live/1000_1.m3u8
-云南·娱乐,http://221.213.70.18:9901/tsfile/live/0124_1.m3u8#http://ynxsj.7766.org:9901/tsfile/live/1002_1.m3u8
-云南·影视,http://ynxsj.7766.org:9901/tsfile/live/1003_1.m3u8
-云南·康旅,http://221.213.70.18:9901/tsfile/live/0127_1.m3u8#http://ynxsj.7766.org:9901/tsfile/live/1004_1.m3u8
+云南·都市,https://hwapi.yntv.net/62hdvf/rjwt14.m3u8#rtmp://hwzbout.yntv.net/62hdvf/rjwt14
+云南·娱乐,https://hwapi.yntv.net/62hdvf/q9vs1b.m3u8#rtmp://hwzbout.yntv.net/62hdvf/q9vs1b
+云南·影视,https://hwapi.yntv.net/62hdvf/utrat7.m3u8#rtmp://hwzbout.yntv.net/62hdvf/utrat7
+云南·康旅,https://hwapi.yntv.net/62hdvf/227q43.m3u8#rtmp://hwzbout.yntv.net/62hdvf/227q43
 云南·少儿,http://ynxsj.7766.org:9901/tsfile/live/1006_1.m3u8
 云南·文山新闻综合,http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv#rtmp://tvdrs.wsrtv.com.cn:5040/channellive/ch1
 云南·西双版纳新闻综合,http://file.xsbnrtv.cn/vms/videos/nmip-media/channellive/channel1/playlist.m3u8
@@ -1225,6 +1225,7 @@ SiTV东方影视,http://z.b.bkpcp.top/m.php?id=shys#http://www.xiaoya.bond:50001
 SiTV欢笑剧场,http://z.b.bkpcp.top/m.php?id=hxjc#http://www.xiaoya.bond:50001/TVOD/5000000002000009455/bestzb/index.m3u8#http://www.xiaoya.bond:50001/TVOD/2000000002000000016/hnbblive/index.m3u8#http://v.tik686.com:50001/TVOD/5000000002000009455/bestzb/index.m3u8#http://v.tik686.com:50001/TVOD/2000000002000000016/hnbblive/index.m3u8
 SiTV都市剧场,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/dsjc8m/index.m3u8
 福建电视剧,http://8.138.7.223/tv/fjtv.php?id=7#http://kudan.x3322.net:3456/fujian.php?id=7#http://php.jdshipin.com:8880/fujian.php?id=4
+云南影视,https://hwapi.yntv.net/62hdvf/utrat7.m3u8#rtmp://hwzbout.yntv.net/62hdvf/utrat7
 西藏影视文化,http://php.jdshipin.com:8880/xztv.php?id=ys
 定州影视,https://jwcdnqx.hebyun.com.cn/live/yspd/1500k/tzwj_video.m3u8
 绍兴文化影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
@@ -1260,7 +1261,6 @@ SiTV都市剧场,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1
 重庆影视,http://27.14.29.219:9901/tsfile/live/1001_1.m3u8
 东至影视,http://223.247.33.124:1935/live/yingshi/playlist.m3u8
 宁波影视,http://live1.cloud.nbtv.cn/live/e8370b0010ca4d15af9d81c7ce10f6da?fmt=h264_500k_flv&trs=hls_ts
-云南影视,http://ynxsj.7766.org:9901/tsfile/live/1003_1.m3u8
 
 
 少儿频道,#genre#
