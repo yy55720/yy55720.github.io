@@ -39,12 +39,12 @@ CETV-1,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/ji
 CETV-2,http://120.210.193.151:8006/120000001002/XMTcetv-2/index.m3u8
 CETV-3,http://txycsbl.centv.cn/zb/0822cetv3.m3u8
 CETV-4,http://120.210.193.151:8006/120000001002/XMTcetv-4/index.m3u8
-CGTN,http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/chunklist_w1018196661_b1000000.m3u8#http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctvennews/1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225604/index.m3u8
-CGTN记录,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-9/1.m3u8#http://z.b.bkpcp.top/m.php?id=cgtnjl#https://0472.org/hls/cgtnd.m3u8
-CGTN阿拉伯语,http://z.b.bkpcp.top/m.php?id=cgtna#https://0472.org/hls/cgtna.m3u8
-CGTN西班牙语,http://z.b.bkpcp.top/m.php?id=cgtne#https://0472.org/hls/cgtnx.m3u8
-CGTN法语,http://z.b.bkpcp.top/m.php?id=cgtnf#https://0472.org/hls/cgtnf.m3u8
-CGTN俄语,http://z.b.bkpcp.top/m.php?id=cgtnr#https://0472.org/hls/cgtne.m3u8
+CGTN,https://english-livebkws.cgtn.com/live/encgtn.m3u8#http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/chunklist_w1018196661_b1000000.m3u8#http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctvennews/1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225604/index.m3u8
+CGTN记录,https://english-livebkali.cgtn.com/live/doccgtn.m3u8#https://0472.org/hls/cgtnd.m3u8#http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-9/1.m3u8
+CGTN阿拉伯语,https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8#https://0472.org/hls/cgtna.m3u8
+CGTN西班牙语,https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8#https://0472.org/hls/cgtnx.m3u8
+CGTN法语,https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8#https://0472.org/hls/cgtnf.m3u8
+CGTN俄语,https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8#https://0472.org/hls/cgtne.m3u8
 CCTV-4K,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/1.m3u8
 CCTV-8K,http://58.222.30.156/hlslive-tx-cdn.ysp.cctv.cn/ysp/2020603421.m3u8
 
