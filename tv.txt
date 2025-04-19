@@ -673,11 +673,10 @@ ABC新闻,http://61.222.202.191:80/live/yzyh.php?id=150
 云南·个旧综合,http://tv.drs.hhtv.cc:8100/channellive/gjdst.flv
 云南·元阳综合,http://tv.drs.hhtv.cc:8100/channellive/yydst.flv
 云南·绥江,rtmp://livebroadcast.ccwb.cn/live/w1615172384810938#http://livebroadcast.ccwb.cn/live/w1615172384810938.m3u8
-甘肃·经济,https://hlss.gstv.com.cn/49048r/9kzvr5.flv#rtmp://livein.gstv.com.cn/49048r/9kzvr5
-甘肃·文化影视,https://hlss.gstv.com.cn/49048r/068vw9.flv#rtmp://livein.gstv.com.cn/49048r/068vw9
-甘肃·公共应急,https://hlss.gstv.com.cn/49048r/2v86i8.flv#rtmp://livein.gstv.com.cn/49048r/2v86i8
-甘肃·都市,https://hlss.gstv.com.cn/49048r/4o7e76.flv#rtmp://livein.gstv.com.cn/49048r/4o7e76
-甘肃·少儿,https://hlss.gstv.com.cn/49048r/oj57of.flv#rtmp://livein.gstv.com.cn/49048r/oj57of
+甘肃·文化影视,https://hls.gstv.com.cn/skt649/9wej77.m3u8
+甘肃·公共应急,https://hls.gstv.com.cn/skt649/6wu7fs.m3u8
+甘肃·科教,https://hls.gstv.com.cn/skt649/i478d9.m3u8
+甘肃·少儿,https://hls.gstv.com.cn/skt649/79q79j.m3u8
 甘肃·白银综合,http://live.bygd.cn/byzh/sd/live.m3u8
 甘肃·白银公共,http://live.bygd.cn/bygg/sd/live.m3u8
 甘肃·崆峒综合,http://125.74.200.110:10080/hls/001/001_live.m3u8#rtmp://125.74.200.110:10085/hls/001
@@ -948,10 +947,10 @@ ABC新闻,http://61.222.202.191:80/live/yzyh.php?id=150
 河南·遂平综合,http://tvpull.dxhmt.cn:9081/tv/11728-1.m3u8
 河南·太康综合,http://tvpull.dxhmt.cn:9081/tv/11627-1.m3u8
 河南·新乡县综合,http://tvpull.dxhmt.cn:9081/tv/10721-1.m3u8
-宁夏·公共,https://hls.ningxiahuangheyun.com/live/nxgg1M.m3u8#http://stream.nxtv.com.cn/ggpd/sd/live.m3u8
-宁夏·经济,https://hls.ningxiahuangheyun.com/live/nxjj1M.m3u8#http://stream.nxtv.com.cn/jjpd/sd/live.m3u8
-宁夏·文旅,https://hls.ningxiahuangheyun.com/live/nxwl1M.m3u8
-宁夏·少儿,https://hls.ningxiahuangheyun.com/live/nxse1M.m3u8#http://stream.nxtv.com.cn/sepd/sd/live.m3u8
+宁夏·公共,https://livepgc.cmc.ningxiahuangheyun.com/tv/nxgg.m3u8
+宁夏·经济,https://livepgc.cmc.ningxiahuangheyun.com/tv/nxjj.m3u8
+宁夏·文旅,https://livepgc.cmc.ningxiahuangheyun.com/tv/nxwl.m3u8
+宁夏·少儿,https://livepgc.cmc.ningxiahuangheyun.com/tv/nxse.m3u8
 宁夏·银川生活,http://play-sh13.quklive.com/live/1667883987087179.m3u8?auth_key=2020823474-454fe4125ffb46448d158b5416843aca-0-d153678307b7ae7e07e22d0e5fcb22e8
 宁夏·银川公共,http://play-sh13.quklive.com/live/1667883943560053.m3u8?auth_key=2020823262-bc2cb743dfab4ce6a26d546eb441f796-0-f59f1ab82df61a440b646adb0d38782e
 宁夏·银川文体,http://play-sh13.quklive.com/live/1667884025738071.m3u8?auth_key=2020823590-f8b344018ae147f9a2ddc0c208153cfe-0-e82894e30aaa46a685d4e8cd901224a0
@@ -1271,7 +1270,7 @@ SiTV都市剧场,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1
 四川影视文艺,http://8.138.7.223/tv/dl/sxg.php?id=63
 成都影视文艺,http://8.138.7.223/tv/dl/sxg.php?id=71
 上虞文化影视,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
-甘肃文化影视,rtmp://livein.gstv.com.cn/49048r/068vw9
+甘肃文化影视,https://hls.gstv.com.cn/skt649/9wej77.m3u8
 永清影视,http://60.10.203.69:8000/4.m3u8
 河南电视剧,http://115.60.241.249:2000/rtp/225.1.4.55:1084
 石河子影视文体,http://124.88.144.73:1935/live/jjsh/playlist.m3u8
@@ -1317,7 +1316,7 @@ SiTV动漫秀场,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1
 福州少儿,http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
 新动漫,http://nas.hssvm.com:8888/udp/225.1.1.216:5002
 宝宝动画,http://wouu.net:9977/udp/239.93.0.147:5140
-甘肃少儿,rtmp://livein.gstv.com.cn/49048r/oj57of
+甘肃少儿,https://hls.gstv.com.cn/skt649/79q79j.m3u8
 嘉佳卡通,http://www.xiaoya.bond:50001/TVOD/1000000002000025964/ystenlive/index.m3u8
 福建少儿,http://8.138.7.223/tv/fjtv.php?id=2#http://kudan.x3322.net:3456/fujian.php?id=11#http://php.jdshipin.com:8880/fujian.php?id=8
 江西少儿,http://play-live-hls.jxtvcn.com.cn//tv_jxtv6.m3u8
@@ -1328,7 +1327,7 @@ SiTV动漫秀场,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1
 海南少儿,https://live3.hnntv.cn/srs/tv/sepd.m3u8
 河北少儿科教,http://tv.pull.hebtv.com/jishi/shaoerkejiao.m3u8?t=2510710360&k=4ff4446adf3cce3de40dd013255b38b2
 iHOT爱动漫,http://www.xiaoya.bond:50001/TVOD/6000000006000280630/wasusyt/index.m3u8#http://www.xiaoya.bond:50001/TVOD/2000000004000000059/hnbblive/index.m3u8#http://v.tik686.com:50001/TVOD/6000000006000280630/wasusyt/index.m3u8#http://v.tik686.com:50001/TVOD/2000000004000000059/hnbblive/index.m3u8
-宁夏少儿,https://hls.ningxiahuangheyun.com/live/nxse1M.m3u8#http://stream.nxtv.com.cn/sepd/sd/live.m3u8
+宁夏少儿,https://livepgc.cmc.ningxiahuangheyun.com/tv/nxse.m3u8
 深圳少儿,http://113.67.166.23:8889/udp/239.77.1.244:5146
 济南少儿,http://123.168.95.193:4000/udp/239.21.1.68:5002
 云南少儿,http://ynxsj.7766.org:9901/tsfile/live/1006_1.m3u8
