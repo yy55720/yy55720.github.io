@@ -556,6 +556,7 @@ ABC新闻,http://61.222.202.191:80/live/yzyh.php?id=150
 福建·福州综合,http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
 福建·福州生活,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 福建·福州少儿,http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
+福建·泉州1,rtmp://live.qztv.cn/live/news
 福建·泉州4,rtmp://live.qztv.cn/live/mny
 福建·三明新闻综合,http://stream.smntv.cn/smtv1/sd/live.m3u8
 福建·三明公共频道,http://stream.smntv.cn/smtv2/sd/live.m3u8
