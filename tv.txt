@@ -993,10 +993,10 @@ IPTV萌宠TV,http://mingjd.cn:7077/rtp/239.3.1.102:8001
 IPTV淘Baby,http://mingjd.cn:7077/rtp/239.3.1.238:8001
 IPTV大健康,http://mingjd.cn:7077/rtp/239.3.1.251:8001
 IPTV4K超清,http://mingjd.cn:7077/rtp/239.3.1.249:8001
-求索纪录,http://www.xiaoya.bond:50001/TVOD/6000000002000032052/wasusyt/index.m3u8#http://www.xiaoya.bond:50001/TVOD/2000000004000000010/hnbblive/index.m3u8#http://v.tik686.com:50001/TVOD/6000000002000032052/wasusyt/index.m3u8#http://v.tik686.com:50001/TVOD/2000000004000000010/hnbblive/index.m3u8
-求索动物,http://www.xiaoya.bond:50001/TVOD/6000000002000010046/wasusyt/index.m3u8#http://www.xiaoya.bond:50001/TVOD/2000000004000000009/hnbblive/index.m3u8#http://v.tik686.com:50001/TVOD/6000000002000010046/wasusyt/index.m3u8#http://v.tik686.com:50001/TVOD/2000000004000000009/hnbblive/index.m3u8
-求索科学,http://www.xiaoya.bond:50001/TVOD/6000000002000032344/wasusyt/index.m3u8#http://www.xiaoya.bond:50001/TVOD/2000000004000000011/hnbblive/index.m3u8#http://v.tik686.com:50001/TVOD/6000000002000032344/wasusyt/index.m3u8#http://v.tik686.com:50001/TVOD/2000000004000000011/hnbblive/index.m3u8
-求索生活,http://www.xiaoya.bond:50001/TVOD/6000000002000003382/wasusyt/index.m3u8#http://www.xiaoya.bond:50001/TVOD/2000000004000000008/hnbblive/index.m3u8#http://v.tik686.com:50001/TVOD/6000000002000003382/wasusyt/index.m3u8#http://v.tik686.com:50001/TVOD/2000000004000000008/hnbblive/index.m3u8
+求索纪录,http://www.xiaoya.bond:50001/TVOD/6000000002000032052/wasusyt/index.m3u8#http://www.xiaoya.bond:50001/TVOD/2000000004000000010/hnbblive/index.m3u8
+求索动物,http://www.xiaoya.bond:50001/TVOD/6000000002000010046/wasusyt/index.m3u8#http://www.xiaoya.bond:50001/TVOD/2000000004000000009/hnbblive/index.m3u8
+求索科学,http://www.xiaoya.bond:50001/TVOD/6000000002000032344/wasusyt/index.m3u8#http://www.xiaoya.bond:50001/TVOD/2000000004000000011/hnbblive/index.m3u8
+求索生活,http://www.xiaoya.bond:50001/TVOD/6000000002000003382/wasusyt/index.m3u8#http://www.xiaoya.bond:50001/TVOD/2000000004000000008/hnbblive/index.m3u8
 亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612417/live.m3u8
 百事通华语影院,http://www.xiaoya.bond:50001/TVOD/5000000011000288005/bestzb/index.m3u8#http://v.tik686.com:50001/TVOD/5000000011000288005/bestzb/index.m3u8
 百事通星光影院,http://www.xiaoya.bond:50001/TVOD/5000000011000288013/bestzb/index.m3u8#http://v.tik686.com:50001/TVOD/5000000011000288013/bestzb/index.m3u8
