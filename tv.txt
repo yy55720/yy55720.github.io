@@ -191,6 +191,8 @@ DAZN2,rtmp://f13h.mine.nu/sat/tv741
 中天亚洲台,https://smart.pendy.dpdns.org/Smart.php?id=ctiasia_twn
 中天综合台,https://smart.pendy.dpdns.org/Smart.php?id=ctizhonghe
 三立综合台,,https://smart.pendy.dpdns.org/Smart.php?id=sanlizhonghe
+DMAX,https://smart.pendy.dpdns.org/Smart.php?id=natgeohd_twn
+美食星球,https://smart.pendy.dpdns.org/Smart.php?id=foodplanet_twn
 好消息1台,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8#http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
 好消息2台,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch2-2.m3u8#http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
 Love Nature,http://aktv_stream1.m16tv.cfd/stream/aktv2/lovenaturehd/AKTV.m3u8
