@@ -688,12 +688,12 @@ ABC新闻,http://61.222.202.191:80/live/yzyh.php?id=150
 山西·晋城文化生活,http://live.jinnews.com.cn/ggpd/sd/live.m3u8
 山西·怀仁综合,http://1yp7hc5p.live.sxmty.com/live/hls/bff8529922344209985b6e49baa9555a/efa2543628fc4a7ea93d3d6c975f77dc.m3u8
 山西·吉县电视台,http://jxlive.jxrmtzx.com:8091/live/xwzh.m3u8
-河北·公共,http://1.94.31.214/php/hebei.php?id=hbgg
+河北·文旅公共,http://1.94.31.214/php/hebei.php?id=hbgg
 河北·都市,http://1.94.31.214/php/hebei.php?id=hbds
 河北·经济生活,http://1.94.31.214/php/hebei.php?id=jjsh
 河北·少儿科教,http://1.94.31.214/php/hebei.php?id=sekj
 河北·影视,http://1.94.31.214/php/hebei.php?id=hbys
-河北·农民,http://1.94.31.214/php/hebei.php?id=nmpd
+河北·三农,http://1.94.31.214/php/hebei.php?id=nmpd
 河北·石家庄新闻综合,http://nn.7x9d.cn/石家庄.php?id=4
 河北·石家庄城市服务,http://nn.7x9d.cn/石家庄.php?id=5
 河北·石家庄文化娱乐,http://nn.7x9d.cn/石家庄.php?id=6
