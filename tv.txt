@@ -470,12 +470,12 @@ ABC新闻,http://61.222.202.191:80/live/yzyh.php?id=150
 浙江·文成综合,http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8
 浙江·东阳新闻综合,http://play-sh13.quklive.com/live/1681113308206040.m3u8?auth_key=2028413158-ad2723c5e94045f393c4ccc595b573f9-0-c75b8d81f4470e67519c154e85115a4e
 江苏·新闻,https://live.jstv.com/?channelId=536
-江苏·城市,https://live.jstv.com/?channelId=535
+江苏·城市,http://sport.pendy.dpdns.org/migu/626064714?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 江苏·体育休闲,https://live.jstv.com/?channelId=537
-江苏·影视,http://live.nctv.top/6688/jstv.php?id=jsys
-江苏·综艺,http://58.220.219.14:9901/tsfile/live/0120_4.m3u8#http://live.nctv.top/6688/jstv.php?id=jszy
-江苏·教育,http://live.nctv.top/6688/jstv.php?id=jsjy
-江苏·国际,http://lr1.aikan.miguvideo.com/wd_r2/jstv/jsguoji/600/index.m3u8?msisdn=&encrypt=0
+江苏·影视,http://sport.pendy.dpdns.org/migu/626064697?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+江苏·综艺,http://sport.pendy.dpdns.org/migu/626065193?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+江苏·教育,http://sport.pendy.dpdns.org/migu/628008321?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+江苏·国际,http://sport.pendy.dpdns.org/migu/626064674?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 江苏·南京新闻综合,http://live.nbs.cn/channels/njtv/xwzh/nbs06.m3u8#http://live.nbs.cn/channels/njtv/xwpdb/nbs06.m3u8
 江苏·南京十八生活,http://live.nbs.cn/channels/njtv/sbsh/nbs24.m3u8
 江苏·南京教科,http://live.nbs.cn/channels/njtv/jkpd/nbs06.m3u8
@@ -1136,6 +1136,8 @@ SiTV都市剧场,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1
 福建电视剧,http://8.138.7.223/tv/fjtv.php?id=7#http://kudan.x3322.net:3456/fujian.php?id=7#http://php.jdshipin.com:8880/fujian.php?id=4
 河北影视,http://1.94.31.214/php/hebei.php?id=hbys
 河南电视剧,http://1.94.31.214/php/hntv.php?id=hndsj
+新疆影视,http://117.190.144.101:9901/tsfile/live/1004_1.m3u8?key=txiptv
+江苏影视,http://sport.pendy.dpdns.org/migu/626064697?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 四川影视文艺,http://8.138.7.223/tv/dl/sxg.php?id=63
 成都影视文艺,http://8.138.7.223/tv/dl/sxg.php?id=71
 上虞文化影视,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
@@ -1146,8 +1148,6 @@ SiTV都市剧场,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1
 陕西影视,http://gxlive.snrtv.com/sx4-SD.m3u8
 湖北影视,http://223.75.148.190:9901/tsfile/live/1009_1.m3u8
 吉林影视,http://gongzhuling.lnott.top:9999/hls/21/index.m3u8
-新疆影视,http://117.190.144.101:9901/tsfile/live/1004_1.m3u8?key=txiptv
-江苏影视,http://live.nctv.top/6688/jstv.php?id=jsys
 山西影视,http://live.cooltv.top/tv/tide.php?id=sxys
 天津影视,http://blc.zmychn.cn:4000/udp/225.1.1.149:5002
 贵州影视文艺,http://114.138.198.198:8138/rtp/238.255.2.3:5999
