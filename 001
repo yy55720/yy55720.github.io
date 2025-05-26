@@ -108,10 +108,44 @@ CETV-4,webview://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca
 新疆卫视,webview://https://www.xjtvs.com.cn/column/tv/434?channelId=1
 
 
+港湾,#genre#
+凤凰中文台,webview://https://345iptv.com/?act=play&token=c80cba20d9f5c689aa1ea457a03d3420&tid=gt&id=1
+凤凰资讯台,webview://https://345iptv.com/?act=play&token=be8e20acbf96cbaeedf4a05974da1004&tid=gt&id=2
+凤凰香港台,webview://https://345iptv.com/?act=play&token=301120f25939085c3313bad63d7c207d&tid=gt&id=3
+TVB翡翠台,webview://https://m.345iptv.com/?act=play&token=0414e51b425be184dc3efa0db53e6812&tid=gt&id=5
+无线新闻,webview://http://m.345iptv.com/?act=play&token=bc7918833f7de6b2829ad197ddc05e10&tid=gt&id=6
+TVB Plus,webview://http://m.345iptv.com/?act=play&token=806785b3e369da03a1bac892904a4ae9&tid=gt&id=8
+TVB明珠台,webview://http://m.345iptv.com/?act=play&token=d2d94c55f2275567a1d154afbc09587b&tid=gt&id=9
+    有线新闻,webview://http://m.345iptv.com/?act=play&token=fa85074433ae45388bb96b382056e5df&tid=gt&id=11
+有线18台,webview://http://m.345iptv.com/?act=play&token=7e64e5c5a112c8324ae213193890166f&tid=gt&id=12
+Now新闻,webview://http://m.345iptv.com/?act=play&token=98a9d7e25ac4f93058f13f0144444fff&tid=gt&id=17
+ViuTV,webview://http://m.345iptv.com/?act=play&token=c1a1576076dce043a6d844e9a5d1ce91&tid=gt&id=19
+ViuTV 6,webview://http://m.345iptv.com/?act=play&token=85e06c79c6d3f5978624277bb8f132e3&tid=gt&id=20
+HOY76,webview://http://m.345iptv.com/?act=play&token=f8cf68faeb52bf8a195030c0a8bdfae7&tid=gt&id=22
+HOY78资讯台,webview://http://m.345iptv.com/?act=play&token=08f54e8a4affdeb5b28c8b90b4ff7814&tid=gt&id=23
+HOY TV,webview://http://m.345iptv.com/?act=play&token=77cb7757bc783bab93043667dc23d0f9&tid=gt&id=24
+RTHK32,webview://http://m.345iptv.com/?act=play&token=a9e78c79004af6100be6762070cc882e&tid=gt&id=27
+中天新闻,webview://http://m.345iptv.com/?act=play&token=c5099746050c41f288c9c50a5002539b&tid=gt&id=43
+东森新闻,webview://http://m.345iptv.com/?act=play&token=8965fb967119ad09f0df8ec90b5df34b&tid=gt&id=44
+中视新闻,webview://http://m.345iptv.com/?act=play&token=f433a3a8a177d0b012b4b337558191c2&tid=gt&id=46
+台视新闻,webview://http://m.345iptv.com/?act=play&token=19416380214a699f16f2a2e6262563ec&tid=gt&id=47
+三立新闻,webview://http://m.345iptv.com/?act=play&token=5306092da4db4bf69dc2cd81e05c1e2b&tid=gt&id=48
+民视新闻,webview://http://m.345iptv.com/?act=play&token=989c7d8a750ff4bfda95fcae1708bbe7&tid=gt&id=50
+华视新闻,webview://http://m.345iptv.com/?act=play&token=077cde05e45f43f87cc3c4c57a152e1e&tid=gt&id=51
+mnews镜新闻,webview://http://m.345iptv.com/?act=play&token=20a5079da56f52ac6332530b8ae045bc&tid=gt&id=52
+寰宇新闻,webview://http://m.345iptv.com/?act=play&token=a5d87cec4adae0ff298fa844f43e8427&tid=gt&id=53
+TVBS,webview://http://m.345iptv.com/?act=play&token=c11f175af8301f5765dee3d97de4cbc1&tid=gt&id=56
+中视,webview://http://m.345iptv.com/?act=play&token=5ef10e1554d809f389a139596e22d6e4&tid=gt&id=60
+台视,webview://http://m.345iptv.com/?act=play&token=3566a94ef8f056a92ba7d6bc3adae830&tid=gt&id=61
+民视,webview://http://m.345iptv.com/?act=play&token=499b6a8677702cdead3d1acb4ee763f6&tid=gt&id=62
+华视,webview://http://m.345iptv.com/?act=play&token=d835edf85041fa76c82e4e1f846bf67b&tid=gt&id=63
+ELTA体育1,webview://http://m.345iptv.com/?act=play&token=e963b41721c7119719ec1b1c72e13757&tid=gt&id=79
+ELTA体育2,webview://http://m.345iptv.com/?act=play&token=6f6551349ba8db18c4c9e4e64622e094&tid=gt&id=80
+ELTA体育3,webview://http://m.345iptv.com/?act=play&token=2f49d64294c642a0bdb87271caa1929d&tid=gt&id=81
+ELTA体育4,webview://http://m.345iptv.com/?act=play&token=2f49d64294c642a0bdb87271caa1929d&tid=gt&id=82
+
+
 地方,#genre#
-果小果,webview://https://www.douyu.com/6558897
-影视,webview://https://www.kktv5.com/show/128600025
-zitai,webview://https://www.huya.com/333003
 安徽·经济生活,webview://https://www.ahtv.cn/folder9000/folder20193?channelIndex=1
 安徽·综艺体育,webview://https://www.ahtv.cn/folder9000/folder20193?channelIndex=2
 安徽·国际,webview://https://www.ahtv.cn/folder9000/folder20193?channelIndex=6
@@ -122,6 +156,8 @@ zitai,webview://https://www.huya.com/333003
 安徽·合肥生活,webview://https://app.hfbtc.cn/shows/2/2.html
 安徽·合肥科创,webview://https://app.hfbtc.cn/shows/2/3.html
 安徽·合肥教育法制,webview://https://app.hfbtc.cn/shows/2/4.html
+   安徽·广德新闻综合,webview://https://www.gdtv.ah.cn/liveDetails.html?liveId=14&dataObjId=26
+   安徽·广德生活频道,webview://https://www.gdtv.ah.cn/liveDetails.html?liveId=15&dataObjId=26
 安徽·滁州新闻综合,webview://http://www.cztv.cc/Live/index?liveid=1
 安徽·滁州公共频道,webview://http://www.cztv.cc/Live/index?liveid=2
 安徽·滁州科教频道,webview://http://www.cztv.cc/Live/index?liveid=3
@@ -138,8 +174,7 @@ zitai,webview://https://www.huya.com/333003
 福建·晋江电视台,webview://http://www.jinjiang.tv/live/
 福建·宁德新闻综合,webview://http://share.nddst.com/?_hgOutLink=live/livedetail&channel_id=41
 福建·宁德文化旅游,webview://http://share.nddst.com/?_hgOutLink=live/livedetail&channel_id=42
-甘肃·兰州新闻综合,webview://https://www.lzr.com.cn/folder25/folder26/
-甘肃·兰州文旅频道,webview://https://www.lzr.com.cn/folder25/folder26/folder30/
+福建·永春电视台,webview://https://web.guangdianyun.tv/tv/1792?uin=2311
 广东·新闻,webview://https://www.gdtv.cn/tvChannelDetail/45
 广东·珠江,webview://https://www.gdtv.cn/tvChannelDetail/44
 广东·民生,webview://https://www.gdtv.cn/tvChannelDetail/48
@@ -152,6 +187,10 @@ zitai,webview://https://www.huya.com/333003
 广东·大湾区卫视(海外版),webview://https://www.gdtv.cn/tvChannelDetail/46
 广东·4K,webview://https://www.gdtv.cn/tvChannelDetail/16
 嘉佳卡通,webview://https://www.gdtv.cn/tvChannelDetail/66
+广东·广州新闻,webview://https://app.gztv.com/plusshare/#/tvDetail?code=3002
+广东·广州影视,webview://https://app.gztv.com/plusshare/#/tvDetail?code=3006
+广东·广州法治,webview://https://app.gztv.com/plusshare/#/tvDetail?code=3004
+广东·广州南国都市,webview://https://app.gztv.com/plusshare/#/tvDetail?code=3003
 广东·深圳都市,webview://https://www.sztv.com.cn/pindao/index.html?id=7868
 广东·深圳电视剧,webview://https://www.sztv.com.cn/pindao/index.html?id=7880
 广东·深圳少儿,webview://https://www.sztv.com.cn/pindao/index.html?id=7881
@@ -165,6 +204,10 @@ zitai,webview://https://www.huya.com/333003
 广东·河源综合,webview://https://www.hyrtv.cn/itv/zhds/
 广东·河源生活,webview://https://www.hyrtv.cn/itv/ggds/
 广东·清远新闻综合,webview://https://h5.qyrb.cn/h5/nfzmy-television-and-radio/#/?channelId=1
+广东·清远文旅生活,webview://https://h5.qyrb.cn/h5/nfzmy-television-and-radio/#/?channelId=3
+广东·开平综合,webview://https://web.guangdianyun.tv/tv/?id=1434&uin=1132
+广东·开平生活,webview://https://web.guangdianyun.tv/tv/?id=1435&uin=1132
+广东·信宜,webview://https://web.guangdianyun.tv/tv/?id=643&uin=1629
 浙江·新闻,webview://https://www.cztv.com/liveTV/107
 浙江·钱江,webview://https://www.cztv.com/liveTV/102
 浙江·经济生活,webview://https://www.cztv.com/liveTV/103
@@ -186,6 +229,7 @@ zitai,webview://https://www.huya.com/333003
 浙江·绍兴新闻综合,webview://https://www.shaoxing.com.cn/app/tv/78
 浙江·绍兴文化影视,webview://https://www.shaoxing.com.cn/app/tv/74
 浙江·绍兴公共频道,webview://http://www.shaoxing.com.cn/app/tv/75
+浙江·温岭新闻综合,webview://https://web.guangdianyun.tv/tv/?id=911&uin=1639&newsList_ImgLocation=1
 江苏·新闻,webview://https://live.jstv.com/?channelId=536
 江苏·城市,webview://https://live.jstv.com/?channelId=535
 江苏·体育休闲,webview://https://live.jstv.com/?channelId=537
@@ -212,12 +256,26 @@ zitai,webview://https://www.huya.com/333003
 广西·桂林新闻综合,webview://https://guilinbcnew.zainanjing365.com//share/live/detailTv?resourceId=33
 广西·桂林公共频道,webview://https://guilinbcnew.zainanjing365.com//share/live/detailTv?resourceId=34
 广西·桂林科教旅游,webview://https://guilinbcnew.zainanjing365.com//share/live/detailTv?resourceId=35
+广西·南宁新闻综合,webview://http://www.nntv.cn/live/nntv_xw/
+广西·南宁文旅生活,webview://http://www.nntv.cn/live/nntv_ds/
+广西·南宁影视娱乐,webview://http://www.nntv.cn/live/nntv_ys/
+广西·南宁公共,webview://http://www.nntv.cn/live/nntv_gg/
+广西·玉林新闻综合,webview://https://web.guangdianyun.tv/tv/3289?uin=4042
+广西·玉林公共,webview://https://web.guangdianyun.tv/tv/3290?uin=4042
+广西·梧州新闻综合,webview://https://www.wzrtv.cn/dist/index.html#/liveTvDetail/22/%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88
+http://www.wzrtv.cn/folder80/folder83/folder134
+广西·梧州公共频道,webview://https://www.wzrtv.cn/dist/index.html#/liveTvDetail/23/%E5%85%AC%E5%85%B1%E9%A2%91%E9%81%93
+广西·梧州教育生活,webview://https://www.wzrtv.cn/dist/index.html#/liveTvDetail/15/%E6%95%99%E8%82%B2%E7%94%9F%E6%B4%BB
+广西·柳州新闻综合,webview://https://web.guangdianyun.tv/tv/?id=1902&uin=3370
 贵州·公共,webview://https://www.gzstv.com/tv/ch02
 贵州·影视文艺,webview://https://www.gzstv.com/tv/ch03
 贵州·大众生活,webview://https://www.gzstv.com/tv/ch04
 贵州·生态乡村,webview://https://www.gzstv.com/tv/ch05
 贵州·科教健康,webview://https://www.gzstv.com/tv/ch06
 贵州·移动,webview://https://www.gzstv.com/tv/ch13
+贵州·贵阳新闻综合,webview://https://web.guangdianyun.tv/tv/3398?uin=4263
+贵州·贵阳经济生活,webview://https://web.guangdianyun.tv/tv/3399?uin=4263
+贵州·贵阳都市,webview://https://web.guangdianyun.tv/tv/3400?uin=4263
 海南·新闻,webview://https://www.hnntv.cn/live.html?playType=livePlay&channelId=3&referPage=home
 海南·公共,webview://https://www.hnntv.cn/live.html?playType=livePlay&channelId=4&referPage=home
 海南·文旅,webview://https://www.hnntv.cn/live.html?playType=livePlay&channelId=6&referPage=home
@@ -236,6 +294,7 @@ zitai,webview://https://www.huya.com/333003
 河北·沧州新闻综合,webview://https://www.czgd.tv/Article/des?infoid=32768&modelid=3
 河北·沧州公共频道,webview://https://www.czgd.tv/Article/des?infoid=32769&modelid=3
 河北·沧州影视娱乐,webview://https://www.czgd.tv/Article/des?infoid=32770&modelid=3
+河南·都市频道,webview://https://www.hntv2.net/index.html#/pages/tv/index
 河南·郑州教育台,webview://http://web.chinamcloud.com/yszh32/wz/zb/index.shtml
 河南·焦作综合,webview://http://www.jzrt.com/list-zhpd.html
 河南·焦作综合,webview://https://jiaozuo.dxhmt.cn/api/page/goLivePage?liveId=a15a6b9e3e1f435584f903641e85a975
@@ -243,6 +302,8 @@ zitai,webview://https://www.huya.com/333003
 河南·焦作公共,webview://https://jiaozuo.dxhmt.cn/api/page/goLivePage?liveId=6a8a51398cf44ad28bb7808afdc94f4d
 河南·开封新闻综合,webview://https://kaifeng.dxhmt.cn/api/page/shiroVideo?tvId=53507dea8e7f4c3c8a37e0bdf7bd055c
 河南·开封文化旅游,webview://https://kaifeng.dxhmt.cn/api/page/shiroVideo?tvId=ceffc903779f4f14ad119c4520d87c1d
+河南·南阳新闻综合,webview://https://web.guangdianyun.tv/tv/?id=142&uin=1081&refererId=1651172
+河南·南阳公共,webview://https://web.guangdianyun.tv/tv/?id=295&uin=1081&refererId=1651172
 河南·许昌综合,webview://http://xctv.cn/2359
 河南·许昌农业科教,webview://http://xctv.cn/3918
 河南·周口公共频道,webview://http://wxyszk.yszkapp.cn/share/views/share/index_share.html?contentType=tvlive&channelId=2&mmsurl=http%3A%2F%2Fmms.yszkapp.cn%3A18080%2Fmms4.6.3&token=pmqhukcpyipvqmoz&tencentShare=1
@@ -259,6 +320,7 @@ zitai,webview://https://www.huya.com/333003
 黑龙江·哈尔滨新闻,webview://https://www.hrbtv.net/folder79/folder81/
 黑龙江·哈尔滨生活,webview://https://www.hrbtv.net/folder79/folder85/
 黑龙江·哈尔滨影视,webview://https://www.hrbtv.net/folder79/folder87/
+黑龙江·大庆新闻综合,webview://https://web.guangdianyun.tv/tv/2281?uin=1463
 湖北·经视,webview://https://news.hbtv.com.cn/app/tv/432
 湖北·综合,webview://https://news.hbtv.com.cn/app/tv/433
 湖北·公共新闻,webview://https://news.hbtv.com.cn/app/tv/434
@@ -274,24 +336,48 @@ zitai,webview://https://www.huya.com/333003
 湖北·荆州新闻综合,webview://http://m-jingzhou.cjyun.org/dszb
 湖北·咸宁综合,webview://https://app.cjyun.org.cn/video/videojs/index?site_id=10140&id=91&page=canvas&live_type=1
 湖北·咸宁经济生活,webview://https://app.cjyun.org.cn/video/videojs/index?site_id=10140&id=80&page=canvas&live_type=1
-湖南·长沙新闻综合,webview://https://live.mgtv.com/?channelId=269
+湖北·黄石新闻综合,webview://https://web.guangdianyun.tv/tv/3031?uin=3065
+湖北·黄石都市频道,webview://https://web.guangdianyun.tv/tv/3032?uin=3065
+湖北·襄阳经济生活,webview://https://web.guangdianyun.tv/tv/?id=2675&uin=1500#webview://https://xiangyang.cjyun.org/app/streamradio/138
+湖北·襄阳综合,webview://https://web.guangdianyun.tv/tv/?id=3061&uin=1500#webview://https://xiangyang.cjyun.org/app/streamradio/142
+湖北·襄阳公共,webview://https://web.guangdianyun.tv/tv/?id=22337&uin=1500#webview://https://xiangyang.cjyun.org/app/streamradio/130
+湖南·长沙新闻综合,webview://https://live.mgtv.com/?channelId=269#webview://https://web.guangdianyun.tv/tv/?id=346&uin=1648
 湖南·长沙政法频道,webview://https://live.mgtv.com/?channelId=254
 湖南·湘潭新闻综合,webview://http://www.hnxttv.com/live/ivideo/index.html
 湖南·邵阳新闻综合,webview://http://www.sytv.net.cn/folder2188/folder2190
 湖南·邵阳文旅民生,webview://http://share.sytv.net.cn/?_hgOutLink=live/livedetail&channel_id=34
 湖南·娄底综合频道,webview://http://www.ldntv.cn/folder51/folder154/folder171
 湖南·郴州综合,webview://https://www.ngcz.tv/folder83/folder86
+湖南·株洲新闻综合,webview://https://web.guangdianyun.tv/tv/2053?uin=1366
 吉林·长春综合,webview://https://chinactv.com/live/1442880654565093377.html
 吉林·长春文旅体育,webview://https://chinactv.com/live/1442880767035355137.html
 吉林·长春市民生活,webview://https://chinactv.com/live/1442880854423678977.html
 吉林·吉林市新闻综合,webview://https://www.jlcgbdstxmt.com/application/tvradio/h5/detail.html?type=tv&id=11
-吉林·四平,webview://http://evfh-www.plus.jlntv.cn/siping/folder134/folder158
+吉林·四平新闻综合,webview://http://evfh-www.plus.jlntv.cn/siping/folder134/folder158
 江西·南昌新闻综合,webview://https://www.nctv.net.cn/live?channel=1#webview://https://www.nctv.net.cn/live
 江西·南昌都市,webview://https://www.nctv.net.cn/live?channel=2
 江西·南昌资讯,webview://https://www.nctv.net.cn/live?channel=3
 江西·赣州新闻综合,webview://https://www.newskj.net/html/rft/live.html?channelId=722b4fa2b7fa4cf9b01347414b4fbc1a&type=1&siteId=ee5e92ed238644368bd76f8adfe34401&shareAppId=ee5e92ed238644368bd76f8adfe34401
 江西·宜春综合,webview://https://h5-yc.newsyc.com/front-cloudlive-manage-h5/index.html?id=610897459610271744
 江西·宜春公共,webview://http://h5-yc.newsyc.com/front-cloudlive-manage-h5/index.html?id=636127231831396352
+江西·吉安综合,webview://http://www.ijatv.com/live/jatv1/
+江西·吉安公共,webview://http://www.ijatv.com/live/jatv2/
+四川·成都新闻综合,webview://https://www.cditv.cn/show/4845-563.html
+四川·成都经济资讯,webview://https://www.cditv.cn/show/4845-562.html
+四川·成都都市生活,webview://https://www.cditv.cn/show/4845-561.html
+四川·成都影视文艺,webview://https://www.cditv.cn/show/4845-560.html
+四川·成都公共,webview://https://www.cditv.cn/show/4845-559.html
+四川·成都少儿,webview://https://www.cditv.cn/show/4845-558.html
+四川·成都蓉城先锋,webview://https://www.cditv.cn/show/4845-592.html
+四川·泸州新闻综合,webview://https://www.luzhoubs.com/lztv1/index.html
+四川·泸州科教生活,webview://https://www.luzhoubs.com/lztv3/index.html
+四川·绵阳新闻综合,webview://http://www.myntv.cn/html/zb/mytv1.asp
+四川·绵阳科教生活,webview://http://www.myntv.cn/html/zb/mytv2.asp
+四川·乐山新闻综合,webview://http://www.lstv.org.cn/cms/tv/28
+四川·乐山文旅生活,webview://http://www.lstv.org.cn/cms/tv/44
+四川·遂宁综合,webview://http://www.snxw.com/wldst/xwzh/
+四川·遂宁文化生活,webview://http://www.snxw.com/wldst/gggy/
+四川·内江综合,webview://https://www.scnj.tv/bencandy.php?fid=43&id=972
 宁夏·公共,webview://https://www.nxtv.com.cn/tv/gg/
 宁夏·经济,webview://https://www.nxtv.com.cn/tv/jj/
 宁夏·少儿,webview://https://www.nxtv.com.cn/tv/se/
@@ -420,7 +506,7 @@ zitai,webview://https://www.huya.com/333003
 山东·五莲文化旅游,webview://https://iapp.wltvlive.cn/share/dHZsLTI5OS0xMg.html
 山东·东平综合,webview://https://iapp.dpsjt.cn/share/dHZsLTE4Ny05.html
 山东·东平民生,webview://https://iapp.dpsjt.cn/share/dHZsLTE4Ny0xMQ.html
-山东·肥城综合,webview://https://iapp.fcrmt.cn/share/dHZsLTUxLTM.html
+  山东·肥城综合,webview://https://iapp.fcrmt.cn/share/dHZsLTUxLTM.html
 山东·肥城生活,webview://https://iapp.fcrmt.cn/share/dHZsLTUxLTY.html
 山东·宁阳综合,webview://https://iapp.nyxrmtzx.cn/share/dHZsLTEyMy0x.html
 山东·宁阳2套,webview://https://iapp.nyxrmtzx.cn/share/dHZsLTEyMy03.html
@@ -501,21 +587,21 @@ zitai,webview://https://www.huya.com/333003
 山东·东营区科教影视,webview://https://iapp.zhidongyingapp.com/share/dHZsLTE2My03.html
 山东·莒南综合,webview://https://iapp.junanrongmei.cn/share/dHZsLTEwNS00.html
 山东·莒南影视,webview://https://iapp.junanrongmei.cn/share/dHZsLTEwNS01.html
-山东·莒县综合,webview://https://iapp.jxrmtzx.cn/share/dHZsLTE1OS0yMw.html
-山东·莒县生活,webview://https://iapp.jxrmtzx.cn/share/dHZsLTE1OS0yNw.html
+  山东·莒县综合,webview://https://iapp.jxrmtzx.cn/share/dHZsLTE1OS0yMw.html
+  山东·莒县生活,webview://https://iapp.jxrmtzx.cn/share/dHZsLTE1OS0yNw.html
 山东·泗水新闻综合,webview://https://iapp.sishuitv.com/share/dHZsLTExNy01.html
 山东·泗水文化生活,webview://https://iapp.sishuitv.com/share/dHZsLTExNy02.html
 山东·茌平综合,webview://https://iapp.cprmtvs.com/share/dHZsLTMxLTY.html
 山东·茌平生活,webview://https://iapp.cprmtvs.com/share/dHZsLTMxLTg.html
-山东·张店1,webview://https://iapp.aizhangdian.com/share/dHZsLTEwMS0x.html
-山东·张店2,webview://https://iapp.aizhangdian.com/share/dHZsLTEwMS02.html
+  山东·张店1,webview://https://iapp.aizhangdian.com/share/dHZsLTEwMS0x.html
+  山东·张店2,webview://https://iapp.aizhangdian.com/share/dHZsLTEwMS02.html
 山东·城阳综合,webview://https://iapp.hichengyang.cn/share/dHZsLTQwMy01.html
 山东·牟平综合,webview://https://iapp.mprmt.com/share/dHZsLTI4MS0x.html
 山东·临邑1,webview://https://iapp.lyxrmtzx.com/share/dHZsLTQ5LTM.html
 山东·鄄城综合,webview://https://iapp.juanchengrongmei.cn/share/dHZsLTE0MS0xODY.html
 山东·东昌综合,webview://https://iapp.dcfrm.cn/share/dHZsLTI2NS0x.html
 山东·岱岳,webview://https://iapp.daiyuerongmei.cn/share/dHZsLTI5My0x.html
-山西·太原新闻综合,webview://https://www.sxtygdy.com/23/23mbdszb/index.shtml
+山西·太原新闻综合,webview://https://www.sxtygdy.com/23/23mbdszb/index.shtml#webview://https://apphhplushttps.sxrtv.com//a/b/a/live_wap_811850.html
 山西·大同新闻综合,webview://https://www.dtradio.com.cn/local/folder25
 山西·阳泉新闻,webview://https://www.yqrtv.com/folder74/folder139?id=10
 山西·阳泉科教,webview://https://www.yqrtv.com/folder74/folder139?id=11
@@ -556,5 +642,32 @@ zitai,webview://https://www.huya.com/333003
 新疆·汉语体育健康,webview://https://www.xjtvs.com.cn/column/tv/434?channelId=21
 新疆·汉语信息服务,webview://https://www.xjtvs.com.cn/column/tv/434?channelId=22
 新疆·少儿频道,webview://https://www.xjtvs.com.cn/column/tv/434?channelId=23
+新疆·日喀则,webview://https://www.rkzrm.cn/2/2zb/index.shtml
+新疆·克拉玛依1,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10143&id=7&page=canvas&live_type=1
+新疆·克拉玛依2,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10143&id=6&page=canvas&live_type=1
+新疆·克拉玛依3,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10143&id=5&page=canvas&live_type=1
+新疆·昌吉综合,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10130&id=12&page=canvas&live_type=1
+新疆·哈密1,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10104&id=22&page=canvas&live_type=1
+新疆·哈密2,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10104&id=21&page=canvas&live_type=1
+新疆·哈密3,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10104&id=20&page=canvas&live_type=1
+新疆·伊犁1,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10140&id=15&page=canvas&live_type=1
+新疆·伊犁2,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10140&id=14&page=canvas&live_type=1
+新疆·伊犁3,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10140&id=13&page=canvas&live_type=1
+新疆·伊犁4,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10140&id=10&page=canvas&live_type=1
+新疆·喀什1,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10137&id=14&page=canvas&live_type=1
+新疆·喀什2,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10137&id=13&page=canvas&live_type=1
+新疆·阿克苏汉语综合,webview://https://web.guangdianyun.tv/tv/2229?uin=3643
+新疆·阿克苏维吾尔语综合,webview://https://web.guangdianyun.tv/tv/2233?uin=3643
+新疆·阿克苏党员远程教育,webview://https://web.guangdianyun.tv/tv/2234?uin=3643
+新疆·和田综合,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10111&id=12&page=canvas&live_type=1
+新疆·和田影视,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10111&id=11&page=canvas&live_type=1
+新疆·和田维语综合,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10111&id=10&page=canvas&live_type=1
+新疆·和田维语影视,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10111&id=9&page=canvas&live_type=1
+云南·丽江新闻综合,webview://https://www.lijiang.cn/live/
+云南·临沧新闻综合,webview://https://mtydazzle.yntv.net/live/?companyId=lincang&_id=5f51fa40e4b04f16d0288832
+云南·临沧公共频道,webview://https://mtydazzle.yntv.net/live/?companyId=lincang&_id=5f51f80ee4b04f16d0288801
 云南·红河州新闻综合,webview://https://www.hh.cn/ynhhzMini/site/tv
 云南·怒江综合,webview://https://www.nujiang.cn/html/video/tv/
+甘肃·兰州新闻综合,webview://https://www.lzr.com.cn/folder25/folder26/
+甘肃·兰州文旅频道,webview://https://www.lzr.com.cn/folder25/folder26/folder30/
+辽宁·金普1,webview://https://web.guangdianyun.tv/tv/?id=1066&uin=1332
