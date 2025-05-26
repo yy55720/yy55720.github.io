@@ -741,6 +741,8 @@ ABC新闻,http://61.222.202.191:80/live/yzyh.php?id=150
 河北·清河经济综艺,https://jwcdnqx.hebyun.com.cn/live/qinghe1/1500k/tzwj_video.m3u8
 河北·双滦新闻,https://jwcdnqx.hebyun.com.cn/live/slxw/1500k/tzwj_video.m3u8
 河北·双滦影视,https://jwcdnqx.hebyun.com.cn/live/slys/1500k/tzwj_video.m3u8
+河北·衡水新闻综合,http://hls.hsrtv.cn/live/hshstv1.m3u8
+河北·衡水经济科教,http://hls.hsrtv.cn/live/hshstv2.m3u8
 广西·南宁新闻综合,https://hls.nntv.cn/nnlive/XWZH_24.m3u8
 广西·南宁文旅生活,https://hls.nntv.cn/nnlive/WLSH_24.m3u8
 广西·南宁公共,https://hls.nntv.cn/nnlive/GGPD_24.m3u8
@@ -772,6 +774,9 @@ ABC新闻,http://61.222.202.191:80/live/yzyh.php?id=150
 河南·梨园频道,http://120.210.193.151:8006/120000001002/XMTliyuan/1.m3u8
 河南·武术世界,http://120.210.193.151:8006/120000001002/XMTwushu/1.m3u8
 河南·文物宝库,http://120.210.193.151:8006/120000001002/XMTwenwu/1.m3u8
+河南·洛阳新闻综合,https://wshlslive.migucloud.com/live/6AL7GTQX_C0/playlist.m3u8
+河南·洛阳科教频道,https://wshlslive.migucloud.com/live/RJ0EYBCZ_C0/playlist.m3u8
+河南·洛阳文旅频道,https://wshlslive.migucloud.com/live/CVN934JS_C0/playlist.m3u8
 河南·安阳新闻综合,http://zhpull.dxhmt.cn:80/anyang/7e3b40563af54e2f9f48e2c67c5d9fab/playlist.m3u8
 河南·安阳文旅,http://zhpull.dxhmt.cn:80/anyang/24edb37167474b17948c6fbaf09890b8/playlist.m3u8
 河南·焦作综合,http://zhpull.dxhmt.cn/jiaozuo/b75a92c9503e47cf9e89f7ff247b65f2/playlist.m3u8
@@ -854,6 +859,12 @@ ABC新闻,http://61.222.202.191:80/live/yzyh.php?id=150
 辽宁·教育青少,http://120.76.248.139/live/bfgd/4200000075.m3u8
 辽宁·经济,http://120.76.248.139/live/bfgd/4200000076.m3u8#http://120.76.248.139/live/bfgd/4200000480.m3u8
 辽宁·公共,http://120.76.248.139/live/bfgd/4200000481.m3u8#http://120.76.248.139/live/bfgd/4200000077.m3u8
+辽宁·大连新闻综合,rtmp://secret.dltv.cn/dreamStreamCore/tcb3IB5/lv500
+辽宁·大连生活,rtmp://secret.dltv.cn/dreamStreamCore/JzcFkF4/lv500
+辽宁·大连文体,rtmp://secret.dltv.cn/dreamStreamCore/hxT7Fc3/lv500
+吉林·长春综合,https://p2bj.vzan.com/slowlive/763922717250086092/live.m3u8
+吉林·长春文旅体育,https://p2bj.vzan.com/slowlive/077592635708642635/live.m3u8
+吉林·长春市民生活,https://p2bj.vzan.com/slowlive/317775187203351257/live.m3u8
 吉林·延边朝鲜语综合,https://live.ybtvyun.com/video/s10006-4fe8b057eb3b/index.m3u8
 吉林·延边汉语综合,https://live.ybtvyun.com/video/s10006-3860092d4729/index.m3u8
 陕西·新闻资讯,http://gxlive.snrtv.com/sx1-SD.m3u8
@@ -868,6 +879,9 @@ ABC新闻,http://61.222.202.191:80/live/yzyh.php?id=150
 陕西·西安戏剧影视,https://xatv-yt.xiancity.cn/live/4/index.m3u8
 陕西·西安丝路频道,https://xatv-yt.xiancity.cn/live/5/index.m3u8
 陕西·西安移动电视,https://xatv-yt.xiancity.cn/live/7/index.m3u8
+陕西·安康综合,rtmp://pili-live-rtmp.akrt.cn/akapptv/zhpdhd?sign=7555368c5eefecbef6b2f8fe18b9d798&t=67cadb96
+陕西·安康民生,rtmp://pili-live-rtmp.akrt.cn/akapptv/ggpdhd?sign=dd39ce413172524ec4b75f011676bf8e&t=67cadb96
+陕西·安康教育,rtmp://pili-live-rtmp.akrt.cn/akapptv/jypdhd?sign=e188ec1947aea13ed2ed8d08053ffc11&t=67cadb96
 
 
 体育,#genre#
@@ -899,7 +913,7 @@ iHOT爱体育,http://www.xiaoya.bond:50001/TVOD/6000000006000290630/wasusyt/inde
 深圳体育健康,http://121.37.185.74:28180/TV00000000000000000039@HHZT
 上海极速汽车,http://183.207.255.188/live/program/live/jsqchd/4000000/mnf.m3u8#http://111.20.33.93/PLTV/88888893/224/3221226574/index.m3u8
 杭州体育,http://125.210.152.19:9121/live/hzgq-hzsegq-h264.m3u8
-大连文体,http://live.cooltv.top/tv/tide.php?id=dlwt#http://live.cooltv.top/tv/cutv.php?id=dlwt
+大连文体,rtmp://secret.dltv.cn/dreamStreamCore/hxT7Fc3/lv500
 四海钓鱼,http://z.b.bkpcp.top/m.php?id=shdy
 来钓鱼吧,http://118.114.188.36:8888/udp/239.93.42.8:5140
 
