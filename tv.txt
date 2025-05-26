@@ -589,7 +589,7 @@ ABC新闻,http://61.222.202.191:80/live/yzyh.php?id=150
 四川·成都公共,http://8.138.7.223/tv/dl/sxg.php?id=72
 四川·遂宁综合,https://szyplaytv.snxw.com/live/xwzh/playlist.m3u8
 四川·遂宁文化生活,https://szyplaytv.snxw.com/live/gggy/playlist.m3u8
-四川·泸州综合,http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel106011/playlist.m3u8#rtmp://tvdrs.luzhoubs.com/channellive/lztv1
+四川·泸州新闻综合,http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel106011/playlist.m3u8#rtmp://tvdrs.luzhoubs.com/channellive/lztv1
 四川·泸州科教生活,http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel103074/playlist.m3u8#rtmp://tvdrs.luzhoubs.com/channellive/lztv3#http://file.luzhoubs.com/nmip-media/channellive/channel103074/playlist.m3u8
 四川·攀枝花新闻综合,https://live.pzhkai.com/xwzhtl/sd/live.m3u8
 四川·攀枝花文旅生活,https://live.pzhkai.com/wlshtl/sd/live.m3u8
