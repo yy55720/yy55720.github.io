@@ -702,6 +702,19 @@ ABC新闻,http://61.222.202.191:80/live/yzyh.php?id=150
 湖北·荆门新闻综合,http://stream.jmtv.com.cn/xwzh/sd/live.m3u8
 湖北·荆门科教文旅,http://stream.jmtv.com.cn/ggsh/sd/live.m3u8
 湖北·崇阳综合,http://61.184.176.248:10500/live/live.m3u8
+湖北·鄂州新闻综合,http://ezhou-live21.cjyun.org/10098/s10098-EZ1T.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-0f99f7df9fd0d3fca9beca6bafa6b043
+湖北·鄂州文旅生活,http://ezhou-live21.cjyun.org/10098/s10098-EZ2T.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-ab320ba90f39f94baba04e30ff07c52e
+湖北·咸宁综合,http://xianning-live21.cjyun.org/10140/s10140-XNTV-1.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-fea9ed9b2105c8e66da382be47a0acae
+湖北·咸宁经济生活,http://xianning-live21.cjyun.org/10140/s10140-XNGG.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-8cb875770938fdeb7179752f74e13062
+湖北·孝感新闻综合,http://xiaogan-live21.cjyun.org/10139/s10139-shpd.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-2286294457518d52f02d91906380d72a
+湖北·孝感生活,http://xiaogan-live21.cjyun.org/10139/s10139-xg.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-1d24a98d45449c0f85cda4bddc5d72a6
+湖北·荆州新闻综合,http://jingzhou-live21.cjyun.org/10085/s10085-jingzhou-tv01.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-2bb0015980b1b3742cea1d78f13eb6ca
+湖北·荆州垄上,http://jingzhou-live21.cjyun.org/10085/s10085-jingzhou-tv03.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-7dff02969ff316d795ac73c86747fd05
+湖北·赤壁综合,http://chibi-live21.cjyun.org/10138/s10138-CBTV1.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-a9f4eb22b55c750628c090d53a445bbc
+湖北·孝昌新闻综合,http://xiaochang-live21.cjyun.org/10128/s10128-xcxw.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-948b2cf2777e352d9f83660c9b79aa3f
+湖北·长阳综合,http://changyang-live21.cjyun.org/10114/s10114-cy1t.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-c16910d50f308ea1150ce2648945a081
+湖北·当阳综合,http://dangyang-live21.cjyun.org/10118/s10118-DYZH.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-68ad690365557a3ecc64c751a1b02f4a
+湖北·鹤峰综合,http://hefeng-live21.cjyun.org/10100/s10100-hftv1.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-b42f6cb29eb3b901079113901761aa96
 山西·经济与科技,http://live.cooltv.top/tv/tide.php?id=sxjj
 山西·社会与法治,http://live.cooltv.top/tv/tide.php?id=sxshfz
 山西·文体生活,http://live.cooltv.top/tv/tide.php?id=sxwtsh
@@ -1091,6 +1104,7 @@ IPTV4K超清,http://mingjd.cn:7077/rtp/239.3.1.249:8001
 奔跑吧兄弟,http://b.zgjok.com:35455/huya/29465875#http://i.880824.xyz:35455/huya/29465875#https://live.iill.top/huya/29465875#http://huanqiuzhibo.cn/manifest/huya.php?id=29465875
 1905国内电影,http://php.jdshipin.com:8880/1905.php?id=1905dy
 1905国外电影,http://php.jdshipin.com:8880/1905.php?id=1905dy2
+搜狐剧场,https://hdl-vip-ws.qf.56.com/live/lc_11730.flv
 斗鱼科幻动作,http://120.78.6.151:8968/douyu.php?id=2793084#http://lxajh.top/tv/douyu.php?id=2793084#https://live.iill.top/douyu/2793084#http://zzy789.xyz/douyu1.php?id=2793084#http://huanqiuzhibo.cn/manifest/douyu.php?id=2793084#http://i.880824.xyz:35455/douyu/2793084
 斗鱼灾难巨兽,http://120.78.6.151:8968/douyu.php?id=263824#http://lxajh.top/tv/douyu.php?id=263824#https://live.iill.top/douyu/263824#http://zzy789.xyz/douyu1.php?id=263824#http://huanqiuzhibo.cn/manifest/douyu.php?id=263824#http://i.880824.xyz:35455/douyu/263824
 斗鱼经典电影,http://120.78.6.151:8968/douyu.php?id=6091425#http://lxajh.top/tv/douyu.php?id=6091425#https://live.iill.top/douyu/6091425#http://zzy789.xyz/douyu1.php?id=6091425#http://huanqiuzhibo.cn/manifest/douyu.php?id=6091425#http://i.880824.xyz:35455/douyu/6091425
