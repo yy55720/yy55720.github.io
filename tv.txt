@@ -91,9 +91,9 @@ CCTV-8K,https://yangshipin.cn/tv/home?pid=600156816
 
 
 港澳,#genre#
-凤凰中文台,http://qwt.zhibotv.top:2016/全网通.php?id=凤凰中文台#http://124.95.180.107:80/1.v.smtcdns.net/qitv.fengshows.cn/live/0701pcc72.m3u8#http://124.95.180.107:6718/1.v.smtcdns.net/qitv.fengshows.cn/live/0701pcc72.m3u8
-凤凰资讯台,http://qwt.zhibotv.top:2016/全网通.php?id=凤凰资讯台#http://124.95.180.107:80/1.v.smtcdns.net/qitv.fengshows.cn/live/0701pin72.m3u8#http://124.95.180.107:6718/1.v.smtcdns.net/qitv.fengshows.cn/live/0701pin72.m3u8
-凤凰香港台,http://qwt.zhibotv.top:2016/全网通.php?id=凤凰香祖国同胞#http://124.95.180.107:80/1.v.smtcdns.net/qitv.fengshows.cn/live/0701phk72.m3u8#http://124.95.180.107:6718/1.v.smtcdns.net/qitv.fengshows.cn/live/0701phk72.m3u8#http://8hb85846je10.vicp.fun:5000/bysid/85
+凤凰中文台,http://qwt.zhibotv.top:2016/全网通.php?id=凤凰中文台#https://cdn.163189.xyz/live/fhzw/stream.m3u8
+凤凰资讯台,http://qwt.zhibotv.top:2016/全网通.php?id=凤凰资讯台
+凤凰香港台,http://8hb85846je10.vicp.fun:5000/bysid/85#http://qwt.zhibotv.top:2016/全网通.php?id=凤凰香祖国同胞
 凤凰电影台,http://121.37.185.74:28180/TV0000000000000000050@HHZT
 TVB翡翠台,http://qwt.zhibotv.top:2016/全网通.php?id=翡翠台#http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w108.m3u8
 无线新闻,http://qwt.zhibotv.top:2016/全网通.php?id=无线新闻台#http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w1005.m3u8#https://smart.pendy.dpdns.org/Smart.php?id=inews_twn#http://8hb85846je10.vicp.fun:5000/bysid/83
@@ -104,9 +104,9 @@ TVB功夫,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx#http://v2h.jdshipin.com/
 TVB明珠台,http://8hb85846je10.vicp.fun:5000/bysid/2
 TVB千禧经典台,https://smart.pendy.dpdns.org/Smart.php?id=Tvbclassic
 TVB Plus,http://8hb85846je10.vicp.fun:5000/bysid/82
-RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8#https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
-RTHK34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPlaylist.m3u8#https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8#https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
-RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream04/streamPlaylist.m3u8#https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
+RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/master.m3u8#https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8#https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
+RTHK34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/master.m3u8#https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPlaylist.m3u8#https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8#https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
+RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/master.m3u8#https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream04/streamPlaylist.m3u8#https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
 HOY78,https://smart.pendy.dpdns.org/Smart.php?id=hoycaijing_twn
 澳门莲花
 TVB J1
