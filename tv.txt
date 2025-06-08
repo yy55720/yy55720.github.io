@@ -105,7 +105,7 @@ TVB J1,http://php.jdshipin.com/TVOD/iptv.php?id=j1
 TVB功夫,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 TVB千禧经典台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
 TVB娱乐新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
-HOY77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2#http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
+HOY 77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2#http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 VIU TV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/master.m3u8#https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8#https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
 RTHK34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/master.m3u8#https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPlaylist.m3u8#https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8#https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
