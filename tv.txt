@@ -199,7 +199,7 @@ AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8#https://smart.pendy.dpd
 Love Nature,http://aktv_stream1.m16tv.cfd/stream/aktv2/lovenaturehd/AKTV.m3u8
 PopC,http://aktv_stream1.m16tv.cfd/stream/aktv/popc/AKTV.m3u8
 ROCK Action,http://aktv_stream1.m16tv.cfd/stream/aktv/rockaction/AKTV.m3u8
-TVBS新闻台,http://aktv_stream1.m16tv.cfd/stream/aktv/tvbs-1/AKTV.m3u8#https://smart.pendy.dpdns.org/Smart.php?id=tvbsnew_taiwan#https://smart.pendy.dpdns.org/Smart.php?id=tvbs_taiwan
+TVBS新闻台,https://smart.pendy.dpdns.org/Smart.php?id=tvbsnews_taiwan#https://smart.pendy.dpdns.org/Smart.php?id=tvbs_taiwan
 tvN,http://aktv_stream1.m16tv.cfd/stream/aktv/tvn/AKTV.m3u8
 AXN,http://aktv_stream1.m16tv.cfd/stream/aktv2/axn/AKTV.m3u8
 DW,http://aktv_stream1.m16tv.cfd/stream/aktv3/dw/AKTV.m3u8
