@@ -152,6 +152,8 @@ FOX-FS1,http://stream.fs1.tv:8080/hls/webstream.m3u8
 
 
 台湾,#genre#
+美亚电影台,http://bxtv.757888.xyz/stream/bxtv/null-3/master.m3u8?u=bxtv&p=1416a274c445ae05b330fab65ee77ab0d02d18fb4c64dce55ec95cc245034ea7
+天映经典,http://bxtv.757888.xyz/stream/bxtv/null-4/master.m3u8?u=bxtv&p=1416a274c445ae05b330fab65ee77ab0d02d18fb4c64dce55ec95cc245034ea7
 AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
 三立戏剧台,http://61.221.215.25:8800/hls/41/index.m3u8#https://smart.pendy.dpdns.org/Smart.php?id=sanlixiju_twn
 中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8#https://smart.pendy.dpdns.org/Smart.php?id=ctient
@@ -175,7 +177,6 @@ DAZN1,rtmp://f13h.mine.nu/sat/tv731
 DAZN2,rtmp://f13h.mine.nu/sat/tv741
 中天新闻,http://qwt.zhibotv.top:2016/全网通.php?id=中天新闻#https://smart.pendy.dpdns.org/Smart.php?id=ctinews
 寰宇新闻,http://qwt.zhibotv.top:2016/全网通.php?id=寰宇新闻
-美亚电影台,https://smart.pendy.dpdns.org/Smart.php?id=meiyamovie_twn
 东森电影,https://smart.pendy.dpdns.org/Smart.php?id=ettvmovie
 龙华电影,https://smart.pendy.dpdns.org/Smart.php?id=xingwei_movie
 龙华洋片,https://smart.pendy.dpdns.org/Smart.php?id=lunghuajingdian_twn
@@ -211,7 +212,6 @@ MediaCorp Channel 8,http://aktv_stream1.m16tv.cfd/stream/aktv/channel8hd/AKTV.m3
 MediaCorp Channel U,http://aktv_stream1.m16tv.cfd/stream/aktv/channeluhd/AKTV.m3u8
 龙祥时代,http://ali.hlspull.yximgs.com:80/live/huanqiuhktvmqloehqbqqqpvboyjetqewsqhthqyuqfqwetyqqqhflxsq.flv
 CINEMAX,http://ali.hlspull.yximgs.com:80/live/huanqiuhktvqeqcxlvofbqbvbqqqbvyvblcfybqxjbcqcfjvsfcbqbnqtcqnemqx.flv
-天映经典,http://ali.hlspull.yximgs.com:80/live/huanqiuhktvvcnyjsqfqsetqqfcvbcjtsqqfvxcvsqnmbnlqqhqqnmyhsqqftyjq.flv
 天映频道,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476310.m3u8
 靖天电影台,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
 i-Fun动漫,http://aktv.top/AKTV/live/aktv2/ifun/AKTV.m3u8
