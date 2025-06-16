@@ -519,6 +519,8 @@ ABC新闻,http://61.222.202.191:80/live/yzyh.php?id=150
 江苏·南通新闻综合,https://cm-live.ntjoy.com/live/4f1.m3u8
 江苏·南通社教频道,https://cm-live.ntjoy.com/live/4f3.m3u8
 江苏·南通公共频道,https://cm-live.ntjoy.com/live/4f5.m3u8
+江苏·张家港新闻综合,http://3gvod.zjgonline.com.cn:1935/live/_definst_/xinwenzonghe_app/playlist.m3u8
+江苏·张家港民生,http://3gvod.zjgonline.com.cn:1935/live/_definst_/shehuishenghuo_app/playlist.m3u8
 江苏·徐州新闻综合,http://stream3.huaihai.tv/xz1t/sd/live.m3u8
 江苏·徐州经济生活,http://stream3.huaihai.tv/xz2t/sd/live.m3u8
 江苏·徐州文艺影视,http://stream3.huaihai.tv/xz3t/sd/live.m3u8
