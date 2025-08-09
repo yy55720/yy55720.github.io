@@ -151,11 +151,12 @@ FOX-FS1,http://stream.fs1.tv:8080/hls/webstream.m3u8
 
 
 台湾,#genre#
-美亚电影台,http://bx.757888.xyz/api.php?id=meiya#http://s1.an94tv.cfd/aktv/hk/AKTV.m3u8
-天映经典,http://bx.757888.xyz/api.php?id=tyjd#http://s1.an94tv.cfd/aktv/1080/AKTV.m3u8
+美亚电影台,http://s1.an94tv.cfd/aktv/hk/AKTV.m3u8#http://bxtv.3a.ink/api.php?id=meiya
+天映经典,http://s1.an94tv.cfd/aktv/1080/AKTV.m3u8
 龙华电影,https://smart.pendy.dpdns.org/Smart.php?id=xingwei_movie#http://bx.757888.xyz/api.php?id=lhdy
 龙华洋片,https://smart.pendy.dpdns.org/Smart.php?id=lunghuajingdian_twn
-东森电影,http://bx.757888.xyz/api.php?id=dsdy#https://smart.pendy.dpdns.org/Smart.php?id=ettvmovie
+东森电影,http://bxtv.3a.ink/api.php?id=dsdy#https://smart.pendy.dpdns.org/Smart.php?id=ettvmovie
+纬来电影,http://bxtv.3a.ink/api.php?id=wldy
 东森戏剧,https://smart.pendy.dpdns.org/Smart.php?id=ettvdrama
 龙华戏剧,https://smart.pendy.dpdns.org/Smart.php?id=lunghuaxiju_twn
 三立戏剧台,https://smart.pendy.dpdns.org/Smart.php?id=sanlixiju_twn
@@ -163,7 +164,7 @@ FOX-FS1,http://stream.fs1.tv:8080/hls/webstream.m3u8
 八大综合台,https://smart.pendy.dpdns.org/Smart.php?id=badazhonghe
 八大戏剧台,https://smart.pendy.dpdns.org/Smart.php?id=badadrama
 八大第一台,https://smart.pendy.dpdns.org/Smart.php?id=badafirst
-PopC,http://s1.an94tv.cfd/aktv/popc/AKTV.m3u8
+PopC,http://s1.an94tv.cfd/aktv/popc/AKTV.m3u8#http://bxtv.3a.ink/api.php?id=popc
 东森洋片,http://s1.an94tv.cfd/aktv2/CH-2/AKTV.m3u8
 好莱坞电影台,http://s1.an94tv.cfd/aktv2/CH-1/AKTV.m3u8
 AXN,http://s1.an94tv.cfd/aktv/axn/AKTV.m3u8
