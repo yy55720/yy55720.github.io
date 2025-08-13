@@ -409,16 +409,16 @@ ABC新闻,http://61.222.202.191:80/live/yzyh.php?id=150
 北京·体育休闲,http://221.223.82.127:4022/rtp/239.3.1.243:8000#http://111.192.226.144:4022/rtp/239.3.1.243:8000
 北京·国际,http://221.223.82.127:4022/rtp/239.3.1.235:8000#http://111.192.226.144:4022/rtp/239.3.1.235:8000
 北京·卡酷少儿,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/kkse8m/index.m3u8#http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/kakukaton/1.m3u8
-上海·新闻综合,http://47.117.42.95:6003/mgtv/651632657.m3u8#webview://https://live.kankanews.com/huikan?id=2
-上海·都市,webview://https://live.kankanews.com/huikan?id=4
+上海·新闻综合,http://47.117.42.95:6003/mgtv/651632657.m3u8
+上海·都市,https://live.kankanews.com/huikan?id=4
 上海·教育,http://php.jdshipin.com:8880/bst.php?id=shjy
-上海·五星体育,webview://https://live.kankanews.com/huikan?id=10
+上海·五星体育,https://live.kankanews.com/huikan?id=10
 上海·动漫秀场,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/dmxc8m/index.m3u8#http://120.210.193.151:8006/120000001002/XMTdmxc/1.m3u8
 上海·欢笑剧场,http://edge-cache02.live3.omd.sc96655.com/live/hxjc-4k_8000.m3u8
 上海·都市剧场,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/dsjc8m/index.m3u8
 上海·游戏风云,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/yxfy8m/index.m3u8#http://z.b.bkpcp.top/m.php?id=yxfy
 上海·法治天地,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/fztd8m/index.m3u8
-上海·第一财经,webview://https://live.kankanews.com/huikan?id=5
+上海·第一财经,https://live.kankanews.com/huikan?id=5
 上海·东方财经,http://edge-cache02.live3.omd.sc96655.com/live/dfcj_4000.m3u8
 上海·崇明综合,http://180.158.146.27:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 广东·珠江,http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_zj.flv#http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
@@ -643,17 +643,17 @@ https://vod.gdtv.cn/m3u8/202401/170567928663.m3u8
 海南·公共,http://nn.7x9d.cn/地方台8563/海南.php?id=ggpd
 海南·文旅,http://nn.7x9d.cn/地方台8563/海南.php?id=wlpd
 海南·少儿,http://nn.7x9d.cn/地方台8563/海南.php?id=sepd
-新疆·维吾尔语新闻综合,http://zb.hmysapp.cn:801/dft/xinjiang/xinjiang.php?id=xjwyzh#webview://https://www.xjtvs.com.cn/column/tv/434?channelId=3
-新疆·哈萨克语新闻综合,http://zb.hmysapp.cn:801/dft/xinjiang/xinjiang.php?id=xjhyzh#webview://https://www.xjtvs.com.cn/column/tv/434?channelId=4
-新疆·汉语综艺频道,webview://https://www.xjtvs.com.cn/column/tv/434?channelId=16
-新疆·维吾尔语影视,webview://https://www.xjtvs.com.cn/column/tv/434?channelId=17
+新疆·维吾尔语新闻综合,http://zb.hmysapp.cn:801/dft/xinjiang/xinjiang.php?id=xjwyzh
+新疆·哈萨克语新闻综合,http://zb.hmysapp.cn:801/dft/xinjiang/xinjiang.php?id=xjhyzh
+新疆·汉语综艺频道,https://www.xjtvs.com.cn/column/tv/434?channelId=16
+新疆·维吾尔语影视,https://www.xjtvs.com.cn/column/tv/434?channelId=17
 新疆·汉语影视频道,http://117.190.144.101:9901/tsfile/live/1004_1.m3u8?key=txiptv
-新疆·经济生活频道,webview://https://www.xjtvs.com.cn/column/tv/434?channelId=18
-新疆·哈萨克语综艺,webview://https://www.xjtvs.com.cn/column/tv/434?channelId=19
-新疆·维吾尔语经济生活,webview://https://www.xjtvs.com.cn/column/tv/434?channelId=20
-新疆·汉语体育健康,http://zb.hmysapp.cn:801/dft/xinjiang/xinjiang.php?id=xjty#webview://https://www.xjtvs.com.cn/column/tv/434?channelId=21
-新疆·汉语信息服务,webview://https://www.xjtvs.com.cn/column/tv/434?channelId=22
-新疆·少儿频道,http://zb.hmysapp.cn:801/dft/xinjiang/xinjiang.php?id=xjse#webview://https://www.xjtvs.com.cn/column/tv/434?channelId=23
+新疆·经济生活频道,/https://www.xjtvs.com.cn/column/tv/434?channelId=18
+新疆·哈萨克语综艺,https://www.xjtvs.com.cn/column/tv/434?channelId=19
+新疆·维吾尔语经济生活,https://www.xjtvs.com.cn/column/tv/434?channelId=20
+新疆·汉语体育健康,http://zb.hmysapp.cn:801/dft/xinjiang/xinjiang.php?id=xjty
+新疆·汉语信息服务,https://www.xjtvs.com.cn/column/tv/434?channelId=22
+新疆·少儿频道,http://zb.hmysapp.cn:801/dft/xinjiang/xinjiang.php?id=xjse#https://www.xjtvs.com.cn/column/tv/434?channelId=23
 新疆·石河子新闻综合,http://124.88.144.73:1935/live/xwzh/playlist.m3u8#rtmp://124.88.144.73:1935/live/xwzh
 新疆·巴州1,rtmp://tv.loulannews.cn/channellive/ch1
 新疆·巴州2,rtmp://tv.loulannews.cn/channellive/ch2
@@ -757,12 +757,12 @@ https://vod.gdtv.cn/m3u8/202401/170567928663.m3u8
 河北·双滦影视,https://jwcdnqx.hebyun.com.cn/live/slys/1500k/tzwj_video.m3u8
 河北·衡水新闻综合,http://hls.hsrtv.cn/live/hshstv1.m3u8
 河北·衡水经济科教,http://hls.hsrtv.cn/live/hshstv2.m3u8
-广西·新闻,webview://https://tv.gxtv.cn/channel/channelivePlay_9dfd8600075811e9ba67e41f13b60c62.html
-广西·综艺旅游,webview://https://tv.gxtv.cn/channel/channelivePlay_f3335975f9fe11e88bcfe41f13b60c62.html
-广西·都市,webview://https://tv.gxtv.cn/channel/channelivePlay_fdbaf085f9fe11e88bcfe41f13b60c62.html
-广西·影视,webview://https://tv.gxtv.cn/channel/channelivePlay_5e923d82058e11e9ba67e41f13b60c62.html
-广西·国际,webview://https://tv.gxtv.cn/channel/channelivePlay_bfa17b64157f11e999f0e41f13b60c62.html
-广西·移动电视,webview://https://tv.gxtv.cn/channel/channelivePlay_78dbfd44e6b74ab687204d2d8113cbf5.html
+广西·新闻,https://tv.gxtv.cn/channel/channelivePlay_9dfd8600075811e9ba67e41f13b60c62.html
+广西·综艺旅游,https://tv.gxtv.cn/channel/channelivePlay_f3335975f9fe11e88bcfe41f13b60c62.html
+广西·都市,https://tv.gxtv.cn/channel/channelivePlay_fdbaf085f9fe11e88bcfe41f13b60c62.html
+广西·影视,https://tv.gxtv.cn/channel/channelivePlay_5e923d82058e11e9ba67e41f13b60c62.html
+广西·国际,https://tv.gxtv.cn/channel/channelivePlay_bfa17b64157f11e999f0e41f13b60c62.html
+广西·移动电视,https://tv.gxtv.cn/channel/channelivePlay_78dbfd44e6b74ab687204d2d8113cbf5.html
 广西·南宁新闻综合,https://hls.nntv.cn/nnlive/XWZH_24.m3u8
 广西·南宁文旅生活,https://hls.nntv.cn/nnlive/WLSH_24.m3u8
 广西·南宁公共，https://hls.nntv.cn/nnlive/GGPD_24.m3u8
@@ -921,7 +921,7 @@ CCTV央视台球,http://120.210.193.151:8006/120000001002/XMTystq/1.m3u8
 CCTV高尔夫·网球,http://120.210.193.151:8006/120000001002/XMTgolf/1.m3u8
 广东体育,http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_ty.flv
 北京体育,http://221.223.82.127:4022/rtp/239.3.1.243:8000#http://111.192.226.144:4022/rtp/239.3.1.243:8000
-上海五星体育,webview://https://live.kankanews.com/huikan?id=10
+上海五星体育,https://live.kankanews.com/huikan?id=10
 新视觉,http://47.117.42.95:6003/bst/xsjhd@4000000.m3u8#http://php.jdshipin.com:8880/TVOD/iptv.php?id=xsj
 辽宁体育,http://120.76.248.139/live/bfgd/4200000611.m3u8#http://120.76.248.139/live/bfgd/4200000611.m3u8
 足球频道,http://nmglive.imfc.cn/5n1r1c/182396.m3u8
@@ -1030,7 +1030,7 @@ GITV纪实档案,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_103
 
 
 网络,#genre#
-英雄联盟赛事,webview://https://www.douyu.com/288016#http://tv123.top:35455/douyu/288016#http://120.78.6.151:8968/douyu.php?id=288016#http://lxajh.top/tv/douyu.php?id=288016#https://live.iill.top/douyu/288016#http://zzy789.xyz/douyu1.php?id=288016#http://huanqiuzhibo.cn/manifest/douyu.php?id=288016
+英雄联盟赛事,http://tv123.top:35455/douyu/288016#http://120.78.6.151:8968/douyu.php?id=288016#http://lxajh.top/tv/douyu.php?id=288016#https://live.iill.top/douyu/288016#http://zzy789.xyz/douyu1.php?id=288016#http://huanqiuzhibo.cn/manifest/douyu.php?id=288016
 姿态,http://tv123.top:35455/huya/333003#http://www.douzhicloud.site:35455/huya/333003#http://live.iill.top/huya.php?id=333003#http://159.75.85.63:35455/huya/333003
 黑莓电影,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/jdianying/1.m3u8
 黑莓动画,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/donghuawg/1.m3u8
@@ -1041,7 +1041,7 @@ CHC家庭影院,http://120.210.193.151:8006/120000001002/XMTjtyy/1.m3u8#http://d
 CHC影迷电影,http://120.210.193.151:8006/120000001002/XMTgqdy/1.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8#http://39.134.18.68/PLTV/88888888/224/3221232382/index.m3u8
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv#http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd#http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
 精彩影视,http://111.160.17.2:59901/tsfile/live/0001_27.m3u8
-SiTV五星体育,webview://https://live.kankanews.com/huikan?id=10
+SiTV五星体育,https://live.kankanews.com/huikan?id=10
 SiTV欢笑剧场,http://47.117.42.95:6003/bst/hxjchd@4000000.m3u8
 SiTV都市剧场,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/dsjc8m/index.m3u8
 SiTV动漫秀场,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/dmxc8m/index.m3u8#http://120.210.193.151:8006/120000001002/XMTdmxc/1.m3u8
@@ -1090,20 +1090,20 @@ IPTV4K超清,http://mingjd.cn:7077/rtp/239.3.1.249:8001
 
 
 轮播,#genre#
-世界未解之谜,webview://https://www.douyu.com/9369468#http://tv123.top:35455/douyu/9369468#http://120.78.6.151:8968/douyu.php?id=9369468#http://lxajh.top/tv/douyu.php?id=9369468#https://live.iill.top/douyu/9369468#http://zzy789.xyz/douyu1.php?id=9369468#http://huanqiuzhibo.cn/manifest/douyu.php?id=9369468
+世界未解之谜,http://tv123.top:35455/douyu/9369468#http://120.78.6.151:8968/douyu.php?id=9369468#http://lxajh.top/tv/douyu.php?id=9369468#https://live.iill.top/douyu/9369468#http://zzy789.xyz/douyu1.php?id=9369468#http://huanqiuzhibo.cn/manifest/douyu.php?id=9369468
 乡村爱情,http://tv123.top:35455/huya/30080255#http://www.douzhicloud.site:35455/huya/30080255#http://live.iill.top/huya.php?id=30080255#http://159.75.85.63:35455/huya/30080255
-僵尸道长,webview://https://www.douyu.com/7356023#http://tv123.top:35455/douyu/7356023#http://120.78.6.151:8968/douyu.php?id=7356023#http://lxajh.top/tv/douyu.php?id=7356023#https://live.iill.top/douyu/7356023#http://zzy789.xyz/douyu1.php?id=7356023#http://huanqiuzhibo.cn/manifest/douyu.php?id=7356023
+僵尸道长,http://tv123.top:35455/douyu/7356023#http://120.78.6.151:8968/douyu.php?id=7356023#http://lxajh.top/tv/douyu.php?id=7356023#https://live.iill.top/douyu/7356023#http://zzy789.xyz/douyu1.php?id=7356023#http://huanqiuzhibo.cn/manifest/douyu.php?id=7356023
 哈利波特,http://tv123.top:35455/huya/29982669#http://www.douzhicloud.site:35455/huya/29982669#http://live.iill.top/huya.php?id=29982669#http://159.75.85.63:35455/huya/29982669
-神话,webview://https://www.douyu.com/5448413#http://tv123.top:35455/douyu/5448413#http://120.78.6.151:8968/douyu.php?id=5448413#http://lxajh.top/tv/douyu.php?id=5448413#https://live.iill.top/douyu/5448413#http://zzy789.xyz/douyu1.php?id=5448413#http://huanqiuzhibo.cn/manifest/douyu.php?id=5448413
+神话,http://tv123.top:35455/douyu/5448413#http://120.78.6.151:8968/douyu.php?id=5448413#http://lxajh.top/tv/douyu.php?id=5448413#https://live.iill.top/douyu/5448413#http://zzy789.xyz/douyu1.php?id=5448413#http://huanqiuzhibo.cn/manifest/douyu.php?id=5448413
 爱情公寓,http://tv123.top:35455/huya/11336726#http://www.douzhicloud.site:35455/huya/11336726#http://live.iill.top/huya.php?id=11336726#http://159.75.85.63:35455/huya/11336726
-鬼吹灯系列,webview://https://www.douyu.com/5635000#http://tv123.top:35455/douyu/5635000#http://120.78.6.151:8968/douyu.php?id=5635000#http://lxajh.top/tv/douyu.php?id=5635000#https://live.iill.top/douyu/5635000#http://zzy789.xyz/douyu1.php?id=5635000#http://huanqiuzhibo.cn/manifest/douyu.php?id=5635000
+鬼吹灯系列,http://tv123.top:35455/douyu/5635000#http://120.78.6.151:8968/douyu.php?id=5635000#http://lxajh.top/tv/douyu.php?id=5635000#https://live.iill.top/douyu/5635000#http://zzy789.xyz/douyu1.php?id=5635000#http://huanqiuzhibo.cn/manifest/douyu.php?id=5635000
 鬼吹灯精绝古城,http://tv123.top:35455/huya/11352871#http://www.douzhicloud.site:35455/huya/11352871#http://live.iill.top/huya.php?id=11352871#http://159.75.85.63:35455/huya/11352871
 鬼吹灯龙岭迷窟,http://tv123.top:35455/huya/29465863#http://www.douzhicloud.site:35455/huya/29465863#http://live.iill.top/huya.php?id=29465863#http://159.75.85.63:35455/huya/29465863
 鬼吹灯云南虫谷,http://tv123.top:35455/huya/11352898#http://www.douzhicloud.site:35455/huya/11352898#http://live.iill.top/huya.php?id=11352898#http://159.75.85.63:35455/huya/11352898
 鬼吹灯南海归墟,http://tv123.top:35455/huya/11352883#http://www.douzhicloud.site:35455/huya/11352883#http://live.iill.top/huya.php?id=11352883#http://159.75.85.63:35455/huya/11352883
 鬼吹灯怒晴湘西,http://tv123.top:35455/huya/11602075#http://www.douzhicloud.site:35455/huya/11602075#http://live.iill.top/huya.php?id=11602075#http://159.75.85.63:35455/huya/11602075
-神探狄仁杰,webview://https://www.douyu.com/6027991#http://tv123.top:35455/douyu/6027991#http://120.78.6.151:8968/douyu.php?id=6027991#http://lxajh.top/tv/douyu.php?id=6027991#https://live.iill.top/douyu/6027991#http://zzy789.xyz/douyu1.php?id=6027991#http://huanqiuzhibo.cn/manifest/douyu.php?id=6027991
-西游记,webview://https://www.douyu.com/3113309#http://tv123.top:35455/douyu/3113309#http://120.78.6.151:8968/douyu.php?id=3113309#http://lxajh.top/tv/douyu.php?id=3113309#https://live.iill.top/douyu/3113309#http://zzy789.xyz/douyu1.php?id=3113309#http://huanqiuzhibo.cn/manifest/douyu.php?id=3113309
+神探狄仁杰,http://tv123.top:35455/douyu/6027991#http://120.78.6.151:8968/douyu.php?id=6027991#http://lxajh.top/tv/douyu.php?id=6027991#https://live.iill.top/douyu/6027991#http://zzy789.xyz/douyu1.php?id=6027991#http://huanqiuzhibo.cn/manifest/douyu.php?id=6027991
+西游记,http://tv123.top:35455/douyu/3113309#http://120.78.6.151:8968/douyu.php?id=3113309#http://lxajh.top/tv/douyu.php?id=3113309#https://live.iill.top/douyu/3113309#http://zzy789.xyz/douyu1.php?id=3113309#http://huanqiuzhibo.cn/manifest/douyu.php?id=3113309
 刑事侦缉档案,http://tv123.top:35455/huya/29465856#http://www.douzhicloud.site:35455/huya/29465856#http://live.iill.top/huya.php?id=29465856#http://159.75.85.63:35455/huya/29465856
 使徒行者,http://tv123.top:35455/huya/23734256#http://www.douzhicloud.site:35455/huya/23734256#http://live.iill.top/huya.php?id=23734256#http://159.75.85.63:35455/huya/23734256
 好先生,http://tv123.top:35455/huya/11602088#http://www.douzhicloud.site:35455/huya/11602088#http://live.iill.top/huya.php?id=11602088#http://159.75.85.63:35455/huya/11602088
@@ -1120,12 +1120,12 @@ IPTV4K超清,http://mingjd.cn:7077/rtp/239.3.1.249:8001
 1905国内电影,http://xxwx.yoesun.com/1905dy.php?id=1905a
 1905国外电影,http://xxwx.yoesun.com/1905dy.php?id=1905b
 搜狐剧场,https://hdl-vip-ws.qf.56.com/live/lc_11730.flv
-斗鱼科幻动作,webview://https://www.douyu.com/2793084#http://tv123.top:35455/douyu/2793084#http://120.78.6.151:8968/douyu.php?id=2793084#http://lxajh.top/tv/douyu.php?id=2793084#https://live.iill.top/douyu/2793084#http://zzy789.xyz/douyu1.php?id=2793084#http://huanqiuzhibo.cn/manifest/douyu.php?id=2793084
-斗鱼灾难巨兽,webview://https://www.douyu.com/8009547#http://tv123.top:35455/douyu/8009547#http://120.78.6.151:8968/douyu.php?id=8009547#http://lxajh.top/tv/douyu.php?id=8009547#https://live.iill.top/douyu/8009547#http://zzy789.xyz/douyu1.php?id=8009547#http://huanqiuzhibo.cn/manifest/douyu.php?id=8009547
-斗鱼经典电影,webview://https://www.douyu.com/6091425#http://tv123.top:35455/douyu/6091425#http://120.78.6.151:8968/douyu.php?id=6091425#http://lxajh.top/tv/douyu.php?id=6091425#https://live.iill.top/douyu/6091425#http://zzy789.xyz/douyu1.php?id=6091425#http://huanqiuzhibo.cn/manifest/douyu.php?id=6091425
-斗鱼电影,webview://https://www.douyu.com/3928#http://tv123.top:35455/douyu/3928#http://120.78.6.151:8968/douyu.php?id=3928#http://lxajh.top/tv/douyu.php?id=3928#https://live.iill.top/douyu/3928#http://zzy789.xyz/douyu1.php?id=3928#http://huanqiuzhibo.cn/manifest/douyu.php?id=3928
-斗鱼神乐1,webview://https://www.douyu.com/5061550#http://tv123.top:35455/douyu/5061550#http://120.78.6.151:8968/douyu.php?id=5061550#http://lxajh.top/tv/douyu.php?id=5061550#https://live.iill.top/douyu/5061550#http://zzy789.xyz/douyu1.php?id=5061550#http://huanqiuzhibo.cn/manifest/douyu.php?id=5061550
-斗鱼神乐2,webview://https://www.douyu.com/74374#http://tv123.top:35455/douyu/74374#http://120.78.6.151:8968/douyu.php?id=74374#http://lxajh.top/tv/douyu.php?id=74374#https://live.iill.top/douyu/74374#http://zzy789.xyz/douyu1.php?id=74374#http://huanqiuzhibo.cn/manifest/douyu.php?id=74374
+斗鱼科幻动作,http://tv123.top:35455/douyu/2793084#http://120.78.6.151:8968/douyu.php?id=2793084#http://lxajh.top/tv/douyu.php?id=2793084#https://live.iill.top/douyu/2793084#http://zzy789.xyz/douyu1.php?id=2793084#http://huanqiuzhibo.cn/manifest/douyu.php?id=2793084
+斗鱼灾难巨兽,http://tv123.top:35455/douyu/8009547#http://120.78.6.151:8968/douyu.php?id=8009547#http://lxajh.top/tv/douyu.php?id=8009547#https://live.iill.top/douyu/8009547#http://zzy789.xyz/douyu1.php?id=8009547#http://huanqiuzhibo.cn/manifest/douyu.php?id=8009547
+斗鱼经典电影,http://tv123.top:35455/douyu/6091425#http://120.78.6.151:8968/douyu.php?id=6091425#http://lxajh.top/tv/douyu.php?id=6091425#https://live.iill.top/douyu/6091425#http://zzy789.xyz/douyu1.php?id=6091425#http://huanqiuzhibo.cn/manifest/douyu.php?id=6091425
+斗鱼电影,http://tv123.top:35455/douyu/3928#http://120.78.6.151:8968/douyu.php?id=3928#http://lxajh.top/tv/douyu.php?id=3928#https://live.iill.top/douyu/3928#http://zzy789.xyz/douyu1.php?id=3928#http://huanqiuzhibo.cn/manifest/douyu.php?id=3928
+斗鱼神乐1,http://tv123.top:35455/douyu/5061550#http://120.78.6.151:8968/douyu.php?id=5061550#http://lxajh.top/tv/douyu.php?id=5061550#https://live.iill.top/douyu/5061550#http://zzy789.xyz/douyu1.php?id=5061550#http://huanqiuzhibo.cn/manifest/douyu.php?id=5061550
+斗鱼神乐2,http://tv123.top:35455/douyu/74374#http://120.78.6.151:8968/douyu.php?id=74374#http://lxajh.top/tv/douyu.php?id=74374#https://live.iill.top/douyu/74374#http://zzy789.xyz/douyu1.php?id=74374#http://huanqiuzhibo.cn/manifest/douyu.php?id=74374
 周星驰,http://tv123.top:35455/huya/11342412#http://www.douzhicloud.site:35455/huya/11342412#http://live.iill.top/huya.php?id=11342412#http://159.75.85.63:35455/huya/11342412
 林正英,http://tv123.top:35455/huya/11342421#http://www.douzhicloud.site:35455/huya/11342421#http://live.iill.top/huya.php?id=11342421#http://159.75.85.63:35455/huya/11342421
 成龙,http://tv123.top:35455/huya/11342386#http://www.douzhicloud.site:35455/huya/11342386#http://live.iill.top/huya.php?id=11342386#http://159.75.85.63:35455/huya/11342386
@@ -1145,11 +1145,11 @@ IPTV4K超清,http://mingjd.cn:7077/rtp/239.3.1.249:8001
 
 
 小品相声,#genre#
-赵本山经典小品,webview://https://www.douyu.com/9817716#http://tv123.top:35455/douyu/9817716#http://120.78.6.151:8968/douyu.php?id=9817716#http://lxajh.top/tv/douyu.php?id=9817716#https://live.iill.top/douyu/9817716#http://zzy789.xyz/douyu1.php?id=9817716#http://huanqiuzhibo.cn/manifest/douyu.php?id=9817716
-宋小宝小品,webview://https://www.douyu.com/9817729#http://tv123.top:35455/douyu/9817729#http://120.78.6.151:8968/douyu.php?id=9817729#http://lxajh.top/tv/douyu.php?id=9817729#https://live.iill.top/douyu/9817729#http://zzy789.xyz/douyu1.php?id=9817729#http://huanqiuzhibo.cn/manifest/douyu.php?id=9817729
-小品,webview://https://www.douyu.com/9067836#http://tv123.top:35455/douyu/9067836#http://120.78.6.151:8968/douyu.php?id=9067836#http://lxajh.top/tv/douyu.php?id=9067836#https://live.iill.top/douyu/9067836#http://zzy789.xyz/douyu1.php?id=9067836#http://huanqiuzhibo.cn/manifest/douyu.php?id=9067836
-辽视欢乐集结号,webview://https://www.douyu.com/9322175#http://tv123.top:35455/douyu/9322175#http://120.78.6.151:8968/douyu.php?id=9322175#http://lxajh.top/tv/douyu.php?id=9322175#https://live.iill.top/douyu/9322175#http://zzy789.xyz/douyu1.php?id=9322175#http://huanqiuzhibo.cn/manifest/douyu.php?id=9322175
-小品相声,webview://https://www.douyu.com/9273031#http://tv123.top:35455/douyu/9273031#http://120.78.6.151:8968/douyu.php?id=9273031#http://lxajh.top/tv/douyu.php?id=9273031#https://live.iill.top/douyu/9273031#http://zzy789.xyz/douyu1.php?id=9273031#http://huanqiuzhibo.cn/manifest/douyu.php?id=9273031
+赵本山经典小品,http://tv123.top:35455/douyu/9817716#http://120.78.6.151:8968/douyu.php?id=9817716#http://lxajh.top/tv/douyu.php?id=9817716#https://live.iill.top/douyu/9817716#http://zzy789.xyz/douyu1.php?id=9817716#http://huanqiuzhibo.cn/manifest/douyu.php?id=9817716
+宋小宝小品,http://tv123.top:35455/douyu/9817729#http://120.78.6.151:8968/douyu.php?id=9817729#http://lxajh.top/tv/douyu.php?id=9817729#https://live.iill.top/douyu/9817729#http://zzy789.xyz/douyu1.php?id=9817729#http://huanqiuzhibo.cn/manifest/douyu.php?id=9817729
+小品,http://tv123.top:35455/douyu/9067836#http://120.78.6.151:8968/douyu.php?id=9067836#http://lxajh.top/tv/douyu.php?id=9067836#https://live.iill.top/douyu/9067836#http://zzy789.xyz/douyu1.php?id=9067836#http://huanqiuzhibo.cn/manifest/douyu.php?id=9067836
+辽视欢乐集结号,http://tv123.top:35455/douyu/9322175#http://120.78.6.151:8968/douyu.php?id=9322175#http://lxajh.top/tv/douyu.php?id=9322175#https://live.iill.top/douyu/9322175#http://zzy789.xyz/douyu1.php?id=9322175#http://huanqiuzhibo.cn/manifest/douyu.php?id=9322175
+小品相声,http://tv123.top:35455/douyu/9273031#http://120.78.6.151:8968/douyu.php?id=9273031#http://lxajh.top/tv/douyu.php?id=9273031#https://live.iill.top/douyu/9273031#http://zzy789.xyz/douyu1.php?id=9273031#http://huanqiuzhibo.cn/manifest/douyu.php?id=9273031
 春晚经典小品,http://tv123.top:35455/huya/11602068#http://www.douzhicloud.site:35455/huya/11602068#http://live.iill.top/huya.php?id=11602068#http://159.75.85.63:35455/huya/11602068
 钟点工,https://vd4.bdstatic.com/mda-rbjaqsqs0tiha12d/sc/cae_h264/1740068391663625767/mda-rbjaqsqs0tiha12d.mp4
 不差钱,https://vd4.bdstatic.com/mda-rbmpjgwb5w4p9qp7/sc/cae_h264/1740243858983979048/mda-rbmpjgwb5w4p9qp7.mp4
@@ -1189,7 +1189,7 @@ SiTV都市剧场,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1
 定州影视,https://jwcdnqx.hebyun.com.cn/live/yspd/1500k/tzwj_video.m3u8
 菏泽影视,http://live.hznet.tv:1935/live/live3/500K/tzwj_video.m3u8
 北京影视,http://221.223.82.127:4022/rtp/239.3.1.158:8000#http://111.192.226.144:4022/rtp/239.3.1.158:8000
-广西影视,webview://https://tv.gxtv.cn/channel/channelivePlay_5e923d82058e11e9ba67e41f13b60c62.html
+广西影视,https://tv.gxtv.cn/channel/channelivePlay_5e923d82058e11e9ba67e41f13b60c62.html
 辽宁影视剧,http://120.76.248.139/live/bfgd/4200000070.m3u8
 江西影视旅游,http://play-live-hls.jxtvcn.com.cn//tv_jxtv4.m3u8
 福建电视剧,http://8.138.7.223/tv/fjtv.php?id=7#http://kudan.x3322.net:3456/fujian.php?id=7#http://php.jdshipin.com:8880/fujian.php?id=4
@@ -1225,7 +1225,7 @@ SiTV都市剧场,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1
 火影忍者,http://tv123.top:35455/huya/29465866#http://www.douzhicloud.site:35455/huya/29465866#http://live.iill.top/huya.php?id=29465866#http://159.75.85.63:35455/huya/29465866
 火影忍者2,http://tv123.top:35455/huya/11342385#http://www.douzhicloud.site:35455/huya/11342385#http://live.iill.top/huya.php?id=11342385#http://159.75.85.63:35455/huya/11342385
 卡酷少儿,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/kkse8m/index.m3u8#http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/kakukaton/1.m3u8
-哈哈炫动,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/hhxd8m/index.m3u8#http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/xuandongkaton/1.m3u8#webview://https://live.kankanews.com/huikan?id=9
+哈哈炫动,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/hhxd8m/index.m3u8#http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/xuandongkaton/1.m3u8
 金鹰卡通,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/jykt/index.m3u8#http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/jinyingkaton/1.m3u8#http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/jinyingkaton/1.m3u8
 优漫卡通,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/youmankaton/1.m3u8
 嘉佳卡通,http://47.117.42.95:6003/mgtv/614952364.m3u8
@@ -1257,7 +1257,7 @@ iHOT爱动漫,http://www.xiaoya.bond:50001/TVOD/6000000006000280630/wasusyt/inde
 天津少儿,http://blc.zmychn.cn:4000/udp/225.1.1.125:5002
 重庆少儿,http://27.14.29.219:9901/tsfile/live/1004_1.m3u8
 成都少儿,http://182.149.106.41:8888/udp/239.93.0.21:1251
-新疆少儿,http://zb.hmysapp.cn:801/dft/xinjiang/xinjiang.php?id=xjse#webview://https://www.xjtvs.com.cn/column/tv/434?channelId=23
+新疆少儿,http://zb.hmysapp.cn:801/dft/xinjiang/xinjiang.php?id=xjse
 山东少儿,http://119.166.28.145:1029/udp/239.253.254.25:8000
 CCTV新科动漫,http://cctvtxyh5ca.liveplay.myqcloud.com/live/xinkedongman_2_hd.m3u8
 狮子王,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c2e7e767f3144bed959ef20b8b961fe5/850.m3u8
