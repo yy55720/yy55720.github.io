@@ -17,8 +17,8 @@ CCTV-14少儿,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/
 CCTV-15音乐,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-15/1.m3u8#http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctvyysd4mc/index.m3u8
 CCTV-16奥林匹克,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-cctv16/1.m3u8#http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv16hd8m/index.m3u8
 CCTV-17农业农村,http://120.210.193.151:8006/120000001002/XMTcctv-17hd/index.m3u8#http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/SD-4000k-576P-cctv17/1.m3u8#http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv17hd4mc/index.m3u8
-CCTV-4中文国际 欧洲,http://47.117.42.95:6003/mgtv/608807419.m3u8
-CCTV-4中文国际 美洲,http://47.117.42.95:6003/mgtv/608807416.m3u8
+CCTV-4中文国际 欧洲,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv4o
+CCTV-4中文国际 美洲,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv4m
 CCTV风云足球,http://120.210.193.151:8006/120000001002/XMTfyzq/1.m3u8
 CCTV风云音乐,http://120.210.193.151:8006/120000001002/XMTfyyy/1.m3u8
 CCTV第一剧场,http://120.210.193.151:8006/120000001002/XMTdyjc/1.m3u8
@@ -31,9 +31,9 @@ CCTV高尔夫·网球,http://120.210.193.151:8006/120000001002/XMTgolf/1.m3u8
 CCTV电视指南,http://120.210.193.151:8006/120000001002/XMTdszn/1.m3u8
 CCTV央视文化精品,http://120.210.193.151:8006/120000001002/XMTysjp/1.m3u8
 CCTV女性时尚,http://120.210.193.151:8006/120000001002/XMTnxss/1.m3u8
-CCTV老故事,http://47.117.42.95:6003/mgtv/884121956.m3u8
-CCTV发现之旅,http://47.117.42.95:6003/mgtv/624878970.m3u8
-CCTV中学生,http://47.117.42.95:6003/mgtv/708869532.m3u8
+CCTV老故事,http://mg.hmysapp.cn:177/ckmg/zb.php?id=lgs
+CCTV发现之旅,http://mg.hmysapp.cn:177/ckmg/zb.php?id=fxzl
+CCTV中学生,http://mg.hmysapp.cn:177/ckmg/zb.php?id=zxs
 CCTV卫生健康,http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012513503.m3u8#http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012513502.m3u8
 CETV-1,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/zgjy1thd/index.m3u8#http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/jiaoyutv/1.m3u8
 CETV-2,http://120.210.193.151:8006/120000001002/XMTcetv-2/index.m3u8
@@ -409,7 +409,7 @@ ABC新闻,http://61.222.202.191:80/live/yzyh.php?id=150
 北京·体育休闲,http://k.061899.xyz/m.php?id=bjty
 北京·国际,http://221.223.82.127:4022/rtp/239.3.1.235:8000#http://111.192.226.144:4022/rtp/239.3.1.235:8000
 北京·卡酷少儿,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/kkse8m/index.m3u8#http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/kakukaton/1.m3u8
-上海·新闻综合,http://47.117.42.95:6003/mgtv/651632657.m3u8
+上海·新闻综合,http://mg.hmysapp.cn:177/ckmg/zb.php?id=shxwzh
 上海·都市,https://live.kankanews.com/huikan?id=4
 上海·教育,http://php.jdshipin.com:8880/bst.php?id=shjy
 上海·五星体育,https://live.kankanews.com/huikan?id=10
@@ -425,7 +425,7 @@ ABC新闻,http://61.222.202.191:80/live/yzyh.php?id=150
 广东·体育,http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_ty.flv
 广东·新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_xw.flv
 广东·民生,http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_ms.flv
-广东·影视,http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_ys.flv#http://47.117.42.95:6003/mgtv/614961829.m3u8
+广东·影视,http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_ys.flv#http://mg.hmysapp.cn:177/ckmg/zb.php?id=gdys
 广东·少儿,http://121.37.185.74:18180/TV00000000000000027@HHZT
 广东·岭南戏曲,http://121.37.185.74:28180/TV000000000000000032@HHZT
 广东·大湾区卫视,http://121.37.185.74:18180/TV0000000000000000028@HHZT
@@ -487,13 +487,13 @@ https://vod.gdtv.cn/m3u8/202401/170567928663.m3u8
 浙江·平湖新闻综合,http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8
 浙江·文成综合,http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8
 浙江·东阳新闻综合,http://play-sh13.quklive.com/live/1681113308206040.m3u8?auth_key=2028413158-ad2723c5e94045f393c4ccc595b573f9-0-c75b8d81f4470e67519c154e85115a4e
-江苏·新闻,http://47.117.42.95:6003/mgtv/626064693.m3u8
-江苏·城市,http://47.117.42.95:6003/mgtv/626064714.m3u8#http://sport.pendy.dpdns.org/migu/626064714?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-江苏·体育休闲,http://47.117.42.95:6003/mgtv/626064707.m3u8
-江苏·影视,http://47.117.42.95:6003/mgtv/626064697.m3u8
-江苏·综艺,http://47.117.42.95:6003/mgtv/626065193.m3u8
-江苏·教育,http://47.117.42.95:6003/mgtv/628008321.m3u8
-江苏·国际,http://47.117.42.95:6003/mgtv/626064674.m3u8
+江苏·新闻,http://mg.hmysapp.cn:177/ckmg/zb.php?id=jsggxw
+江苏·城市,http://mg.hmysapp.cn:177/ckmg/zb.php?id=jscs#http://sport.pendy.dpdns.org/migu/626064714?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+江苏·体育休闲,http://mg.hmysapp.cn:177/ckmg/zb.php?id=jstyxx
+江苏·影视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=jsys
+江苏·综艺,http://mg.hmysapp.cn:177/ckmg/zb.php?id=jszy
+江苏·教育,http://mg.hmysapp.cn:177/ckmg/zb.php?id=jsjy
+江苏·国际,http://mg.hmysapp.cn:177/ckmg/zb.php?id=jsgj
 江苏·南京新闻综合,http://live.nbs.cn/channels/njtv/xwzh/nbs06.m3u8#http://live.nbs.cn/channels/njtv/xwpdb/nbs06.m3u8
 江苏·南京十八生活,http://live.nbs.cn/channels/njtv/sbsh/nbs24.m3u8
 江苏·南京教科,http://live.nbs.cn/channels/njtv/jkpd/nbs06.m3u8
@@ -928,7 +928,7 @@ CCTV高尔夫·网球,http://120.210.193.151:8006/120000001002/XMTgolf/1.m3u8
 麻辣体育,http://118.114.188.36:8888/udp/239.93.42.2:5140
 山东体育,http://60.208.44.186:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 天津体育,http://blc.zmychn.cn:4000/udp/225.1.1.122:5002
-江苏体育休闲,http://47.117.42.95:6003/mgtv/626064707.m3u8
+江苏体育休闲,http://mg.hmysapp.cn:177/ckmg/zb.php?id=jstyxx
 iHOT爱体育,http://www.xiaoya.bond:50001/TVOD/6000000006000290630/wasusyt/index.m3u8#http://www.xiaoya.bond:50001/TVOD/2000000004000000060/hnbblive/index.m3u8#http://v.tik686.com:50001/TVOD/6000000006000290630/wasusyt/index.m3u8#http://v.tik686.com:50001/TVOD/2000000004000000060/hnbblive/index.m3u8
 24小时体育,http://117.148.129.9/PLTV/88888888/224/3221231778/index.m3u8
 体育赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225764/index.m3u8
@@ -1062,10 +1062,10 @@ SiTV极速汽车,http://php.jdshipin.com:8880/bst.php?id=jsqchd/4000000
 百事通热门综艺,http://47.117.42.95:6003/bst/rmzyvcc4m@4000000.m3u8
 百事通看天下精选,http://47.117.42.95:60030/bst/ktxjx8m@8000000.m3u8
 经典动画大集合,http://47.117.42.95:6003/mgtv/629942219.m3u8
-咪咕24小时体育,http://47.117.42.95:6003/mgtv/654102378.m3u8
+咪咕24小时体育,http://mg.hmysapp.cn:177/ckmg/zb.php?id=mg24hty
 青春怀旧剧场,http://47.117.42.95:6003/mgtv/617432318.m3u8
-新片放映厅,http://47.117.42.95:6003/mgtv/619495952.m3u8
-高清大片,http://47.117.42.95:6003/mgtv/629943678.m3u8
+新片放映厅,http://mg.hmysapp.cn:177/ckmg/zb.php?id=xpfyt
+高清大片,http://mg.hmysapp.cn:177/ckmg/zb.php?id=gqdp
 睛彩竞技,http://120.210.193.151:8006/000000001001/3000000020000011528/3000000020000011528.m3u8
 睛彩篮球,http://120.210.193.151:8006/000000001001/3000000020000011529/3000000020000011529.m3u8
 睛彩青少,http://120.210.193.151:8006/000000001001/3000000020000031315/3000000020000031315.m3u8#http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8000k-1080P-quanminrl/1.m3u8
@@ -1182,7 +1182,7 @@ SiTV都市剧场,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1
 苏州电影娱乐信息,https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
 南宁影视,https://hls.nntv.cn/nnlive/YSYL_244.m3u8
 山西影视,https://livehhhttps.sxrtv.com/lsdream/Md571Kv/800/f7iMk50.m3u8
-广东影视,http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_ys.flv
+广东影视,http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_ys.flv#http://mg.hmysapp.cn:177/ckmg/zb.php?id=gdys
 深圳电视剧,https://www.sztv.com.cn/pindao/index.html?id=7880
 徐州文艺影视,http://stream3.huaihai.tv/xz3t/sd/live.m3u8
 平泉影视,https://jwcdnqx.hebyun.com.cn/live/pqys/1500k/tzwj_video.m3u8
@@ -1196,7 +1196,7 @@ SiTV都市剧场,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1
 河北影视,http://1.94.31.214/php/hebei.php?id=hbys
 河南电视剧,http://1.94.31.214/php/hntv.php?id=hndsj
 新疆影视,http://117.190.144.101:9901/tsfile/live/1004_1.m3u8?key=txiptv
-江苏影视,http://47.117.42.95:6003/mgtv/626064697.m3u8
+江苏影视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=jsys
 四川影视文艺,http://edge-cache02.live3.omd.sc96655.com/live/SCTV-5-scysH265_4000.m3u8
 成都影视文艺,http://edge-cache02.live3.omd.sc96655.com/live/CDTV-4_4000.m3u8
 上虞文化影视,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
