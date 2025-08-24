@@ -544,9 +544,11 @@ https://vod.gdtv.cn/m3u8/202401/170567928663.m3u8
 黑龙江·都市,https://idclive.hljtv.com:4430/live/dushi_hd.m3u8#http://39.134.65.151/PLTV/88888888/224/3221225990/1.m3u8
 黑龙江·农业科教,https://idclive.hljtv.com:4430/live/hljgg_hd.m3u8#http://39.134.65.151/PLTV/88888888/224/3221225998/1.m3u8
 黑龙江·少儿,http://39.134.65.151/PLTV/88888888/224/3221226002/1.m3u8
-黑龙江·哈尔滨新闻,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226434/index.m3u8
-黑龙江·哈尔滨生活,http://39.134.66.4/PLTV/88888888/224/3221226095/index.m3u8
-黑龙江·哈尔滨影视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226552/index.m3u8
+黑龙江·哈尔滨新闻,rtmp://masterpull.hljtv.com/live/sPvVy8Ju#https://stream.hrbtv.net/xwzh/playlist.m3u8
+黑龙江·哈尔滨生活,https://stream.hrbtv.net/shpd/playlist.m3u8#http://stream.hrbtv.net/shpd/sd/live.m3u8
+黑龙江·哈尔滨影视,http://stream.hrbtv.net/yspd/sd/live.m3u8#https://stream.hrbtv.net/yspd/playlist.m3u8
+黑龙江·哈尔滨娱乐,http://stream.hrbtv.net/ylpd/sd/live.m3u8#https://stream.hrbtv.net/ylpd/sd/live.m3u8
+黑龙江·哈尔滨资讯,https://stream.hrbtv.net/zxpd/sd/live.m3u8
 福建·新闻,http://8.138.7.223/tv/fjtv.php?id=13#http://kudan.x3322.net:3456/fujian.php?id=13#http://php.jdshipin.com:8880/fujian.php?id=3
 福建·综合,http://8.138.7.223/tv/fjtv.php?id=4#http://kudan.x3322.net:3456/fujian.php?id=4#http://php.jdshipin.com:8880/fujian.php?id=0
 福建·公共,http://8.138.7.223/tv/fjtv.php?id=6#http://kudan.x3322.net:3456/fujian.php?id=6#http://php.jdshipin.com:8880/fujian.php?id=2
@@ -654,6 +656,9 @@ https://vod.gdtv.cn/m3u8/202401/170567928663.m3u8
 新疆·汉语体育健康,http://zb.hmysapp.cn:801/dft/xinjiang/xinjiang.php?id=xjty
 新疆·汉语信息服务,https://www.xjtvs.com.cn/column/tv/434?channelId=22
 新疆·少儿频道,http://zb.hmysapp.cn:801/dft/xinjiang/xinjiang.php?id=xjse#https://www.xjtvs.com.cn/column/tv/434?channelId=23
+新疆·克拉玛依1,http://klmysjtzb.rcsxzx.com/hls/klmy1.m3u8
+新疆·克拉玛依2,http://klmysjtzb.rcsxzx.com/hls/klmy2.m3u8
+新疆·克拉玛依3,http://klmysjtzb.rcsxzx.com/hls/klmy3.m3u8
 新疆·石河子新闻综合,http://124.88.144.73:1935/live/xwzh/playlist.m3u8#rtmp://124.88.144.73:1935/live/xwzh
 新疆·巴州1,rtmp://tv.loulannews.cn/channellive/ch1
 新疆·巴州2,rtmp://tv.loulannews.cn/channellive/ch2
@@ -885,6 +890,12 @@ https://vod.gdtv.cn/m3u8/202401/170567928663.m3u8
 辽宁·大连新闻综合,rtmp://secret.dltv.cn/dreamStreamCore/tcb3IB5/lv500
 辽宁·大连生活,rtmp://secret.dltv.cn/dreamStreamCore/JzcFkF4/lv500
 辽宁·大连文体,rtmp://secret.dltv.cn/dreamStreamCore/hxT7Fc3/lv500
+吉林·影视,http://tpc.x3322.net:9901/tsfile/live/1006_1.m3u8
+吉林·生活,http://tpc.x3322.net:9901/tsfile/live/1007_1.m3u8
+吉林·都市,http://tpc.x3322.net:9901/tsfile/live/1002_1.m3u8
+吉林·乡村文化,http://tpc.x3322.net:9901/tsfile/live/1008_1.m3u8
+吉林·综艺,http://tpc.x3322.net:9901/tsfile/live/1003_1.m3u8
+吉林·教育,http://tpc.x3322.net:9901/tsfile/live/1004_1.m3u8
 吉林·长春综合,https://p2bj.vzan.com/slowlive/763922717250086092/live.m3u8
 吉林·长春文旅体育,https://p2bj.vzan.com/slowlive/077592635708642635/live.m3u8
 吉林·长春市民生活,https://p2bj.vzan.com/slowlive/317775187203351257/live.m3u8
@@ -1163,6 +1174,7 @@ IPTV4K超清,http://mingjd.cn:7077/rtp/239.3.1.249:8001
 
 
 影视频道,#genre#
+长影频道,http://tpc.x3322.net:9901/tsfile/live/1010_1.m3u8
 峨眉电影,http://edge-cache02.live3.omd.sc96655.com/live/emdygqH265_4000.m3u8
 黑莓电影,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/jdianying/1.m3u8
 CHC动作电影,http://120.210.193.151:8006/120000001002/XMTdzdy/1.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
@@ -1178,7 +1190,7 @@ SiTV都市剧场,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1
 云南影视,https://hwapi.yntv.net/62hdvf/utrat7.m3u8#rtmp://hwzbout.yntv.net/62hdvf/utrat7
 西藏影视文化,http://php.jdshipin.com:8880/xztv.php?id=ys
 绍兴文化影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
-哈尔滨影视,http://stream.hrbtv.net/yspd/sd/live.m3u8
+哈尔滨影视,http://stream.hrbtv.net/yspd/sd/live.m3u8#https://stream.hrbtv.net/yspd/playlist.m3u8
 苏州电影娱乐信息,https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
 南宁影视,https://hls.nntv.cn/nnlive/YSYL_244.m3u8
 山西影视,https://livehhhttps.sxrtv.com/lsdream/Md571Kv/800/f7iMk50.m3u8
@@ -1203,10 +1215,9 @@ SiTV都市剧场,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1
 甘肃文化影视,https://hls.gstv.com.cn/skt649/9wej77.m3u8
 永清影视,http://60.10.203.69:8000/4.m3u8
 石河子影视文体,http://124.88.144.73:1935/live/jjsh/playlist.m3u8
-长影频道,http://gongzhuling.lnott.top:9999/hls/28/index.m3u8
 陕西影视,http://gxlive.snrtv.com/sx4-SD.m3u8
 湖北影视,http://223.75.148.190:9901/tsfile/live/1009_1.m3u8
-吉林影视,http://gongzhuling.lnott.top:9999/hls/21/index.m3u8
+吉林影视,http://tpc.x3322.net:9901/tsfile/live/1006_1.m3u8
 天津影视,http://blc.zmychn.cn:4000/udp/225.1.1.149:5002
 贵州影视文艺,http://114.138.198.198:8138/rtp/238.255.2.3:5999
 西部电影,http://gxlive.snrtv.com/sx8-SD.m3u8
