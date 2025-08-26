@@ -899,8 +899,8 @@ https://vod.gdtv.cn/m3u8/202401/170567928663.m3u8
 吉林·影视,http://tpc.x3322.net:9901/tsfile/live/1006_1.m3u8
 吉林·生活,http://tpc.x3322.net:9901/tsfile/live/1007_1.m3u8
 吉林·都市,http://tpc.x3322.net:9901/tsfile/live/1002_1.m3u8
-吉林·乡村文化,http://tpc.x3322.net:9901/tsfile/live/1008_1.m3u8
-吉林·综艺,http://tpc.x3322.net:9901/tsfile/live/1003_1.m3u8
+吉林·乡村,http://tpc.x3322.net:9901/tsfile/live/1008_1.m3u8
+吉林·综艺文化,http://tpc.x3322.net:9901/tsfile/live/1003_1.m3u8
 吉林·教育,http://tpc.x3322.net:9901/tsfile/live/1004_1.m3u8
 吉林·长春综合,https://p2bj.vzan.com/slowlive/763922717250086092/live.m3u8
 吉林·长春文旅体育,https://p2bj.vzan.com/slowlive/077592635708642635/live.m3u8
