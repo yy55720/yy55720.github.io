@@ -125,7 +125,7 @@ C+,
 Now华剧台,http://iptv.4666888.xyz/iptv.php?id=20091
 Now星影台,http://iptv.4666888.xyz/iptv.php?id=20086
 Now爆谷台,http://iptv.4666888.xyz/iptv.php?id=20087
-Now新闻台http://iptv.4666888.xyz/iptv.php?id=20082
+Now新闻台,http://iptv.4666888.xyz/iptv.php?id=20082
 Now直播台,http://iptv.4666888.xyz/iptv.php?id=20085
 TVB翡翠综合台(北美),
 myTV SUPER 18台,http://bxtv.3a.ink/api.php?id=18
