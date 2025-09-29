@@ -157,11 +157,15 @@ FOX-FS1,
 美亚电影台,http://bxtv.3a.ink/api.php?id=meiya
 天映经典,
 龙华电影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
-龙华洋片,
+龙华洋片,https://cdn8.163189.xyz/live/lhyp/stream.m3u8
+龙华戏剧,https://cdn8.163189.xyz/live/lhxj/stream.m3u8
+龙华经典,https://cdn8.163189.xyz/live/lhjd/stream.m3u8
+龙华偶像,https://cdn8.163189.xyz/live/lhox/stream.m3u8
+龙华卡通,https://cdn8.163189.xyz/live/lhkt/stream.m3u8
+龙华日韩,https://cdn8.163189.xyz/live/lhrh/stream.m3u8
 东森电影,
 纬来电影,
 东森戏剧,
-龙华戏剧,
 八大综合台,
 八大戏剧台,
 八大第一台,
@@ -172,7 +176,6 @@ ANIMAX,
 tvN,
 THRILL惊栗电影台,
 靖天电影台,
-龙华卡通,
 靖天戏剧台,
 靖天映畫台,
 靖天卡通台,
@@ -224,7 +227,6 @@ AMC电影台,
 探索亚洲,
 纬来精彩,http://61.221.215.25:8800/hls/48/index.m3u8
 民视第一台,
-龙华日韩,
 靖天国际台,
 东森LIVE,
 MediaCorp Channel 5,
@@ -264,8 +266,6 @@ TVBS欢乐台,
 客家电视台,
 八大精彩台,
 八大综艺台,
-龙华经典,
-龙华偶像,
 靖天欢乐台,
 靖天资讯台,
 靖天育乐台,
