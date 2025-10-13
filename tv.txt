@@ -118,8 +118,8 @@ RTHK34,
 RTHK35,
 澳门莲花,
 无线新闻台(北美),
-星空卫视,
-Channel [V],
+星空卫视,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
+Channel [V],http://iot-mqqt.111yao.cn:8080/live/diyp_channelv.m3u8
 Star Sports,
 C+,
 Now华剧台,
@@ -1034,18 +1034,20 @@ NewTV魅力潇湘,
 
 
 GITV,#genre#
-GITV家庭剧场,http://gdctyuncdnct.inter.ptqy.gitv.tv:80/tslive/c54_fast_877_720P_t10/c54_fast_877_720P_t10.m3u8?d
-GITV怀旧年代,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c57_fast_883_720P_t10/c57_fast_883_720P_t10.m3u8?d
-GITV都市生活,http://bscloudcdnct.inter.ptqy.gitv.tv:80/tslive/c56_fast_878_720P_t10/c56_fast_878_720P_t10.m3u8?d
+GITV家庭剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_967_1080P_t10/c59_fast_967_1080P_t10.m3u8?d
+GITV怀旧年代,http://lvbdcdncmn.inter.ptqy.gitv.tv/tslive/c59_fast_1134_1080P_t10/c59_fast_1134_1080P_t10.m3u8?d
+GITV都市生活,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c55_fast_1143_1080P_t10/c55_fast_1143_1080P_t10.m3u8?d
 GITV传奇剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c54_fast_1052_720P_t10/c54_fast_1052_720P_t10.m3u8?d
-GITV警匪悬疑,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c58_fast_880_720P_t10/c58_fast_880_720P_t10.m3u8?d
-GITV古装剧场,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c55_fast_879_720P_t10/c55_fast_879_720P_t10.m3u8?d
-GITV抗战剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c54_fast_884_720P_t10/c54_fast_884_720P_t10.m3u8?d
-GITV谍战剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c57_fast_882_720P_t10/c57_fast_882_720P_t10.m3u8?d
+GITV电影大片,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c57_fast_738_1080P_t10/c57_fast_738_1080P_t10.m3u8?d
+GITV警匪悬疑,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_949_1080P_t10/c58_fast_949_1080P_t10.m3u8?d
+GITV古装剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_947_1080P_t10/c58_fast_947_1080P_t10.m3u8?d
+GITV抗战剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c60_fast_1049_1080P_t10/c60_fast_1049_1080P_t10.m3u8?d
+GITV谍战剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_975_1080P_t10/c58_fast_975_1080P_t10.m3u8?d
 GITV欢乐剧场,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c56_fast_951_720P_t10/c56_fast_951_720P_t10.m3u8?d
+GITV乡村影视,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_958_1080P_t10/c58_fast_958_1080P_t10.m3u8?d
+GITV风云青春,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_986_1080P_t10/c58_fast_986_1080P_t10.m3u8?d
 GITV经典老剧,http://gdctyuncdnct.inter.ptqy.gitv.tv:80/tslive/c55_fast_1051_720P_t10/c55_fast_1051_720P_t10.m3u8?d
-GITV乡村剧场,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c59_fast_1050_720P_t10/c59_fast_1050_720P_t10.m3u8?d
-GITV电影大片,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c57_fast_738_720P_t10/c57_fast_738_720P_t10.m3u8?d
+GITV乡村剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_1050_1080P_t10/c59_fast_1050_1080P_t10.m3u8?d
 GITV爆笑综艺,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c57_fast_954_720P_t10/c57_fast_954_720P_t10.m3u8?d
 GITV智勇闯关,http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1027_720P_t10/c60_fast_1027_720P_t10.m3u8?d
 GITV相声小品,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c59_fast_1044_720P_t10/c59_fast_1044_720P_t10.m3u8?d
@@ -1066,7 +1068,7 @@ GITV纪实档案,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_103
 CHC动作电影,http://120.210.193.151:8006/120000001002/XMTdzdy/1.m3u8#http://120.210.193.151:8006/120000001002/XMTdzdy/index.m3u8
 CHC家庭影院,http://120.210.193.151:8006/120000001002/XMTjtyy/1.m3u8#http://120.210.193.151:8006/120000001002/XMTjtyy/index.m3u8
 CHC影迷电影,http://120.210.193.151:8006/120000001002/XMTgqdy/1.m3u8#http://120.210.193.151:8006/120000001002/XMTgqdy/index.m3u8
-重温经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd#http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
+重温经典,http://api.hk.itv888.cn:8080/hls/ba0e4e5dd67/index.m3u8#http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd#http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
 IPTV淘电影,http://mingjd.cn:7077/rtp/239.3.1.250:8001#http://ydl.yueyaoxian.top:8686/rtp/239.3.1.250:8001
 IPTV淘剧场,http://mingjd.cn:7077/rtp/239.3.1.95:8001#http://ydl.yueyaoxian.top:8686/rtp/239.3.1.95:8001
 IPTV淘娱乐,http://mingjd.cn:7077/rtp/239.3.1.100:8001#http://ydl.yueyaoxian.top:8686/rtp/239.3.1.100:8001
@@ -1181,13 +1183,25 @@ SiTV极速汽车,
 辽视欢乐集结号,http://tv123.top:35455/douyu/9322175#http://iptv.jxpan.vip:18888/aio/douyu/9322175#http://120.78.6.151:8968/douyu.php?id=9322175#http://shorturl.jxpan.vip:18888/baoshi_web/douyu.php?id=9322175#http://lxajh.top/tv/douyu.php?id=9322175#https://live.iill.top/douyu/9322175#http://zzy789.xyz/douyu1.php?id=9322175#http://huanqiuzhibo.cn/manifest/douyu.php?id=9322175#https://yylunbo.ottiptv.cc/douyu/9322175
 小品相声,http://tv123.top:35455/douyu/9273031#http://iptv.jxpan.vip:18888/aio/douyu/9273031#http://120.78.6.151:8968/douyu.php?id=9273031#http://shorturl.jxpan.vip:18888/baoshi_web/douyu.php?id=9273031#http://lxajh.top/tv/douyu.php?id=9273031#https://live.iill.top/douyu/9273031#http://zzy789.xyz/douyu1.php?id=9273031#http://huanqiuzhibo.cn/manifest/douyu.php?id=9273031#https://yylunbo.ottiptv.cc/douyu/9273031
 春晚经典小品,http://tv123.top:35455/huya/11602068#http://live.iill.top/huya.php?id=11602068#http://shorturl.jxpan.vip:18888/baoshi_aio/huya/11602068#http://iptv.jxpan.vip:18888/aio/huya/11602068#https://yylunbo.ottiptv.cc/huya/11602068#http://cfss.cc/cdn/hy/11602068.m3u8
-钟点工,https://vd4.bdstatic.com/mda-rbjaqsqs0tiha12d/sc/cae_h264/1740068391663625767/mda-rbjaqsqs0tiha12d.mp4
 不差钱,https://vd4.bdstatic.com/mda-rbmpjgwb5w4p9qp7/sc/cae_h264/1740243858983979048/mda-rbmpjgwb5w4p9qp7.mp4
 就差钱,https://vd4.bdstatic.com/mda-rbky0i0r5heg2r9b/sc/cae_h264/1740177975177084388/mda-rbky0i0r5heg2r9b.mp4
 捐助,https://vd4.bdstatic.com/mda-ndae8pmsjpw11z19/sc/cae_h264_delogo/1649688442264519614/mda-ndae8pmsjpw11z19.mp4
+心病,http://uptt.gcwduoduo.com/v/190528/ad11d8507454d002d52cf31e5515bde2.mp4
+火炬手,https://vd3.bdstatic.com/mda-qbtjetv9z1v342v5/hd/cae_h264/1709260078003965471/mda-qbtjetv9z1v342v5.mp4
+钟点工,https://vd4.bdstatic.com/mda-rbjaqsqs0tiha12d/sc/cae_h264/1740068391663625767/mda-rbjaqsqs0tiha12d.mp4
 红高粱模特队,https://vd4.bdstatic.com/mda-rbpivvyyfu2ezgft/sc/cae_h264/1740404699881791796/mda-rbpivvyyfu2ezgft.mp4
 功夫,https://vd4.bdstatic.com/mda-mjn3rmcivntas8ez/hd/cae_h264_nowatermark/1635016788091110865/mda-mjn3rmcivntas8ez.mp4
 同学会,https://txmov2.a.kwimgs.com/bs3/video-hls/5227553308164378988_hlshd15.m3u8
+我是演员之偶像团,https://vd3.bdstatic.com/mda-qbmdwsrfz3thibbt/sc/cae_h264/1708696462028933860/mda-qbmdwsrfz3thibbt.mp4
+吃面,https://vd3.bdstatic.com/mda-pjjb2sz1k5mt9mdt/sc/cae_h264/1697847388902763799/mda-pjjb2sz1k5mt9mdt.mp4
+烤串,https://vd3.bdstatic.com/mda-pj7e225zuig2w5jm/sc/cae_h264/1696809230955715635/mda-pj7e225zuig2w5jm.mp4
+非诚来扰,http://gcw.bdcdn.shoujiduoduo.com/v/200611/3de0a8523cedeca73ce7e74bc1fe9bf8.mp4 
+主角与配角,https://txmov2.a.kwimgs.com/bs3/video-hls/5220516480426863393_hlsb.m3u8
+警察与小偷,https://txmov2.a.kwimgs.com/bs3/video-hls/5192368981698476185_hlsb.m3u8
+胡椒面,https://txmov2.a.kwimgs.com/bs3/video-hls/5226708928800176589_hlsb.m3u8
+吃面条,https://txmov2.a.kwimgs.com/bs3/video-hls/5191524559107583246_hlsb.m3u8
+如此包装,http://gcw.bdcdn.shoujiduoduo.com/v/181108/fb398baef600591c7f6dab28759fa2de.mp4 
+打工奇遇,http://gcw.bdcdn.shoujiduoduo.com/v/181108/a155fbfbc331e24e9a66ad66b27558c2.mp4
 旧曲新歌,https://vd2.bdstatic.com/mda-jdqwqnk1xxszhw8c/mda-jdqwqnk1xxszhw8c.mp4
 将爱情进行到底,https://txmov2.a.kwimgs.com/bs3/video-hls/5196591068951457443_hlsb.m3u8
 
