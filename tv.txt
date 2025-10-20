@@ -86,7 +86,7 @@ CCTV-8K,https://yangshipin.cn/tv/home?pid=600156816
 西藏卫视,http://php.jdshipin.com:8880/xztv.php?id=ws#http://zb.hmysapp.cn:801/dft/xizang/xizang.php?id=xzws#http://kds.hejintv.com/tv/xzxl.php#http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/xzws/index.m3u8
 兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8#http://120.210.193.151:8006/120000001002/XMTbtws/index.m3u8#http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/btwssd4m/index.m3u8
 三沙卫视,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/sswshd8m/index.m3u8#http://nn.7x9d.cn/地方台8563/海南.php?id=ssws#http://120.210.193.151:8006/120000001002/XMTssws/index.m3u8
-延边卫视,https://live.ybtvyun.com/video/s10006-d48b8590849c/index.m3u8
+延边卫视,https://srs.iyb983.cn/video/CYS/index.m3u8#https://live.ybtvyun.com/video/s10006-d48b8590849c/index.m3u8
 农林卫视,http://120.76.248.139/live/bfgd/4200000122.m3u8#http://stream.snrtv.com/sxbc-nl-kxBEL2.m3u8
 
 
