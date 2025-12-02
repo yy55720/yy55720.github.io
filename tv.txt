@@ -123,8 +123,8 @@ Channel [V],http://iot-mqqt.111yao.cn:8080/live/diyp_channelv.m3u8
 Star Sports,
 C+,
 Now华剧台,
-Now星影台,
-Now爆谷台,
+Now爆谷台,http://bxtv.3a.ink/api.php?id=baogu
+Now星影台,http://bxtv.3a.ink/api.php?id=xingying
 Now新闻台,http://cdn.163189.xyz/163189/now
 Now直播台,
 TVB翡翠综合台(北美),
@@ -154,7 +154,7 @@ FOX-FS1,
 
 
 台湾,#genre#
-美亚电影台,http://bxtv.3a.ink/api.php?id=meiya
+美亚电影台,http://bxtv.3a.ink/api.php?id=meiya#https://live.catvod.com/iptv.php?id=exg7xcfx#https://live.catvod.com/live.php?id=meiyamovie_twn&token=9ca0cbfc6f8b8fd1b548c38624a5a23ff4f8ca31b5463a667a53810d98e449dd%3A1764248851%3AMzYuMTU5LjE4MS4yMDc%3D
 龙华电影,http://cdn8.163189.xyz/163189/lhdy
 龙华洋片,http://cdn8.163189.xyz/163189/lhyp
 龙华戏剧,http://cdn8.163189.xyz/163189/lhxj
