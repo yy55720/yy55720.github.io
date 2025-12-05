@@ -96,21 +96,21 @@ CCTV-8K,https://yangshipin.cn/tv/home?pid=600156816
 凤凰香港台,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk#http://bxtv.3a.ink/api.php?id=fhhk#http://api.mg.itv888.cn:8080/hls/e9660dce9a6/index.m3u8#http://r.jdshipin.com/yDoTN#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk#http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
 凤凰电影台,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
 TVB翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct#http://php.jdshipin.com/TVOD/iptv.php?id=fct3#http://php.jdshipin.com:8880/smt.php?id=jade_twn#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3#http://php.jdshipin.com/TVOD/iptv.php?id=huali2#http://php.jdshipin.com:8880/PLTV/iptv.php?id=fct3#http://cdn9.163189.xyz/smt1.1.php?id=jade_twn#http://r.jdshipin.com/qrfbg#http://r.jdshipin.com/qClQf#http://r.jdshipin.com/62WM7
-TVB翡翠台(港),http://php.jdshipin.com/TVOD/iptv.php?id=huali
+TVB翡翠台(港),https://smt.1678520.xyz/smt3.2.1.php?id=Tvbjade#http://php.jdshipin.com/TVOD/iptv.php?id=huali
 无线新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn#https://cdn6.101.qzz.io/163189/wxxw#http://bxtv.3a.ink/api.php?id=wxxw
-TVB明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt#https://cdn6.101.qzz.io/163189/mzt#http://bxtv.3a.ink/api.php?id=mz
-TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2#https://cdn6.101.qzz.io/163189/tvbp#http://bxtv.3a.ink/api.php?id=tvbp
+TVB明珠台,https://smt.1678520.xyz/smt3.2.1.php?id=pearl_twn#http://php.jdshipin.com/TVOD/iptv.php?id=mzt#https://cdn6.101.qzz.io/163189/mzt#http://bxtv.3a.ink/api.php?id=mz
+TVB Plus,https://smt.1678520.xyz/smt3.2.1.php?id=j2_twn#http://php.jdshipin.com/TVOD/iptv.php?id=j2#https://cdn6.101.qzz.io/163189/tvbp#http://bxtv.3a.ink/api.php?id=tvbp
 TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe#http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe#http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
-TVB J1,http://php.jdshipin.com/TVOD/iptv.php?id=j1#http://iptv.4666888.xyz/iptv2A.php?id=26
+TVB J1,https://6.cdn.loc.cc/163189.php?id=j1#http://php.jdshipin.com/TVOD/iptv.php?id=j1#http://iptv.4666888.xyz/iptv2A.php?id=26
 TVB功夫,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx#https://cdn6.101.qzz.io/163189/yzwx
-TVB千禧经典台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc#http://iptv.4666888.xyz/iptv2A.php?id=22
+TVB千禧经典台,https://smt.1678520.xyz/smt3.2.1.php?id=Tvbclassic#http://php.jdshipin.com/TVOD/iptv.php?id=tvbc#http://iptv.4666888.xyz/iptv2A.php?id=22
 TVB娱乐新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 TVB翡翠剧集台(北美),
 TVB明珠剧集台(北美),
 MYTV SUPER,
-HOY 77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2#http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
+HOY 77,http://cdn.163189.xyz/163189/hoy#http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2#http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 HOY 78,http://iptv.4666888.xyz/iptv2A.php?id=31
-VIU TV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
+VIU TV,https://smt.1678520.xyz/smt3.2.1.php?id=viu1_twn#http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 RTHK31,http://iptv.4666888.xyz/iptv2A.php?id=23
 RTHK32,
 RTHK33,
@@ -175,7 +175,7 @@ AMC电影台,https://live.catvod.com/live.php?id=starmoviesgold_twn&token=5e8870
 CINEMAX,https://live.catvod.com/live.php?id=cinemax_twn&token=6c30fe3f26ff77c1c0c74c08cb4551c8d43b5abef5b8251510df6c1d0d7e9fe3%3A1764248851%3AMzYuMTU5LjE4MS4yMDc%3D
 纬来电影,https://live.catvod.com/live.php?id=videolandmovie&token=29070b5c07406fa632da7a5c27fca4cf181ef8fd75932d88e7aa88a731381ccc%3A1764248851%3AMzYuMTU5LjE4MS4yMDc%3D
 纬来戏剧,https://live.catvod.com/live.php?id=videolandtv&token=0e1bcf4bbb7017804b55c94ddcf0c07c011d4bf47b9e814de877473d1a723e32%3A1764248851%3AMzYuMTU5LjE4MS4yMDc%3D
-天映经典,https://live.catvod.com/live.php?id=Celestial2&token=5bbc007ce8187506e91c5a1e77f226f8cbe27488f0fa7359f418b9fa8f70c134%3A1764248851%3AMzYuMTU5LjE4MS4yMDc%3D
+天映经典,https://smt.1678520.xyz/smt3.2.1.php?id=Celestial2#https://live.catvod.com/live.php?id=Celestial2&token=5bbc007ce8187506e91c5a1e77f226f8cbe27488f0fa7359f418b9fa8f70c134%3A1764248851%3AMzYuMTU5LjE4MS4yMDc%3D
 PopC,http://bxtv.3a.ink/api.php?id=popc
 华视,rtmp://f13h.mine.nu/sat/tv111
 中视,rtmp://f13h.mine.nu/sat/tv091
@@ -222,6 +222,10 @@ TVBS,https://live.catvod.com/live.php?id=tvbs&token=5e8405c28c28b60f6b88e16eabcf
 东森综合,https://live.catvod.com/live.php?id=ettvzhonghe&token=2d4517a6815bfb964a47db36b9fae4805dc0513e2957327c9202343206875a2b%3A1764248851%3AMzYuMTU5LjE4MS4yMDc%3D
 中天亚洲台,
 三立综合台,https://live.catvod.com/live.php?id=sanlizhonghe&token=a5bbc45b9509490ee71d5f76cf178d62839091c344e9b6d950c53986504da56f%3A1764248851%3AMzYuMTU5LjE4MS4yMDc%3D
+astro 欢喜台,https://smt.1678520.xyz/smt3.2.1.php?id=Huahee
+astro AEC,https://smt.1678520.xyz/smt3.2.1.php?id=AEC
+astro AOD,https://smt.1678520.xyz/smt3.2.1.php?id=Aodhd
+astro QJ,https://smt.1678520.xyz/smt3.2.1.php?id=Quanjia
 DMAX,
 美食星球,
 动物星球,
@@ -1166,6 +1170,16 @@ SiTV极速汽车,
 极限挑战,http://cdn.jdshipin.com:8880/huya.php?id=29982632#http://live.nctv.top/huya.php?id=29982632#https://www.goodiptv.club/huya/29982632#https://live.ottiptv.cc/huya/29982632#http://www.douzhicloud.site:35455/huya/29982632#http://live.iill.top/huya.php?id=29982632#http://cfss.cc/cdn/hy/29982632.m3u8#https://yylunbo.ottiptv.cc/huya/29982632#https://live.iill.top/huya/29982632#https://live.metshop.top/huya/29982632
 1905电影,http://php.jdshipin.com:8880/1905.php?id=1905dy
 搜狐剧场,https://hdl-vip-ws.qf.56.com/live/lc_11730.flv
+科幻电影,https://67886.sdmdbb.com/livetv/hlca/GQ4M_9xNg/GQ4M_9xNg_live.m3u8
+科幻电影2,https://67886.sdmdbb.com/livetv/hlca/xw3B_rbNg/xw3B_rbNg_live.m3u8
+港台电影,https://67886.sdmdbb.com/livetv/hlca/ZGEY_rbNg/ZGEY_rbNg_live.m3u8
+超级英雄,https://67886.sdmdbb.com/livetv/hlca/P_8s_rbNg/P_8s_rbNg_live.m3u8
+末日系列,https://67886.sdmdbb.com/livetv/hlca/bOZQ_9xNg/bOZQ_9xNg_live.m3u8
+漫威电影,https://67886.sdmdbb.com/livetv/hlca/NuMs_rxHg/NuMs_rxHg_live.m3u8
+国外动作,https://67886.sdmdbb.com/livetv/hlca/Y0C1_rbNg/Y0C1_rbNg_live.m3u8
+国内喜剧,https://67886.sdmdbb.com/livetv/hlca/gf0U_9xHR/gf0U_9xHR_live.m3u8
+国内动作,https://67886.sdmdbb.com/livetv/hlca/MboJlrxNR/MboJlrxNR_live.m3u8
+精选动作,https://67886.sdmdbb.com/livetv/hlca/ZAQAl9bNg/ZAQAl9bNg_live.m3u8
 斗鱼科幻动作,https://live.metshop.top/douyu/2793084#http://live.nctv.top/douyu.php?id=2793084#https://live.ottiptv.cc/douyu/2793084#http://huanqiuzhibo.cn/manifest/douyu.php?id=2793084#https://yylunbo.ottiptv.cc/douyu/2793084#http://www.douzhicloud.site:35455/douyu/2793084#https://www.goodiptv.club/douyu/2793084#http://120.78.6.151:8968/douyu.php?id=2793084#https://live.iill.top/douyu/2793084#http://zzy789.xyz/douyu1.php?id=2793084
 斗鱼灾难巨兽,https://live.metshop.top/douyu/8009547#http://live.nctv.top/douyu.php?id=8009547#https://live.ottiptv.cc/douyu/8009547#http://huanqiuzhibo.cn/manifest/douyu.php?id=8009547#https://yylunbo.ottiptv.cc/douyu/8009547#http://www.douzhicloud.site:35455/douyu/8009547#https://www.goodiptv.club/douyu/8009547#http://120.78.6.151:8968/douyu.php?id=8009547#https://live.iill.top/douyu/8009547#http://zzy789.xyz/douyu1.php?id=8009547
 斗鱼经典电影,https://live.metshop.top/douyu/6091425#http://live.nctv.top/douyu.php?id=6091425#https://live.ottiptv.cc/douyu/6091425#http://huanqiuzhibo.cn/manifest/douyu.php?id=6091425#https://yylunbo.ottiptv.cc/douyu/6091425#http://www.douzhicloud.site:35455/douyu/6091425#https://www.goodiptv.club/douyu/6091425#http://120.78.6.151:8968/douyu.php?id=6091425#https://live.iill.top/douyu/6091425#http://zzy789.xyz/douyu1.php?id=6091425
