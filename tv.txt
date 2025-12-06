@@ -427,7 +427,7 @@ ABC新闻,
 上海·新闻综合,
 上海·都市,
 上海·教育,
-上海·五星体育,https://zby.130519.xyz/PLTV/11/224/3221225732/index.m3u8#https://iptv.catvod.com/live.php?id=%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2#https://cdn3.163189.xyz/163189/wxty#https://other.ottiptv.cc/wxty.m3u8
+上海·五星体育,https://iptv.catvod.com/live.php?id=%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2#https://other.ottiptv.cc/wxty.m3u8
 上海·动漫秀场,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/dmxc8m/index.m3u8#http://120.210.193.151:8006/120000001002/XMTdmxc/1.m3u8
 上海·欢笑剧场,https://zby.130519.xyz/PLTV/11/224/3221225771/index.m3u8
 上海·都市剧场,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/dsjc8m/index.m3u8
@@ -963,7 +963,7 @@ CCTV央视台球,http://120.210.193.151:8006/120000001002/XMTystq/1.m3u8
 CCTV高尔夫·网球,http://120.210.193.151:8006/120000001002/XMTgolf/1.m3u8
 广东体育,http://r.jdshipin.com/LiYdg#https://migu.188766.xyz/?migutoken=fe02f33a179122d315bc867dbb38454f&id=hk_gdty&type=dy#https://mgev.188766.xyz/?migutoken=ab05ec8f62653d95172da37414bdc900&id=gd_gdty&type=sz
 北京体育,
-上海五星体育,https://zby.130519.xyz/PLTV/11/224/3221225732/index.m3u8#https://iptv.catvod.com/live.php?id=%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2#https://cdn3.163189.xyz/163189/wxty#https://other.ottiptv.cc/wxty.m3u8
+上海五星体育,https://iptv.catvod.com/live.php?id=%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2#https://other.ottiptv.cc/wxty.m3u8
 新视觉,
 辽宁体育,http://120.76.248.139/live/bfgd/4200000611.m3u8
 足球频道,
@@ -1076,10 +1076,10 @@ GITV纪实档案,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_103
 网络,#genre#
 英雄联盟赛事,https://live.metshop.top/douyu/288016#http://live.nctv.top/douyu.php?id=288016#https://live.ottiptv.cc/douyu/288016#http://huanqiuzhibo.cn/manifest/douyu.php?id=288016#https://yylunbo.ottiptv.cc/douyu/288016#http://www.douzhicloud.site:35455/douyu/288016#https://www.goodiptv.club/douyu/288016#http://120.78.6.151:8968/douyu.php?id=288016#https://live.iill.top/douyu/288016#http://zzy789.xyz/douyu1.php?id=288016
 姿态,http://cdn.jdshipin.com:8880/huya.php?id=333003#http://live.nctv.top/huya.php?id=333003#https://www.goodiptv.club/huya/333003#https://live.ottiptv.cc/huya/333003#http://www.douzhicloud.site:35455/huya/333003#http://live.iill.top/huya.php?id=333003#http://cfss.cc/cdn/hy/333003.m3u8#https://yylunbo.ottiptv.cc/huya/333003#https://live.iill.top/huya/333003#https://live.metshop.top/huya/333003
-黑莓电影,http://hnyst.130519.xyz/000000001666/100000000100111064/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
-黑莓动画,http://hnyst.130519.xyz/000000001666/100000000100111054/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
-哒啵赛事,http://hnyst.130519.xyz/000000001666/100000000100111055/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
-哒啵电竞,
+黑莓电影,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226939/1.m3u8
+黑莓动画,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226935/1.m3u8
+哒啵赛事,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226938/1.m3u8
+哒啵电竞,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226889/1.m3u8
 CHC动作电影,http://120.210.193.151:8006/120000001002/XMTdzdy/1.m3u8#http://120.210.193.151:8006/120000001002/XMTdzdy/index.m3u8
 CHC家庭影院,http://120.210.193.151:8006/120000001002/XMTjtyy/1.m3u8#http://120.210.193.151:8006/120000001002/XMTjtyy/index.m3u8
 CHC影迷电影,http://120.210.193.151:8006/120000001002/XMTgqdy/1.m3u8#http://120.210.193.151:8006/120000001002/XMTgqdy/index.m3u8
@@ -1093,7 +1093,7 @@ IPTV淘Baby,http://mingjd.cn:7077/rtp/239.3.1.238:8001#http://ydl.yueyaoxian.top
 IPTV大健康,
 IPTV4K超清,http://mingjd.cn:7077/rtp/239.3.1.249:8001#http://ydl.yueyaoxian.top:8686/rtp/239.3.1.249:8001
 精彩影视,
-SiTV五星体育,https://zby.130519.xyz/PLTV/11/224/3221225732/index.m3u8#https://iptv.catvod.com/live.php?id=%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2#https://cdn3.163189.xyz/163189/wxty#https://other.ottiptv.cc/wxty.m3u8
+SiTV五星体育,https://iptv.catvod.com/live.php?id=%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2#https://other.ottiptv.cc/wxty.m3u8
 SiTV欢笑剧场,https://zby.130519.xyz/PLTV/11/224/3221225771/index.m3u8
 SiTV都市剧场,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/dsjc8m/index.m3u8
 SiTV动漫秀场,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/dmxc8m/index.m3u8#http://120.210.193.151:8006/120000001002/XMTdmxc/1.m3u8
@@ -1259,7 +1259,7 @@ SiTV都市剧场,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1
 吉林影视,http://tpc.x3322.net:9901/tsfile/live/1006_1.m3u8
 福建电视剧,
 峨眉电影,
-黑莓电影,http://hnyst.130519.xyz/000000001666/100000000100111064/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+黑莓电影,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226939/1.m3u8
 SiTV欢笑剧场,https://zby.130519.xyz/PLTV/11/224/3221225771/index.m3u8
 山西影视,
 深圳电视剧,
@@ -1310,7 +1310,7 @@ SiTV动漫秀场,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1
 新疆少儿,http://zb.hmysapp.cn:801/dft/xinjiang/xinjiang.php?id=xjse
 河北少儿科教,http://1.94.31.214/php/hebei.php?id=sekj
 福州少儿,http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
-黑莓动画,http://hnyst.130519.xyz/000000001666/100000000100111054/1.m3u8?IASHttpSessionId=OTT2927120250906060003060751
+黑莓动画,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226935/1.m3u8
 新动漫,
 南京少儿,
 甘肃少儿,
