@@ -104,7 +104,7 @@ TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe#http://php.jdshipin.co
 TVB J1,https://6.cdn.loc.cc/163189.php?id=j1#http://php.jdshipin.com/TVOD/iptv.php?id=j1#http://iptv.4666888.xyz/iptv2A.php?id=26
 TVB功夫,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx#https://cdn6.101.qzz.io/163189/yzwx
 TVB千禧经典台,https://smt.1678520.xyz/smt3.2.1.php?id=Tvbclassic#http://php.jdshipin.com/TVOD/iptv.php?id=tvbc#http://iptv.4666888.xyz/iptv2A.php?id=22
-TVB娱乐新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
+TVB娱乐新闻台,https://cdn6.101.qzz.io/163189/ylxw#http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 TVB翡翠剧集台(北美),
 TVB明珠剧集台(北美),
 MYTV SUPER,
@@ -155,13 +155,13 @@ FOX-FS1,
 
 台湾,#genre#
 美亚电影台,http://bxtv.3a.ink/api.php?id=meiya#https://live.catvod.com/iptv.php?id=exg7xcfx#https://live.catvod.com/live.php?id=meiyamovie_twn&token=9ca0cbfc6f8b8fd1b548c38624a5a23ff4f8ca31b5463a667a53810d98e449dd%3A1764248851%3AMzYuMTU5LjE4MS4yMDc%3D
-龙华电影,http://cdn8.163189.xyz/163189/lhdy
-龙华洋片,http://cdn8.163189.xyz/163189/lhyp
-龙华戏剧,http://cdn8.163189.xyz/163189/lhxj
-龙华经典,http://cdn8.163189.xyz/163189/lhjd
-龙华偶像,http://cdn8.163189.xyz/163189/lhox
-龙华卡通,http://cdn8.163189.xyz/163189/lhkt
-龙华日韩,http://cdn8.163189.xyz/163189/lhrh
+龙华电影,http://cdn8.163189.xyz/163189/lhdy#https://cdn6.101.qzz.io/163189/lhdy
+龙华洋片,http://cdn8.163189.xyz/163189/lhyp#https://cdn6.101.qzz.io/163189/lhyp
+龙华戏剧,http://cdn8.163189.xyz/163189/lhxj#https://cdn6.101.qzz.io/163189/lhxj
+龙华经典,http://cdn8.163189.xyz/163189/lhjd#https://cdn6.101.qzz.io/163189/lhjd
+龙华偶像,http://cdn8.163189.xyz/163189/lhox#https://cdn6.101.qzz.io/163189/lhox
+龙华卡通,http://cdn8.163189.xyz/163189/lhkt#https://cdn6.101.qzz.io/163189/lhkt
+龙华日韩,http://cdn8.163189.xyz/163189/lhrh#https://cdn6.101.qzz.io/163189/lhrh
 天映频道,https://live.catvod.com/live.php?id=ctv18_twn&token=1944475c8d0c72a007c573ae08cb10b72389088d06d8647de3093a51fdd347c6%3A1764248851%3AMzYuMTU5LjE4MS4yMDc%3D
 靖天电影台,http://iptv.4666888.xyz/iptv2A.php?id=56
 靖洋戏剧台,http://iptv.4666888.xyz/iptv2A.php?id=42
@@ -200,7 +200,7 @@ THRILL惊栗电影台,
 靖洋卡通台,
 ELTA影剧,
 壹电影,
-8频道,
+八度空间,https://cdn6.101.qzz.io/163189/8tv
 三立戏剧台,https://live.catvod.com/live.php?id=sanlixiju_twn&token=7aa9db072e8910de76ca7a5d5f2b619449d46b1bbd78d14caee9328a4337eb57%3A1764248851%3AMzYuMTU5LjE4MS4yMDc%3D
 中天娱乐,https://live.catvod.com/live.php?id=ctient&token=3cda530d9e80120dfb840e1ef58e78b79d63870b5127caacbd711d213f23fed7%3A1764248851%3AMzYuMTU5LjE4MS4yMDc%3D
 梦工厂动画,
@@ -1083,7 +1083,7 @@ GITV纪实档案,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_103
 CHC动作电影,http://120.210.193.151:8006/120000001002/XMTdzdy/1.m3u8#http://120.210.193.151:8006/120000001002/XMTdzdy/index.m3u8
 CHC家庭影院,http://120.210.193.151:8006/120000001002/XMTjtyy/1.m3u8#http://120.210.193.151:8006/120000001002/XMTjtyy/index.m3u8
 CHC影迷电影,http://120.210.193.151:8006/120000001002/XMTgqdy/1.m3u8#http://120.210.193.151:8006/120000001002/XMTgqdy/index.m3u8
-重温经典,https://other.ottiptv.cc/cwjd.m3u8#https://iptv.catvod.com/live.php?id=%E9%87%8D%E6%B8%A9%E7%BB%8F%E5%85%B8#http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd#http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
+重温经典,https://other.ottiptv.cc/cwjd.m3u8#https://iptv.catvod.com/live.php?id=%E9%87%8D%E6%B8%A9%E7%BB%8F%E5%85%B8#https://cdn6.101.qzz.io/163189/cwjd#http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd#http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
 IPTV淘电影,http://mingjd.cn:7077/rtp/239.3.1.250:8001#http://ydl.yueyaoxian.top:8686/rtp/239.3.1.250:8001
 IPTV淘剧场,http://mingjd.cn:7077/rtp/239.3.1.95:8001#http://ydl.yueyaoxian.top:8686/rtp/239.3.1.95:8001
 IPTV淘娱乐,http://mingjd.cn:7077/rtp/239.3.1.100:8001#http://ydl.yueyaoxian.top:8686/rtp/239.3.1.100:8001
