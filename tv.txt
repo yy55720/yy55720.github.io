@@ -101,17 +101,17 @@ TVB翡翠台(港),https://smt.1678520.xyz/smt3.2.1.php?id=Tvbjade#http://php.jds
 TVB明珠台,https://smt.1678520.xyz/smt3.2.1.php?id=pearl_twn#http://php.jdshipin.com/TVOD/iptv.php?id=mzt#https://cdn6.101.qzz.io/163189/mzt#http://bxtv.3a.ink/api.php?id=mz
 TVB Plus,https://smt.1678520.xyz/smt3.2.1.php?id=j2_twn#http://php.jdshipin.com/TVOD/iptv.php?id=j2#https://cdn6.101.qzz.io/163189/tvbp#http://bxtv.3a.ink/api.php?id=tvbp
 TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe#http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe#http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
-TVB J1,https://6.cdn.loc.cc/163189.php?id=j1#http://php.jdshipin.com/TVOD/iptv.php?id=j1#http://iptv.4666888.xyz/iptv2A.php?id=26
+TVB J1,https://6.cdn.loc.cc/163189.php?id=j1#http://php.jdshipin.com/TVOD/iptv.php?id=j1
 TVB功夫,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx#https://cdn6.101.qzz.io/163189/yzwx
-TVB千禧经典台,https://smt.1678520.xyz/smt3.2.1.php?id=Tvbclassic#http://php.jdshipin.com/TVOD/iptv.php?id=tvbc#http://iptv.4666888.xyz/iptv2A.php?id=22
+TVB千禧经典台,https://smt.1678520.xyz/smt3.2.1.php?id=Tvbclassic#http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
 TVB娱乐新闻台,https://cdn6.101.qzz.io/163189/ylxw#http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 TVB翡翠剧集台(北美),
 TVB明珠剧集台(北美),
 MYTV SUPER,
 HOY 77,http://cdn.163189.xyz/163189/hoy#http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2#http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
-HOY 78,http://iptv.4666888.xyz/iptv2A.php?id=31
+HOY 78,
 VIU TV,https://smt.1678520.xyz/smt3.2.1.php?id=viu1_twn#http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
-RTHK31,http://iptv.4666888.xyz/iptv2A.php?id=23
+RTHK31,
 RTHK32,
 RTHK33,
 RTHK34,
@@ -154,7 +154,7 @@ FOX-FS1,
 
 
 台湾,#genre#
-美亚电影台,http://bxtv.3a.ink/api.php?id=meiya#https://live.catvod.com/iptv.php?id=exg7xcfx#https://live.catvod.com/live.php?id=meiyamovie_twn&token=9ca0cbfc6f8b8fd1b548c38624a5a23ff4f8ca31b5463a667a53810d98e449dd%3A1764248851%3AMzYuMTU5LjE4MS4yMDc%3D
+美亚电影台,http://bxtv.3a.ink/api.php?id=meiya#https://live.catvod.com/live.php?id=meiyamovie_twn&token=9ca0cbfc6f8b8fd1b548c38624a5a23ff4f8ca31b5463a667a53810d98e449dd%3A1764248851%3AMzYuMTU5LjE4MS4yMDc%3D
 龙华电影,http://cdn8.163189.xyz/163189/lhdy#https://cdn6.101.qzz.io/163189/lhdy
 龙华洋片,http://cdn8.163189.xyz/163189/lhyp#https://cdn6.101.qzz.io/163189/lhyp
 龙华戏剧,http://cdn8.163189.xyz/163189/lhxj#https://cdn6.101.qzz.io/163189/lhxj
@@ -163,13 +163,13 @@ FOX-FS1,
 龙华卡通,http://cdn8.163189.xyz/163189/lhkt#https://cdn6.101.qzz.io/163189/lhkt
 龙华日韩,http://cdn8.163189.xyz/163189/lhrh#https://cdn6.101.qzz.io/163189/lhrh
 天映频道,https://live.catvod.com/live.php?id=ctv18_twn&token=1944475c8d0c72a007c573ae08cb10b72389088d06d8647de3093a51fdd347c6%3A1764248851%3AMzYuMTU5LjE4MS4yMDc%3D
-靖天电影台,http://iptv.4666888.xyz/iptv2A.php?id=56
-靖洋戏剧台,http://iptv.4666888.xyz/iptv2A.php?id=42
+靖天电影台,
+靖洋戏剧台,
 东森洋片,https://live.catvod.com/live.php?id=ettvwestern&token=526574ecc0b8c3d7560eae6268e6e3150c32d48ef1899bc4a85149b3d56ee36c%3A1764248851%3AMzYuMTU5LjE4MS4yMDc%3D
-东森电影,http://iptv.4666888.xyz/iptv2A.php?id=48
+东森电影,
 东森戏剧,https://live.catvod.com/live.php?id=ettvdrama&token=a7e16097e447b69fea2195f99cb727f216a80340eee174459311d3226d567307%3A1764248851%3AMzYuMTU5LjE4MS4yMDc%3D
 好莱坞电影台,https://live.catvod.com/live.php?id=hollywoodmovies_twn&token=2f26cf056ce99076eb64c29ebf8c94fbba3ac5fe918f6976cfe50909fa753af9%3A1764248851%3AMzYuMTU5LjE4MS4yMDc%3D
-ROCK Action,http://iptv.4666888.xyz/iptv2A.php?id=50
+ROCK Action,
 AMC电影台,https://live.catvod.com/live.php?id=starmoviesgold_twn&token=5e887040e0653729a0c7cb3de4bfd0662f14ede0d91a1d8a2d4069db144397df%3A1764248851%3AMzYuMTU5LjE4MS4yMDc%3D
 龙祥时代,https://live.catvod.com/live.php?id=lungxiangtime_twn&token=ddbed0cc5b5635c40b6d8c1c5105236491da8abe109d9420a15b0a08fcbb2715%3A1764248851%3AMzYuMTU5LjE4MS4yMDc%3D
 CINEMAX,https://live.catvod.com/live.php?id=cinemax_twn&token=6c30fe3f26ff77c1c0c74c08cb4551c8d43b5abef5b8251510df6c1d0d7e9fe3%3A1764248851%3AMzYuMTU5LjE4MS4yMDc%3D
@@ -208,16 +208,16 @@ ELTA影剧,
 台视新闻,https://live.catvod.com/live.php?id=ttvnews_twn&token=f8d9da067126f01ffe82f40207e5e0a0363c85f938df9252ddc3e7e67655a522%3A1764248851%3AMzYuMTU5LjE4MS4yMDc%3D
 中视新闻,
 民视新闻台,https://live.catvod.com/live.php?id=ftvnew_taiwan&token=d7d5adc70907a3ff3401f56b34faf88c80096eeedfdac221a5160addaeed6d6e%3A1764248851%3AMzYuMTU5LjE4MS4yMDc%3D
-TVBS新闻台,http://iptv.4666888.xyz/iptv2A.php?id=43
+TVBS新闻台,
 三立新闻台,
 华视新闻资讯,
 mnews镜新闻,
 年代新闻,https://live.catvod.com/live.php?id=niandainews_twn&token=a7595caf83c110528c1901a6ba6df5e5a1f2b7b41eeb7cb02f765373c0abac14%3A1764248851%3AMzYuMTU5LjE4MS4yMDc%3D
 TVBS,https://live.catvod.com/live.php?id=tvbs&token=5e8405c28c28b60f6b88e16eabcf90dd32bb76eb50a9db846741c4473f5a74f2%3A1764248851%3AMzYuMTU5LjE4MS4yMDc%3D
 中天综合台,https://live.catvod.com/live.php?id=ctizhonghe&token=829c7a5d4dc47b8c6dcf462977c58d97b57cebd83d114edceab457fb7e755946%3A1764248851%3AMzYuMTU5LjE4MS4yMDc%3D
-中视经典,http://iptv.4666888.xyz/iptv2A.php?id=54
+中视经典,
 东森超视,rtmp://f13h.mine.nu/sat/tv331
-非凡新闻台,http://iptv.4666888.xyz/iptv2A.php?id=44
+非凡新闻台,
 东森新闻,https://live.catvod.com/live.php?id=ettvnews&token=d592418d994d33d1f32aa7597a71722c475bea1e4873726c7acf6c7fd79fcffc%3A1764248851%3AMzYuMTU5LjE4MS4yMDc%3D
 东森综合,https://live.catvod.com/live.php?id=ettvzhonghe&token=2d4517a6815bfb964a47db36b9fae4805dc0513e2957327c9202343206875a2b%3A1764248851%3AMzYuMTU5LjE4MS4yMDc%3D
 中天亚洲台,
@@ -254,7 +254,7 @@ i-Fun动漫,
 中视菁采台,
 博斯高球Ⅰ,https://live.catvod.com/live.php?id=bosigolf1_twn&token=4ec34b420644f51373389bc34c5ce7101ec686c0e8f2e50623fb96d178b3f90d%3A1764248851%3AMzYuMTU5LjE4MS4yMDc%3D
 博斯高球Ⅱ,https://live.catvod.com/live.php?id=bosigolf2_twn&token=6ea2c8595a4c879083dc05687737c2ae2781da904af579a3a437be2ffe676a17%3A1764248851%3AMzYuMTU5LjE4MS4yMDc%3D
-博斯运动Ⅰ,http://iptv.4666888.xyz/iptv2A.php?id=6
+博斯运动Ⅰ,
 博斯运动Ⅱ,https://live.catvod.com/live.php?id=bosisport2_twn&token=ab8e66755ef287ada1a1bfabe85669da0f6d336cefb34d3d434aedcc93a7bdeb%3A1764248851%3AMzYuMTU5LjE4MS4yMDc%3D
 博斯无限,https://live.catvod.com/live.php?id=bosiunlimited_twn&token=8b10192380be8bddd08e7a0079f12414baf9ee0ae5f4adb43859696b815997ad%3A1764248851%3AMzYuMTU5LjE4MS4yMDc%3D
 博斯无限Ⅱ,
@@ -262,8 +262,8 @@ i-Fun动漫,
 博斯魅力,
 TVBS欢乐台,https://live.catvod.com/live.php?id=tvbshuanle_twn&token=7d89a6014fda02dc9154e0057167f7e73b441bb08d6d36307ced3647cde0e6ad%3A1764248851%3AMzYuMTU5LjE4MS4yMDc%3D
 公视戏剧,
-综艺,http://iptv.4666888.xyz/iptv2A.php?id=46
-影剧,http://iptv.4666888.xyz/iptv2A.php?id=53
+综艺,
+影剧,
 旅游,
 猪哥亮,
 国会频道1,
@@ -279,12 +279,12 @@ TVBS欢乐台,https://live.catvod.com/live.php?id=tvbshuanle_twn&token=7d89a6014
 采昌影剧,
 台湾戏剧台,
 FGM GOLD,
-ELTA综合,http://iptv.4666888.xyz/iptv2A.php?id=49
+ELTA综合,
 ELTA娱乐,
 亚洲旅游台,
 古典音乐台,
-TVBS精采台,http://iptv.4666888.xyz/iptv2A.php?id=47
-台视综合,http://iptv.4666888.xyz/iptv2A.php?id=51
+TVBS精采台,
+台视综合,
 台视财经,
 韩国娱乐台,
 非凡商业台,
