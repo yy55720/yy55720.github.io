@@ -156,7 +156,7 @@ FOX-FS1,
 
 
 台湾,#genre#
-美亚电影台,http://bxtv.3a.ink/api.php?id=meiya#https://live.catvod.com/live.php?id=meiyamovie_twn&token=9ca0cbfc6f8b8fd1b548c38624a5a23ff4f8ca31b5463a667a53810d98e449dd%3A1764248851%3AMzYuMTU5LjE4MS4yMDc%3D#http://rihou.cc:555/tv/[SX]美亚电影
+美亚电影台,http://bxtv.3a.ink/api.php?id=meiya#http://rihou.cc:555/tv/[SX]美亚电影
 美亚电影台粤,http://rihou.cc:555/tv/[Bx]美亚电影
 龙华电影,http://cdn8.163189.xyz/163189/lhdy#https://cdn6.101.qzz.io/163189/lhdy
 龙华洋片,http://cdn8.163189.xyz/163189/lhyp#https://cdn6.101.qzz.io/163189/lhyp
@@ -165,7 +165,6 @@ FOX-FS1,
 龙华偶像,http://cdn8.163189.xyz/163189/lhox#https://cdn6.101.qzz.io/163189/lhox
 龙华卡通,http://cdn8.163189.xyz/163189/lhkt#https://cdn6.101.qzz.io/163189/lhkt
 龙华日韩,http://cdn8.163189.xyz/163189/lhrh#https://cdn6.101.qzz.io/163189/lhrh
-天映频道,https://live.catvod.com/live.php?id=ctv18_twn&token=1944475c8d0c72a007c573ae08cb10b72389088d06d8647de3093a51fdd347c6%3A1764248851%3AMzYuMTU5LjE4MS4yMDc%3D#https://smt.1678520.xyz/smt3.2.1.php?id=Celestial#https://cdn9.163189.xyz/smt1.1.php?id=Celestial#https://cdn9.163189.xyz/smt3.1.1.php?id=Celestial
 靖天电影台,
 靖洋戏剧台,
 东森洋片,https://live.catvod.com/live.php?id=ettvwestern&token=526574ecc0b8c3d7560eae6268e6e3150c32d48ef1899bc4a85149b3d56ee36c%3A1764248851%3AMzYuMTU5LjE4MS4yMDc%3D
@@ -178,6 +177,8 @@ AMC电影台,https://live.catvod.com/live.php?id=starmoviesgold_twn&token=5e8870
 CINEMAX,https://live.catvod.com/live.php?id=cinemax_twn&token=6c30fe3f26ff77c1c0c74c08cb4551c8d43b5abef5b8251510df6c1d0d7e9fe3%3A1764248851%3AMzYuMTU5LjE4MS4yMDc%3D
 纬来电影,https://live.catvod.com/live.php?id=videolandmovie&token=29070b5c07406fa632da7a5c27fca4cf181ef8fd75932d88e7aa88a731381ccc%3A1764248851%3AMzYuMTU5LjE4MS4yMDc%3D
 纬来戏剧,https://live.catvod.com/live.php?id=videolandtv&token=0e1bcf4bbb7017804b55c94ddcf0c07c011d4bf47b9e814de877473d1a723e32%3A1764248851%3AMzYuMTU5LjE4MS4yMDc%3D
+天映频道,https://live.catvod.com/live.php?id=ctv18_twn&token=1944475c8d0c72a007c573ae08cb10b72389088d06d8647de3093a51fdd347c6%3A1764248851%3AMzYuMTU5LjE4MS4yMDc%3D
+天映频道2,https://smt.1678520.xyz/smt3.2.1.php?id=Celestial#https://cdn9.163189.xyz/smt1.1.php?id=Celestial#https://cdn9.163189.xyz/smt3.1.1.php?id=Celestial
 天映经典,https://smt.1678520.xyz/smt3.2.1.php?id=Celestial2#https://live.catvod.com/live.php?id=Celestial2&token=5bbc007ce8187506e91c5a1e77f226f8cbe27488f0fa7359f418b9fa8f70c134%3A1764248851%3AMzYuMTU5LjE4MS4yMDc%3D#https://cdn9.163189.xyz/smt1.1.php?id=Celestial2#https://cdn9.163189.xyz/smt3.1.1.php?id=Celestial2
 PopC,http://rihou.cc:555/tv/[FY]pₒₚc电影#http://bxtv.3a.ink/api.php?id=popc
 华视,rtmp://f13h.mine.nu/sat/tv111
