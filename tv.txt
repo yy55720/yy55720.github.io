@@ -110,7 +110,7 @@ TVB明珠剧集台(北美),
 TVB1,https://6.cdn.loc.cc/163189.php?id=tvb1
 MYTV SUPER,
 HOY 77,https://cdn6.101.qzz.io/163189/hoy#http://cdn.163189.xyz/163189/hoy#http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2#http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
-HOY 78,http://rihou.cc:555/tv/[FY]有线新闻#http://rihou.cc:555/tv/[Mt]有线新闻#http://rihou.cc:555/tv/[ST]有线新闻
+HOY 78,
 VIU TV,https://cdn9.163189.xyz/smt1.1.php?id=viu1_twn#https://cdn9.163189.xyz/smt3.1.1.php?id=viu1_twn#https://smt.1678520.xyz/smt3.2.1.php?id=viu1_twn#http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 ViuTV 6,https://smt.1678520.xyz/smt3.2.1.php?id=viusix_twn#https://cdn9.163189.xyz/smt1.1.php?id=viusix_twn#https://cdn9.163189.xyz/smt3.1.1.php?id=viusix_twn
 RTHK31,https://smt.1678520.xyz/smt3.2.1.php?id=rhk31_twn#https://cdn9.163189.xyz/smt3.1.1.php?id=rhk31_twn#https://cdn9.163189.xyz/smt1.1.php?id=rhk31_twn
@@ -125,9 +125,9 @@ Channel [V],http://iot-mqqt.111yao.cn:8080/live/diyp_channelv.m3u8
 Star Sports,
 C+,
 Now华剧台,
-Now爆谷台,http://rihou.cc:555/tv/[Mt]Now爆谷#http://bxtv.3a.ink/api.php?id=baogu
-Now星影台,http://rihou.cc:555/tv/[Mt]Now星影#http://bxtv.3a.ink/api.php?id=xingying
-Now新闻台,http://cdn.163189.xyz/163189/now#http://rihou.cc:555/tv/[Cx]Now新闻#http://rihou.cc:555/tv/[Mt]Now新闻
+Now爆谷台,http://bxtv.3a.ink/api.php?id=baogu
+Now星影台,http://bxtv.3a.ink/api.php?id=xingying
+Now新闻台,http://cdn.163189.xyz/163189/now
 Now直播台,
 TVB翡翠综合台(北美),
 myTV SUPER 18台,
@@ -156,22 +156,20 @@ FOX-FS1,
 
 
 台湾,#genre#
-美亚电影台,http://bxtv.3a.ink/api.php?id=meiya#http://rihou.cc:555/tv/[SX]美亚电影
-美亚电影台粤,http://rihou.cc:555/tv/[Bx]美亚电影
-龙华电影,http://cdn8.163189.xyz/163189/lhdy#https://cdn6.101.qzz.io/163189/lhdy
-龙华洋片,http://cdn8.163189.xyz/163189/lhyp#https://cdn6.101.qzz.io/163189/lhyp
-龙华戏剧,http://cdn8.163189.xyz/163189/lhxj#https://cdn6.101.qzz.io/163189/lhxj
-龙华经典,http://cdn8.163189.xyz/163189/lhjd#https://cdn6.101.qzz.io/163189/lhjd
-龙华偶像,http://cdn8.163189.xyz/163189/lhox#https://cdn6.101.qzz.io/163189/lhox
-龙华卡通,http://cdn8.163189.xyz/163189/lhkt#https://cdn6.101.qzz.io/163189/lhkt
-龙华日韩,http://cdn8.163189.xyz/163189/lhrh#https://cdn6.101.qzz.io/163189/lhrh
+美亚电影台,http://bxtv.3a.ink/api.php?id=meiya
+龙华电影,http://cdn8.163189.xyz/163189/lhdy
+龙华洋片,http://cdn8.163189.xyz/163189/lhyp
+龙华戏剧,http://cdn8.163189.xyz/163189/lhxj
+龙华经典,http://cdn8.163189.xyz/163189/lhjd
+龙华偶像,http://cdn8.163189.xyz/163189/lhox
+龙华卡通,http://cdn8.163189.xyz/163189/lhkt
+龙华日韩,http://cdn8.163189.xyz/163189/lhrh
 靖天电影台,
 靖洋戏剧台,
 东森洋片,https://live.catvod.com/live.php?id=ettvwestern&token=526574ecc0b8c3d7560eae6268e6e3150c32d48ef1899bc4a85149b3d56ee36c%3A1764248851%3AMzYuMTU5LjE4MS4yMDc%3D
-东森电影,http://rihou.cc:555/tv/[ST]东森电影
+东森电影,
 东森戏剧,https://live.catvod.com/live.php?id=ettvdrama&token=a7e16097e447b69fea2195f99cb727f216a80340eee174459311d3226d567307%3A1764248851%3AMzYuMTU5LjE4MS4yMDc%3D
-好莱坞电影台,https://live.catvod.com/live.php?id=hollywoodmovies_twn&token=2f26cf056ce99076eb64c29ebf8c94fbba3ac5fe918f6976cfe50909fa753af9%3A1764248851%3AMzYuMTU5LjE4MS4yMDc%3D#http://rihou.cc:555/tv/[ST]好莱电影
-ROCK Action,
+好莱坞电影台,https://live.catvod.com/live.php?id=hollywoodmovies_twn&token=2f26cf056ce99076eb64c29ebf8c94fbba3ac5fe918f6976cfe50909fa753af9%3A1764248851%3AMzYuMTU5LjE4MS4yMDc%3D
 AMC电影台,https://live.catvod.com/live.php?id=starmoviesgold_twn&token=5e887040e0653729a0c7cb3de4bfd0662f14ede0d91a1d8a2d4069db144397df%3A1764248851%3AMzYuMTU5LjE4MS4yMDc%3D
 龙祥时代,https://live.catvod.com/live.php?id=lungxiangtime_twn&token=ddbed0cc5b5635c40b6d8c1c5105236491da8abe109d9420a15b0a08fcbb2715%3A1764248851%3AMzYuMTU5LjE4MS4yMDc%3D
 CINEMAX,https://live.catvod.com/live.php?id=cinemax_twn&token=6c30fe3f26ff77c1c0c74c08cb4551c8d43b5abef5b8251510df6c1d0d7e9fe3%3A1764248851%3AMzYuMTU5LjE4MS4yMDc%3D
@@ -180,14 +178,14 @@ CINEMAX,https://live.catvod.com/live.php?id=cinemax_twn&token=6c30fe3f26ff77c1c0
 天映频道,https://live.catvod.com/live.php?id=ctv18_twn&token=1944475c8d0c72a007c573ae08cb10b72389088d06d8647de3093a51fdd347c6%3A1764248851%3AMzYuMTU5LjE4MS4yMDc%3D
 天映频道2,https://smt.1678520.xyz/smt3.2.1.php?id=Celestial#https://cdn9.163189.xyz/smt1.1.php?id=Celestial#https://cdn9.163189.xyz/smt3.1.1.php?id=Celestial
 天映经典,https://smt.1678520.xyz/smt3.2.1.php?id=Celestial2#https://live.catvod.com/live.php?id=Celestial2&token=5bbc007ce8187506e91c5a1e77f226f8cbe27488f0fa7359f418b9fa8f70c134%3A1764248851%3AMzYuMTU5LjE4MS4yMDc%3D#https://cdn9.163189.xyz/smt1.1.php?id=Celestial2#https://cdn9.163189.xyz/smt3.1.1.php?id=Celestial2
-PopC,http://rihou.cc:555/tv/[FY]pₒₚc电影#http://bxtv.3a.ink/api.php?id=popc
+PopC,http://bxtv.3a.ink/api.php?id=popc
 华视,rtmp://f13h.mine.nu/sat/tv111
 中视,rtmp://f13h.mine.nu/sat/tv091
 民视,rtmp://f13h.mine.nu/sat/tv051
 台视,rtmp://f13h.mine.nu/sat/tv071
 公视,https://live.catvod.com/live.php?id=ctv_taiwan&token=7d2e8e65f88ee274bd795a976b13f9409179e90ecb2c0106949456e81b89ad7a%3A1764248851%3AMzYuMTU5LjE4MS4yMDc%3D
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
-中天新闻,http://bxtv.3a.ink/api.php?id=ztxw#http://rihou.cc:555/tv/[Hk]中天新闻#http://rihou.cc:555/tv/[ST]中天新闻#http://rihou.cc:555/tv/[SZ]中天新闻
+中天新闻,http://bxtv.3a.ink/api.php?id=ztxw
 MoMo综合台,rtmp://f13h.mine.nu/sat/tv761
 DAZN1,rtmp://f13h.mine.nu/sat/tv731
 DAZN2,rtmp://f13h.mine.nu/sat/tv741
@@ -208,20 +206,20 @@ ELTA影剧,
 三立戏剧台,https://live.catvod.com/live.php?id=sanlixiju_twn&token=7aa9db072e8910de76ca7a5d5f2b619449d46b1bbd78d14caee9328a4337eb57%3A1764248851%3AMzYuMTU5LjE4MS4yMDc%3D
 中天娱乐,https://live.catvod.com/live.php?id=ctient&token=3cda530d9e80120dfb840e1ef58e78b79d63870b5127caacbd711d213f23fed7%3A1764248851%3AMzYuMTU5LjE4MS4yMDc%3D
 梦工厂动画,
-寰宇新闻,https://live.catvod.com/live.php?id=huanyuxinwen_twn&token=7451142379251b6aea3b6a5aa9b3e2951fb777bfd73747e9ccc99ad9c2354092%3A1764248851%3AMzYuMTU5LjE4MS4yMDc%3D#http://rihou.cc:555/tv/[ST]寰宇新闻
+寰宇新闻,https://live.catvod.com/live.php?id=huanyuxinwen_twn&token=7451142379251b6aea3b6a5aa9b3e2951fb777bfd73747e9ccc99ad9c2354092%3A1764248851%3AMzYuMTU5LjE4MS4yMDc%3D
 台视新闻,https://live.catvod.com/live.php?id=ttvnews_twn&token=f8d9da067126f01ffe82f40207e5e0a0363c85f938df9252ddc3e7e67655a522%3A1764248851%3AMzYuMTU5LjE4MS4yMDc%3D
 中视新闻,
 民视新闻台,https://live.catvod.com/live.php?id=ftvnew_taiwan&token=d7d5adc70907a3ff3401f56b34faf88c80096eeedfdac221a5160addaeed6d6e%3A1764248851%3AMzYuMTU5LjE4MS4yMDc%3D
-TVBS新闻台,http://rihou.cc:555/tv/[FY]tvbS新闻#http://rihou.cc:555/tv/[ST]tvbS新闻
+TVBS新闻台,
 三立新闻台,
 华视新闻资讯,
-mnews镜新闻,http://rihou.cc:555/tv/[Hk]闽镜新闻
-年代新闻,https://live.catvod.com/live.php?id=niandainews_twn&token=a7595caf83c110528c1901a6ba6df5e5a1f2b7b41eeb7cb02f765373c0abac14%3A1764248851%3AMzYuMTU5LjE4MS4yMDc%3D#http://rihou.cc:555/tv/[ST]年代新闻
-TVBS,https://live.catvod.com/live.php?id=tvbs&token=5e8405c28c28b60f6b88e16eabcf90dd32bb76eb50a9db846741c4473f5a74f2%3A1764248851%3AMzYuMTU5LjE4MS4yMDc%3D#http://rihou.cc:555/tv/[Hk]tvbs闽南#http://rihou.cc:555/tv/[ST]tvbS闽南
+mnews镜新闻,
+年代新闻,https://live.catvod.com/live.php?id=niandainews_twn&token=a7595caf83c110528c1901a6ba6df5e5a1f2b7b41eeb7cb02f765373c0abac14%3A1764248851%3AMzYuMTU5LjE4MS4yMDc%3D
+TVBS,https://live.catvod.com/live.php?id=tvbs&token=5e8405c28c28b60f6b88e16eabcf90dd32bb76eb50a9db846741c4473f5a74f2%3A1764248851%3AMzYuMTU5LjE4MS4yMDc%3D
 中天综合台,https://live.catvod.com/live.php?id=ctizhonghe&token=829c7a5d4dc47b8c6dcf462977c58d97b57cebd83d114edceab457fb7e755946%3A1764248851%3AMzYuMTU5LjE4MS4yMDc%3D
 中视经典,
 东森超视,rtmp://f13h.mine.nu/sat/tv331
-非凡新闻台,http://rihou.cc:555/tv/[ST]非凡新闻
+非凡新闻台,
 东森新闻,https://live.catvod.com/live.php?id=ettvnews&token=d592418d994d33d1f32aa7597a71722c475bea1e4873726c7acf6c7fd79fcffc%3A1764248851%3AMzYuMTU5LjE4MS4yMDc%3D
 东森综合,https://live.catvod.com/live.php?id=ettvzhonghe&token=2d4517a6815bfb964a47db36b9fae4805dc0513e2957327c9202343206875a2b%3A1764248851%3AMzYuMTU5LjE4MS4yMDc%3D
 中天亚洲台,
