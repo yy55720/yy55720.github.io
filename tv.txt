@@ -80,14 +80,14 @@ CCTV-8K,https://yangshipin.cn/tv/home?pid=600156816
 山西卫视,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/shanxiws/index.m3u8
 宁夏卫视,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/nxwssd4m/index.m3u8
 厦门卫视,http://120.210.193.151:8006/120000001002/XMTxmws/index.m3u8
-内蒙古卫视,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/nmgws2d5m/index.m3u8
+内蒙古卫视,https://stream1.freetv.fun/nei-meng-gu-wei-shi-38.ctv#http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/nmgws2d5m/index.m3u8
 陕西卫视,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/sxwssd4m/index.m3u8
 新疆卫视,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/xjwssd4m/index.m3u8
 西藏卫视,http://php.jdshipin.com:8880/xztv.php?id=ws#http://kds.hejintv.com/tv/xzxl.php#http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/xzws/index.m3u8
 兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8#http://120.210.193.151:8006/120000001002/XMTbtws/index.m3u8#http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/btwssd4m/index.m3u8
 三沙卫视,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/sswshd8m/index.m3u8#http://nn.7x9d.cn/地方台8563/海南.php?id=ssws#http://120.210.193.151:8006/120000001002/XMTssws/index.m3u8
 延边卫视,https://srs.iyb983.cn/video/CYS/index.m3u8#https://live.ybtvyun.com/video/s10006-d48b8590849c/index.m3u8
-农林卫视,http://120.76.248.139/live/bfgd/4200000122.m3u8#http://stream.snrtv.com/sxbc-nl-kxBEL2.m3u8
+农林卫视,http://gxlive.snrtv.com/nlws-SD.m3u8#http://stream.snrtv.com/sxbc-nl-flqEFO.m3u8#https://stream1.freetv.fun/nong-lin-wei-shi-13.m3u8
 
 
 港澳,#genre#
@@ -109,8 +109,9 @@ TVB翡翠剧集台(北美),https://6.cdn.loc.cc/163189.php?id=tvbd
 TVB明珠剧集台(北美),
 TVB1,https://6.cdn.loc.cc/163189.php?id=tvb1
 MYTV SUPER,
+HOY 76,https://hls.168.us.kg/u/76/master.m3u8
 HOY 77,https://cdn6.101.qzz.io/163189/hoy#http://cdn.163189.xyz/163189/hoy#http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2#http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
-HOY 78,
+HOY 78,https://hls.168.us.kg/u/78/master.m3u8
 VIU TV,https://cdn9.163189.xyz/smt1.1.php?id=viu1_twn#https://cdn9.163189.xyz/smt3.1.1.php?id=viu1_twn#https://smt.1678520.xyz/smt3.2.1.php?id=viu1_twn#http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 ViuTV 6,https://smt.1678520.xyz/smt3.2.1.php?id=viusix_twn#https://cdn9.163189.xyz/smt1.1.php?id=viusix_twn#https://cdn9.163189.xyz/smt3.1.1.php?id=viusix_twn
 RTHK31,https://smt.1678520.xyz/smt3.2.1.php?id=rhk31_twn#https://cdn9.163189.xyz/smt3.1.1.php?id=rhk31_twn#https://cdn9.163189.xyz/smt1.1.php?id=rhk31_twn
@@ -125,10 +126,10 @@ Channel [V],http://iot-mqqt.111yao.cn:8080/live/diyp_channelv.m3u8
 Star Sports,
 C+,
 Now华剧台,
-Now爆谷台,http://bxtv.3a.ink/api.php?id=baogu
-Now星影台,http://bxtv.3a.ink/api.php?id=xingying
+Now爆谷台,http://hls-pull-wicketpw.speedws.com/live/hktv-tvzvezdamow141.flv#https://stream1.freetv.fun/nowbao-gu-tai-bei-1.ctv#http://23.237.228.133/live2/baogutai.m3u8#https://stream1.freetv.fun/nowbao-gu-3.m3u8
+Now星影台,http://hls-pull-wicketpw.speedws.com/live/hktv-tvzvezdamow142.flv#https://stream1.freetv.fun/nowxing-ying-tai-bei-1.ctv#http://23.237.228.133/live2/xingyingtai.m3u8#https://stream1.freetv.fun/nowxing-ying-2.m3u8
 Now新闻台,http://cdn.163189.xyz/163189/now
-Now直播台,
+Now直播台,http://hls.168.us.kg/u/331/master.m3u8
 TVB翡翠综合台(北美),
 myTV SUPER 18台,
 MYTV SUPER2,
@@ -956,7 +957,7 @@ CCTV-5+体育赛事,http://120.210.193.151:8006/120000001003/live/program/_ahbyf
 CCTV风云足球,http://120.210.193.151:8006/120000001002/XMTfyzq/1.m3u8
 足球,http://120.210.193.151:8006/120000001002/XMTzqpd/index.m3u8
 魅力足球,
-劲爆体育,
+劲爆体育,http://221.7.49.226:50085/tsfile/live/0017_5.m3u8?key=txiptv
 NewTV精品体育,
 NewTV超级体育,
 快乐垂钓,http://120.210.193.151:8006/120000001002/XMTklcd/1.m3u8
@@ -965,7 +966,7 @@ CCTV高尔夫·网球,http://120.210.193.151:8006/120000001002/XMTgolf/1.m3u8
 广东体育,http://r.jdshipin.com/LiYdg#https://migu.188766.xyz/?migutoken=fe02f33a179122d315bc867dbb38454f&id=hk_gdty&type=dy#https://mgev.188766.xyz/?migutoken=ab05ec8f62653d95172da37414bdc900&id=gd_gdty&type=sz
 北京体育,
 上海五星体育,https://iptv.catvod.com/live.php?id=%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2#https://other.ottiptv.cc/wxty.m3u8
-新视觉,
+新视觉,http://221.7.49.226:50085/tsfile/live/0016_2.m3u8?key=txiptv
 辽宁体育,http://120.76.248.139/live/bfgd/4200000611.m3u8
 足球频道,
 麻辣体育,
@@ -1101,7 +1102,7 @@ SiTV动漫秀场,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1
 SiTV生活时尚,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/shss8m/index.m3u8
 SiTV法治天地,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/fztd8m/index.m3u8
 SiTV魅力足球,
-SiTV劲爆体育,
+SiTV劲爆体育,http://221.7.49.226:50085/tsfile/live/0017_5.m3u8?key=txiptv
 SiTV游戏风云,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/yxfy8m/index.m3u8
 SiTV金色学堂,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/jingsepd8m/index.m3u8#http://120.210.193.151:8006/120000001002/XMTjspd/1.m3u8
 SiTV极速汽车,
