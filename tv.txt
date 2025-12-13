@@ -749,12 +749,12 @@ ABC新闻,
 山西·晋城文化生活,http://live.jinnews.com.cn/ggpd/sd/live.m3u8
 山西·怀仁综合,http://1yp7hc5p.live.sxmty.com/live/hls/bff8529922344209985b6e49baa9555a/efa2543628fc4a7ea93d3d6c975f77dc.m3u8
 山西·吉县电视台,
-河北·文旅公共,
-河北·都市,
-河北·经济生活,
-河北·少儿科教,
-河北·影视,
-河北·三农,
+河北·文旅公共,http://1.94.31.214/php/hebei.php?id=hbgg#http://y8.318.run/php/hebei.php?id=hbgg
+河北·都市,http://1.94.31.214/php/hebei.php?id=hbds#http://y8.318.run/php/hebei.php?id=hbds
+河北·经济生活,http://1.94.31.214/php/hebei.php?id=jjsh#http://y8.318.run/php/hebei.php?id=hbjj
+河北·少儿科教,http://1.94.31.214/php/hebei.php?id=sekj#http://y8.318.run/php/hebei.php?id=hbse
+河北·影视,http://1.94.31.214/php/hebei.php?id=hbys#http://y8.318.run/php/hebei.php?id=hbys
+河北·三农,http://1.94.31.214/php/hebei.php?id=nmpd#http://y8.318.run/php/hebei.php?id=hbnm
 河北·石家庄新闻综合,http://nn.7x9d.cn/石家庄.php?id=4
 河北·石家庄城市服务,http://nn.7x9d.cn/石家庄.php?id=5
 河北·石家庄文化娱乐,http://nn.7x9d.cn/石家庄.php?id=6
@@ -821,8 +821,8 @@ ABC新闻,
 河南·法治频道,http://1.94.31.214/php/hntv.php?id=hmfz#http://xxwx.yoesun.com/xxw/河南网.php?id=hmfz
 河南·乡村频道,http://1.94.31.214/php/hntv.php?id=hnxc#http://xxwx.yoesun.com/xxw/河南网.php?id=hnxc
 河南·象视界,http://1.94.31.214/php/hntv.php?id=xsj#http://xxwx.yoesun.com/xxw/河南网.php?id=xsj
-河南·曲艺频道,http://xxwx.yoesun.com/xxw/河南网.php?id=jczy#http://1.94.31.214/php/hntv.php?id=jczy
-河南·晴彩中原,
+河南·曲艺频道,http://1.94.31.214/php/hntv.php?id=jczy#http://xxwx.yoesun.com/xxw/河南网.php?id=jczy
+河南·移动戏曲,http://1.94.31.214/php/hntv.php?id=ydxj#http://xxwx.yoesun.com/xxw/河南网.php?id=ydxj
 河南·梨园频道,http://120.210.193.151:8006/120000001002/XMTliyuan/1.m3u8
 河南·武术世界,http://120.210.193.151:8006/120000001002/XMTwushu/1.m3u8
 河南·文物宝库,http://120.210.193.151:8006/120000001002/XMTwenwu/1.m3u8
@@ -1256,7 +1256,7 @@ SiTV都市剧场,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1
 定州影视,https://jwcdnqx.hebyun.com.cn/live/yspd/1500k/tzwj_video.m3u8
 菏泽影视,
 北京影视,https://framagit.org/k-web/ku9/js/knnnn/n/-/raw/main/f/bjtime.js?id=bjys#http://k.061899.xyz/m.php?id=bjys
-河北影视,http://1.94.31.214/php/hebei.php?id=hbys
+河北影视,http://1.94.31.214/php/hebei.php?id=hbys#http://y8.318.run/php/hebei.php?id=hbys
 河南电视剧,http://1.94.31.214/php/hntv.php?id=hndsj#http://xxwx.yoesun.com/xxw/河南网.php?id=hndsj#http://www.dsk.cc/hntv/hntv.php?id=hndsj
 江苏影视,
 吉林影视,http://tpc.x3322.net:9901/tsfile/live/1006_1.m3u8
@@ -1311,7 +1311,7 @@ SiTV动漫秀场,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1
 好消息卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 海南少儿,http://nn.7x9d.cn/地方台8563/海南.php?id=sepd
 新疆少儿,http://zb.hmysapp.cn:801/dft/xinjiang/xinjiang.php?id=xjse
-河北少儿科教,http://1.94.31.214/php/hebei.php?id=sekj
+河北少儿科教,http://1.94.31.214/php/hebei.php?id=sekj#http://y8.318.run/php/hebei.php?id=hbse
 福州少儿,http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
 黑莓动画,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226935/1.m3u8
 新动漫,
