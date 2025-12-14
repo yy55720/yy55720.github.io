@@ -91,9 +91,9 @@ CCTV-8K,
 
 
 港澳,#genre#
-凤凰中文台,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw#http://bxtv.3a.ink/api.php?id=fhzw#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw#http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
-凤凰资讯台,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx#http://bxtv.3a.ink/api.php?id=fhzx#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx#http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd#http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
-凤凰香港台,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk#http://bxtv.3a.ink/api.php?id=fhhk#http://api.mg.itv888.cn:8080/hls/e9660dce9a6/index.m3u8#http://r.jdshipin.com/yDoTN#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk#http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
+凤凰中文台,http://r.jdshipin.com/cCCzW#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw#http://bxtv.3a.ink/api.php?id=fhzw#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw#http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
+凤凰资讯台,http://r.jdshipin.com/0Rp07#http://php.jdshipin.com/TVOD/iptv.php?id=fhzx#http://bxtv.3a.ink/api.php?id=fhzx#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx#http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd#http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
+凤凰香港台,http://r.jdshipin.com/yDoTN#http://php.jdshipin.com/TVOD/iptv.php?id=fhhk#http://bxtv.3a.ink/api.php?id=fhhk#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk#http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
 凤凰电影台,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
 TVB翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct#http://php.jdshipin.com/TVOD/iptv.php?id=fct3#http://php.jdshipin.com:8880/smt.php?id=jade_twn#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3#http://php.jdshipin.com/TVOD/iptv.php?id=huali2#http://php.jdshipin.com:8880/PLTV/iptv.php?id=fct3#http://cdn9.163189.xyz/smt1.1.php?id=jade_twn#http://r.jdshipin.com/qrfbg#http://r.jdshipin.com/qClQf#http://r.jdshipin.com/62WM7
 TVB翡翠台(港),https://smt.1678520.xyz/smt3.2.1.php?id=Tvbjade#http://php.jdshipin.com/TVOD/iptv.php?id=huali#http://r.jdshipin.com/thuYX#http://cdn9.163189.xyz/smt1.1.php?id=Tvbjade#https://cdn9.163189.xyz/smt3.1.1.php?id=Tvbjade
