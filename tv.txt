@@ -78,7 +78,7 @@ CCTV-8K,
 贵州卫视,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/gzwshd8m/index.m3u8#http://120.210.193.151:8006/120000000058/G_GUIZHOU-HQ/index.m3u8
 甘肃卫视,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/gswssd4m/index.m3u8#http://120.210.193.151:8006/120000000058/G_GANSU-HD/index.m3u8
 山西卫视,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/shanxiws/index.m3u8
-西藏卫视,http://xxwx.yoesun.com/xxw/西藏网.php?id=ws#http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/xzws/index.m3u8
+西藏卫视,http://xxwx.yoesun.com/xxw/西藏网.php?id=ws#http://php.jdshipin.com:8880/xztv.php?id=ws#http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/xzws/index.m3u8
 宁夏卫视,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/nxwssd4m/index.m3u8
 厦门卫视,http://120.210.193.151:8006/120000001002/XMTxmws/index.m3u8
 内蒙古卫视,https://stream1.freetv.fun/nei-meng-gu-wei-shi-38.ctv#http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/nmgws2d5m/index.m3u8
@@ -1247,7 +1247,7 @@ CHC影迷电影,http://120.210.193.151:8006/120000001002/XMTgqdy/1.m3u8#http://1
 湖南电视剧,http://php.jdshipin.com:8880/iptv.php?id=hndsj#http://php.jdshipin.com:8880/TVOD/iptv.php?id=hndsj
 SiTV都市剧场,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/dsjc8m/index.m3u8
 云南影视,https://hwapi.yntv.net/62hdvf/utrat7.m3u8#rtmp://hwzbout.yntv.net/62hdvf/utrat7
-西藏影视文化,http://xxwx.yoesun.com/xxw/西藏网.php?id=ys
+西藏影视文化,http://xxwx.yoesun.com/xxw/西藏网.php?id=ys#http://php.jdshipin.com:8880/xztv.php?id=ys
 绍兴文化影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
 哈尔滨影视,http://stream.hrbtv.net/yspd/sd/live.m3u8#https://stream.hrbtv.net/yspd/playlist.m3u8
 苏州电影娱乐信息,https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
