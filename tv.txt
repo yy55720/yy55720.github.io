@@ -168,7 +168,7 @@ FOX-FS1,
 靖天电影台,
 靖洋戏剧台,
 东森洋片,https://live.catvod.com/live.php?id=ettvwestern&token=526574ecc0b8c3d7560eae6268e6e3150c32d48ef1899bc4a85149b3d56ee36c%3A1764248851%3AMzYuMTU5LjE4MS4yMDc%3D
-东森电影,
+东森电影,https://live.catvod.com/live.php?id=ettvmovie&token=0e17a9657ce8dbed850ed9152b5730500eda3302e90435c8cfc008071f9b8178%3A1764248851%3AMzYuMTU5LjE4MS4yMDc%3D
 东森戏剧,https://live.catvod.com/live.php?id=ettvdrama&token=a7e16097e447b69fea2195f99cb727f216a80340eee174459311d3226d567307%3A1764248851%3AMzYuMTU5LjE4MS4yMDc%3D
 好莱坞电影台,https://live.catvod.com/live.php?id=hollywoodmovies_twn&token=2f26cf056ce99076eb64c29ebf8c94fbba3ac5fe918f6976cfe50909fa753af9%3A1764248851%3AMzYuMTU5LjE4MS4yMDc%3D
 AMC电影台,https://live.catvod.com/live.php?id=starmoviesgold_twn&token=5e887040e0653729a0c7cb3de4bfd0662f14ede0d91a1d8a2d4069db144397df%3A1764248851%3AMzYuMTU5LjE4MS4yMDc%3D
@@ -180,6 +180,8 @@ CINEMAX,https://live.catvod.com/live.php?id=cinemax_twn&token=6c30fe3f26ff77c1c0
 天映频道2,https://smt.1678520.xyz/smt3.2.1.php?id=Celestial#https://cdn9.163189.xyz/smt1.1.php?id=Celestial#https://cdn9.163189.xyz/smt3.1.1.php?id=Celestial
 天映经典,https://smt.1678520.xyz/smt3.2.1.php?id=Celestial2#https://live.catvod.com/live.php?id=Celestial2&token=5bbc007ce8187506e91c5a1e77f226f8cbe27488f0fa7359f418b9fa8f70c134%3A1764248851%3AMzYuMTU5LjE4MS4yMDc%3D#https://cdn9.163189.xyz/smt1.1.php?id=Celestial2#https://cdn9.163189.xyz/smt3.1.1.php?id=Celestial2
 PopC,http://bxtv.3a.ink/api.php?id=popc
+CatchPlay,https://live.catvod.com/live.php?id=catchplay_twn&token=db1a3fefba18df33af7facfec52270402a68d9a08b37fb53b079ba09aa7bc5f0%3A1764248851%3AMzYuMTU5LjE4MS4yMDc%3D
+CN卡通频道,https://live.catvod.com/live.php?id=momo1_twn&token=ce0ef3cbc0d9720837b47283482032ccc043431a597bdc55f91b77e1ef380d74%3A1764248851%3AMzYuMTU5LjE4MS4yMDc%3D
 华视,rtmp://f13h.mine.nu/sat/tv111
 中视,rtmp://f13h.mine.nu/sat/tv091
 民视,rtmp://f13h.mine.nu/sat/tv051
@@ -211,7 +213,7 @@ ELTA影剧,
 台视新闻,https://live.catvod.com/live.php?id=ttvnews_twn&token=f8d9da067126f01ffe82f40207e5e0a0363c85f938df9252ddc3e7e67655a522%3A1764248851%3AMzYuMTU5LjE4MS4yMDc%3D
 中视新闻,
 民视新闻台,https://live.catvod.com/live.php?id=ftvnew_taiwan&token=d7d5adc70907a3ff3401f56b34faf88c80096eeedfdac221a5160addaeed6d6e%3A1764248851%3AMzYuMTU5LjE4MS4yMDc%3D
-TVBS新闻台,
+TVBS新闻台,https://live.catvod.com/live.php?id=tvbs_n&token=aae288b5da87f61e45de4e9d6d3139a0552f8f20d8ef2a2d0fb1634fceecd729%3A1764248851%3AMzYuMTU5LjE4MS4yMDc%3D
 三立新闻台,
 华视新闻资讯,
 mnews镜新闻,
