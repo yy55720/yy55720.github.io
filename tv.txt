@@ -105,6 +105,7 @@ TVB J1,https://6.cdn.loc.cc/163189.php?id=j1#http://iptv.4666888.xyz/iptv2A.php?
 TVB功夫,
 TVB千禧经典台,https://o11.163189.xyz/stream/live/tvbc/#http://iptv.4666888.xyz/iptv2A.php?id=22
 TVB娱乐新闻台,http://iptv.4666888.xyz/iptv2A.php?id=36
+黄金华剧台,http://r.jdshipin.com/62WM7#http://iptv.4666888.xyz/iptv2A.php?id=34
 TVB翡翠剧集台(北美),https://6.cdn.loc.cc/163189.php?id=tvbd#http://iptv.4666888.xyz/iptv2A.php?id=33
 TVB明珠剧集台(北美),
 TVB1,https://6.cdn.loc.cc/163189.php?id=tvb1#http://iptv.4666888.xyz/iptv2A.php?id=25
