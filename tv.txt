@@ -95,9 +95,9 @@ CCTV-8K,
 凤凰资讯台,http://r.jdshipin.com/0Rp07
 凤凰香港台,http://r.jdshipin.com/yDoTN
 凤凰电影台,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
-VB翡翠台,http://r.jdshipin.com/qrfbg#http://r.jdshipin.com/qClQf#http://r.jdshipin.com/GeWKr#http://r.jdshipin.com/GeWKr?id=fct406#http://r.jdshipin.com/GeWKr?id=fct720#http://mytv.cdn.loc.cc/o12.php?id=fct#https://o11.163189.xyz/stream/live/jade/#http://iptv.4666888.xyz/iptv2A.php?id=28
+TVB翡翠台,http://r.jdshipin.com/qrfbg#http://r.jdshipin.com/qClQf#http://r.jdshipin.com/GeWKr#http://r.jdshipin.com/GeWKr?id=fct406#http://r.jdshipin.com/GeWKr?id=fct720#http://mytv.cdn.loc.cc/o12.php?id=fct#https://o11.163189.xyz/stream/live/jade/#http://iptv.4666888.xyz/iptv2A.php?id=28
 TVB翡翠台(港),http://r.jdshipin.com/thuYX#https://o11.163189.xyz/stream/live/hlt/
-无线新闻,http://r.jdshipin.com/CkuBd#
+无线新闻,http://r.jdshipin.com/CkuBd
 TVB明珠台,http://r.jdshipin.com/jUx8K#http://mytv.cdn.loc.cc/o12.php?id=mzt#http://iptv.4666888.xyz/iptv2A.php?id=29
 TVB Plus,http://r.jdshipin.com/Nr5jq#https://o11.163189.xyz/stream/tvb/tvbp/
 TVB星河,http://r.jdshipin.com/Voac4#https://o11.163189.xyz/stream/live/tvbxh/#http://r.jdshipin.com/sXuuD
