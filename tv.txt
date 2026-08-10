@@ -91,46 +91,46 @@ CCTV-8K,
 
 
 港澳,#genre#
-凤凰中文台,http://cdn6.163189.xyz/163189/fhzw#http://r.jdshipin.com/cCCzW#http://iptv.4666888.xyz/iptv2A.php?id=27
-凤凰资讯台,http://cdn6.163189.xyz/163189/fhzx#http://r.jdshipin.com/0Rp07
-凤凰香港台,http://cdn6.163189.xyz/163189/fhhk#http://r.jdshipin.com/yDoTN
-凤凰电影台,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8#http://www.liyajun.top:7088/udp/239.253.93.81:6247
-TVB翡翠台,http://r.jdshipin.com/qrfbg#http://r.jdshipin.com/qClQf#http://r.jdshipin.com/GeWKr#http://r.jdshipin.com/GeWKr?id=fct406#http://r.jdshipin.com/GeWKr?id=fct720#http://mytv.cdn.loc.cc/o12.php?id=fct#https://o11.163189.xyz/stream/live/jade/#http://iptv.4666888.xyz/iptv2A.php?id=28
-TVB翡翠台(港),http://r.jdshipin.com/thuYX#https://o11.163189.xyz/stream/live/hlt/
-无线新闻,http://r.jdshipin.com/CkuBd
-TVB明珠台,http://r.jdshipin.com/jUx8K#http://mytv.cdn.loc.cc/o12.php?id=mzt#http://iptv.4666888.xyz/iptv2A.php?id=29
-TVB Plus,http://r.jdshipin.com/Nr5jq#https://o11.163189.xyz/stream/tvb/tvbp/
-TVB星河,http://r.jdshipin.com/Voac4#https://o11.163189.xyz/stream/live/tvbxh/#http://r.jdshipin.com/sXuuD
-TVB J1,https://6.cdn.loc.cc/163189.php?id=j1#http://iptv.4666888.xyz/iptv2A.php?id=26
-TVB功夫,http://cdn6.163189.xyz/163189/yzwx
-TVB千禧经典台,https://o11.163189.xyz/stream/live/tvbc/#http://iptv.4666888.xyz/iptv2A.php?id=22
+凤凰中文台,http://r.jdshipin.com/cCCzW#http://rihou.cc:555/tv/[Pd]凤凰中文#https://cdn.qd.je/163189.php?id=fhzw
+凤凰资讯台,http://r.jdshipin.com/0Rp07#http://rihou.cc:555/tv/[Pd]凤凰资讯#https://cdn.qd.je/163189.php?id=fhzx
+凤凰香港台,http://r.jdshipin.com/yDoTN#http://rihou.cc:555/tv/[Pd]凤凰香港#https://cdn.qd.je/163189.php?id=fhhk
+凤凰电影台,http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+TVB翡翠台,http://r.jdshipin.com/qrfbg#http://r.jdshipin.com/qClQf#http://r.jdshipin.com/GeWKr#http://r.jdshipin.com/GeWKr?id=fct406#http://r.jdshipin.com/GeWKr?id=fct720#http://mytv.cdn.loc.cc/o12.php?id=fct#https://o11.163189.xyz/stream/live/jade/
+TVB翡翠台(港),http://r.jdshipin.com/thuYX
+无线新闻,http://r.jdshipin.com/CkuBd#http://rihou.cc:555/tv/[Pd]无线新闻
+TVB明珠台,http://iptv.4666888.xyz/iptv2A.php?id=29#http://r.jdshipin.com/jUx8K#https://cdn.qd.je/163189.php?id=mzt
+TVB Plus,http://r.jdshipin.com/Nr5jq#http://rihou.cc:555/tv/[Pd]Plus综合#https://cdn.qd.je/163189.php?id=tvbp
+TVB星河,http://r.jdshipin.com/Voac4#http://r.jdshipin.com/sXuuD#http://rihou.cc:555/tv/[Pd]无线星河#https://cdn.qd.je/163189.php?id=tvbxh
+TVB J1,http://iptv.4666888.xyz/iptv2A.php?id=26
+TVB功夫,https://cdn.qd.je/163189.php?id=yzwx#http://rihou.cc:555/tv/[Pd]无线功夫
+TVB千禧经典台,http://iptv.4666888.xyz/iptv2A.php?id=22
 TVB娱乐新闻台,http://iptv.4666888.xyz/iptv2A.php?id=36
-黄金华剧台,http://r.jdshipin.com/62WM7#http://iptv.4666888.xyz/iptv2A.php?id=34
-TVB翡翠剧集台(北美),https://6.cdn.loc.cc/163189.php?id=tvbd#http://iptv.4666888.xyz/iptv2A.php?id=33
+黄金华剧台,http://r.jdshipin.com/62WM7#http://iptv.4666888.xyz/iptv2A.php?id=24
+TVB翡翠剧集台(北美),http://iptv.4666888.xyz/iptv2A.php?id=33#https://cdn.qd.je/163189.php?id=tvbd
 TVB明珠剧集台(北美),
-TVB1,https://6.cdn.loc.cc/163189.php?id=tvb1#http://iptv.4666888.xyz/iptv2A.php?id=25
-MYTV SUPER,http://iptv.4666888.xyz/iptv2A.php?id=24
+TVB1,http://iptv.4666888.xyz/iptv2A.php?id=25#http://rihou.cc:555/tv/[Pd]无线娱乐
+MYTV SUPER,http://iptv.4666888.xyz/iptv2A.php?id=34
 MYTV SUPER2,http://iptv.4666888.xyz/iptv2A.php?id=32
 HOY 76,
-HOY 77,http://r.jdshipin.com/sFw4S#http://cdn.163189.xyz/163189/hoy#http://iptv.4666888.xyz/iptv2A.php?id=35
-HOY 78,
-VIU TV,http://r.jdshipin.com/vSJvl#https://cdn.163189.xyz/163189/viu
+HOY 77,http://r.jdshipin.com/sFw4S#http://iptv.4666888.xyz/iptv2A.php?id=35#http://rihou.cc:555/tv/[Pd]有线综合
+HOY 78,https://cdn.qd.je/163189.php?id=hoy78#http://rihou.cc:555/tv/[Pd]有线新闻
+VIU TV,http://r.jdshipin.com/vSJvl
 ViuTV 6,
-RTHK31,http://cdn.163189.xyz/163189/rthk31#http://iptv.4666888.xyz/iptv2A.php?id=23
-RTHK32,http://cdn.163189.xyz/163189/rthk32
-RTHK33,
+RTHK31,http://iptv.4666888.xyz/iptv2A.php?id=23
+RTHK32,https://cdn.qd.je/163189.php?id=rthk32
+RTHK33,https://cdn.qd.je/163189.php?id=rthk33
 RTHK34,
 RTHK35,
-澳门莲花,http://cdn6.163189.xyz/163189/amlh
+澳门莲花,http://rihou.cc:555/tv/[Pd]澳门莲花
 无线新闻台(北美),
-星空卫视,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
-Channel [V],http://iot-mqqt.111yao.cn:8080/live/diyp_channelv.m3u8
+星空卫视,
+Channel [V],
 Star Sports,
 C+,
 Now华剧台,
-Now爆谷台,
-Now星影台,
-Now新闻台,http://cdn.163189.xyz/163189/now
+Now爆谷台,http://rihou.cc:555/tv/[Pd]Now爆谷
+Now星影台,http://rihou.cc:555/tv/[Pd]Now星影
+Now新闻台,http://rihou.cc:555/tv/[Pd]Now新闻
 Now直播台,
 TVB翡翠综合台(北美),
 myTV SUPER 18台,
@@ -147,25 +147,25 @@ TVB J2,
 香港开电视,
 阳光卫视,
 澳门卫视,
-澳视澳门,http://r.jdshipin.com/n2YZI#http://cdn6.163189.xyz/163189/asam#http://iptv.4666888.xyz/iptv2A.php?id=41
-澳门MACAU,http://cdn6.163189.xyz/163189/as#http://r.jdshipin.com/QFhCq
+澳视澳门,http://r.jdshipin.com/n2YZI#http://iptv.4666888.xyz/iptv2A.php?id=41
+澳门MACAU,http://r.jdshipin.com/QFhCq
 澳视葡文,
 澳视资讯,
-澳视综艺,http://cdn6.163189.xyz/163189/amzy
-澳门体育,http://cdn6.163189.xyz/163189/amty
+澳视综艺,
+澳门体育,http://rihou.cc:555/tv/[Pd]澳门体育
 澳亚卫视,
 FOX-FS1,
 
 
 台湾,#genre#
 美亚电影台,http://iptv.4666888.xyz/iptv2A.php?id=30
-龙华电影,http://cdn8.163189.xyz/163189/lhdy#http://iptv.4666888.xyz/iptv2A.php?id=45
-龙华洋片,http://cdn8.163189.xyz/163189/lhyp#http://iptv.4666888.xyz/iptv2A.php?id=60
-龙华戏剧,http://cdn8.163189.xyz/163189/lhxj
-龙华经典,http://cdn8.163189.xyz/163189/lhjd
-龙华偶像,http://cdn8.163189.xyz/163189/lhox
-龙华卡通,http://cdn8.163189.xyz/163189/lhkt
-龙华日韩,http://cdn8.163189.xyz/163189/lhrh
+龙华电影,http://iptv.4666888.xyz/iptv2A.php?id=45#http://rihou.cc:555/tv/[Pd]龙华电影#http://cdn.qd.je/163189.php?id=lhdy
+龙华洋片,http://iptv.4666888.xyz/iptv2A.php?id=60#https://cdn.qd.je/163189.php?id=lhyp
+龙华戏剧,http://rihou.cc:555/tv/[Pd]龙华戏剧
+龙华经典,http://rihou.cc:555/tv/[Pd]龙华经典
+龙华偶像,http://rihou.cc:555/tv/[Pd]龙华偶像
+龙华卡通,https://cdn.qd.je/163189.php?id=lhkt
+龙华日韩,http://rihou.cc:555/tv/[Pd]龙华日韩#https://cdn.qd.je/163189.php?id=lhrh
 靖天电影台,http://iptv.4666888.xyz/iptv2A.php?id=56
 靖洋戏剧台,http://iptv.4666888.xyz/iptv2A.php?id=42
 东森洋片,
@@ -176,19 +176,19 @@ ROCK Action,http://iptv.4666888.xyz/iptv2A.php?id=50
 AMC电影台,
 龙祥时代,
 CINEMAX,
-纬来电影,http://iptv.4666888.xyz/iptv2A.php?id=54
+纬来电影,
 纬来戏剧,
-天映频道,http://o11.163189.xyz/stream/live/typd/
+天映频道,
 天映频道2,
-天映经典,http://o11.163189.xyz/stream/live/ccm/
+天映经典,
 PopC,
 CatchPlay,
 CN卡通频道,
-华视,rtmp://f13h.mine.nu/sat/tv111
-中视,rtmp://f13h.mine.nu/sat/tv091
-民视,rtmp://f13h.mine.nu/sat/tv051
-台视,rtmp://f13h.mine.nu/sat/tv071
-公视,
+华视,rtmp://f13h.mine.nu/sat/tv111#http://220.135.241.47:8317/0.ts 
+中视,rtmp://f13h.mine.nu/sat/tv091#http://220.135.241.47:8301/0.ts
+民视,rtmp://f13h.mine.nu/sat/tv051#http://iptv.4666888.xyz/iptv2A.php?id=55#http://220.135.241.47:8308/0.ts
+台视,rtmp://f13h.mine.nu/sat/tv071#http://220.135.241.47:8313/0.ts
+公视,http://220.135.241.47:8305/0.ts
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
 中天新闻,
 MoMo综合台,rtmp://f13h.mine.nu/sat/tv761
@@ -207,32 +207,32 @@ THRILL惊栗电影台,
 靖洋卡通台,
 ELTA影剧,
 壹电影,
-八度空间,http://cdn6.163189.xyz/163189/8tv
+八度空间,http://iptv.4666888.xyz/iptv2A.php?id=52#https://cdn.qd.je/163189.php?id=8tv#http://rihou.cc:555/tv/[Pd]八度空间
 三立戏剧台,
 中天娱乐,
 梦工厂动画,http://iptv.4666888.xyz/iptv2A.php?id=40
 寰宇新闻,
-台视新闻,
-中视新闻,
-民视新闻台,
+台视新闻,http://220.135.241.47:8314/0.ts
+中视新闻,http://220.135.241.47:8302/0.ts
+民视新闻台,http://220.135.241.47:8310/0.ts
 TVBS新闻台,http://iptv.4666888.xyz/iptv2A.php?id=43
 三立新闻台,
-华视新闻资讯,
+华视新闻资讯,http://220.135.241.47:8319/0.ts
 mnews镜新闻,
 年代新闻,
 TVBS,
 中天综合台,
-中视经典,
+中视经典,http://220.135.241.47:8321/0.ts
 东森超视,rtmp://f13h.mine.nu/sat/tv331
 非凡新闻台,http://iptv.4666888.xyz/iptv2A.php?id=44
 东森新闻,
 东森综合,
 中天亚洲台,
 三立综合台,
-astro 欢喜台,https://o11.163189.xyz/stream/live/hxt/
-astro AEC,https://o11.163189.xyz/stream/live/aec/
-astro AOD,https://o11.163189.xyz/stream/live/aod/
-astro QJ,https://o11.163189.xyz/stream/live/qj/
+astro 欢喜台,
+astro AEC,
+astro AOD,http://rihou.cc:555/tv/[Pd]astroaod
+astro QJ,
 DMAX,
 美食星球,
 动物星球,
@@ -241,12 +241,12 @@ DMAX,
 探索频道,
 探索亚洲,
 纬来精彩,
-民视第一台,
+民视第一台,http://220.135.241.47:8309/0.ts
 靖天国际台,
 东森LIVE,
-MediaCorp Channel 5,http://cdn6.163189.xyz/163189/ch5
-MediaCorp Channel 8,http://cdn6.163189.xyz/163189/ch8
-MediaCorp Channel U,http://cdn6.163189.xyz/163189/chu
+MediaCorp Channel 5,http://rihou.cc:555/tv/[Pd]CH5综合
+MediaCorp Channel 8,
+MediaCorp Channel U,
 Love Nature,
 欧洲体育1,
 欧洲体育2,
@@ -257,8 +257,8 @@ Nickjr,
 i-Fun动漫,
 三立,
 三立财经新闻台,
-民视台湾台,
-中视菁采台,
+民视台湾台,http://220.135.241.47:8311/0.ts
+中视菁采台,http://220.135.241.47:8322/0.ts
 博斯高球Ⅰ,
 博斯高球Ⅱ,
 博斯运动Ⅰ,
@@ -275,7 +275,7 @@ TVBS欢乐台,
 猪哥亮,
 国会频道1,
 国会频道2,
-客家电视台,
+客家电视台,http://220.135.241.47:8303/0.ts
 八大精彩台,
 八大综艺台,
 靖天欢乐台,
@@ -291,8 +291,8 @@ ELTA娱乐,
 亚洲旅游台,
 古典音乐台,
 TVBS精采台,http://iptv.4666888.xyz/iptv2A.php?id=47
-台视综合,http://iptv.4666888.xyz/iptv2A.php?id=51
-台视财经,
+台视综合,http://iptv.4666888.xyz/iptv2A.php?id=51#http://220.135.241.47:8316/0.ts
+台视财经,http://220.135.241.47:8315/0.ts
 韩国娱乐台,
 非凡商业台,
 mezzo live,
@@ -301,7 +301,7 @@ GinxTV,
 时尚运动X,
 CinemaWorld,
 MCE,
-影迷纪实台,
+影迷纪实台,http://iptv.4666888.xyz/iptv2A.php?id=54
 HITS,
 幸福空间居家台,
 Eltv生活英语台,
@@ -319,8 +319,8 @@ momo,http://iptv.4666888.xyz/iptv2A.php?id=49
 华艺中文台,http://iptv.4666888.xyz/iptv2A.php?id=37
 HBO,
 HBO原创,
-ELTA体育1,
-ELTA体育2,
+ELTA体育1,rtmp://f13h.mine.nu/sat/md051
+ELTA体育2,rtmp://f13h.mine.nu/sat/md041
 ELTA体育3,
 ELTA体育4,
 DAZN,
