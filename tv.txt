@@ -159,12 +159,12 @@ FOX-FS1,
 
 台湾,#genre#
 美亚电影台,http://iptv.4666888.xyz/iptv2A.php?id=30
-龙华电影,http://iptv.4666888.xyz/iptv2A.php?id=45#http://rihou.cc:555/tv/[Pd]龙华电影#http://cdn.qd.je/163189.php?id=lhdy
-龙华洋片,http://iptv.4666888.xyz/iptv2A.php?id=60#https://cdn.qd.je/163189.php?id=lhyp
+龙华电影,http://rihou.cc:555/tv/[Pd]龙华电影#http://iptv.4666888.xyz/iptv2A.php?id=45#http://cdn.qd.je/163189.php?id=lhdy
+龙华洋片,http://rihou.cc:555/tv/[Pd]龙华洋片#http://iptv.4666888.xyz/iptv2A.php?id=60#https://cdn.qd.je/163189.php?id=lhyp
 龙华戏剧,http://rihou.cc:555/tv/[Pd]龙华戏剧
 龙华经典,http://rihou.cc:555/tv/[Pd]龙华经典
 龙华偶像,http://rihou.cc:555/tv/[Pd]龙华偶像
-龙华卡通,https://cdn.qd.je/163189.php?id=lhkt
+龙华卡通,http://rihou.cc:555/tv/[Pd]龙华卡通#https://cdn.qd.je/163189.php?id=lhkt
 龙华日韩,http://rihou.cc:555/tv/[Pd]龙华日韩#https://cdn.qd.je/163189.php?id=lhrh
 靖天电影台,http://iptv.4666888.xyz/iptv2A.php?id=56
 靖洋戏剧台,http://iptv.4666888.xyz/iptv2A.php?id=42
